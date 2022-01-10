@@ -1,0 +1,118 @@
+{
+  "english": "fence",
+  "phat_am": "[fens]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hàng rào",
+          "list_en_vn": [
+            {
+              "full_en": "a green fence",
+              "full_vn": "hàng rào cây xanh"
+            },
+            {
+              "full_en": "a wire fence",
+              "full_vn": "hàng rào dây thép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuật đánh kiếm; (nghĩa bóng) tài tranh luận",
+          "list_en_vn": [
+            {
+              "full_en": "master of fence",
+              "full_vn": "kiện tướng đánh kiếm; (nghĩa bóng) người tranh luận giỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lá chắn"
+        },
+        {
+          "m_full_vn": "nơi oa trữ của gian, người oa trữ của gian"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) bức tường thành",
+          "list_one_mean": [
+            {
+              "id_full_en": "to come down on right side of fence",
+              "list_im": [
+                {
+                  "im_full_vn": "vào hùa với người thắng cuộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sit on the fence",
+              "list_im": [
+                {
+                  "im_full_vn": "trung lập, chẳng đứng về bên nào"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy rào, vượt rào (ngựa)"
+        },
+        {
+          "m_full_vn": "đánh kiếm, đấu kiếm"
+        },
+        {
+          "m_full_vn": "lảng tránh, đánh trống lảng",
+          "list_en_vn": [
+            {
+              "full_en": "to fence with a question",
+              "full_vn": "lảng tránh một câu hỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buôn bán của ăn cắp"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + in , about , round , up ) rào lại"
+        },
+        {
+          "m_full_vn": "đắp luỹ (cho kiên cố)"
+        },
+        {
+          "m_full_vn": "( (thường) + from , against ) che chở, bảo vệ"
+        },
+        {
+          "m_full_vn": "( (thường) + off , out ) đánh lui, đẩy lui, đẩy xa, ngăn chặn, tránh được, gạt được",
+          "list_en_vn": [
+            {
+              "full_en": "to fence off the consequences of a foolish act",
+              "full_vn": "ngăn chặn được những hậu quả của một hành động điên rồ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377102_a0dd6850b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377102_c2e5d5ee98_o.png",
+      "id_image": "fence_517597"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447343_22d0b971d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447343_dc64602e35_o.png",
+      "id_image": "fence_899187"
+    }
+  ]
+}

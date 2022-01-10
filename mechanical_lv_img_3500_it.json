@@ -1,0 +1,52 @@
+{
+  "english": "mechanical",
+  "phat_am": "[mi'kænikl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) máy móc; (thuộc) cơ khí; (thuộc) cơ học",
+          "list_en_vn": [
+            {
+              "full_en": "as a writer , he has little mechanical knowledge",
+              "full_vn": "ông ấy là nhà văn, nên ít biết về cơ khí"
+            },
+            {
+              "full_en": "mechanical transport",
+              "full_vn": "sự vận chuyển bằng máy"
+            },
+            {
+              "full_en": "mechanical engineering",
+              "full_vn": "kỹ thuật cơ khí"
+            },
+            {
+              "full_en": "mechanical toy",
+              "full_vn": "đồ chơi chạy bằng máy"
+            },
+            {
+              "full_en": "a mechanical engineer",
+              "full_vn": "kỹ sư cơ khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về một hành động...) không suy tính; (nghĩa bóng) (một cách) máy móc",
+          "list_en_vn": [
+            {
+              "full_en": "mechanical gesture , response",
+              "full_vn": "cử chỉ/câu trả lời máy móc (không suy tính gì cả)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433703_e7ffd945a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433703_1f7d70c894_o.png",
+      "id_image": "mechanical_2286219"
+    }
+  ]
+}

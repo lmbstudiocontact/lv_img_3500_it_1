@@ -1,0 +1,72 @@
+{
+  "english": "elephant",
+  "phat_am": "['elifənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con voi"
+        },
+        {
+          "m_full_vn": "khổ giấy 70 cm x 57, 5 cm",
+          "list_en_vn": [
+            {
+              "full_en": "double elephant",
+              "full_vn": "khổ giấy 1 m x 77 cm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Elephant ) (từ Mỹ,nghĩa Mỹ) đảng Cộng hoà"
+        },
+        {
+          "m_full_vn": "sắt vòm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to get a look at the elephant",
+              "list_im": [
+                {
+                  "im_full_vn": "đi thăm những kỳ quan (của một thành phố...)"
+                },
+                {
+                  "im_full_vn": "biết đời, biết thiên hạ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "white elephant",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) white"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324536_fb6f5b0063_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324536_596c8c9329_o.png",
+      "id_image": "elephant_292650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439538_3d7154f118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439538_02189fa4f4_o.png",
+      "id_image": "elephant_311550"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324451_c96fbb632f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324451_c6b28f97fa_o.png",
+      "id_image": "elephant_371902"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679604_7fe83f299a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679604_6beb977bbf_o.png",
+      "id_image": "elephant_375111"
+    }
+  ]
+}

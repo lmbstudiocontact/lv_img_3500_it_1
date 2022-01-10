@@ -1,0 +1,118 @@
+{
+  "english": "gross",
+  "phat_am": "[grous]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều không đổi",
+      "list_m": [
+        {
+          "m_full_vn": "mười hai tá",
+          "list_one_mean": [
+            {
+              "id_full_en": "by the gross",
+              "list_im": [
+                {
+                  "im_full_vn": "gộp cả, tính tổng quát, nói chung"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "great gross",
+              "full_vn": "144 tá"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "to béo, phì nộn, béo phị (người)",
+          "list_en_vn": [
+            {
+              "full_en": "a gross woman",
+              "full_vn": "một bà béo phị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thô và béo ngậy (thức ăn)",
+          "list_en_vn": [
+            {
+              "full_en": "a gross feeder",
+              "full_vn": "người thích những món ăn thô và béo ngậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nặng, khó ngửi (mùi)"
+        },
+        {
+          "m_full_vn": "thô tục, tục tĩu, gớm guốc",
+          "list_en_vn": [
+            {
+              "full_en": "gross language",
+              "full_vn": "lối ăn nói tục tĩu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thô bạo, trắng trợn; hiển nhiên, sờ sờ",
+          "list_en_vn": [
+            {
+              "full_en": "a gross injustice",
+              "full_vn": "sự bất công thô bạo"
+            },
+            {
+              "full_en": "a gross mistake",
+              "full_vn": "một lỗi lầm hiển nhiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không tinh, không thính (giác quan...), thô thiển"
+        },
+        {
+          "m_full_vn": "rậm rạp, um tùm (cây cối)"
+        },
+        {
+          "m_full_vn": "toàn bộ, tổng",
+          "list_en_vn": [
+            {
+              "full_en": "gross value",
+              "full_vn": "tổng giá trị"
+            },
+            {
+              "full_en": "gross weight",
+              "full_vn": "tổng trọng lượng, trọng lượng gộp (chưa trừ bì)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) kiếm được cả thảy",
+          "list_en_vn": [
+            {
+              "full_en": "his recent novel grosses two hundred million dongs",
+              "full_vn": "cuốn tiểu thuyết mới đây của ông ta kiếm được cả thảy hai trăm triệu đồng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057060_936cd1f8d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057060_d0dcfaa406_o.png",
+      "id_image": "gross_2329468"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "feeder",
+  "phat_am": "['fi:də]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cho ăn"
+        },
+        {
+          "m_full_vn": "người ăn, súc vật ăn",
+          "list_en_vn": [
+            {
+              "full_en": "a large feeder",
+              "full_vn": "người ăn khoẻ, súc vật ăn khoẻ; cây phải bón nhiều phân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(như) feeding-bottle"
+        },
+        {
+          "m_full_vn": "yếm dãi"
+        },
+        {
+          "m_full_vn": "sông con, sông nhánh"
+        },
+        {
+          "m_full_vn": "(ngành đường sắt); (hàng không) đường nhánh (dẫn đến con đường chính)"
+        },
+        {
+          "m_full_vn": "(điện học) Fiđe, đường dây ra"
+        },
+        {
+          "m_full_vn": "bộ phận cung cấp chất liệu (ở máy)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) người chuyền bóng cho đồng đội sút làm bàn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377512_8d9ae1ddf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377512_f9ddc577ec_o.png",
+      "id_image": "feeder_1460035"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069475_4b646abb5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069475_a48391272d_o.png",
+      "id_image": "feeder_4212709"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332711_5bc0ebba63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332711_f115f3010d_o.png",
+      "id_image": "feeder_679901"
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "english": "guard",
+  "phat_am": "[gɑ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trạng thái cảnh giác trước sự tấn công, nguy hiểm hoặc bất ngờ",
+          "list_en_vn": [
+            {
+              "full_en": "a soldier , sentry on guard",
+              "full_vn": "người lính, người lính gác đang canh gác"
+            },
+            {
+              "full_en": "to be under close guard",
+              "full_vn": "được canh gác/canh giữ nghiêm ngặt"
+            },
+            {
+              "full_en": "policemen keeping guard outside the building",
+              "full_vn": "cảnh sát đang canh phòngbên ngoài toà nhà"
+            },
+            {
+              "full_en": "guard duty",
+              "full_vn": "nhiệm vụ canh gác"
+            },
+            {
+              "full_en": "guard dog",
+              "full_vn": "chó giữ nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tư thế sẵn sàng tự bảo vệ (trong khi tập quyền Anh, đấu kiếm...)",
+          "list_en_vn": [
+            {
+              "full_en": "to keep up one's guard",
+              "full_vn": "thủ thế"
+            },
+            {
+              "full_en": "to drop one's guard",
+              "full_vn": "để hở miếng"
+            },
+            {
+              "full_en": "to be on one's guard",
+              "full_vn": "cảnh giác đề phòng"
+            },
+            {
+              "full_en": "to be off one's guard",
+              "full_vn": "mất cảnh giác; lơ là không đề phòng"
+            },
+            {
+              "full_en": "to put somebody on his guard",
+              "full_vn": "đặt ai vào thế cảnh giác"
+            },
+            {
+              "full_en": "the lawyer's seemingly innocent question caught the witness off his guard",
+              "full_vn": "câu hỏi có vẻ vô hại của trạng sư đã làm cho nhân chứng mất cảnh giác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người canh gác",
+          "list_en_vn": [
+            {
+              "full_en": "the prisoner slipped past the guards on the gate and escaped",
+              "full_vn": "người ta lách qua lính gác ở cổng và tẩu thoát"
+            },
+            {
+              "full_en": "security guard",
+              "full_vn": "nhân viên bảo vệ"
+            },
+            {
+              "full_en": "border guards",
+              "full_vn": "lính biên phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người giữ tù trong nhà lao (cũng) warder"
+        },
+        {
+          "m_full_vn": "( the guard ) tốp lính bảo vệ các toà nhà",
+          "list_en_vn": [
+            {
+              "full_en": "the changing of the guard",
+              "full_vn": "sự đổi gác (thay tốp lính canh này bằng tốp lính canh khác)"
+            },
+            {
+              "full_en": "to double the guard in an emergency",
+              "full_vn": "tăng gấp đôi sỉ số đội bảo vệ (trong trường hợp khẩn cấp)"
+            },
+            {
+              "full_en": "On his arrival , the President inspected the guard of honour",
+              "full_vn": "Khi đến nơi, Tổng thống đã duyệt đội quân danh dự"
+            },
+            {
+              "full_en": "to stand guard ; to mount guard",
+              "full_vn": "đứng gác; làm nhiệm vụ canh gác"
+            },
+            {
+              "full_en": "four soldiers stood guard over the coffin",
+              "full_vn": "bốn người lính đứng túc trực bên chiếc quan tài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the Guards ) binh đoàn mà nhiệm vụ cơ bản là bảo vệ quốc chủ",
+          "list_en_vn": [
+            {
+              "full_en": "the Royal Horse Guards",
+              "full_vn": "Binh đoàn kỵ binh cận vệ hoàng gia"
+            },
+            {
+              "full_en": "a Guards officer",
+              "full_vn": "sĩ quan Đội cận vệ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người phụ trách đoàn tàu hoả; trưởng tàu"
+        },
+        {
+          "m_full_vn": "(trong danh từ ghép) (bộ phận của một) dụng cụ hoặc máy móc được thiết kế để ngăn cho khỏi bị thương hoặc mất mát",
+          "list_en_vn": [
+            {
+              "full_en": "ensure the guard is in place before operating the machine",
+              "full_vn": "hãy bảo đảm có lắp cái chắn bảo vệ trước khi vận hành máy"
+            },
+            {
+              "full_en": "fire-guard",
+              "full_vn": "khung chắn lò sưởi"
+            },
+            {
+              "full_en": "mudguard",
+              "full_vn": "cái chắn bùn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) trưởng tàu"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giữ gìn cho khỏi bị nguy hiểm; canh gác",
+          "list_en_vn": [
+            {
+              "full_en": "to guard a camp",
+              "full_vn": "bảo vệ doanh trại"
+            },
+            {
+              "full_en": "a dragon guarded the treasure",
+              "full_vn": "con rồng canh giữ kho tàng"
+            },
+            {
+              "full_en": "to guard one's reputation",
+              "full_vn": "bảo vệ thanh danh của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "coi chừng cho họ khỏi trốn đi; canh giữ",
+          "list_en_vn": [
+            {
+              "full_en": "to guard prisoners",
+              "full_vn": "canh giữ tù nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to guard against something ) ngăn ngừa cái gì một cách cẩn thận",
+          "list_en_vn": [
+            {
+              "full_en": "to guard against disease",
+              "full_vn": "đề phòng bệnh tật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434093_032a4d08be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434093_92014d7079_o.png",
+      "id_image": "guard_1600904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434078_85fff75fd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434078_7abbcdd812_o.png",
+      "id_image": "guard_2349488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055375_4b2b6c4622_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055375_826df84e9c_o.png",
+      "id_image": "guard_3168638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363377_fd4df8f2a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363377_d9fede7ec0_o.png",
+      "id_image": "guard_3994113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318746_5f972e358b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318746_592e2cd48c_o.png",
+      "id_image": "guard_4413056"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "fingerprint",
+  "phat_am": "['fiηgəprint]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dấu lăn ngón tay; dấu điểm chỉ; dấu tay"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lấy dấu lăn ngón tay, lấy dấu điềm chỉ",
+          "list_en_vn": [
+            {
+              "full_en": "the police fingerprinted three suspects right on the spot",
+              "full_vn": "cảnh sát lấy dấu tay ba kẻ bị tình nghi ngay tại hiện trường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327151_75b6c90560_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327151_d0ff065001_o.png",
+      "id_image": "fingerprint_1022327"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064085_42c17ee129_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064085_188c5f9ef6_o.png",
+      "id_image": "fingerprint_287388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064070_cc113ff715_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064070_133c1bb14d_o.png",
+      "id_image": "fingerprint_372306"
+    }
+  ]
+}

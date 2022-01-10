@@ -1,0 +1,40 @@
+{
+  "english": "eel",
+  "phat_am": "[i:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con cá chình; con lươn ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "as slippery as an eel",
+              "full_vn": "trơn tuột như lươn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) con giun giấm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443748_1a584fa8b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443748_8f65998be8_o.png",
+      "id_image": "eel_1717842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065555_9c0b8d83f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065555_2da3a05872_o.png",
+      "id_image": "eel_3937542"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683739_c069683010_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683739_c95ffb2a7b_o.png",
+      "id_image": "eel_4545267"
+    }
+  ]
+}

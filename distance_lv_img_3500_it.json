@@ -1,0 +1,158 @@
+{
+  "english": "distance",
+  "phat_am": "['distəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoảng cách giữa hai điểm hoặc hai nơi",
+          "list_en_vn": [
+            {
+              "full_en": "a good cyclist can cover distances of over a hundred miles a day",
+              "full_vn": "một tay đua xe đạp giỏi có thể vượt qua được những khoảng cách trên 100 dặm một ngày"
+            },
+            {
+              "full_en": "it's a great /some /no distance from here",
+              "full_vn": "từ đây đến đó rất xa/khá xa/không xa mấy"
+            },
+            {
+              "full_en": "a short /long /great distance",
+              "full_vn": "một khoảng cách ngắn/dài/lớn"
+            },
+            {
+              "full_en": "the beach is within walking distance of my house",
+              "full_vn": "bờ biển cách nhà tôi có mấy bước chân"
+            },
+            {
+              "full_en": "at a distance of fifty years",
+              "full_vn": "(nghĩa bóng) cách xa 50 năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ hoặc điểm cách xa",
+          "list_en_vn": [
+            {
+              "full_en": "at a distance of six miles , you can't see much",
+              "full_vn": "ở cách xa 6 dặm, anh không thể thấy rõ lắm"
+            },
+            {
+              "full_en": "he won't hit the target at that distance",
+              "full_vn": "ở khoảng cách đó, nó không bắn trúng đích được"
+            },
+            {
+              "full_en": "to see something in the distance",
+              "full_vn": "thấy cái gì ở đằng xa"
+            },
+            {
+              "full_en": "to hear a strange sound from the distance",
+              "full_vn": "nghe thấy âm thanh lạ từ đằng xa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng cách (không gian hoặc thời gian)",
+          "list_en_vn": [
+            {
+              "full_en": "distance is no problem with modern telecommunications",
+              "full_vn": "Nhờ kỹ thuật viễn thông hiện đại, khoảng cách không thành vấn đề nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thái độ cách biệt, thái độ xa cách; sự lạnh nhạt",
+          "list_en_vn": [
+            {
+              "full_en": "is his distance a result of snobbery or shyness ?",
+              "full_vn": "phải chăng sự xa cách của anh ta là do thói học làm trưởng giả hoặc do tính nhút nhát?"
+            },
+            {
+              "full_en": "to keep one's distance from somebody /something",
+              "full_vn": "không đến gần ai/cái gì; giữ thái độ cách biệt đối với ai/cái gì"
+            },
+            {
+              "full_en": "I would keep my distance from the dog , if I were you",
+              "full_vn": "Nếu tôi là anh, tôi sẽ đứng cách xa con chó"
+            },
+            {
+              "full_en": "to keep someone at a distance",
+              "full_vn": "(nghĩa bóng) giữ thái độ xa cách đối với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hội họa) cảnh xa (của một bức hoạ)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) khoảng cách (giữa hai nốt)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go the distance",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể thao) tiếp tục chơi đến hết trận đấu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to distance somebody from somebody / something ) làm cho ai kém thân mật hoặc nhiệt tình đối với ai/cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "to distance oneself from somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "không tán thành hoặc không dính líu với ai/cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "that stupid quarrel has distanced us",
+              "full_vn": "cuộc cãi cọ ngu ngốc đó đã khiến chúng ta xa nhau"
+            },
+            {
+              "full_en": "voters have been distanced from the party by adverse publicity",
+              "full_vn": "cử tri đã bị cuộc vận động của phe đối địch làm giảm nhiệt tình đối với đảng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429623_241abf15f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429623_047bfd3c28_o.png",
+      "id_image": "distance_2746334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429598_1462952876_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429598_f95e38bb00_o.png",
+      "id_image": "distance_3410293"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429573_b90a2e11f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429573_b38b6d39cc_o.png",
+      "id_image": "distance_3684309"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051200_178c54258a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051200_719cc21364_o.png",
+      "id_image": "distance_4463548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429648_31863e8ab1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429648_d37f850f42_o.png",
+      "id_image": "distance_526754"
+    }
+  ]
+}

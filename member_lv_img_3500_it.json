@@ -1,0 +1,59 @@
+{
+  "english": "member",
+  "phat_am": "['membə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) chi"
+        },
+        {
+          "m_full_vn": "bộ phận (của một kết cấu)"
+        },
+        {
+          "m_full_vn": "thành viên, hội viên",
+          "list_en_vn": [
+            {
+              "full_en": "a member of the Vietnam Workers' Party",
+              "full_vn": "đảng viên đảng Lao động Việt-nam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vế (của một câu, một phương trình)"
+        },
+        {
+          "m_full_vn": "( Member ) nghị sĩ quốc hội"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085200_81fe60e3d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085200_6405b5913f_o.png",
+      "id_image": "member_1350113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085175_22f7cd4419_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085175_6b84a8e9d0_o.png",
+      "id_image": "member_2417817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702544_db630218d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702544_c94862efaa_o.png",
+      "id_image": "member_3317723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085145_283eb70144_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085145_dceb323512_o.png",
+      "id_image": "member_5301464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392707_322419a02e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392707_21de171957_o.png",
+      "id_image": "member_5541869"
+    }
+  ]
+}

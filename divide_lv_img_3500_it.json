@@ -1,0 +1,139 @@
+{
+  "english": "divide",
+  "phat_am": "[di'vaid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) dải đất cao ngăn cách hai hệ thống sông",
+          "list_en_vn": [
+            {
+              "full_en": "The Continental /Great Divide",
+              "full_vn": "Dãy núi Rocky (ở Bắc Mỹ)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to divide something into something ) (gây ra) sự chia rẽ hoặc ngắt đoạn ra nhiều phần (cái gì); tách rời ra; chia; phân ra",
+          "list_en_vn": [
+            {
+              "full_en": "to divide something into several parts",
+              "full_vn": "chia cái gì ra làm nhiều phần"
+            },
+            {
+              "full_en": "the train divides at York",
+              "full_vn": "con tàu cắt toa ở York"
+            },
+            {
+              "full_en": "to divide a novel into chapters",
+              "full_vn": "chia một quyển tiểu thuyết thành nhiều chương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to divide something between / among somebody ) cắt cái gì thành nhiều phần và chia cho mỗi người trong nhóm",
+          "list_en_vn": [
+            {
+              "full_en": "to divide up /out the money /food /reward",
+              "full_vn": "chia tiền/lương thực/tiền thưởng"
+            },
+            {
+              "full_en": "we divided the work between us",
+              "full_vn": "chúng tôi chia sẻ công việc cho nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to divide something between A and B ) chi cái gì (nhất là thời giờ) và dùng các phần của nó cho các hoạt động khác nhau; phân chia",
+          "list_en_vn": [
+            {
+              "full_en": "he divides his energies between politics and business",
+              "full_vn": "anh ta phân chia sức lực của mình cho chính trị và kinh doanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to divide A from B ) tách ra hoặc làm ranh giới giữa hai người hoặc vật; phân cách",
+          "list_en_vn": [
+            {
+              "full_en": "The English Channel divides England from France",
+              "full_vn": "biển Măng Sơ phân cách nước Anh với nước Pháp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho không thống nhất về ý kiến; chia rẽ; ly gián",
+          "list_en_vn": [
+            {
+              "full_en": "this issue has divided the Government",
+              "full_vn": "vấn đề này đã chia rẽ chính phủ"
+            },
+            {
+              "full_en": "the Government is divided on this issue",
+              "full_vn": "chính phủ bị chia rẽ về vấn đề này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to divide something by something ) (toán học) tìm ra số lần mà một số chia hết cho một số khác; chia hết",
+          "list_en_vn": [
+            {
+              "full_en": "60 divided by 12 is 5",
+              "full_vn": "sáu mươi chia cho mười hai được năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to divide something into something ) có thể đem nhân lên để cho một số khác",
+          "list_en_vn": [
+            {
+              "full_en": "12 divides into 60 5 times",
+              "full_vn": "12 chia trong số 60 được 5 lần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chia làm hai phe để biểu quyết (nghị viện, quốc hội)",
+          "list_en_vn": [
+            {
+              "full_en": "to divide the House",
+              "full_vn": "chia nghị viện thành hai phe biểu quyết"
+            },
+            {
+              "full_en": "after a long debate , the House divided",
+              "full_vn": "sau một hồi lâu tranh luận, Nghị viện chia làm hai phe bỏ phiếu biểu quyết"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668019_4ba74e94aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668019_3b4de01055_o.png",
+      "id_image": "divide_1589480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668004_82f94bb2a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668004_c39cc6cffa_o.png",
+      "id_image": "divide_1753659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049630_16355f00cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049630_c535819567_o.png",
+      "id_image": "divide_1827171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427963_ffe06be0fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427963_1586c3ca30_o.png",
+      "id_image": "divide_5376871"
+    }
+  ]
+}

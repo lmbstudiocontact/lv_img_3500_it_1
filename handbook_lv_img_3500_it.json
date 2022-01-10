@@ -1,0 +1,42 @@
+{
+  "english": "handbook",
+  "phat_am": "['hændbuk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sổ tay hướng dẫn; sách chỉ nam",
+          "list_en_vn": [
+            {
+              "full_en": "a car handbook",
+              "full_vn": "sổ tay hướng dẫn về xe ô tô"
+            },
+            {
+              "full_en": "a handbook of wild flowers",
+              "full_vn": "sổ tay chỉ dẫn về các loài hoa dạy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sách tóm tắt (số liệu, tài liệu khoa học...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sổ tay của tay đánh cá ngựa chuyên nghiệp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315731_18a754423f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315731_a792302df0_o.png",
+      "id_image": "handbook_2843767"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315716_5e3c0aafd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315716_cd864dabef_o.png",
+      "id_image": "handbook_4914324"
+    }
+  ]
+}

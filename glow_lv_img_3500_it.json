@@ -1,0 +1,122 @@
+{
+  "english": "glow",
+  "phat_am": "[glou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ánh sáng rực rỡ",
+          "list_en_vn": [
+            {
+              "full_en": "the red glow of the setting sun",
+              "full_vn": "ánh sáng đỏ rực của mặt trời lặn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sức nóng rực",
+          "list_en_vn": [
+            {
+              "full_en": "summer's scorching glow",
+              "full_vn": "cái nóng như thiêu như đốt của mùa hè"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nét ửng đỏ (vì thẹn, vì ngồi cạnh lửa...); nước da hồng hào, sắc đỏ hây hây (khoẻ mạnh)",
+          "list_en_vn": [
+            {
+              "full_en": "to be in a glow ; to be all of a glow",
+              "full_vn": "đỏ bừng mặt, thẹn đỏ mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảm giác âm ấm (khắp mình)",
+          "list_en_vn": [
+            {
+              "full_en": "to be in a nice glow ; to feet a nice glow",
+              "full_vn": "cảm thấy trong người âm ấm dễ chịu (sau khi tập thể dục...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự hăng hái, sự sôi nổi nhiệt tình",
+          "list_en_vn": [
+            {
+              "full_en": "the glow of youth",
+              "full_vn": "nhiệt tình của tuổi trẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) sự phát sáng; lớp sáng",
+          "list_en_vn": [
+            {
+              "full_en": "positive glow",
+              "full_vn": "lớp sáng anôt"
+            },
+            {
+              "full_en": "the negative glow",
+              "full_vn": "lớp sáng catôt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rực sáng, bừng sáng"
+        },
+        {
+          "m_full_vn": "nóng rực"
+        },
+        {
+          "m_full_vn": "đỏ bừng (mặt vì thẹn), bừng bừng, nóng bừng, rực lên",
+          "list_en_vn": [
+            {
+              "full_en": "face glowed with anger",
+              "full_vn": "nét mặt bừng bừng giận dữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rực rỡ (màu sắc)"
+        },
+        {
+          "m_full_vn": "cảm thấy âm ấm (trong mình)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375512_1aea38fa71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375512_86dda7aeb5_o.png",
+      "id_image": "glow_1069359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445783_f9f9fafc61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445783_463115cf10_o.png",
+      "id_image": "glow_1623203"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375467_9c36ab2c78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375467_6de57230d7_o.png",
+      "id_image": "glow_1809849"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375407_2c41537908_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375407_bb9a4083c3_o.png",
+      "id_image": "glow_1930558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067690_2cfd8b5a81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067690_2759b70f0f_o.png",
+      "id_image": "glow_659349"
+    }
+  ]
+}

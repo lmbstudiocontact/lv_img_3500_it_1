@@ -1,0 +1,60 @@
+{
+  "english": "graduation",
+  "phat_am": "[,grædʒu'ei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chia độ",
+          "list_en_vn": [
+            {
+              "full_en": "the graduations are marked on the side of the flask",
+              "full_vn": "các vạch chia độ được đánh dấu bên ngoài chiếc bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cấp bằng tốt nghiệp; sự tốt nghiệp; (từ Mỹ,nghĩa Mỹ) lễ trao bằng tốt nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "students without jobs to go to after graduation",
+              "full_vn": "những sinh viên không tìm được việc làm sau khi tốt nghiệp"
+            },
+            {
+              "full_en": "graduation ceremony /day",
+              "full_vn": "lễ/ngày trao bằng tốt nghiệp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441268_640009615a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441268_d9685e9bc9_o.png",
+      "id_image": "graduation_401558"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441158_594c0abf0a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441158_8ac1209a37_o.png",
+      "id_image": "graduation_4334764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370937_8e17c0f35b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370937_1247c4a3c9_o.png",
+      "id_image": "graduation_4832351"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063150_ba00a2ca95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063150_cf9ac87c7d_o.png",
+      "id_image": "graduation_769654"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371007_30c54a29ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371007_a47b7945d6_o.png",
+      "id_image": "graduation_859969"
+    }
+  ]
+}

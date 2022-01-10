@@ -1,0 +1,88 @@
+{
+  "english": "jelly",
+  "phat_am": "['dʒeli]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thực phẩm trong trẻo (có hương vị trái cây) bằng chất lỏng đông lại với giêlatin, thường làm trong một cái khuôn, khi di động thì lung lay; nước quả nấu đông; thạch",
+          "list_en_vn": [
+            {
+              "full_en": "can I have some more jelly , please ?",
+              "full_vn": "cho tôi xin một ít thạch nữa nhé?"
+            },
+            {
+              "full_en": "a jelly mould",
+              "full_vn": "một cái khuôn thạch"
+            },
+            {
+              "full_en": "all the strawberry jellies had been eaten",
+              "full_vn": "tất cả nước dâu nấu đông đều được ăn hết"
+            },
+            {
+              "full_en": "she went into the interview room , her legs shaking like jelly",
+              "full_vn": "cô ta bước vào phòng thi vấn đáp, hai chân run lẩy bẩy (sợ quá đi không vững)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thức ăn thơm ngon làm bằng nước thịt ép và giêlatin; nước thịt đông"
+        },
+        {
+          "m_full_vn": "mứt làm bằng nước ép trái cây và đường cô đặc",
+          "list_en_vn": [
+            {
+              "full_en": "blackcurrant jelly",
+              "full_vn": "mứt dâu tím"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chất giống như thạch",
+          "list_one_mean": [
+            {
+              "id_full_en": "to beat to a jelly",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh cho nhừ tử"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "petroleum jelly",
+              "full_vn": "nhớt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "như jellify"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335096_9e605a4f47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335096_990cf958d4_o.png",
+      "id_image": "jelly_1398525"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690204_4395617076_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690204_399ac94cee_o.png",
+      "id_image": "jelly_2002748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380082_68158b1afa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380082_ba92a55b5f_o.png",
+      "id_image": "jelly_6299706"
+    }
+  ]
+}

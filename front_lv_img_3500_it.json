@@ -1,0 +1,184 @@
+{
+  "english": "front",
+  "phat_am": "[frʌnt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thơ ca) cái trán"
+        },
+        {
+          "m_full_vn": "cái mặt"
+        },
+        {
+          "m_full_vn": "đằng trước, phía trước; mặt trước (nhà...); (thông tục) bình phong ( (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "in front of",
+              "full_vn": "ở phía trước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vạt ngực (hồ cứng, ở sơ mi đàn ông)"
+        },
+        {
+          "m_full_vn": "(quân sự); (chính trị) mặt trận",
+          "list_en_vn": [
+            {
+              "full_en": "to go to the front",
+              "full_vn": "ra mặt trận"
+            },
+            {
+              "full_en": "the liberation front",
+              "full_vn": "mặt trận giải phóng"
+            },
+            {
+              "full_en": "the popular front",
+              "full_vn": "mặt trận bình dân"
+            },
+            {
+              "full_en": "production front",
+              "full_vn": "mặt trận sản xuất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự trơ tráo, sự trơ trẽn",
+          "list_en_vn": [
+            {
+              "full_en": "to have the front to do something",
+              "full_vn": "dám trơ trẽn làm một việc gì"
+            },
+            {
+              "full_en": "to show a bold front",
+              "full_vn": "dám giơ cái mặt mo ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường đi chơi dọc bờ biển (ở nơi nghỉ mát)"
+        },
+        {
+          "m_full_vn": "mớ tóc giả"
+        },
+        {
+          "m_full_vn": "(khí tượng) Frông",
+          "list_one_mean": [
+            {
+              "id_full_en": "to come to the front",
+              "list_im": [
+                {
+                  "im_full_vn": "nổi bật"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đằng trước, về phía trước, ở phía trước",
+          "list_en_vn": [
+            {
+              "full_en": "two front wheels and two rear wheels",
+              "full_vn": "hai bánh xe trước và hai bánh xe sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) front vowel nguyên âm lưỡi trước"
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "về phía trước, thẳng",
+          "list_one_mean": [
+            {
+              "id_full_en": "up front",
+              "list_im": [
+                {
+                  "im_full_vn": "trả trước, thanh toán trước"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "eyes front !",
+              "full_vn": "(quân sự) nhìn đằng trước, thẳng!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xây mặt trước (bằng đá...)",
+          "list_en_vn": [
+            {
+              "full_en": "a house fronted with stone",
+              "full_vn": "nhà mặt trước xây bằng đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quay mặt về phía; đối diện với",
+          "list_en_vn": [
+            {
+              "full_en": "your house fronts mine",
+              "full_vn": "nhà anh đối diện với nhà tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đương đầu, chống cự",
+          "list_en_vn": [
+            {
+              "full_en": "to front danger",
+              "full_vn": "đương đầu với nguy hiểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giới thiệu (trên đài truyền hình hoặc truyền thanh)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ( (thường) + to , towards , on , upon )",
+      "list_m": [
+        {
+          "m_full_vn": "quay mặt về phía; đối diện với",
+          "list_en_vn": [
+            {
+              "full_en": "the hotel fronts on the sea",
+              "full_vn": "khách sạn quay mặt ra biển"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081065_9d9ee5914f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081065_292242c31e_o.png",
+      "id_image": "front_1838105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698909_4d156b5321_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698909_177e84e00c_o.png",
+      "id_image": "front_232902"
+    }
+  ]
+}

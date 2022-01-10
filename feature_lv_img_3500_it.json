@@ -1,0 +1,82 @@
+{
+  "english": "feature",
+  "phat_am": "['fi:t∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nét đặc biệt, điểm đặc trưng"
+        },
+        {
+          "m_full_vn": "( số nhiều) nét mặt"
+        },
+        {
+          "m_full_vn": "bài đặc biệt, tranh biếm hoạ đặc biệt (trong một tờ báo)"
+        },
+        {
+          "m_full_vn": "(sân khấu) tiết mục chủ chốt",
+          "list_one_mean": [
+            {
+              "id_full_en": "feature film",
+              "list_im": [
+                {
+                  "im_full_vn": "phim truyện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "feature picture",
+              "list_im": [
+                {
+                  "im_full_vn": "phim truyện"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "là nét đặc biệt của"
+        },
+        {
+          "m_full_vn": "mô tả những nét nổi bật của (cái gì); vẽ những nét nổi bật của (cái gì)"
+        },
+        {
+          "m_full_vn": "đề cao"
+        },
+        {
+          "m_full_vn": "chiếu (phim)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) có (ai) đóng vai chính)",
+          "list_en_vn": [
+            {
+              "full_en": "a film featuring a new star",
+              "full_vn": "phim có một ngôi sao màn ảnh mới đóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tưởng tượng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333466_65d93c52bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333466_8bd666962c_o.png",
+      "id_image": "feature_2620406"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688434_7909ee889b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688434_f60a242128_o.png",
+      "id_image": "feature_6133670"
+    }
+  ]
+}

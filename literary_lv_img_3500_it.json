@@ -1,0 +1,45 @@
+{
+  "english": "literary",
+  "phat_am": "['litərəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) văn chương; có tính chất văn học",
+          "list_one_mean": [
+            {
+              "id_full_en": "literary property",
+              "list_im": [
+                {
+                  "im_full_vn": "bản quyền tác giả; sách thuộc bản quyền tác giả"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "literary criticism",
+              "full_vn": "sự phê bình văn học"
+            },
+            {
+              "full_en": "a literary agent",
+              "full_vn": "đại diện giới văn học (người hoạt động nhân danh các nhà văn)"
+            },
+            {
+              "full_en": "his style is a bit too literary for my taste",
+              "full_vn": "văn phong của anh ta hơi quá văn chương đối với sở thích của tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339716_4285fe1e01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339716_7814d15293_o.png",
+      "id_image": "literary_2178155"
+    }
+  ]
+}

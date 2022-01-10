@@ -1,0 +1,101 @@
+{
+  "english": "lower",
+  "phat_am": "['louə]",
+  "list_type": [
+    {
+      "type": "tính từ, cấp so sánh của low",
+      "list_m": [
+        {
+          "m_full_vn": "thấp hơn, ở dưới, bậc thấp",
+          "list_en_vn": [
+            {
+              "full_en": "the lower lip",
+              "full_vn": "môi dưới"
+            },
+            {
+              "full_en": "the lower animals",
+              "full_vn": "động vật bậc thấp"
+            },
+            {
+              "full_en": "the lower school",
+              "full_vn": "trường tiểu học"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hạ thấp, hạ xuống, kéo xuống",
+          "list_en_vn": [
+            {
+              "full_en": "to lower a flag",
+              "full_vn": "kéo cờ xuống"
+            },
+            {
+              "full_en": "to lower one's voice",
+              "full_vn": "hạ giọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giảm, hạ (giá cả)",
+          "list_en_vn": [
+            {
+              "full_en": "to lower prices",
+              "full_vn": "hạ giá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm yếu đi, làm giảm đi",
+          "list_en_vn": [
+            {
+              "full_en": "poor diet lowers resistance to illness",
+              "full_vn": "chế độ ăn uống kém làm giảm sức đề kháng đối với bệnh tật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm xấu đi, làm thành hèn hạ, làm giảm giá trị",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lower one's sights",
+              "list_im": [
+                {
+                  "im_full_vn": "bớt ham muốn, bớt tham vọng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to lower oneself",
+              "full_vn": "tự mình làm mất phẩm giá, tự mình làm cho hèn hạ; tự hạ mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cau mày; có vẻ đe doạ"
+        },
+        {
+          "m_full_vn": "tối sầm (trời, mây)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378587_700a33041a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378587_27251e527d_o.png",
+      "id_image": "lower_1617773"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "english": "focus",
+  "phat_am": "['foukəs]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều focuses ; foci",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học), (vật lý) tiêu điểm"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) trung tâm, trọng điểm tâm"
+        },
+        {
+          "m_full_vn": "(y học) ổ bệnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bring into focus ; to bring to a focus",
+              "list_im": [
+                {
+                  "im_full_vn": "làm nổi bật hẳn lên, nêu bật hẳn lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "focus of interest",
+              "list_im": [
+                {
+                  "im_full_vn": "điểm trọng tâm, điểm tập trung mọi sự chú ý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in focus",
+              "list_im": [
+                {
+                  "im_full_vn": "rõ ràng, rõ nét"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of focus",
+              "list_im": [
+                {
+                  "im_full_vn": "mờ mờ không rõ nét"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm tụ vào",
+          "list_en_vn": [
+            {
+              "full_en": "to focus the sun's rays on something",
+              "full_vn": "làm tia nắng tụ vào vật gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều chỉnh tiêu điểm (của thần kinh)"
+        },
+        {
+          "m_full_vn": "làm nổi bật"
+        },
+        {
+          "m_full_vn": "tập trung",
+          "list_en_vn": [
+            {
+              "full_en": "to focus one's attention",
+              "full_vn": "tập trung sự chú ý"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tụ vào tiêu điểm; tập trung vào một điểm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433653_af691a3ecc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433653_9874dc35cc_o.png",
+      "id_image": "focus_439276"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362967_d67ac71964_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362967_a4401ed05a_o.png",
+      "id_image": "focus_552425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318386_69b7ed27c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318386_dbd57662fa_o.png",
+      "id_image": "focus_656420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054955_646fbd5e90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054955_9a5f0f7e48_o.png",
+      "id_image": "focus_921942"
+    }
+  ]
+}

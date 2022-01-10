@@ -1,0 +1,84 @@
+{
+  "english": "improve",
+  "phat_am": "[im'pru:v]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cải tiến, cải thiện, cải tạo, trau dồi (tư tưởng), mở mang (kiến thức...)",
+          "list_en_vn": [
+            {
+              "full_en": "to improve one's style of work",
+              "full_vn": "cải tiến lề lối làm việc"
+            },
+            {
+              "full_en": "to improve one's life",
+              "full_vn": "cải thiện đời sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lợi dụng, tận dụng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to improve on",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho tốt hơn, hoàn thiện",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this can hardly be improved on",
+                      "full_vn": "cái này thật khó mà hoàn thiện"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to improve the occasion",
+              "full_vn": "tận dụng cơ hội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "được cải tiến, được cải thiện, trở nên tốt hơn; tiến bộ",
+          "list_en_vn": [
+            {
+              "full_en": "to improve in health",
+              "full_vn": "sức khoẻ tốt hơn lên"
+            },
+            {
+              "full_en": "her English improves very quickly",
+              "full_vn": "cô ta tiến nhanh về tiếng Anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435523_44492bd011_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435523_00f4b44f19_o.png",
+      "id_image": "improve_4365211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675334_c4ab902858_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675334_61a1ff473a_o.png",
+      "id_image": "improve_4751664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365372_8b7f35a7fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365372_e4b9286c50_o.png",
+      "id_image": "improve_564839"
+    }
+  ]
+}

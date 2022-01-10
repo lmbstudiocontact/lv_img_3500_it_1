@@ -1,0 +1,40 @@
+{
+  "english": "ether",
+  "phat_am": "['i:θə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bầu trời trong sáng; chín tầng mây, thinh không"
+        },
+        {
+          "m_full_vn": "(vật lý) Ê-te",
+          "list_en_vn": [
+            {
+              "full_en": "luminiferous ether",
+              "full_vn": "ê-te ánh sáng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051295_699d40381d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051295_faa084031d_o.png",
+      "id_image": "ether_1181236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051290_404262b291_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051290_18e702df21_o.png",
+      "id_image": "ether_1181288"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358842_9c6af04813_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358842_eea2ed7b40_o.png",
+      "id_image": "ether_5131758"
+    }
+  ]
+}

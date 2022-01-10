@@ -1,0 +1,63 @@
+{
+  "english": "guest",
+  "phat_am": "[gest]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khách, khách mời",
+          "list_en_vn": [
+            {
+              "full_en": "a guest speaker",
+              "full_vn": "người được mời đến để diễn thuyết"
+            },
+            {
+              "full_en": "these experts are the guests of the Vietnamese Red Cross",
+              "full_vn": "các chuyên gia này là khách mời của Hội Chữ thập đỏ Việt Nam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khách trọ (ở khách sạn)",
+          "list_en_vn": [
+            {
+              "full_en": "a paying guest",
+              "full_vn": "khách trọ ăn cơm tháng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật ký sinh; trùng ký sinh; cây ký sinh",
+          "list_one_mean": [
+            {
+              "id_full_en": "be my guest",
+              "list_im": [
+                {
+                  "im_full_vn": "xin mời, xin cứ tự nhiên thoải mái"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318581_1d38573fa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318581_546f26e494_o.png",
+      "id_image": "guest_4668378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055140_82d070cc7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055140_8627bcf1fa_o.png",
+      "id_image": "guest_6413790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318536_54b29c96bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318536_0c67e63b42_o.png",
+      "id_image": "guest_6413806"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "english": "ethnic",
+  "phat_am": "['eθnik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc sắc tộc",
+          "list_en_vn": [
+            {
+              "full_en": "Ethnic community",
+              "full_vn": "Cộng đồng sắc tộc"
+            },
+            {
+              "full_en": "Ethnic minority",
+              "full_vn": "Sắc tộc thiểu số; Dân tộc ít người/thiểu số"
+            },
+            {
+              "full_en": "Ethnic cleansing",
+              "full_vn": "Sự thanh trừng sắc tộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không theo tôn giáo nào; vô thần"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) thành viên trong một dân tộc ít người/thiểu số"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051080_f881af0f2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051080_9c1ec6d7ef_o.png",
+      "id_image": "ethnic_3053730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051045_11ba363c47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051045_d6d582255f_o.png",
+      "id_image": "ethnic_3949433"
+    }
+  ]
+}

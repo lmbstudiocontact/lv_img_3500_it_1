@@ -1,0 +1,66 @@
+{
+  "english": "dough",
+  "phat_am": "[dou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bột nhào",
+          "list_en_vn": [
+            {
+              "full_en": "to knead the dough",
+              "full_vn": "nhào bột"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bột nhão; cục nhão (đất...)"
+        },
+        {
+          "m_full_vn": "(từ lóng) tiền, xìn"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (như) doughboy",
+          "list_one_mean": [
+            {
+              "id_full_en": "my cake is dough",
+              "list_im": [
+                {
+                  "im_full_vn": "việc của tôi hỏng bét rồi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352277_1e18a8b1cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352277_5c8abc5ccb_o.png",
+      "id_image": "dough_1143143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352227_bb3402fd02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352227_0cc8f30c0c_o.png",
+      "id_image": "dough_1999938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352182_885bf589c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352182_36056347ab_o.png",
+      "id_image": "dough_2269223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352137_8340b4cbd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352137_9ea6e5b58e_o.png",
+      "id_image": "dough_3043735"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307996_56885d9627_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307996_681346e7eb_o.png",
+      "id_image": "dough_5236491"
+    }
+  ]
+}

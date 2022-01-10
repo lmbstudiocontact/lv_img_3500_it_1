@@ -1,0 +1,106 @@
+{
+  "english": "fist",
+  "phat_am": "[fist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bàn tay nắm chặt lại, các ngón tay gập vào trong lòng bàn tay; nắm tay; quả đấm",
+          "list_en_vn": [
+            {
+              "full_en": "to clench one's fist",
+              "full_vn": "siết chặt nắm tay"
+            },
+            {
+              "full_en": "to use one's fists",
+              "full_vn": "đấm nhau, thụi nhau"
+            },
+            {
+              "full_en": "he struck me with his fist",
+              "full_vn": "nó nắm tay đấm tôi"
+            },
+            {
+              "full_en": "she shook her fist at him",
+              "full_vn": "ba ta dứ nắm tay vào mặt nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đùa cợt) bàn tay",
+          "list_en_vn": [
+            {
+              "full_en": "give us your fist",
+              "full_vn": "nào, bắt tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đùa cợt) chữ viết",
+          "list_en_vn": [
+            {
+              "full_en": "a good fist",
+              "full_vn": "chữ viết đẹp"
+            },
+            {
+              "full_en": "I know his fist",
+              "full_vn": "tôi biết chữ nó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nắm chặt, điều khiển",
+          "list_one_mean": [
+            {
+              "id_full_en": "an iron fist /hand in a velvet glove",
+              "list_im": [
+                {
+                  "im_full_vn": "quả đấm bọc nhung, chiến lược vừa đập vừa xoa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make money hand over fist",
+              "list_im": [
+                {
+                  "im_full_vn": "vớ được lợi lộc béo bở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the mailed fist",
+              "list_im": [
+                {
+                  "im_full_vn": "sự đe doạ bằng vũ lực"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to fist an oar",
+              "full_vn": "điều khiển mái chèo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325076_1cabe1edc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325076_0fa21ddfca_o.png",
+      "id_image": "fist_1480883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061870_01ab186919_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061870_5c00696041_o.png",
+      "id_image": "fist_2577509"
+    }
+  ]
+}

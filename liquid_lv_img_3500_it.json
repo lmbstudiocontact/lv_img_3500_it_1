@@ -1,0 +1,107 @@
+{
+  "english": "liquid",
+  "phat_am": "['likwid]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lỏng",
+          "list_en_vn": [
+            {
+              "full_en": "liquid gas",
+              "full_vn": "khí lỏng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong trẻo, trong sáng"
+        },
+        {
+          "m_full_vn": "dịu dàng, êm dịu, du dương",
+          "list_en_vn": [
+            {
+              "full_en": "liquid voice",
+              "full_vn": "tiếng nói dịu dàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không vững, hay thay đổi",
+          "list_en_vn": [
+            {
+              "full_en": "liquid principles",
+              "full_vn": "những nguyên tắc không vững vàng"
+            },
+            {
+              "full_en": "liquid opinion",
+              "full_vn": "ý kiến hay thay đổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) (thuộc) âm nước",
+          "list_one_mean": [
+            {
+              "id_full_en": "liquid capital",
+              "list_im": [
+                {
+                  "im_full_vn": "vốn luân chuyển"
+                }
+              ]
+            },
+            {
+              "id_full_en": "liquid fire",
+              "list_im": [
+                {
+                  "im_full_vn": "chất cháy do súng phóng lửa phun ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "liquid money",
+              "list_im": [
+                {
+                  "im_full_vn": "tiền mặt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất lỏng, chất nước"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) âm nước"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695879_e26bbd3814_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695879_248d6f61ae_o.png",
+      "id_image": "liquid_2421543"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455443_020fc140a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455443_2ba745764d_o.png",
+      "id_image": "liquid_3335567"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340441_54b18c2098_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340441_59762147cc_o.png",
+      "id_image": "liquid_4636015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455358_1ae416b3e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455358_a92218ddb6_o.png",
+      "id_image": "liquid_6192469"
+    }
+  ]
+}

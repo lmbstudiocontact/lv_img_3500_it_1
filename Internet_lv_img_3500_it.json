@@ -1,0 +1,45 @@
+{
+  "english": "Internet",
+  "phat_am": "['intə:net]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "một ma trận mạng nối kết các máy tính trên khắp thế giới; In-tơ-nét",
+          "list_en_vn": [
+            {
+              "full_en": "To connect to the Internet",
+              "full_vn": "Nối kết In-tơ-nét"
+            },
+            {
+              "full_en": "Internet service provider",
+              "full_vn": "Nhà cung cấp dịch vụ In-tơ-nét"
+            },
+            {
+              "full_en": "Internet Society (ISOC for short ) : An international organization , comprising individuals , companies , foundations , and government agencies , that promotes the use , maintenance , and development of the Internet .",
+              "full_vn": "Internet Society (viết tắt) là ISOC : Một tổ chức quốc tế tập hợp nhiều cá nhân, công ty, hiệp hội, cơ quan nhà nước, với tôn chỉ xúc tiến việc sử dụng, bảo dưỡng và phát triển In-tơ-nét"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696729_a0d7988222_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696729_f28589f511_o.png",
+      "id_image": "internet_287509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386502_e7a45c6e1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386502_12a26f76d4_o.png",
+      "id_image": "internet_364138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386477_e7fdb720ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386477_c93f1ef1f9_o.png",
+      "id_image": "internet_646462"
+    }
+  ]
+}

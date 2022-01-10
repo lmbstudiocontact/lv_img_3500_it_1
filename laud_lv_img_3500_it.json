@@ -1,0 +1,38 @@
+{
+  "english": "laud",
+  "phat_am": "[lɔ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lời tán dương, lời ca ngợi, lời khen ngợi"
+        },
+        {
+          "m_full_vn": "( số nhiều) (tôn giáo) tán ca"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tán dương, ca ngợi, khen ngợi",
+          "list_en_vn": [
+            {
+              "full_en": "to laud someone to the skies",
+              "full_vn": "tâng ai lên tận mây xanh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056280_f63c2ace25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056280_a7e92462d8_o.png",
+      "id_image": "laud_4366567"
+    }
+  ]
+}

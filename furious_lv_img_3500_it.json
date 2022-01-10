@@ -1,0 +1,55 @@
+{
+  "english": "furious",
+  "phat_am": "['fjuəriəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( furious with somebody / at something ) giận dữ, điên tiết",
+          "list_one_mean": [
+            {
+              "id_full_en": "fast and furious",
+              "list_im": [
+                {
+                  "im_full_vn": "miệt mài náo nhiệt (cuộc vui)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she was absolutely furious at his attitude",
+              "full_vn": "chị ấy hoàn toàn tức giận thái độ của hắn"
+            },
+            {
+              "full_en": "a furious struggle",
+              "full_vn": "cuộc đấu tranh mãnh liệt"
+            },
+            {
+              "full_en": "a furious wind",
+              "full_vn": "cơn gió hung dữ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456313_5fe56d8941_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456313_7687635ac9_o.png",
+      "id_image": "furious_1747717"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456273_7933a910d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456273_5818ef8f7a_o.png",
+      "id_image": "furious_4954497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341361_83b43f455b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341361_dace449ef7_o.png",
+      "id_image": "furious_5046979"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "english": "division",
+  "phat_am": "[di'viʒn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chia; sự phân chia",
+          "list_en_vn": [
+            {
+              "full_en": "division of labour",
+              "full_vn": "sự phân chia lao động"
+            },
+            {
+              "full_en": "division of wealth",
+              "full_vn": "sự phân chia của cải"
+            },
+            {
+              "full_en": "a fair /unfair division of money",
+              "full_vn": "việc chia tiền sòng phẳng/bất công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bất cứ phần nào được chia ra từ cái gì; phần; đoạn"
+        },
+        {
+          "m_full_vn": "(viết tắt) là Div đơn vị hay bộ phận chủ yếu của một tổ chức",
+          "list_en_vn": [
+            {
+              "full_en": "the sales division of our company",
+              "full_vn": "bộ phận bán hàng của công ty chúng tôi"
+            },
+            {
+              "full_en": "our team plays in the first division (of the football league )",
+              "full_vn": "đội của chúng tôi chơi trong đơn vị số một (của Liên đoàn bóng đá)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) phép chia"
+        },
+        {
+          "m_full_vn": "sự bất đồng hay sự khác nhau về tư tưởng, lối sống...; sự phân hoá",
+          "list_en_vn": [
+            {
+              "full_en": "the deep /widening divisions in society today",
+              "full_vn": "sự phân hoá sâu sắc/lan rộng trong xã hội ngày nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chia làm hai phe để biểu quyết (ở quốc hội, nghị viện...)",
+          "list_en_vn": [
+            {
+              "full_en": "to come to a division",
+              "full_vn": "đi đến chỗ chia làm hai phe để biểu quyết"
+            },
+            {
+              "full_en": "without a division",
+              "full_vn": "nhất trí (không cần đưa ra biểu quyết)"
+            },
+            {
+              "full_en": "to challenge a division",
+              "full_vn": "đòi đưa ra biểu quyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phân khu, khu vực hành chính"
+        },
+        {
+          "m_full_vn": "đường phân chia, ranh giới; vách ngăn",
+          "list_en_vn": [
+            {
+              "full_en": "a hedge forms the division between her land and mine",
+              "full_vn": "một hàng rào làm ranh giới giữa đất của bà ấy và tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) sư đoàn",
+          "list_en_vn": [
+            {
+              "full_en": "parachute division",
+              "full_vn": "sư đoàn nhảy dù"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356692_d7da4d6165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356692_71687e3fab_o.png",
+      "id_image": "division_2809317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049215_f58c0bccd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049215_ed1542e5b4_o.png",
+      "id_image": "division_4807792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356637_36bcb24e22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356637_02e30ce146_o.png",
+      "id_image": "division_5605786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667534_061df2f5a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667534_5b4c60e43f_o.png",
+      "id_image": "division_594607"
+    }
+  ]
+}

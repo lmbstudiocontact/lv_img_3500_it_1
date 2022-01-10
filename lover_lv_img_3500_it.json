@@ -1,0 +1,49 @@
+{
+  "english": "lover",
+  "phat_am": "['lʌvə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người yêu thích; người yêu chuộng; người hâm mộ",
+          "list_en_vn": [
+            {
+              "full_en": "a lover of music /swimming",
+              "full_vn": "người thích nhạc/bơi lội"
+            },
+            {
+              "full_en": "art-lovers",
+              "full_vn": "những người yêu chuộng nghệ thuật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người yêu; người tình",
+          "list_en_vn": [
+            {
+              "full_en": "She's taken a new lover",
+              "full_vn": "Cô nàng đã có người tình mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) những kẻ yêu nhau; tình nhân",
+          "list_en_vn": [
+            {
+              "full_en": "young lovers strolling in the park",
+              "full_vn": "những cặp tình nhân đi dạo trong công viên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334011_087e85fa92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334011_34162f8c07_o.png",
+      "id_image": "lover_6385411"
+    }
+  ]
+}

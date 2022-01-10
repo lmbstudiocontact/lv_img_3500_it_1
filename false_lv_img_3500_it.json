@@ -1,0 +1,143 @@
+{
+  "english": "false",
+  "phat_am": "[fɔ:ls]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sai, nhầm",
+          "list_en_vn": [
+            {
+              "full_en": "a false idea",
+              "full_vn": "ý kiến sai"
+            },
+            {
+              "full_en": "a false note",
+              "full_vn": "(âm nhạc) nốt sai"
+            },
+            {
+              "full_en": "false imprisonment",
+              "full_vn": "sự bắt giam trái pháp luật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không thật, giả",
+          "list_en_vn": [
+            {
+              "full_en": "a false mirror",
+              "full_vn": "gương không thật"
+            },
+            {
+              "full_en": "a false coin",
+              "full_vn": "tiền giả"
+            },
+            {
+              "full_en": "false hair",
+              "full_vn": "tóc giả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dối trá, lừa dối, phản trắc; giả dối",
+          "list_one_mean": [
+            {
+              "id_full_en": "false alarm",
+              "list_im": [
+                {
+                  "im_full_vn": "báo động giả; báo động lừa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "false card",
+              "list_im": [
+                {
+                  "im_full_vn": "quân bài đánh lừa đối phương"
+                }
+              ]
+            },
+            {
+              "id_full_en": "false position",
+              "list_im": [
+                {
+                  "im_full_vn": "thế trái cựa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on (under ) false pretences",
+              "list_im": [
+                {
+                  "im_full_vn": "giả vờ là ai khác hoặc làm ra vẻ thế nào đó để đánh lừa; lừa đảo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike a false note",
+              "list_im": [
+                {
+                  "im_full_vn": "làm điều sai trái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under false colors",
+              "list_im": [
+                {
+                  "im_full_vn": "với vẻ vờ vịt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a false move",
+              "list_im": [
+                {
+                  "im_full_vn": "hành động ngu xuẩn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a false start",
+              "list_im": [
+                {
+                  "im_full_vn": "xuất phát mà không đợi lệnh"
+                },
+                {
+                  "im_full_vn": "khởi sự mà không gặp may"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "dối, lừa",
+          "list_en_vn": [
+            {
+              "full_en": "to play someone false",
+              "full_vn": "lừa ai, phản ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692109_2fa56b805f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692109_6dbdbc9ffa_o.png",
+      "id_image": "false_5226409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692074_0bba974a30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692074_cc55fc980a_o.png",
+      "id_image": "false_5706113"
+    }
+  ]
+}

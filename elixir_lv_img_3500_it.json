@@ -1,0 +1,53 @@
+{
+  "english": "elixir",
+  "phat_am": "[i'liksə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuốc luyện đan"
+        },
+        {
+          "m_full_vn": "thuốc tiên",
+          "list_en_vn": [
+            {
+              "full_en": "elixir of life",
+              "full_vn": "thuốc trường sinh bất lão"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dược học) cồn ngọt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438858_66e088b1f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438858_9609856e6b_o.png",
+      "id_image": "elixir_1391363"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060605_5fa3c3d616_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060605_f01864a10b_o.png",
+      "id_image": "elixir_2464346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060515_a989d8e108_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060515_277600b906_o.png",
+      "id_image": "elixir_5327099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323836_20769f2fde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323836_c59b743b34_o.png",
+      "id_image": "elixir_673862"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368732_7094b8b264_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368732_677b746f29_o.png",
+      "id_image": "elixir_771212"
+    }
+  ]
+}

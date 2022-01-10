@@ -1,0 +1,214 @@
+{
+  "english": "dust",
+  "phat_am": "[dʌst]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bụi",
+          "list_en_vn": [
+            {
+              "full_en": "gold dust",
+              "full_vn": "bụi vàng"
+            },
+            {
+              "full_en": "airborne dust",
+              "full_vn": "bụi khí quyển"
+            },
+            {
+              "full_en": "cosmic dust",
+              "full_vn": "bụi vũ trụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rác"
+        },
+        {
+          "m_full_vn": "(thực vật học) phấn hoa"
+        },
+        {
+          "m_full_vn": "( a dust ) đám bụi mù",
+          "list_en_vn": [
+            {
+              "full_en": "what a dust !",
+              "full_vn": "bụi ghê quá!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đất đen ( (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to trample in the dust",
+              "full_vn": "chà đạp xuống tận đất đen"
+            },
+            {
+              "full_en": "to be humbled to (in ) the dust",
+              "full_vn": "bị làm nhục, bị vùi dập đến tận đất đen"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xương tàn, tro tàn (người chết); cơ thể con người, con người"
+        },
+        {
+          "m_full_vn": "(từ lóng) tiền mặt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bite the dust",
+              "list_im": [
+                {
+                  "im_full_vn": "bị thất bại ê chề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear the dust and heat of the war",
+              "list_im": [
+                {
+                  "im_full_vn": "gánh chịu hậu quả của chiến tranh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give the dust to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) cho ai hít bụi, vượt lên trước ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the dust",
+              "list_im": [
+                {
+                  "im_full_vn": "chết, về với cát bụi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shake the dust off one's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "tức giận bỏ đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take somebody's dust",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) hít bụi của ai, chạy sau ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw dust in somebody's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "loè ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "when the dust has settled",
+              "list_im": [
+                {
+                  "im_full_vn": "khi sự hiểu lầm đã tan biến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick up /raise a dust",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ầm ĩ lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as dry as dust",
+              "list_im": [
+                {
+                  "im_full_vn": "rất tẻ nhạt, rất dễ gây nhàm chán"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rắc (bụi, phấn...)"
+        },
+        {
+          "m_full_vn": "quét bụi, phủi bụi"
+        },
+        {
+          "m_full_vn": "làm bụi"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tắm đất, vầy đất (gà, chim...)"
+        },
+        {
+          "m_full_vn": "quét bụi bàn ghế, phủi bụi bàn ghế, lau chùi bàn ghế",
+          "list_one_mean": [
+            {
+              "id_full_en": "to dust the eyes of",
+              "list_im": [
+                {
+                  "im_full_vn": "lừa bịp (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dust someone's jacket",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) jacket"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334611_ba65fcf472_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334611_e504bd6056_o.png",
+      "id_image": "dust_1466548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449583_c650337635_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449583_3846ff60c3_o.png",
+      "id_image": "dust_2268926"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449548_34aac6a701_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449548_6b2ac4afee_o.png",
+      "id_image": "dust_3654840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334551_bd48eab70b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334551_3f505f5daa_o.png",
+      "id_image": "dust_4171488"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334496_dea15838f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334496_6e3e231808_o.png",
+      "id_image": "dust_4365437"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "english": "hug",
+  "phat_am": "[hʌg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái ôm chặt"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) miếng ghì chặt (đánh vật)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ôm, ôm chặt"
+        },
+        {
+          "m_full_vn": "ghì chặt bằng hai chân trước (gấu)"
+        },
+        {
+          "m_full_vn": "ôm ấp, ưa thích, bám chặt",
+          "list_en_vn": [
+            {
+              "full_en": "to hug an idea",
+              "full_vn": "ôm ấp một ý kiến, bám lấy một ý kiến"
+            },
+            {
+              "full_en": "to hug oneself over something",
+              "full_vn": "thích thú một cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi sát",
+          "list_en_vn": [
+            {
+              "full_en": "the ship hugged the coast",
+              "full_vn": "tàu thuỷ đi sát bờ biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + on , for ) to hug oneself tự hài lòng (về...), tự khen mình (về...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443483_d7c3db96fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443483_29ae80a3e9_o.png",
+      "id_image": "hug_1141114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683539_33c1fc1fb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683539_e54e482b8d_o.png",
+      "id_image": "hug_4099052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443433_661d573dbc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443433_5c1ea4542a_o.png",
+      "id_image": "hug_5065458"
+    }
+  ]
+}

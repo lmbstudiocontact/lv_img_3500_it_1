@@ -1,0 +1,36 @@
+{
+  "english": "indemnity",
+  "phat_am": "[in'demniti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( indemnity against / for something ) sự đảm bảo khỏi bị hư hỏng hoặc mất mát; sự bồi thường cho những trường hợp đó",
+          "list_en_vn": [
+            {
+              "full_en": "indemnity fund",
+              "full_vn": "quỹ bồi thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền, hàng hoá đưa cho coi như bồi thường hư hỏng hoặc mất mát",
+          "list_en_vn": [
+            {
+              "full_en": "the victorious nations are demanding huge indemnities from their former enemies",
+              "full_vn": "các nước thắng trận đòi hỏi ở những kẻ địch trước đây những khoản bồi thường khổng lồ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055005_5d56a21ed8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055005_88d03f3aaa_o.png",
+      "id_image": "indemnity_1833846"
+    }
+  ]
+}

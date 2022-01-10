@@ -1,0 +1,37 @@
+{
+  "english": "earn",
+  "phat_am": "[ə:n]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiếm được (tiền...); giành được (phần thưởng, sự khen ngợi...)",
+          "list_en_vn": [
+            {
+              "full_en": "to earn one's living",
+              "full_vn": "kiếm sống"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378147_f86a02f20a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378147_dc70a1b583_o.png",
+      "id_image": "earn_1401644"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333241_5d8484670d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333241_e24cbefcc0_o.png",
+      "id_image": "earn_2273068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070120_384513c13b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070120_7bb95e6b52_o.png",
+      "id_image": "earn_6303321"
+    }
+  ]
+}

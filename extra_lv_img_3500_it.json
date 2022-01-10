@@ -1,0 +1,122 @@
+{
+  "english": "extra",
+  "phat_am": "['ekstrə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhiều hơn hoặc vượt quá cái bình thường, cái được mong đợi hoặc cần thiết; thêm",
+          "list_en_vn": [
+            {
+              "full_en": "extra pay for extra work",
+              "full_vn": "trả thêm tiền công việc ngoài giờ"
+            },
+            {
+              "full_en": "to buy an extra pint of milk",
+              "full_vn": "mua thêm một panh sữa"
+            },
+            {
+              "full_en": "the football match went into extra time",
+              "full_vn": "trận đấu bóng đá phải đá thêm giờ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "hơn thường lệ",
+          "list_en_vn": [
+            {
+              "full_en": "an extra strong box",
+              "full_vn": "một cái hộp rất cứng"
+            },
+            {
+              "full_en": "extra fine quality",
+              "full_vn": "chất lượng đặc biệt tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cộng thêm",
+          "list_en_vn": [
+            {
+              "full_en": "20% extra",
+              "full_vn": "cộng thêm 20 %"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái thêm vào; khoản phải trả thêm"
+        },
+        {
+          "m_full_vn": "(điện ảnh) (truyền hình) người được thuê (theo ngày) đóng một vai nhỏ (trong một cảnh đông người chẳng hạn); vai cho có mặt; vai phụ"
+        },
+        {
+          "m_full_vn": "đợt phát hành đặc biệt (báo)"
+        }
+      ]
+    },
+    {
+      "type": "tiền tố",
+      "list_m": [
+        {
+          "m_full_vn": "ngoài; bên kia; xa hơn",
+          "list_en_vn": [
+            {
+              "full_en": "extramarital",
+              "full_vn": "ngoài hôn nhân"
+            },
+            {
+              "full_en": "extrasensory",
+              "full_vn": "ngoại cảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rất; tới mức phi thường",
+          "list_en_vn": [
+            {
+              "full_en": "extra-thin",
+              "full_vn": "cực mỏng"
+            },
+            {
+              "full_en": "extra-sensitive",
+              "full_vn": "cực kỳ nhạy cảm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340416_a203338560_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340416_f6980fbbff_o.png",
+      "id_image": "extra_4524912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385397_65e12520c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385397_99f6c50464_o.png",
+      "id_image": "extra_4661996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385357_535a9ff592_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385357_e5344dcc36_o.png",
+      "id_image": "extra_4662002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455278_5937129033_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455278_4c9d128aef_o.png",
+      "id_image": "extra_4727110"
+    }
+  ]
+}

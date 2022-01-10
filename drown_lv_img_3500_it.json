@@ -1,0 +1,105 @@
+{
+  "english": "drown",
+  "phat_am": "[draun]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chết đuối"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dìm chết, làm chết đuối",
+          "list_en_vn": [
+            {
+              "full_en": "to be drowned",
+              "full_vn": "bị chết đuối (vì tai nạn...)"
+            },
+            {
+              "full_en": "to drown oneself",
+              "full_vn": "trầm mình tự tử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "pha loãng quá, pha nhiều nước quá (vào rượu...)"
+        },
+        {
+          "m_full_vn": "làm ngập lụt, làm ngập nước, làm ướt đầm đìa, làm giàn giụa",
+          "list_en_vn": [
+            {
+              "full_en": "drowned in tears",
+              "full_vn": "đầm đìa nước mắt"
+            },
+            {
+              "full_en": "like a drowned rat",
+              "full_vn": "ướt như chuột lột"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm chìm đắm, át (tiếng nói...), làm tiêu (nỗi sầu...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be drowned out",
+              "list_im": [
+                {
+                  "im_full_vn": "bị lụt lội phải lánh khỏi nhà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the drowning man will catch at a straw",
+              "list_im": [
+                {
+                  "im_full_vn": "sắp bị chết đuối thì cọng rơm cũng cố vói lấy"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be drowned in sleep",
+              "full_vn": "chìm đắm trong giấc ngủ, ngủ say mê mệt"
+            },
+            {
+              "full_en": "to drown someone's voice",
+              "full_vn": "làm át tiếng nói của ai"
+            },
+            {
+              "full_en": "to drown one's sorrow in drink",
+              "full_vn": "uống rượu tiêu sầu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692519_926079578c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692519_48b55d0388_o.png",
+      "id_image": "drown_1485052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337136_21a69d1165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337136_4202c722c4_o.png",
+      "id_image": "drown_1487534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692469_ccbf9036ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692469_6cac8b66f3_o.png",
+      "id_image": "drown_3348431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074110_0c7ea7eced_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074110_5797a2800a_o.png",
+      "id_image": "drown_5109057"
+    }
+  ]
+}

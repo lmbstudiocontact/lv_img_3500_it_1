@@ -1,0 +1,394 @@
+{
+  "english": "face",
+  "phat_am": "[feis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần phía trước của đầu, từ trán đến cằm; mặt",
+          "list_en_vn": [
+            {
+              "full_en": "a pretty , handsome face",
+              "full_vn": "bộ mặt xinh, đẹp"
+            },
+            {
+              "full_en": "a sad face",
+              "full_vn": "bộ mặt buồn"
+            },
+            {
+              "full_en": "smiling faces",
+              "full_vn": "những bộ mặt tươi cười"
+            },
+            {
+              "full_en": "she had a face like thunder",
+              "full_vn": "cô ta có bộ mặt rất giận dữ"
+            },
+            {
+              "full_en": "to look somebody full in the face",
+              "full_vn": "nhìn thẳng vào mặt ai"
+            },
+            {
+              "full_en": "to show one's face",
+              "full_vn": "xuất đầu lộ diện, vác mặt đến"
+            },
+            {
+              "full_en": "he's a good judge of faces",
+              "full_vn": "ông ta nhìn mặt đoán người rất hay"
+            },
+            {
+              "full_en": "go and wash your face !",
+              "full_vn": "đi rửa mặt đi!"
+            },
+            {
+              "full_en": "he was so ashamed that he hid his face in his hands",
+              "full_vn": "hắn xấu hổ đến nỗi phải lấy tay che mặt"
+            },
+            {
+              "full_en": "I saw many familiar /strange faces",
+              "full_vn": "tôi thấy nhiều gương mặt quen/lạ"
+            },
+            {
+              "full_en": "her face is her fortune",
+              "full_vn": "cô ta đẹp nhưng nghèo; tất cả vốn liếng cô ta là ở bộ mặt"
+            },
+            {
+              "full_en": "to pull (wear ) a long face",
+              "full_vn": "mặt buồn thườn thượt, mặt dài ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thể diện, sĩ diện",
+          "list_en_vn": [
+            {
+              "full_en": "to save face",
+              "full_vn": "gỡ thể diện, giữ thể diện"
+            },
+            {
+              "full_en": "to lose face",
+              "full_vn": "mất mặt, mất thể diện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ mặt, bề ngoài, mã ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "to put a new face on something",
+              "full_vn": "thay đổi bộ mặt của cái gì, đưa cái gì ra dưới một bộ mặt mới"
+            },
+            {
+              "full_en": "on the face of it",
+              "full_vn": "cứ theo bề ngoài mà xét thì"
+            },
+            {
+              "full_en": "to put a good face on a matter",
+              "full_vn": "tô son điểm phấn cho một vấn đề; vui vẻ chịu đựng một việc gì"
+            },
+            {
+              "full_en": "to put a bold face on something",
+              "full_vn": "can đảm chịu đựng (đương đầu với) cái gì"
+            },
+            {
+              "full_en": "one's face falls",
+              "full_vn": "mặt xịu xuống, mặt tiu nghỉu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bề mặt",
+          "list_en_vn": [
+            {
+              "full_en": "the face of the earth",
+              "full_vn": "bề mặt của trái đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt trước, mặt phía trước",
+          "list_one_mean": [
+            {
+              "id_full_en": "face to face",
+              "list_im": [
+                {
+                  "im_full_vn": "đối diện; mặt đối mặt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "His ambition was to meet his favourite pop star face to face",
+                      "full_vn": "Anh ta mơ ước được gặp mặt đối mặt với ngôi sao nhạc pop mà anh ta yêu thích nhất"
+                    },
+                    {
+                      "full_en": "The burglar turned the corner and found himself face to face with a policeman",
+                      "full_vn": "Tên trộm rẽ vào góc phố và tự nhận ra y đang đối mặt với một ông cảnh sát"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly in the face of",
+              "list_im": [
+                {
+                  "im_full_vn": "ra mặt chống đối, công khai chống đối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go with wind in one's face",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ngược gió"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the face to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "mặt dạn mày dày mà làm việc gì, có đủ trơ trẽn mà làm việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the face of ...",
+              "list_im": [
+                {
+                  "im_full_vn": "mặc dầu; đối diện, đứng trước",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "To succeed in the face of danger",
+                      "full_vn": "Gặp nguy hiểm mà vẫn thành công"
+                    },
+                    {
+                      "full_en": "To continue in the face of criticism",
+                      "full_vn": "Bị phê phán mà vẫn tiếp tục"
+                    },
+                    {
+                      "full_en": "We are powerless in the face of such forces",
+                      "full_vn": "Chúng tôi đành bất lực trước những thế lực như thế"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the face of day",
+              "list_im": [
+                {
+                  "im_full_vn": "một cách công khai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make /pull faces at somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "nhăn mặt với ai (để làm trò, biểu lộ sự vô lễ, sự ghê tởm.....)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the schoolboy made a face at his teacher's back",
+                      "full_vn": "đứa học sinh nhăn mặt làm trò ở sau lưng thầy giáo"
+                    },
+                    {
+                      "full_en": "the clowns pulled funny faces",
+                      "full_vn": "những anh hềnhăn mặt làm trò cười"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set one's face against",
+              "list_im": [
+                {
+                  "im_full_vn": "chống đối lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to somebody's face",
+              "list_im": [
+                {
+                  "im_full_vn": "công khai trước mặt ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to grind the faces of the poor",
+              "list_im": [
+                {
+                  "im_full_vn": "Xem ( grind )"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut off one's nose to spite one's face",
+              "list_im": [
+                {
+                  "im_full_vn": "Xem ( nose )"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh in sb's face , to laugh on the other side of one's face",
+              "list_im": [
+                {
+                  "im_full_vn": "Xem ( laugh )"
+                }
+              ]
+            },
+            {
+              "id_full_en": "plain as the nose on one's face",
+              "list_im": [
+                {
+                  "im_full_vn": "Xem ( plain )"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shut the door in someone's face",
+              "list_im": [
+                {
+                  "im_full_vn": "không thèm giao dịch với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wipe something off the face of the earth",
+              "list_im": [
+                {
+                  "im_full_vn": "Xem ( wipe )"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đương đầu, đối phó",
+          "list_en_vn": [
+            {
+              "full_en": "to face famine and poverty",
+              "full_vn": "đương đầu với nạn đói nghèo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đứng trước mặt, ở trước mặt",
+          "list_en_vn": [
+            {
+              "full_en": "the problem that faces us",
+              "full_vn": "vấn đề trước mắt chúng ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lật (quân bài)"
+        },
+        {
+          "m_full_vn": "nhìn về, hướng về, quay về",
+          "list_en_vn": [
+            {
+              "full_en": "this house faces south",
+              "full_vn": "nhà này quay về hướng nam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đặt ( (cái gì)) ở giữa hai cầu thủ của hai bên (để bắt đầu thi đấu bóng gậy cong trên băng)"
+        },
+        {
+          "m_full_vn": "(quân sự) ra lệnh quay",
+          "list_en_vn": [
+            {
+              "full_en": "to face one's men about",
+              "full_vn": "ra lệnh cho quân quay ra đằng sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viền màu (cổ áo, cửa tay)"
+        },
+        {
+          "m_full_vn": "bọc, phủ, tráng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to face the music",
+              "list_im": [
+                {
+                  "im_full_vn": "hứng chịu hậu quả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to face out a dangerous situation",
+              "list_im": [
+                {
+                  "im_full_vn": "vượt qua một tình thế nguy hiểm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to face out something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm điều gì cho trọn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) quay",
+          "list_en_vn": [
+            {
+              "full_en": "left face !",
+              "full_vn": "quay bên trái!"
+            },
+            {
+              "full_en": "about face !",
+              "full_vn": "quay đằng sau!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338466_f60f7e7e8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338466_1c20058a62_o.png",
+      "id_image": "face_2375268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693629_becf8bd10f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693629_72426cc194_o.png",
+      "id_image": "face_2473041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453363_ed7840dff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453363_3d6a31b418_o.png",
+      "id_image": "face_2800055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075415_c473ec1621_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075415_6637e42a2b_o.png",
+      "id_image": "face_4183091"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453478_923cb800ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453478_8cc2138549_o.png",
+      "id_image": "face_976003"
+    }
+  ]
+}

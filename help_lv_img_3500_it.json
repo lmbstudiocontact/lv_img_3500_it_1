@@ -1,0 +1,275 @@
+{
+  "english": "help",
+  "phat_am": "[help]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giúp đỡ hoặc được giúp đỡ sự cứu giúp, sự giúp ích",
+          "list_en_vn": [
+            {
+              "full_en": "to need someone's help",
+              "full_vn": "cần sự giúp đỡ của ai"
+            },
+            {
+              "full_en": "thank you for all your kind help",
+              "full_vn": "cám ơn anh đã tận tình giúp đỡ"
+            },
+            {
+              "full_en": "can I be of (any ) help to you ?",
+              "full_vn": "tôi có thể giúp gì được cho anh?"
+            },
+            {
+              "full_en": "the map wasn't much help",
+              "full_vn": "bản đồ không giúp ich gì được lắm"
+            },
+            {
+              "full_en": "she came to our help",
+              "full_vn": "cô ấy đến giúp chúng tôi"
+            },
+            {
+              "full_en": "to cry /call for help",
+              "full_vn": "kêu cứu, cầu cứu"
+            },
+            {
+              "full_en": "help ! help !",
+              "full_vn": "cứu (tôi) với! cứu (tôi) với"
+            },
+            {
+              "full_en": "it is a great help",
+              "full_vn": "cái đó giúp ích được rất nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phương cứu chữa, lối thoát",
+          "list_en_vn": [
+            {
+              "full_en": "there is no help for it",
+              "full_vn": "chuyện này thật vô phương cứu chữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người giúp đỡ, vật giúp ích",
+          "list_en_vn": [
+            {
+              "full_en": "the servants were more of a hindrance than a help (to me )",
+              "full_vn": "các người hầu cản trở nhiều hơn là giúp (tôi)"
+            },
+            {
+              "full_en": "you're a great help , I must say !",
+              "full_vn": "phải nói là cậu cũng được việc gớm!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) người làm, người giúp việc trong nhà",
+          "list_en_vn": [
+            {
+              "full_en": "the help hasn't come this morning",
+              "full_vn": "sáng nay người giúp việc không đến"
+            },
+            {
+              "full_en": "lady help",
+              "full_vn": "người giúp việc bà chủ nhà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giúp đỡ, cứu giúp",
+          "list_en_vn": [
+            {
+              "full_en": "Help ! I'm stuck",
+              "full_vn": "Cứu tôi với! Tôi bị mắc kẹt"
+            },
+            {
+              "full_en": "may I help with the washing-up ?",
+              "full_vn": "tôi rửa bát giúp được không ạ?"
+            },
+            {
+              "full_en": "your advice helped me a lot",
+              "full_vn": "lới khuyên của anh giúp ích cho tôi rất nhiều"
+            },
+            {
+              "full_en": "we must all help each other",
+              "full_vn": "tất cả chúng ta phải giúp đỡ lẫn nhau"
+            },
+            {
+              "full_en": "a man is helping the police with their enquiries",
+              "full_vn": "một người đàn ông đang giúp cảnh sát điều tra"
+            },
+            {
+              "full_en": "please help me up /down the stairs with this heavy case",
+              "full_vn": "làm ơn giúp tôi đưa cái hòm nặng này lên/xuống cầu thang"
+            },
+            {
+              "full_en": "I helped him (to ) find his things",
+              "full_vn": "tôi đã giúp anh ấy tìm đồ đạc"
+            },
+            {
+              "full_en": "to help someone out of a difficulty",
+              "full_vn": "giúp ai ra khỏi hoàn cảnh khó khăn"
+            },
+            {
+              "full_en": "to help someone across a stream",
+              "full_vn": "giúp ai đi qua dòng suối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa mời (đồ ăn, thức uống)",
+          "list_en_vn": [
+            {
+              "full_en": "let me help you to some more wine",
+              "full_vn": "xin cho phép tôi rót thêm rượu vang cho ông"
+            },
+            {
+              "full_en": "help yourself",
+              "full_vn": "xin mời ông xơi"
+            },
+            {
+              "full_en": "help yourself (to a cigarette )",
+              "full_vn": "xin mời ông (dùng thuốc lá)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự tiện sử dụng cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "he's been helping himself to my stationery",
+              "full_vn": "anh ta tự tiện lấy văn phòng phẩm của tôi ra dùng"
+            },
+            {
+              "full_en": "I hope you won't help yourself to my motorbike",
+              "full_vn": "mong rằng anh đừng tự tiện lấy xe của tôi đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho cái gì dễ xảy ra",
+          "list_one_mean": [
+            {
+              "id_full_en": "can /could (not ) help (doing ) something",
+              "list_im": [
+                {
+                  "im_full_vn": "(không) có thể ngăn chặn/tránh cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I wouldn't live there ; well , not if I could help",
+                      "full_vn": "tôi sẽ không sống ở đó đâu; ồ, nếu như tôi có thể tránh được"
+                    },
+                    {
+                      "full_en": "we can't help thinking he's still alive",
+                      "full_vn": "chúng tôi không thể không nghĩ rằng anh ta vẫn còn sống"
+                    },
+                    {
+                      "full_en": "she burst out laughing , she couldn't help it /herself",
+                      "full_vn": "cô ta cười phá lên, không nhịn được"
+                    },
+                    {
+                      "full_en": "don't tell him more than you can help",
+                      "full_vn": "đừng kể với hắn nhiều hơn mức anh cần phải kể"
+                    },
+                    {
+                      "full_en": "she never does more work than she can help",
+                      "full_vn": "cô ta không bao giờ làm nhiều hơn điều cô ta có thể tránh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "God /Heaven help sb",
+              "list_im": [
+                {
+                  "im_full_vn": "cầu Chúa phù hộ cho ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "God help you if the teacher finds out !",
+                      "full_vn": "cầu Chúa phù hộ cho anh nếu thầy giáo phát hiện được!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to help a lame dog over a stile",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp ai trong cơn hoạn nạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a helping hand",
+              "list_im": [
+                {
+                  "im_full_vn": "sự tiếp cứu, sự giúp đỡ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "so help me",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi xin thề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to help somebody off /on with something",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp ai cởi/mặc áo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to help somebody out",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp ai vượt qua tình huống khó khăn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this latest development doesn't exactly help (matters )",
+              "full_vn": "sự kiện mới nhất này đúng là chẳng giúp ích gì cho công việc cả"
+            },
+            {
+              "full_en": "drugs that help to take away pain",
+              "full_vn": "những loại thuốc giúp tiêu tan cơn đau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384117_1785c45ec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384117_3e9d88412f_o.png",
+      "id_image": "help_2072716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384157_532af76cdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384157_e016f83d19_o.png",
+      "id_image": "help_258374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076360_3e7665f063_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076360_b9a0d75b42_o.png",
+      "id_image": "help_943640"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "magnetism",
+  "phat_am": "['mægnitizm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "từ tính; hiện tượng từ tính",
+          "list_en_vn": [
+            {
+              "full_en": "remanentmagnetism",
+              "full_vn": "hiện tượng từ dư"
+            },
+            {
+              "full_en": "nuclear magnetism",
+              "full_vn": "từ tính hạt nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sức hấp dẫn, sức quyến rũ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684484_0b41f1cba4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684484_47f8957522_o.png",
+      "id_image": "magnetism_1974414"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444433_32fa73030f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444433_b84fb4542a_o.png",
+      "id_image": "magnetism_2286215"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066210_5c06089ac3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066210_f00abcc0d3_o.png",
+      "id_image": "magnetism_5008251"
+    }
+  ]
+}

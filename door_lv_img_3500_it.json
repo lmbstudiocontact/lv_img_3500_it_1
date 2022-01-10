@@ -1,0 +1,319 @@
+{
+  "english": "door",
+  "phat_am": "[dɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cửa, cửa ra vào (nhà, xe ô tô...)",
+          "list_en_vn": [
+            {
+              "full_en": "front door",
+              "full_vn": "cửa trước"
+            },
+            {
+              "full_en": "side door",
+              "full_vn": "cửa bên hông"
+            },
+            {
+              "full_en": "back door",
+              "full_vn": "cửa sau"
+            },
+            {
+              "full_en": "hinged /sliding /revolving doors",
+              "full_vn": "cửa có bản lề/cửa kéo/cửa quay"
+            },
+            {
+              "full_en": "to hammer on the door",
+              "full_vn": "đập cửa ầm ầm"
+            },
+            {
+              "full_en": "to open /shut /close /lock /bolt the door",
+              "full_vn": "mở/đóng/khép/khoá/cài then cửa"
+            },
+            {
+              "full_en": "a four -door sloon car",
+              "full_vn": "ô tô du lịch có bốn cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phương tiện để có được cái gì hoặc đạt được cái gì; cửa ngõ, con đường",
+          "list_one_mean": [
+            {
+              "id_full_en": "from door to door",
+              "list_im": [
+                {
+                  "im_full_vn": "từ nhà này sang nhà khác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the journey takes about an hour door to door",
+                      "full_vn": "cuộc đi thắm mất khoảng một giờ, đi từng nhà một"
+                    },
+                    {
+                      "full_en": "he went from door to door , selling encyclopaedias",
+                      "full_vn": "anh ta đi từng nhà bán các bộ bách khoa toàn thư"
+                    },
+                    {
+                      "full_en": "a door-to-door salesman",
+                      "full_vn": "người đi từng nhà bán hàng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "two , three doors along /away /down",
+              "list_im": [
+                {
+                  "im_full_vn": "ở cách đây một hai nhà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "our other branch is just a few doors down the road",
+                      "full_vn": "chi nhánh khác của chúng tôi chỉ cách đây vài nhà phía dưới con đường này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at death's door",
+              "list_im": [
+                {
+                  "im_full_vn": "bên ngưỡng cửa của thần chết, hấp hối, gần chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay the blame at someone's door",
+              "list_im": [
+                {
+                  "im_full_vn": "đổ lỗi cho ai, quy tội cho ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the blame for the disaster has been laid firmly at the company's door",
+                      "full_vn": "công ty dứt khoát phải chịu trách nhiệm về tai hoạ này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie at somebody's door",
+              "list_im": [
+                {
+                  "im_full_vn": "có thể quy cho ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the fault lies at your door",
+                      "full_vn": "anh phải chịu trách nhiệm về lỗi đó, lỗi đổ lên đầu anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live next door (to somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "ở ngay sát vách, ở nhà bên cạnh, ở buồng bên cạnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go next door to borrow some milk",
+              "list_im": [
+                {
+                  "im_full_vn": "sang nhà bên cạnh vay ít sữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they live next door to the library",
+                      "full_vn": "họ ở bên cạnh thư viện"
+                    },
+                    {
+                      "full_en": "next door to us there's a couple from USA",
+                      "full_vn": "sát vách chúng tôi có một cặp vợ chồng từ Mỹ về"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "next door to",
+              "list_im": [
+                {
+                  "im_full_vn": "gần như, hầu như",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm afraid it's next door to impossible that we'll be there on time",
+                      "full_vn": "tôi e rằng hầu như chúng ta không thể đến đó đúng giờ"
+                    },
+                    {
+                      "full_en": "such ideas are next door to madness",
+                      "full_vn": "những ý nghĩ như thế gần như là điên rồ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on the door",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng ở cửa (để thu vé, hướng dẫn...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of doors",
+              "list_im": [
+                {
+                  "im_full_vn": "ở ngoài, không ở nhà; ở ngoài trời",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to eat /sleep /walk out of doors",
+                      "full_vn": "ăn/ngủ/đi dạo ở ngoài trời"
+                    },
+                    {
+                      "full_en": "to be out of doors",
+                      "full_vn": "đi ra ngoài, đi chơi vắng không ở nhà"
+                    },
+                    {
+                      "full_en": "to play out of doors",
+                      "full_vn": "chơi ở ngoài trời"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show somebody the door",
+              "list_im": [
+                {
+                  "im_full_vn": "đuổi ai ra khỏi cửa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show somebody to the door",
+              "list_im": [
+                {
+                  "im_full_vn": "tiễn ai ra tận cửa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to slam /shut the door in somebody's face",
+              "list_im": [
+                {
+                  "im_full_vn": "đóng sập cửa lại trước mặt ai, không thèm tiếp ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn somebody out of doors",
+              "list_im": [
+                {
+                  "im_full_vn": "đuổi ai ra khỏi cửa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with /behind closed doors",
+              "list_im": [
+                {
+                  "im_full_vn": "họp kín, xử kín"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by /through the back door",
+              "list_im": [
+                {
+                  "im_full_vn": "xem back"
+                }
+              ]
+            },
+            {
+              "id_full_en": "within doors",
+              "list_im": [
+                {
+                  "im_full_vn": "trong nhà; ở nhà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to darken sb's door",
+              "list_im": [
+                {
+                  "im_full_vn": "bén mảng đến nhà ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a foot in the door",
+              "list_im": [
+                {
+                  "im_full_vn": "sự thuận lợi khi bắt đầu làm việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep the wolf from the door",
+              "list_im": [
+                {
+                  "im_full_vn": "vừa đủ tiền để trang trải chứ không dư"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave the door open",
+              "list_im": [
+                {
+                  "im_full_vn": "để ngỏ, vẫn còn khả năng thương thuyết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lock the stable door after the horse has bolted",
+              "list_im": [
+                {
+                  "im_full_vn": "mất trâu mới lo làm chuồng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the door to success",
+              "full_vn": "con đường dẫn đến thành công"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046655_2155e50ff0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046655_4bdb7c7f95_o.png",
+      "id_image": "door_1230015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424723_8817c7d2e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424723_4f0c6e6152_o.png",
+      "id_image": "door_1230026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046695_96b5be1a4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046695_2ab982b3af_o.png",
+      "id_image": "door_252752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046665_f6b174d1e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046665_116f308a6b_o.png",
+      "id_image": "door_605649"
+    }
+  ]
+}

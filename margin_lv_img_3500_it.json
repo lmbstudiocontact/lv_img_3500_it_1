@@ -1,0 +1,74 @@
+{
+  "english": "margin",
+  "phat_am": "['mɑ:dʒin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mép, bờ, lề, rìa",
+          "list_en_vn": [
+            {
+              "full_en": "on the margin of a lake",
+              "full_vn": "trên bờ hồ"
+            },
+            {
+              "full_en": "in the margin of the page",
+              "full_vn": "ở lề trang sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số dư, số dự trữ",
+          "list_en_vn": [
+            {
+              "full_en": "a margin of 600 dongs",
+              "full_vn": "một số tiền dự trữ 600 đồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lợi nhuận, lãi suất"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) lề (số chênh lệch giữa giá vốn và giá bán)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to escape death by a narrow margin",
+              "list_im": [
+                {
+                  "im_full_vn": "suýt chết"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt lề, ghi ngoài lề"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323416_4cfbc05f84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323416_4e49b594ed_o.png",
+      "id_image": "margin_2640831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060220_184fde253b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060220_a3ba8f86d8_o.png",
+      "id_image": "margin_3063570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060290_bc84f1bddb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060290_e68ae7b28c_o.png",
+      "id_image": "margin_893415"
+    }
+  ]
+}

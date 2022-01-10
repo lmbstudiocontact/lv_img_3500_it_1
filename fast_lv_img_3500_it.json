@@ -1,0 +1,249 @@
+{
+  "english": "fast",
+  "phat_am": "[fɑ:st]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chắc chắn",
+          "list_en_vn": [
+            {
+              "full_en": "a stake fast in the ground",
+              "full_vn": "cọc đóng chắc xuống đất"
+            },
+            {
+              "full_en": "to take fast hold of",
+              "full_vn": "nắm chắc, cầm chắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thân, thân thiết, keo sơn",
+          "list_en_vn": [
+            {
+              "full_en": "a fast friend",
+              "full_vn": "bạn thân"
+            },
+            {
+              "full_en": "fast friendship",
+              "full_vn": "tình bạn keo sơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bền, không phai",
+          "list_en_vn": [
+            {
+              "full_en": "a fast colour",
+              "full_vn": "màu bền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhanh, mau",
+          "list_en_vn": [
+            {
+              "full_en": "fast food",
+              "full_vn": "thức ăn chế biến sẵn, thức ăn nhanh"
+            },
+            {
+              "full_en": "my watch is five minutes fast",
+              "full_vn": "đồng hồ của tôi chạy nhanh năm phút"
+            },
+            {
+              "full_en": "a fast train",
+              "full_vn": "xe lửa tốc hành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trác táng, ăn chơi, phóng đãng (người)",
+          "list_one_mean": [
+            {
+              "id_full_en": "hard and fast",
+              "list_im": [
+                {
+                  "im_full_vn": "cứng nhắc (nghĩa bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fast and furious",
+              "list_im": [
+                {
+                  "im_full_vn": "vừa nhanh vừa sống động"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be fast with gout",
+              "list_im": [
+                {
+                  "im_full_vn": "nằm liệt giường vì bệnh gút"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make fast",
+              "list_im": [
+                {
+                  "im_full_vn": "buộc chặt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the fast set",
+              "full_vn": "làng chơi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "chắc chắn, bền vững, chặt chẽ",
+          "list_en_vn": [
+            {
+              "full_en": "to stand fast",
+              "full_vn": "đứng vững"
+            },
+            {
+              "full_en": "eyes fast shut",
+              "full_vn": "mắt nhắm nghiền"
+            },
+            {
+              "full_en": "to sleep fast",
+              "full_vn": "ngủ say sưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "to run fast",
+              "full_vn": "chạy nhanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trác táng, phóng đãng",
+          "list_en_vn": [
+            {
+              "full_en": "to live fast",
+              "full_vn": "sống trác táng, ăn chơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ); (thơ ca) sát, ngay cạnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "fast bind , fast find",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) cẩn tắc vô ưu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play fast and loose",
+              "list_im": [
+                {
+                  "im_full_vn": "lập lờ hai mặt, đòn xóc hai đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run as fast as one's legs can carry one",
+              "list_im": [
+                {
+                  "im_full_vn": "nhanh hết sức, nhanh thật nhanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "thick and fast",
+              "list_im": [
+                {
+                  "im_full_vn": "dồn dập, tới tấp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thời kỳ) nhịn ăn, ăn chay, ăn kiêng",
+          "list_en_vn": [
+            {
+              "full_en": "a fast of three days",
+              "full_vn": "sự nhịn ăn ba ngày"
+            },
+            {
+              "full_en": "to break one's fast",
+              "full_vn": "ăn điểm tâm, ăn sáng"
+            },
+            {
+              "full_en": "fast days",
+              "full_vn": "những ngày ăn chay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhịn đói; nhịn ăn"
+        },
+        {
+          "m_full_vn": "ăn rất ít hoặc không được phép ăn những loại thức ăn nào đó (nhất là vì lý do (tôn giáo)); ăn chay",
+          "list_en_vn": [
+            {
+              "full_en": "Muslims fast during Ramadan",
+              "full_vn": "Tín đồ Hồi giáo ăn chay trong tháng Ra-ma-đăng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072080_5a6c0fc309_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072080_cbeb096a61_o.png",
+      "id_image": "fast_1455324"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380177_e2cbef623d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380177_24f56cac58_o.png",
+      "id_image": "fast_1476721"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690244_c9dda8eaef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690244_b38094891c_o.png",
+      "id_image": "fast_1652556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690209_0288de1ac8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690209_37a9f39db9_o.png",
+      "id_image": "fast_3043536"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335006_9b8fa8c83f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335006_d97ed4de7a_o.png",
+      "id_image": "fast_6316099"
+    }
+  ]
+}

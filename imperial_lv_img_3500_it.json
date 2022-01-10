@@ -1,0 +1,68 @@
+{
+  "english": "imperial",
+  "phat_am": "[im'piəriəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) hoàng đế"
+        },
+        {
+          "m_full_vn": "(thuộc) đế quốc"
+        },
+        {
+          "m_full_vn": "có toàn quyền; có uy quyền lớn"
+        },
+        {
+          "m_full_vn": "uy nghi, oai vệ, đường bệ; lộng lẫy, tráng lệ, nguy nga"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) hống hách"
+        },
+        {
+          "m_full_vn": "(thuộc) hệ thống đo lường Anh",
+          "list_en_vn": [
+            {
+              "full_en": "imperial acre",
+              "full_vn": "mẫu Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) thượng hạng (hàng)"
+        },
+        {
+          "m_full_vn": "khổ 22 x 32 insơ (giấy) ( (từ Mỹ,nghĩa Mỹ); khổ 23 x 31 insơ)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chòm râu dưới môi dưới"
+        },
+        {
+          "m_full_vn": "mui xe ngựa dùng để hành lý"
+        },
+        {
+          "m_full_vn": "đồng 15 rúp (thời Nga hoàng)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) hàng loại thượng hạng (thường) dùng để đặt nhãn hiệu"
+        },
+        {
+          "m_full_vn": "giấy khổ 22 x 32 insơ; ( (từ Mỹ,nghĩa Mỹ); khổ 23 x 31 insơ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058155_af4cf25295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058155_1f07145d1d_o.png",
+      "id_image": "imperial_2201848"
+    }
+  ]
+}

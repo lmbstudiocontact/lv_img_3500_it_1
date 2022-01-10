@@ -1,0 +1,97 @@
+{
+  "english": "image",
+  "phat_am": "['imidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình, hình ảnh, ảnh (trong gương...)",
+          "list_en_vn": [
+            {
+              "full_en": "real image",
+              "full_vn": "ảnh thực"
+            },
+            {
+              "full_en": "virtual image",
+              "full_vn": "ảo ảnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật giống hệt (vật khác); người giống hệt (người khác)",
+          "list_en_vn": [
+            {
+              "full_en": "he is the very image of his father",
+              "full_vn": "anh ta giống bố như hệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hình tượng",
+          "list_en_vn": [
+            {
+              "full_en": "to speak in images",
+              "full_vn": "nói bằng nhiều hình tượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tượng, thần tượng, thánh tượng"
+        },
+        {
+          "m_full_vn": "ý niệm, ý tưởng, quan niệm"
+        },
+        {
+          "m_full_vn": "tượng trưng, điển hình, hiện thân (của cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "he is the image of industriousness",
+              "full_vn": "anh ta là hiện thân của sự cần cù"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẽ hình"
+        },
+        {
+          "m_full_vn": "hình dung, tưởng tượng ra",
+          "list_en_vn": [
+            {
+              "full_en": "to image something to oneself",
+              "full_vn": "hình dung cái gì trong óc mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mô tả sinh động, mô tả bằng hình tượng"
+        },
+        {
+          "m_full_vn": "là tượng trưng của, là điển hình của, là hiện thân của, tượng trưng cho (cái gì)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367752_d0012bea06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367752_59cabb748a_o.png",
+      "id_image": "image_222132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437983_caa8b4bed3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437983_f60769e577_o.png",
+      "id_image": "image_506870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322726_ff92a59d2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322726_644c53046a_o.png",
+      "id_image": "image_627535"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "dryer",
+  "phat_am": "['draiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nhất là trong các từ ghép) máy làm khô; máy sấy",
+          "list_en_vn": [
+            {
+              "full_en": "a clothes dryer",
+              "full_vn": "máy sấy"
+            },
+            {
+              "full_en": "a hair-dryer",
+              "full_vn": "máy sấy tóc"
+            },
+            {
+              "full_en": "a tumble-drier",
+              "full_vn": "máy giặt và sấy khô quần áo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chất trộn với sơn hoặc vecni cho mau khô"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450948_f616c0cd4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450948_43e276e256_o.png",
+      "id_image": "dryer_2236851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381007_cbffa0d7ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381007_3926fcbe64_o.png",
+      "id_image": "dryer_2371178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450888_89153f5359_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450888_f5b278a196_o.png",
+      "id_image": "dryer_4312233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336051_225ee4941a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336051_61d8196ecc_o.png",
+      "id_image": "dryer_447204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335871_d05f866090_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335871_2a1a60c9bf_o.png",
+      "id_image": "dryer_4636695"
+    }
+  ]
+}

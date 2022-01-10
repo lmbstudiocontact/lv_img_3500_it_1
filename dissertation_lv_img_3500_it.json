@@ -1,0 +1,27 @@
+{
+  "english": "dissertation",
+  "phat_am": "[,disə:'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( dissertation on something ) luận văn; luận án (để lấy bằng tiến sĩ hoặc học vị tương tự (như) vậy)",
+          "list_en_vn": [
+            {
+              "full_en": "a dissertation on Vietnamese history",
+              "full_vn": "luận văn về lịch sử Việt Nam"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429668_56d3f22fc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429668_f3d4bd7745_o.png",
+      "id_image": "dissertation_5352128"
+    }
+  ]
+}

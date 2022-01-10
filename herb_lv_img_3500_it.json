@@ -1,0 +1,37 @@
+{
+  "english": "herb",
+  "phat_am": "[hə:b]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cỏ, thảo mộc",
+          "list_en_vn": [
+            {
+              "full_en": "medicinal herbs",
+              "full_vn": "cỏ làm thuốc, dược thảo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453673_97b0a803f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453673_b57c0e5108_o.png",
+      "id_image": "herb_1653063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453648_2a8e8fb90c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453648_dc1e848f73_o.png",
+      "id_image": "herb_1653105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453583_531e8104d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453583_dbd9a1d16c_o.png",
+      "id_image": "herb_1902982"
+    }
+  ]
+}

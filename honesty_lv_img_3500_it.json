@@ -1,0 +1,53 @@
+{
+  "english": "honesty",
+  "phat_am": "['ɔnisti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính lương thiện"
+        },
+        {
+          "m_full_vn": "tính trung thực; tính chân thật",
+          "list_en_vn": [
+            {
+              "full_en": "in all honesty",
+              "full_vn": "một cách thành thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thực vật học) cây cải âm, cây luna"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333806_1638770688_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333806_b90cf40d1b_o.png",
+      "id_image": "honesty_3062357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688869_e91cd05a0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688869_4deba5bda8_o.png",
+      "id_image": "honesty_3317685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378642_5fc8e069b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378642_b6ecac0501_o.png",
+      "id_image": "honesty_4371088"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070645_051277b1c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070645_240212d980_o.png",
+      "id_image": "honesty_4751377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378567_4f1ebe284a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378567_915596d0bf_o.png",
+      "id_image": "honesty_5307779"
+    }
+  ]
+}

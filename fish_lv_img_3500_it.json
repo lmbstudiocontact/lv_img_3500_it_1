@@ -1,0 +1,307 @@
+{
+  "english": "fish",
+  "phat_am": "[fi∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cá",
+          "list_en_vn": [
+            {
+              "full_en": "freshwater fish",
+              "full_vn": "cá nước ngọt"
+            },
+            {
+              "full_en": "salt-water fish",
+              "full_vn": "cá nước mặn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cá, món cá"
+        },
+        {
+          "m_full_vn": "(thiên văn học) chòm sao Cá"
+        },
+        {
+          "m_full_vn": "người cắn câu, người bị mồi chài"
+        },
+        {
+          "m_full_vn": "con người, gã (có cá tính đặc biệt)",
+          "list_one_mean": [
+            {
+              "id_full_en": "all's fish that comes to his net",
+              "list_im": [
+                {
+                  "im_full_vn": "lớn bé, to nhỏ hắn quơ tất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be as drunk as a fish",
+              "list_im": [
+                {
+                  "im_full_vn": "say bí tỉ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be as mute as a fish",
+              "list_im": [
+                {
+                  "im_full_vn": "câm như hến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drink like a fish",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) drink"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feed the fishes",
+              "list_im": [
+                {
+                  "im_full_vn": "chết đuối"
+                },
+                {
+                  "im_full_vn": "bị say sóng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a fish out of water",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) water"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have other fish to fry",
+              "list_im": [
+                {
+                  "im_full_vn": "có công việc khác quan trọng hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "he who would catch fish must not mind getting wet",
+              "list_im": [
+                {
+                  "im_full_vn": "muốn ăn cá phải lội nước, muốn ăn hét phải đào giun"
+                }
+              ]
+            },
+            {
+              "id_full_en": "neither fish , flesh nor good red herring",
+              "list_im": [
+                {
+                  "im_full_vn": "khó xác định hoặc phân loại; mơ hồ; không rõ ràng; môn chẳng ra môn, khoai chẳng ra khoai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "never fry a fish till it's caught",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa làm vòng chớ vội mong ăn thịt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "never offer to teach fish to swim",
+              "list_im": [
+                {
+                  "im_full_vn": "chớ nên múa rìu qua mắt thợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a cold fish",
+              "list_im": [
+                {
+                  "im_full_vn": "người lạnh lùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a big fish",
+              "list_im": [
+                {
+                  "im_full_vn": "nhân vật có thế lực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a pretty kettle of fish",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) kettle"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there's as good fish in the sea as ever came out of it",
+              "list_im": [
+                {
+                  "im_full_vn": "thừa mứa chứa chan, nhiều vô kể"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there are plenty of other fish in the sea",
+              "list_im": [
+                {
+                  "im_full_vn": "không thiếu gì người/vật tốt hơn thế nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play the fish",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho con cá đuối sức do lôi ngược dây câu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a queer fish",
+              "full_vn": "một con người (gã) kỳ quặc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh cá, câu cá, bắt cá",
+          "list_en_vn": [
+            {
+              "full_en": "to fish in the sea",
+              "full_vn": "đánh cá ở biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + for ) tìm, mò (cái gì ở dưới nước)"
+        },
+        {
+          "m_full_vn": "( + for ) câu, moi những điều bí mật"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "câu cá ở, đánh cá ở, bắt cá ở",
+          "list_en_vn": [
+            {
+              "full_en": "to fish a river",
+              "full_vn": "đánh cá ở sông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải)",
+          "list_en_vn": [
+            {
+              "full_en": "to fish the anchor",
+              "full_vn": "nhổ neo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rút, lấy, kéo, moi",
+          "list_en_vn": [
+            {
+              "full_en": "to fish something out of water",
+              "full_vn": "kéo cái gì từ dưới nước lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) câu (cá), đánh (cá), bắt (cá), tìm (san hô...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fish out",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh hết cá (ở ao...)"
+                },
+                {
+                  "im_full_vn": "moi (ý kiến, bí mật))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fish in troubled waters",
+              "list_im": [
+                {
+                  "im_full_vn": "nước đục thả câu, đục nước béo cò, lợi dụng thời cơ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to fish a troud",
+              "full_vn": "câu một con cá hồi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) miếng gỗ nẹp, miếng sắt nẹp (ở cột buồm, ở chỗ nối)"
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) thanh nối ray ( (cũng) fish plate )"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) nẹp (bằng gỗ hay sắt)"
+        },
+        {
+          "m_full_vn": "nối (đường ray) bằng thanh nối ray"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(đánh bài) thẻ ngà (dùng thay tiền để (đánh bài))"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680704_cc4fac3469_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680704_a305f85e66_o.png",
+      "id_image": "fish_184359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062385_f1af74dea1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062385_720264bc7c_o.png",
+      "id_image": "fish_184360"
+    }
+  ]
+}

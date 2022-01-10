@@ -1,0 +1,27 @@
+{
+  "english": "duct",
+  "phat_am": "['dʌkt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ống, ống dẫn",
+          "list_en_vn": [
+            {
+              "full_en": "biliary duct",
+              "full_vn": "(giải phẫu) ống mật"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380677_03bcf18a48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380677_05ffb72c7a_o.png",
+      "id_image": "duct_4752685"
+    }
+  ]
+}

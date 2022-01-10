@@ -1,0 +1,37 @@
+{
+  "english": "membrane",
+  "phat_am": "['membrein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) màng",
+          "list_en_vn": [
+            {
+              "full_en": "mucous membrane",
+              "full_vn": "màng nhầy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347611_cd43f47997_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347611_fe29dd53f3_o.png",
+      "id_image": "membrane_1466543"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347581_4b4624f1b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347581_6505c2fa38_o.png",
+      "id_image": "membrane_2570435"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462303_2342f3774c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462303_d9fb1daf48_o.png",
+      "id_image": "membrane_5376556"
+    }
+  ]
+}

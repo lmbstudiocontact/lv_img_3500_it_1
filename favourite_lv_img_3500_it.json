@@ -1,0 +1,74 @@
+{
+  "english": "favourite",
+  "phat_am": "['feivərit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "được mến chuộng nhất, được ưa thích nhất",
+          "list_en_vn": [
+            {
+              "full_en": "one's favourite author",
+              "full_vn": "tác giả mình ưa thích nhất"
+            },
+            {
+              "full_en": "who is your favourite journalist ?",
+              "full_vn": "nhà báo mà anh ưa thích nhất là ai?"
+            },
+            {
+              "full_en": "my favourite book",
+              "full_vn": "sách mà tôi thích đọc nhất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người được ưa chuộng hơn những người khác; vật được ưa thích hơn những vật khác",
+          "list_en_vn": [
+            {
+              "full_en": "these books are great favourites of mine",
+              "full_vn": "những cuốn sách này là những cuốn tôi rất ưa thích"
+            },
+            {
+              "full_en": "he is a favourite with his uncle /his uncle's favourite",
+              "full_vn": "nó là đứa cháu được ưa thích (cưng chiều) của bác nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) ( the favourite ) người dự cuộc ai cũng chắc sẽ thắng; con vật (ngựa, chó...) dự cuộc ai cũng chắc sẽ thắng"
+        },
+        {
+          "m_full_vn": "sủng thần; ái thiếp, quý phi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071100_470306c414_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071100_a63eec90b0_o.png",
+      "id_image": "favourite_1836022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334066_7a19cb8f65_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334066_6b0ceef434_o.png",
+      "id_image": "favourite_2373986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449043_55f3a60cbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449043_6a6b785f66_o.png",
+      "id_image": "favourite_4001236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333961_e3cb89e03c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333961_e39ca45f0f_o.png",
+      "id_image": "favourite_4780253"
+    }
+  ]
+}

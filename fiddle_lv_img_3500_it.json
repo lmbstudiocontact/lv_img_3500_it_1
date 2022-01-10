@@ -1,0 +1,136 @@
+{
+  "english": "fiddle",
+  "phat_am": "['fidl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đàn vi-ô-lông"
+        },
+        {
+          "m_full_vn": "(hàng hải) cái chốt chặn"
+        },
+        {
+          "m_full_vn": "(từ lóng) ngón lừa bịp; vố lừa bịp",
+          "list_one_mean": [
+            {
+              "id_full_en": "face as long as a fiddle",
+              "list_im": [
+                {
+                  "im_full_vn": "mặt buồn dài thườn thượt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fit as a fiddle",
+              "list_im": [
+                {
+                  "im_full_vn": "khoẻ như vâm, rất sung sức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hang up one's fiddle",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) ngừng làm việc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hang up one's fiddle when one comes home",
+              "list_im": [
+                {
+                  "im_full_vn": "ra ngoài thì tươi như hoa, về nhà thì mặt sưng mày sỉa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play first fiddle",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ vai trò chủ đạo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play second fiddle",
+              "list_im": [
+                {
+                  "im_full_vn": "ở địa vị phụ thuộc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kéo vi-ô-lông (bài gì)"
+        },
+        {
+          "m_full_vn": "( + away ) lãng phí, tiêu phí",
+          "list_en_vn": [
+            {
+              "full_en": "to fiddle away one's time",
+              "full_vn": "lãng phí thì giờ, làm vớ vẩn mất thì giờ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chơi vi-ô-lông"
+        },
+        {
+          "m_full_vn": "( (thường) + about , at , with ...) nghịch vớ vẩn, làm trò vớ vẩn",
+          "list_en_vn": [
+            {
+              "full_en": "to fiddle with a piece of string",
+              "full_vn": "nghịch vớ vẩn mẩu dây"
+            },
+            {
+              "full_en": "to fiddle about",
+              "full_vn": "đi vớ vẩn, đi chơi rong; ăn không ngồi rồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) lừa bịp"
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "vớ vẩn!"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445828_844506c038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445828_2aef6e3f5a_o.png",
+      "id_image": "fiddle_2128786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375602_37fc3148e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375602_9da5baf740_o.png",
+      "id_image": "fiddle_350449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445873_c266a0a9fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445873_390619eb25_o.png",
+      "id_image": "fiddle_352491"
+    }
+  ]
+}

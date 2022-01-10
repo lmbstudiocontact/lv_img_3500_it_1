@@ -1,0 +1,87 @@
+{
+  "english": "gloss",
+  "phat_am": "[glɔs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nước bóng, nước láng",
+          "list_en_vn": [
+            {
+              "full_en": "to take the gloss off",
+              "full_vn": "làm mất nước bóng, làm xỉn (vải...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vẻ hào nhoáng bề ngoài; bề ngoài giả dối"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bóng, làm láng (vật gì)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "che đậy, bưng bít",
+          "list_en_vn": [
+            {
+              "full_en": "to gloss over one's errors",
+              "full_vn": "che đậy sai lầm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lời chú thích, lời chú giải (giữa hai hàng chữ hoặc ở ngoài lề)"
+        },
+        {
+          "m_full_vn": "lời phê bình, lời phê phán"
+        },
+        {
+          "m_full_vn": "sự xuyên tạc lời nói của người khác"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chú thích, chú giải"
+        },
+        {
+          "m_full_vn": "phê bình, phê phán"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375762_eaf74c14f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375762_f3c834e727_o.png",
+      "id_image": "gloss_1414921"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067900_b49c100227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067900_c90f5600f7_o.png",
+      "id_image": "gloss_372169"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686159_68c3c4a0d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686159_a5d26384e7_o.png",
+      "id_image": "gloss_545102"
+    }
+  ]
+}

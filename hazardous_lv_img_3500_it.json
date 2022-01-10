@@ -1,0 +1,41 @@
+{
+  "english": "hazardous",
+  "phat_am": "['hæzədəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mạo hiểm; nguy hiểm",
+          "list_en_vn": [
+            {
+              "full_en": "hazardous work , circumstances",
+              "full_vn": "công việc, tình huống nguy hiểm"
+            },
+            {
+              "full_en": "solo flights are really hazardous",
+              "full_vn": "những chuyến bay một mình quả là mạo hiểm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387932_4d629b9249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387932_76ae0d5302_o.png",
+      "id_image": "hazardous_2959556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387882_245972a728_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387882_737c088986_o.png",
+      "id_image": "hazardous_4310556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342881_3c18d16af2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342881_a366aa5e5e_o.png",
+      "id_image": "hazardous_4694746"
+    }
+  ]
+}

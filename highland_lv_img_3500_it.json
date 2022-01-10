@@ -1,0 +1,45 @@
+{
+  "english": "highland",
+  "phat_am": "['hailænd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần núi non của một nước"
+        },
+        {
+          "m_full_vn": "( the Highlands ) vùng cao nguyên của xứ Xcốtlen"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về hoặc ở trong vùng núi, vùng cao"
+        },
+        {
+          "m_full_vn": "( Highland ) thuộc về hoặc ở vùngcao nguyên xứ Xcốtlen",
+          "list_en_vn": [
+            {
+              "full_en": "Highland cattle",
+              "full_vn": "gia súc vùng cao nguyên Xcốtlen"
+            },
+            {
+              "full_en": "Highland dress",
+              "full_vn": "áo quần vùng cao nguyên Xcốtlen"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074470_dc45560344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074470_d307fe9c21_o.png",
+      "id_image": "highland_5293869"
+    }
+  ]
+}

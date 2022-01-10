@@ -1,0 +1,39 @@
+{
+  "english": "inauguration",
+  "phat_am": "[i,nɔ:gju'rei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hành động) nhậm chức hoặc được tấn phong; lễ tấn phong; lễ nhậm chức",
+          "list_en_vn": [
+            {
+              "full_en": "the President's inauguration",
+              "full_vn": "Lễ tấn phong Tổng thống"
+            },
+            {
+              "full_en": "the President's inauguration speech",
+              "full_vn": "diễn văn nhậm chức của Tổng thống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lễ khai mạc; sự khánh thành"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365057_14928f241a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365057_f1518f8063_o.png",
+      "id_image": "inauguration_2034068"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365032_963e972466_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365032_f02199ca28_o.png",
+      "id_image": "inauguration_2474913"
+    }
+  ]
+}

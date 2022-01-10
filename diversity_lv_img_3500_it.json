@@ -1,0 +1,37 @@
+{
+  "english": "diversity",
+  "phat_am": "[dai'və:siti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính đa dạng",
+          "list_en_vn": [
+            {
+              "full_en": "diversity of the national economy",
+              "full_vn": "tính đa dạng của nền kinh tế quốc gia"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668089_d71ed7b4d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668089_3494e89d4b_o.png",
+      "id_image": "diversity_4177183"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313286_69cb7fe32c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313286_f5fd973454_o.png",
+      "id_image": "diversity_4785368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357222_14972ab737_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357222_aa257d31ab_o.png",
+      "id_image": "diversity_4797106"
+    }
+  ]
+}

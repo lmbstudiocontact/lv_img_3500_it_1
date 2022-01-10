@@ -1,0 +1,74 @@
+{
+  "english": "litter",
+  "phat_am": "['litə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rác rưởi bừa bãi",
+          "list_en_vn": [
+            {
+              "full_en": "please do not leave litter",
+              "full_vn": "xin đừng vứt rác bừa bãi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ổ rơm (cho súc vật)"
+        },
+        {
+          "m_full_vn": "lượt rơm phủ lên cây non"
+        },
+        {
+          "m_full_vn": "rơm trộn phân; phân chuồng"
+        },
+        {
+          "m_full_vn": "lứa đẻ (chó, mèo, lợn)"
+        },
+        {
+          "m_full_vn": "kiệu, cáng (để khiêng người bệnh, người bị thương)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rải ổ (cho súc vật)"
+        },
+        {
+          "m_full_vn": "vứt rác rưởi bừa bãi lên; bày bừa lên"
+        },
+        {
+          "m_full_vn": "đẻ (chó, mèo, lợn...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đẻ (chó, mèo, lợn...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384437_55e30ea30f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384437_d4f64074ae_o.png",
+      "id_image": "litter_1435377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694714_5015d1d762_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694714_245d911525_o.png",
+      "id_image": "litter_2372036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339456_67cd1d0d71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339456_00d553d4f0_o.png",
+      "id_image": "litter_5793689"
+    }
+  ]
+}

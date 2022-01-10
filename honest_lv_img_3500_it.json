@@ -1,0 +1,99 @@
+{
+  "english": "honest",
+  "phat_am": "['ɔnist]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thật thà, lương thiện, thành thật, chân thật",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make an honest woman of someone",
+              "list_im": [
+                {
+                  "im_full_vn": "cưới xin tử tế một người đàn bà sau khi đã chung chạ với nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be honest",
+              "list_im": [
+                {
+                  "im_full_vn": "thực ra mà nói, thành thực mà nói, nói cho ngay",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Honest to God (to be honest ), I don't think that he is so good at French",
+                      "full_vn": "thành thực mà nói, tôi không nghĩ rằng nó giỏi tiếng Pháp đến như vậy"
+                    },
+                    {
+                      "full_en": "to be honest , I have never known him",
+                      "full_vn": "thực ra mà nói (nói đúng ra), tôi chưa hề biết hắn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "an honest witness /businessman",
+              "full_vn": "một nhân chứng/doanh nhân trung thực"
+            },
+            {
+              "full_en": "to give an honest opinion",
+              "full_vn": "đưa ra ý kiến thành thật"
+            },
+            {
+              "full_en": "to make an honest living ; to earn /turn an honest penny",
+              "full_vn": "kiếm sống một cách lương thiện"
+            },
+            {
+              "full_en": "Do you like my dress ? Please be honest !",
+              "full_vn": "Anh có thích chiếc áo dài của em hay không? Nói thật đi!"
+            },
+            {
+              "full_en": "an honest face",
+              "full_vn": "một khuôn mặt thật thà"
+            },
+            {
+              "full_en": "she's never done an honest day's work in her life",
+              "full_vn": "suốt đời chưa có ngày nào cô ta làm việc một cách trung thực"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thật, thành thực",
+          "list_en_vn": [
+            {
+              "full_en": "It wasn't me , honest !",
+              "full_vn": "không phải tôi đâu, nói thật đấy!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070915_9b4fffb9b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070915_9f702a2825_o.png",
+      "id_image": "honest_2191199"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688974_f6180228c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688974_15a829818a_o.png",
+      "id_image": "honest_5201836"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378742_256aabb086_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378742_1d987e1951_o.png",
+      "id_image": "honest_5906055"
+    }
+  ]
+}

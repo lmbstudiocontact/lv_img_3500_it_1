@@ -1,0 +1,80 @@
+{
+  "english": "finance",
+  "phat_am": "['fainæns; fi'næns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tài chính",
+          "list_en_vn": [
+            {
+              "full_en": "joint-stock finance company",
+              "full_vn": "công ty tài chính cổ phần"
+            },
+            {
+              "full_en": "the Finance Department",
+              "full_vn": "Bộ tài chính"
+            },
+            {
+              "full_en": "Minister of Finance",
+              "full_vn": "Bộ trưởng tài chính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) của cải; vốn liếng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cấp tiền cho, bỏ vốn cho, tài trợ",
+          "list_en_vn": [
+            {
+              "full_en": "to finance a charity",
+              "full_vn": "tài trợ cho một tổ chức từ thiện"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm công tác tài chính, hoạt động trong ngành tài chính"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683549_1cf23974f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683549_7a747e1465_o.png",
+      "id_image": "finance_5695781"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065235_c9dd67721e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065235_aa27614bc2_o.png",
+      "id_image": "finance_5695834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328366_a05af368b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328366_9b34a57e4e_o.png",
+      "id_image": "finance_5695846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443358_7295295a46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443358_73860d0b69_o.png",
+      "id_image": "finance_5695911"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443323_1d7f21c217_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443323_8152861c8b_o.png",
+      "id_image": "finance_6000832"
+    }
+  ]
+}

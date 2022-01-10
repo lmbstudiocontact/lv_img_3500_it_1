@@ -1,0 +1,32 @@
+{
+  "english": "harmful",
+  "phat_am": "['hɑ:mful]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "gây tai hại, có hại",
+          "list_en_vn": [
+            {
+              "full_en": "smoking is harmful to health",
+              "full_vn": "hút thuốc có hại cho sức khoẻ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344256_93ea020157_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344256_9423d46a7b_o.png",
+      "id_image": "harmful_1970777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081665_f934d0f819_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081665_a33733a318_o.png",
+      "id_image": "harmful_3922393"
+    }
+  ]
+}

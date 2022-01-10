@@ -1,0 +1,53 @@
+{
+  "english": "efficiency",
+  "phat_am": "[i'fi∫ənsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hiệu lực, hiệu quả"
+        },
+        {
+          "m_full_vn": "năng lực, khả năng"
+        },
+        {
+          "m_full_vn": "năng suất, hiệu suất",
+          "list_en_vn": [
+            {
+              "full_en": "labour efficiency",
+              "full_vn": "năng suất lao động"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064710_0f7da9c7e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064710_908a831be5_o.png",
+      "id_image": "efficiency_1599824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442998_c0066a0fe3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442998_f29a61d334_o.png",
+      "id_image": "efficiency_2112386"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683104_36039ce4bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683104_8efde4b02a_o.png",
+      "id_image": "efficiency_408332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372662_6025aefa3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372662_9cdbb99e1b_o.png",
+      "id_image": "efficiency_4371226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064560_0f22a9639b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064560_b0fb173d5f_o.png",
+      "id_image": "efficiency_4729440"
+    }
+  ]
+}

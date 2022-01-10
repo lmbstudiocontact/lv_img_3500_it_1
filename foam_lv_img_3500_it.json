@@ -1,0 +1,64 @@
+{
+  "english": "foam",
+  "phat_am": "[foum]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bọt (nước biển, bia...)"
+        },
+        {
+          "m_full_vn": "bọt nước dãi, bọt mồ hôi (ở ngựa...)"
+        },
+        {
+          "m_full_vn": "(thơ ca) biển"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sủi bọt, có bọt",
+          "list_en_vn": [
+            {
+              "full_en": "to foam at the mouth",
+              "full_vn": "sùi bọt mép; tức sùi bọt mép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầy rượu, sủi bọt (cốc)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055165_2e84ea2901_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055165_9f5fd423aa_o.png",
+      "id_image": "foam_280081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363057_c7073fd391_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363057_da0d55b6a3_o.png",
+      "id_image": "foam_3035194"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055060_d55e67c2e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055060_68e48c7297_o.png",
+      "id_image": "foam_3959087"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318561_e5c7f69166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318561_28d9dd3068_o.png",
+      "id_image": "foam_456666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055110_1a488b8f99_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055110_58aca5f9a7_o.png",
+      "id_image": "foam_534216"
+    }
+  ]
+}

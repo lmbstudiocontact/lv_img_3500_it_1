@@ -1,0 +1,60 @@
+{
+  "english": "marathon",
+  "phat_am": "['mærəθən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) cuộc chạy đua đường dài (khoảng 42 km hoặc 26 dặm); cuộc đua ma-ra-tông",
+          "list_en_vn": [
+            {
+              "full_en": "I've never run a marathon",
+              "full_vn": "tôi chưa bao giờ chạy ma-ra-tông"
+            },
+            {
+              "full_en": "she won the gold medal in the women's marathon at this year's Olympic Games",
+              "full_vn": "cô ta đã đoạt huy chương vàng trong cuộc chạy đua ma-ra-tông dành cho phụ nữ tại Đại hội thể thao Ôlympic năm nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một sự kiện kéo dài, khó có thể chịu đựng được",
+          "list_one_mean": [
+            {
+              "id_full_en": "marathon teach-in",
+              "list_im": [
+                {
+                  "im_full_vn": "một cuộc hội thảo trường kỳ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "my job interview was real marathon",
+              "full_vn": "cuộc phỏng vấn xin việc của tôi quả là một cuộc đua ma-ra-tông"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368832_ff2322d19c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368832_9322e4bbf2_o.png",
+      "id_image": "marathon_3708022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060795_3984e208e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060795_5777a35ae9_o.png",
+      "id_image": "marathon_3965879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368762_d0e4ce032a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368762_60a7c723b2_o.png",
+      "id_image": "marathon_5200936"
+    }
+  ]
+}

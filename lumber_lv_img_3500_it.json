@@ -1,0 +1,82 @@
+{
+  "english": "lumber",
+  "phat_am": "['lʌmbə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gỗ xẻ, gỗ làm nhà"
+        },
+        {
+          "m_full_vn": "đồ kềnh càng; đồ bỏ đi; đồ tập tàng"
+        },
+        {
+          "m_full_vn": "đống lộn xộn"
+        },
+        {
+          "m_full_vn": "mỡ thừa (trong người)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất đống bề bộn, để ngổn ngang, để lộn xộn",
+          "list_en_vn": [
+            {
+              "full_en": "a room lumbered with all sorts of rubbish",
+              "full_vn": "phòng chất đống mọi loại đồ tập tàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chứa chất (những cái vô ích)",
+          "list_en_vn": [
+            {
+              "full_en": "mind lumbered up with useless facts",
+              "full_vn": "trí óc chứa chất toàn những sự kiện vô ích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đốn gỗ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lumber by (past )",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo lê ầm ầm, kéo lết ì ạch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the heavy lorries lumbered by",
+                      "full_vn": "những chiếc xe tải nặng nề ầm ầm lết qua"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447843_5dbc253b10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447843_6e3dc093d2_o.png",
+      "id_image": "lumber_2559448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447798_7bb0f92faa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447798_d250367b70_o.png",
+      "id_image": "lumber_4104463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447748_6237740171_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447748_ebe25291ee_o.png",
+      "id_image": "lumber_4251853"
+    }
+  ]
+}

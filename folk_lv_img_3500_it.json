@@ -1,0 +1,80 @@
+{
+  "english": "folk",
+  "phat_am": "[fouk]",
+  "list_type": [
+    {
+      "type": "danh từ (dùng với động từ ở số nhiều)",
+      "list_m": [
+        {
+          "m_full_vn": "công chúng nói chung, người",
+          "list_en_vn": [
+            {
+              "full_en": "old folk (s) tend to be nostalgic",
+              "full_vn": "người già có khuynh hướng hoài cổ"
+            },
+            {
+              "full_en": "country folk",
+              "full_vn": "người nông thôn"
+            },
+            {
+              "full_en": "người thành thị",
+              "full_vn": "townsfolk"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(được dùng với mọi người khi nói chuyện thân mật)",
+          "list_en_vn": [
+            {
+              "full_en": "well , folks , what shall we have for breakfast ?",
+              "full_vn": "nào các cậu, ta sẽ ăn điểm tâm món gì đây?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (thông tục) người thân thuộc",
+          "list_en_vn": [
+            {
+              "full_en": "one's folks",
+              "full_vn": "họ hàng thân thuộc"
+            },
+            {
+              "full_en": "the old folks at home",
+              "full_vn": "cha mẹ ông bà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) dân tộc, dân gian",
+          "list_one_mean": [
+            {
+              "id_full_en": "idle folks lack no excuses",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) người lười không thiếu lý do để lười"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054280_0efa6152f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054280_48d22e0f4f_o.png",
+      "id_image": "folk_122858"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317706_879d02494a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317706_dee7e301e7_o.png",
+      "id_image": "folk_352280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362072_ee40160b17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362072_c518bbf49e_o.png",
+      "id_image": "folk_352315"
+    }
+  ]
+}

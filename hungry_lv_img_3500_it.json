@@ -1,0 +1,73 @@
+{
+  "english": "hungry",
+  "phat_am": "['hʌηgri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đói, cảm thấy đói, ra vẻ đói ăn",
+          "list_en_vn": [
+            {
+              "full_en": "as hungry as a hunter",
+              "full_vn": "đói cào ruột"
+            },
+            {
+              "full_en": "a lean and hungry look",
+              "full_vn": "vẻ gầy còm đói ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho thấy đói, gợi thèm (ăn)",
+          "list_en_vn": [
+            {
+              "full_en": "a hungry air",
+              "full_vn": "vẻ gợi cho người ta thèm khát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) khao khát, thèm khát, ham muốn",
+          "list_en_vn": [
+            {
+              "full_en": "hungry for affection",
+              "full_vn": "thèm khát tình yêu thương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xấu, khô cằn",
+          "list_en_vn": [
+            {
+              "full_en": "hungry soil",
+              "full_vn": "đất xấu, đất khô cằn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327566_21ee51bdf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327566_61a3432c89_o.png",
+      "id_image": "hungry_3220703"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442538_bcc7ba94fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442538_ab318a3d1e_o.png",
+      "id_image": "hungry_3255702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442483_57ca38081c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442483_d411e0ab5f_o.png",
+      "id_image": "hungry_4138780"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682569_44fcc7b7c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682569_bf62b6f2af_o.png",
+      "id_image": "hungry_5046973"
+    }
+  ]
+}

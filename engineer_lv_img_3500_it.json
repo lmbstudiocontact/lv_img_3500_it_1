@@ -1,0 +1,89 @@
+{
+  "english": "engineer",
+  "phat_am": "[,endʒi'niə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người thiết kế, xây dựng hoặc bảo hành động cơ, máy móc, đường ray, hầm mỏ....; kỹ sư",
+          "list_en_vn": [
+            {
+              "full_en": "a civil /mining /electrical /mechanical engineer",
+              "full_vn": "kỹ sư xây dựng/mỏ/điện/cơ khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người có tay nghề điều hành một hoặc nhiều máy, nhất là trên tàu thủy hoặc máy bay",
+          "list_en_vn": [
+            {
+              "full_en": "the chief engineer on a cruise liner",
+              "full_vn": "máy trưởng trên chiếc tàu biển chở khách du lịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như engine-driver"
+        },
+        {
+          "m_full_vn": "quân nhân được huấn luyện để thiết kế và xây dựng các công trình quân sự; công binh",
+          "list_en_vn": [
+            {
+              "full_en": "He's in the Royal Engineers",
+              "full_vn": "Anh ấy thuộc lực lượng công binh hoàng gia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắp đặt hoặc gây ra cái gì, nhất là bằng cách bí mật hoặc xảo quyệt",
+          "list_en_vn": [
+            {
+              "full_en": "his enemies engineered his downfall",
+              "full_vn": "kẻ thù của anh ta đã gây ra sự suy sụp của anh ta"
+            },
+            {
+              "full_en": "to engineer a plot , scheme , revolt",
+              "full_vn": "sắp đặt một âm mưu, kế hoạch, cuộc nổi loạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xây dựng hoặc điều hành cái gì với tư cách kỹ sư"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363907_a50d2a7a76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363907_baf5d001fa_o.png",
+      "id_image": "engineer_1983204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434498_6f7ae78db3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434498_276ee18723_o.png",
+      "id_image": "engineer_313079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319316_fd921fd59a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319316_c2621e80e7_o.png",
+      "id_image": "engineer_783002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363962_084b0c6c0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363962_43f1258516_o.png",
+      "id_image": "engineer_786810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674154_c9d0f76073_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674154_904489cf81_o.png",
+      "id_image": "engineer_875291"
+    }
+  ]
+}

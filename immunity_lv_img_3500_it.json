@@ -1,0 +1,45 @@
+{
+  "english": "immunity",
+  "phat_am": "[i'mju:niti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự miễn, sự được miễn",
+          "list_en_vn": [
+            {
+              "full_en": "immunity from taxation",
+              "full_vn": "sự được miễn thuế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) sự miễn dịch"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437213_9025a5cca4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437213_667024806f_o.png",
+      "id_image": "immunity_3159999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677069_909f08cb1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677069_c273142290_o.png",
+      "id_image": "immunity_4328874"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677024_a2733172d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677024_3ef94ea8d2_o.png",
+      "id_image": "immunity_4745660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366842_43e0aef9b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366842_1625864dfa_o.png",
+      "id_image": "immunity_5133591"
+    }
+  ]
+}

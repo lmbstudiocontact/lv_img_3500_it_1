@@ -1,0 +1,177 @@
+{
+  "english": "glass",
+  "phat_am": "[glɑ:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kính; thuỷ tinh",
+          "list_en_vn": [
+            {
+              "full_en": "to cut oneself on broken glass",
+              "full_vn": "đứt tay vì kính vỡ"
+            },
+            {
+              "full_en": "reinforced , toughened , frosted glass",
+              "full_vn": "kính được gia cố bằng sợi kim loại, kính không vỡ, kính mờ"
+            },
+            {
+              "full_en": "sheet of glass ; pane of glass",
+              "full_vn": "tấm kính; ô cửa kính"
+            },
+            {
+              "full_en": "as smooth as glass",
+              "full_vn": "nhẵn như kính"
+            },
+            {
+              "full_en": "glass jars",
+              "full_vn": "những cái bình bằng thủy tinh"
+            },
+            {
+              "full_en": "glass factory",
+              "full_vn": "nhà máy thủy tinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái cốc, cái ly (bằng thủy tinh)",
+          "list_en_vn": [
+            {
+              "full_en": "a beer , brandy , whisky glass",
+              "full_vn": "cốc bia, rượu mạnh, rượu uytky"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lượng chứa trong cốc",
+          "list_en_vn": [
+            {
+              "full_en": "Could I have a glass of boiling water , please ?",
+              "full_vn": "Làm ơn cho tôi một cốc nước sôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cốc chén và các đồ làm bằng thủy tinh",
+          "list_en_vn": [
+            {
+              "full_en": "all our glass and china is kept in the cupboard",
+              "full_vn": "tất cả cốc chén thủy tinh và đồ sứ của chúng tôi đều đặt trong tủ ly"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gương soi ( (cũng) looking-glass )",
+          "list_en_vn": [
+            {
+              "full_en": "he looked in the glass to check that his tie was straight",
+              "full_vn": "anh ấy nhìn vào gương xem cà vạt có ngay chưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the glass ) cái phong vũ biểu ( (cũng) weather glass )"
+        },
+        {
+          "m_full_vn": "( số nhiều) ống nhòm ( (cũng) field-glasses )"
+        },
+        {
+          "m_full_vn": "mặt kính (của đồng hồ, bức tranh...)",
+          "list_en_vn": [
+            {
+              "full_en": "in case of emergency , break the glass and press the button",
+              "full_vn": "trong trường hợp khẩn cấp, hãy đập vỡ mặt kính và nhấn nút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) kính đeo mắt ( (cũng) spectacles )",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have had a glass too much",
+              "list_im": [
+                {
+                  "im_full_vn": "quá chén"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to raise one's glass to sb",
+              "list_im": [
+                {
+                  "im_full_vn": "nâng cốc chúc mừng ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look through blue glasses",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn (sự việc...) một cách bi quan yếm thế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look through green glasses",
+              "list_im": [
+                {
+                  "im_full_vn": "thèm muốn, ghen tức"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he doesn't like to wear glasses",
+              "full_vn": "ông ấy không thích đeo kính"
+            },
+            {
+              "full_en": "a new pair of glasses",
+              "full_vn": "cặp kính mới"
+            },
+            {
+              "full_en": "dark glasses ; reading glasses ; long-distance glasses",
+              "full_vn": "kính râm; kính đọc sách; kính nhìn xa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lắp kính, lồng kính",
+          "list_en_vn": [
+            {
+              "full_en": "to glass a window",
+              "full_vn": "lắp kính vào cửa sổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phản chiếu; soi mình",
+          "list_en_vn": [
+            {
+              "full_en": "trees glass themselves in the lake",
+              "full_vn": "cây soi mình trên mặt hồ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331841_87b4bbd337_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331841_1320ac34af_o.png",
+      "id_image": "glass_1473252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376557_249d02d4a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376557_4e262033fa_o.png",
+      "id_image": "glass_3349345"
+    }
+  ]
+}

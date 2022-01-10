@@ -1,0 +1,45 @@
+{
+  "english": "feedback",
+  "phat_am": "['fi:dbæk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thông tin phản hồi; ý kiến phản hồi",
+          "list_en_vn": [
+            {
+              "full_en": "We need more feedback from the consumer in order to improve our goods",
+              "full_vn": "Chúng tôi cần thêm thông tin phản hồi từ phía người tiêu dùng để cải tiến hàng hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự quay lại của một phần đầu ra của hệ thống để trở về gốc của nó, nhất là để điều chỉnh đầu ra; sự hoàn ngược; sự hồi tiếp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069585_5d226c9586_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069585_1004a6f2d4_o.png",
+      "id_image": "feedback_2665141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447938_7ba7a0eb89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447938_136c33ecfe_o.png",
+      "id_image": "feedback_537039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687829_cfc1b52fce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687829_94de0b45a9_o.png",
+      "id_image": "feedback_813328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069620_7369c51195_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069620_bb4f6b1b63_o.png",
+      "id_image": "feedback_813357"
+    }
+  ]
+}

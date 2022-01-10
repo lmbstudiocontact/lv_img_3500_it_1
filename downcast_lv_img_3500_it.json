@@ -1,0 +1,44 @@
+{
+  "english": "downcast",
+  "phat_am": "['daunkɑ:st]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cúi xuống, nhìn xuống",
+          "list_en_vn": [
+            {
+              "full_en": "with downcast eyes",
+              "full_vn": "mắt nhìn xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chán nản, nản lòng, thất vọng",
+          "list_en_vn": [
+            {
+              "full_en": "never be downcast",
+              "full_vn": "không bao giờ nên chán nản thất vọng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lò thông hơi (ở mỏ) ( (cũng) downcast shaft )"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307591_547483644f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307591_ca24e99202_o.png",
+      "id_image": "downcast_4126518"
+    }
+  ]
+}

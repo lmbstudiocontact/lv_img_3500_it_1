@@ -1,0 +1,142 @@
+{
+  "english": "dock",
+  "phat_am": "[dɔk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) giống cây chút chít"
+        },
+        {
+          "m_full_vn": "khấu đuôi (ngựa...)"
+        },
+        {
+          "m_full_vn": "dây đuôi (dây yên buộc vào khâu đuôi ngựa)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cắt ngắn (đuôi, tóc); cắt đuôi (súc vật); cắt tóc (người)"
+        },
+        {
+          "m_full_vn": "cắt bớt, giảm bớt, hạn chế bớt; tước mất",
+          "list_en_vn": [
+            {
+              "full_en": "to dock wages",
+              "full_vn": "cắt bớt lương"
+            },
+            {
+              "full_en": "to dock supplies",
+              "full_vn": "cắt bớt tiếp tế"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vũng tàu đậu",
+          "list_en_vn": [
+            {
+              "full_en": "wet dock",
+              "full_vn": "vũng tàu thông với biển"
+            },
+            {
+              "full_en": "dry dock ; graving dock",
+              "full_vn": "xưởng sửa chữa tàu, xưởng đóng tàu (ở vũng tàu đã rút cạn nước)"
+            },
+            {
+              "full_en": "floating dock",
+              "full_vn": "xưởng chữa tàu nổi, xưởng đóng tàu nổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ Mỹ,nghĩa Mỹ) bến tàu"
+        },
+        {
+          "m_full_vn": "( số nhiều) xưởng chữa tàu, xưởng đóng tàu"
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) ga cuối cùng (của một tuyến đường)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (quân sự), (từ lóng) bệnh viện quân y",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in dry dock",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) đang được chữa"
+                },
+                {
+                  "im_full_vn": "(thông tục) thất nghiệp, không có việc làm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đưa (tàu) vào vũng tàu, đưa (tàu) vào bến"
+        },
+        {
+          "m_full_vn": "xây dựng vũng tàu, xây dựng bến tàu (ở nơi nào)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vào vũng tàu, vào bến tàu"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghế dành cho bị cáo (ở toà án)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312161_25dd4997ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312161_0bc1230480_o.png",
+      "id_image": "dock_1670289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667049_70062b6950_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667049_5fcaec1074_o.png",
+      "id_image": "dock_2005814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048720_96ca3b5b09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048720_220dc8ccf1_o.png",
+      "id_image": "dock_3103619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356152_d84756f955_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356152_bc97162a48_o.png",
+      "id_image": "dock_3393600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048665_0041667e9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048665_2bbcd7ba1f_o.png",
+      "id_image": "dock_6147173"
+    }
+  ]
+}

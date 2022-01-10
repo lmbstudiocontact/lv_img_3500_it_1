@@ -1,0 +1,96 @@
+{
+  "english": "judgment",
+  "phat_am": "['dʒʌdʒmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xét xử",
+          "list_en_vn": [
+            {
+              "full_en": "to pass (give , render ) judgment on someone",
+              "full_vn": "xét xử ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyết định của toà; phán quyết, án",
+          "list_en_vn": [
+            {
+              "full_en": "the last judgment",
+              "full_vn": "(tôn giáo) phán quyết cuối cùng (của Chúa)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự trừng phạt, sự trừng trị; điều bất hạnh (coi (như) sự trừng phạt của trời)",
+          "list_en_vn": [
+            {
+              "full_en": "your failure is a judgment on you for being so lazy",
+              "full_vn": "sự thất bại của anh là một trừng phạt đối với cái tội lười biếng của anh đấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phê bình, sự chỉ trích"
+        },
+        {
+          "m_full_vn": "ý kiến, cách nhìn, sự đánh giá",
+          "list_en_vn": [
+            {
+              "full_en": "in my judgment",
+              "full_vn": "theo ý kiến tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "óc phán đoán, sức phán đoán, óc suy xét; lương tri",
+          "list_one_mean": [
+            {
+              "id_full_en": "to sit in judgment",
+              "list_im": [
+                {
+                  "im_full_vn": "tự cho mình quyền phân xử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "against one's better judgment",
+              "list_im": [
+                {
+                  "im_full_vn": "dú thấy như vậy là ngu ngốc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to reserve one's judgment on sth",
+              "list_im": [
+                {
+                  "im_full_vn": "phán đoán một cách dè dặt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to show good judgment",
+              "full_vn": "tỏ ra có óc suy xét"
+            },
+            {
+              "full_en": "a man of sound judgment",
+              "full_vn": "người có óc suy xét chắc chắn; người biết suy xét"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376342_832db08024_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376342_107d571e03_o.png",
+      "id_image": "judgment_5411061"
+    }
+  ]
+}

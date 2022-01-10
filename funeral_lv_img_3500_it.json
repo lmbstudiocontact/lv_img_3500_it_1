@@ -1,0 +1,74 @@
+{
+  "english": "funeral",
+  "phat_am": "['fju:nərəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) sự chôn cất, dùng trong sự chôn cất; (thuộc) đám tang; dùng trong đám tang",
+          "list_en_vn": [
+            {
+              "full_en": "a funeral pile (pyre )",
+              "full_vn": "giàn thiêu (xác người chết)"
+            },
+            {
+              "full_en": "a funeral oration",
+              "full_vn": "bài điếu văn"
+            },
+            {
+              "full_en": "funeral march",
+              "full_vn": "nhạc tang lễ"
+            },
+            {
+              "full_en": "funeral procession",
+              "full_vn": "đoàn người đưa tang; đám tang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lễ tang; sự chôn cất"
+        },
+        {
+          "m_full_vn": "đám tang; đoàn người đưa ma"
+        },
+        {
+          "m_full_vn": "(thông tục) việc phiền toái; việc riêng",
+          "list_en_vn": [
+            {
+              "full_en": "that's your funeral",
+              "full_vn": "đó là việc riêng của anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342101_00010a9e93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342101_79b0dd8c40_o.png",
+      "id_image": "funeral_1699157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387067_c0d7c908b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387067_42f0b3ef88_o.png",
+      "id_image": "funeral_3768607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697189_aa0f3bd55a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697189_f2cf4b2b41_o.png",
+      "id_image": "funeral_5826070"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079390_f10d7c06ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079390_7ce1318158_o.png",
+      "id_image": "funeral_6000833"
+    }
+  ]
+}

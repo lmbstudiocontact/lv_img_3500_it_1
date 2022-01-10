@@ -1,0 +1,64 @@
+{
+  "english": "environment",
+  "phat_am": "[in'vaiərənmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều kiện, hoàn cảnh tác động đến đời sống của mọi người; môi trường",
+          "list_en_vn": [
+            {
+              "full_en": "an unhappy home environment can affect a child's behaviour",
+              "full_vn": "môi trường gia đình không hạnh phúc có thể tác hại đến hành vi của trẻ con"
+            },
+            {
+              "full_en": "a noisy smoke-filled room is not the best environment to work in",
+              "full_vn": "căn phòng ồn ào quyện khói thuốc không phải là môi trường tốt nhất để làm việc trong đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the environment ) điều kiện thiên nhiên (không khí, nước, đất đai tásông trong đó); môi sinh",
+          "list_en_vn": [
+            {
+              "full_en": "pollution of environment",
+              "full_vn": "sự ô nhiễm môi sinh"
+            },
+            {
+              "full_en": "the Department of the Environment",
+              "full_vn": "Bộ môi trường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672079_e15a927f69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672079_3af025fcfc_o.png",
+      "id_image": "environment_1075063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361667_e2b0ae6a66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361667_72573585d9_o.png",
+      "id_image": "environment_1530449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361782_82a8c59242_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361782_b0a1d273fe_o.png",
+      "id_image": "environment_471515"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053865_8f4c6493e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053865_20a86311bf_o.png",
+      "id_image": "environment_860463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053815_d2c1229d04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053815_e44492f1f5_o.png",
+      "id_image": "environment_992266"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "economic",
+  "phat_am": "[,i:kə'nɔmik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "về kinh tế chính trị hay về nền kinh tế",
+          "list_en_vn": [
+            {
+              "full_en": "the government's economic policy",
+              "full_vn": "chính sách kinh tế của chính phủ"
+            },
+            {
+              "full_en": "economic growth",
+              "full_vn": "sự tăng trưởng kinh tế"
+            },
+            {
+              "full_en": "economic sanctions",
+              "full_vn": "những biện pháp trừng phạt về kinh tế; những chế tài về kinh tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có liên quan đến thương mại và công nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "economic geography",
+              "full_vn": "địa lý kinh tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được hoạch định để mang lại lợi tức",
+          "list_en_vn": [
+            {
+              "full_en": "economic rent",
+              "full_vn": "việc cho thuê nhà có lời"
+            },
+            {
+              "full_en": "it's not always economic for buses to run on Sundays",
+              "full_vn": "không phải lúc nào xe búyt chạy vào chủ nhật là cũng có lời"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445983_ae14297f7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445983_d56b7acb3f_o.png",
+      "id_image": "economic_2361871"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375672_34fdfd8eb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375672_0665220f31_o.png",
+      "id_image": "economic_2719736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685944_891b66698e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685944_df98489c70_o.png",
+      "id_image": "economic_3310586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330936_3185184786_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330936_893674ce44_o.png",
+      "id_image": "economic_3310624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375537_8b4c5c0e11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375537_5832914f10_o.png",
+      "id_image": "economic_6203178"
+    }
+  ]
+}

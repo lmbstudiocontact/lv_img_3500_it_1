@@ -1,0 +1,63 @@
+{
+  "english": "distribute",
+  "phat_am": "[dis'tribju:t]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phân bổ, phân phối, phân phát",
+          "list_en_vn": [
+            {
+              "full_en": "to distribute letters",
+              "full_vn": "phát thư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rắc, rải",
+          "list_en_vn": [
+            {
+              "full_en": "to distribute manure over a field",
+              "full_vn": "rắc phân lên khắp cánh đồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sắp xếp, xếp loại, phân loại",
+          "list_en_vn": [
+            {
+              "full_en": "to distribute books into classes",
+              "full_vn": "sắp xếp sách thành loại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) bỏ (chữ in) (dỡ chữ xếp vào từng ô)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313946_80f02f17ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313946_4c9ae121f6_o.png",
+      "id_image": "distribute_1555844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358122_4c1e0f5be5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358122_fcc86172ee_o.png",
+      "id_image": "distribute_2844316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428873_91e5568a80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428873_334bfddb2b_o.png",
+      "id_image": "distribute_407809"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358207_c57cbba838_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358207_ec0d6c990c_o.png",
+      "id_image": "distribute_705358"
+    }
+  ]
+}

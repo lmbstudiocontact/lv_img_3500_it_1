@@ -1,0 +1,145 @@
+{
+  "english": "lord",
+  "phat_am": "[lɔ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chúa tể, vua",
+          "list_en_vn": [
+            {
+              "full_en": "lord of the manor",
+              "full_vn": "chủ trang viên"
+            },
+            {
+              "full_en": "lord of the region",
+              "full_vn": "chúa tể cả vùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vua (tư bản độc quyền nắm một ngành nào)",
+          "list_en_vn": [
+            {
+              "full_en": "steel lord",
+              "full_vn": "vua thép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "Chúa, Thiên chúa",
+          "list_en_vn": [
+            {
+              "full_en": "Lord bless us",
+              "full_vn": "cầu Chúa phù hộ chúng ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngài, tướng công (tiếng tôn xưng người quý tộc, người có chức tước lớn, thượng nghị viện...)",
+          "list_en_vn": [
+            {
+              "full_en": "My Lord",
+              "full_vn": "ngài, tướng công"
+            },
+            {
+              "full_en": "The Lords",
+              "full_vn": "các thượng nghị sĩ Anh, thượng nghị viện Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "huân tước"
+        },
+        {
+          "m_full_vn": "Lord quan chức cao cấp",
+          "list_en_vn": [
+            {
+              "full_en": "the First Lord of the Admiralty",
+              "full_vn": "bộ trưởng Bộ Hải quân Anh"
+            },
+            {
+              "full_en": "the Lord Mayor",
+              "full_vn": "ngài thị trưởng Luân Đôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thơ ca); (đùa cợt) đức ông chồng, đức lang quân ( (cũng) lord and master )",
+          "list_one_mean": [
+            {
+              "id_full_en": "drunk as a lord",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) drunk"
+                }
+              ]
+            },
+            {
+              "id_full_en": "good Lord !",
+              "list_im": [
+                {
+                  "im_full_vn": "trời ơi là trời!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Lord knows",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ có trời biết!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "year of our Lord",
+              "list_im": [
+                {
+                  "im_full_vn": "năm dương lịch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live like a lord",
+              "list_im": [
+                {
+                  "im_full_vn": "xem live"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phong tước, ban tước, cho vào hàng quý tộc"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "to lord it over sb khống chế, sai khiến, sai bảo; ra oai, làm ra vẻ bề trên, hống hách",
+          "list_en_vn": [
+            {
+              "full_en": "to be lorded over",
+              "full_vn": "bị khống chế, bị đè đầu cưỡi cổ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450463_bd50a428ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450463_6d3d07e167_o.png",
+      "id_image": "lord_1618858"
+    }
+  ]
+}

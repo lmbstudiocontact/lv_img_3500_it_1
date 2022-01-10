@@ -1,0 +1,260 @@
+{
+  "english": "late",
+  "phat_am": "[leit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chậm, muộn, trễ",
+          "list_en_vn": [
+            {
+              "full_en": "to be late for school",
+              "full_vn": "đi học trễ"
+            },
+            {
+              "full_en": "to be late for work",
+              "full_vn": "đi làm muộn"
+            },
+            {
+              "full_en": "late repentance",
+              "full_vn": "sự hối hận muộn mằn"
+            },
+            {
+              "full_en": "my flight was an hour late",
+              "full_vn": "chuyến bay của tôi chậm một giờ"
+            },
+            {
+              "full_en": "because of the cold weather , the crops are late this year",
+              "full_vn": "vì trời rét, năm nay thu hoạch muộn"
+            },
+            {
+              "full_en": "a late riser",
+              "full_vn": "người dậy muộn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đã chết, quá cố",
+          "list_en_vn": [
+            {
+              "full_en": "their late mother",
+              "full_vn": "người mẹ quá cố của họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cựu, nguyên",
+          "list_en_vn": [
+            {
+              "full_en": "the late chairman of the Board of Management attended the meeting",
+              "full_vn": "cựu chủ tịch hội đồng quản trị cũng đến dự cuộc họp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vào cuối ngày hoặc đêm, hoặc một thời gian hoặc một loạt...",
+          "list_en_vn": [
+            {
+              "full_en": "till a late hour",
+              "full_vn": "đến một thời điểm rất khuya"
+            },
+            {
+              "full_en": "the late twentieth century",
+              "full_vn": "cuối thế kỷ hai mươi"
+            },
+            {
+              "full_en": "in the late 1990s",
+              "full_vn": "cuối những năm 1990"
+            },
+            {
+              "full_en": "in late 1998",
+              "full_vn": "cuối năm 1998"
+            },
+            {
+              "full_en": "in the late afternoon",
+              "full_vn": "vào cuối buổi chiều"
+            },
+            {
+              "full_en": "in late summer",
+              "full_vn": "vào cuối mùa hè"
+            },
+            {
+              "full_en": "she married in her late twenties",
+              "full_vn": "cô ta lấy chồng vào cuối những năm tuổi hai mươi"
+            },
+            {
+              "full_en": "Beethoven's late quarters",
+              "full_vn": "những bản tứ tấu cuối đời của Beethoven"
+            },
+            {
+              "full_en": "a late Victorian house",
+              "full_vn": "một ngôi nhà có từ cuối thời nữ hoàng Victoria"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nhất là trong dạng so sánh cao nhất) gần đây, mới đây",
+          "list_one_mean": [
+            {
+              "id_full_en": "at the latest",
+              "list_im": [
+                {
+                  "im_full_vn": "chậm nhất là..., trễ nhất là....., muộn nhất là.....",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I have to finish this homework at midnight at the latest",
+                      "full_vn": "tôi phải làm xong bài tập này chậm nhất là vào lúc nửa đêm"
+                    },
+                    {
+                      "full_en": "passengers should check in one hour before their flight time at the latest",
+                      "full_vn": "hành khách phải làm thủ tục chậm nhất là một giờ trước khi bay"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a late night",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ngủ trễ, ngủ muộn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it's never too late to mend",
+              "list_im": [
+                {
+                  "im_full_vn": "phục thiện bản thân mình thì không lúc nào gọi là muộn cả"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "there were several clashes before the latest incident",
+              "full_vn": "đã có nhiều cuộc xung đột xảy ra trước vụ rắc rối gần đây nhất"
+            },
+            {
+              "full_en": "the latest craze /fashion /vogue",
+              "full_vn": "sự say mê/mốt/thời thượng mới nhất"
+            },
+            {
+              "full_en": "she always dressed in the latest fashion",
+              "full_vn": "cô ta luôn ăn mặc theo mốt mới nhất"
+            },
+            {
+              "full_en": "her latest novel",
+              "full_vn": "cuốn tiểu thuyết gần đây nhất của bà ta"
+            },
+            {
+              "full_en": "during the late political unrest",
+              "full_vn": "trong thời gian bất ổn về chính trị gần đây"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "muộn, trễ, chậm",
+          "list_en_vn": [
+            {
+              "full_en": "I sat up late last night",
+              "full_vn": "đêm qua tôi thức khuya"
+            },
+            {
+              "full_en": "to get up late",
+              "full_vn": "dậy trễ, dậy muộn"
+            },
+            {
+              "full_en": "to arrive home late",
+              "full_vn": "về nhà muộn"
+            },
+            {
+              "full_en": "late at night",
+              "full_vn": "vào lúc đêm khuya"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vào cuối một thời kỳ",
+          "list_one_mean": [
+            {
+              "id_full_en": "better late than never",
+              "list_im": [
+                {
+                  "im_full_vn": "muộn còn hơn không đến, có còn hơn không"
+                }
+              ]
+            },
+            {
+              "id_full_en": "late in the day",
+              "list_im": [
+                {
+                  "im_full_vn": "quá trễ, quá muộn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it is late in the day to say that you want to care for your mother , because she is no more",
+                      "full_vn": "bây giờ nói anh muốn lo cho mẹ thì đã quá muộn, vì mẹ đâu còn nữa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "sooner or later",
+              "list_im": [
+                {
+                  "im_full_vn": "trước sau gì cũng..., sớm muộn gì cũng....."
+                }
+              ]
+            },
+            {
+              "id_full_en": "later on",
+              "list_im": [
+                {
+                  "im_full_vn": "vào một thời điểm hoặc giai đoạn sau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a few days later on",
+                      "full_vn": "vài ngày sau đó"
+                    },
+                    {
+                      "full_en": "at first , things went well , but later on , we ran into trouble",
+                      "full_vn": "thoạt đầu mọi việc đều trôi chảy, nhưng về sau thì chúng tôi gặp rắc rối"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it happened late last century - in 1895, to be exact",
+              "full_vn": "chuyện này xảy ra vào cuối thế kỷ trước - đích xác là năm 1895"
+            },
+            {
+              "full_en": "as late as the 1950s tuberculosis was still a threat",
+              "full_vn": "mãi đến cuối thập niên 1950, bệnh lao phổi vẫn còn là một mối đe doạ"
+            },
+            {
+              "full_en": "he became an author quite late in life",
+              "full_vn": "mãi đến cuối đời ông ta mới trở thành một tác giả"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319946_40867f49a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319946_36a3074a2c_o.png",
+      "id_image": "late_5929501"
+    }
+  ]
+}

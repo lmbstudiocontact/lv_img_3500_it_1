@@ -1,0 +1,49 @@
+{
+  "english": "lemon",
+  "phat_am": "['lemən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cá bơn lêmon ( (cũng) lemon sole )"
+        },
+        {
+          "m_full_vn": "quả chanh; cây chanh"
+        },
+        {
+          "m_full_vn": "màu vàng nhạt"
+        },
+        {
+          "m_full_vn": "(từ lóng) cô gái vô duyên"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) vật vô dụng; người đoảng, người vô tích sự",
+          "list_en_vn": [
+            {
+              "full_en": "to hand someone a lemon",
+              "full_vn": "(từ lóng) cho ai một vật vô dụng; đánh lừa ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700944_0f46f276fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700944_597fc1febf_o.png",
+      "id_image": "lemon_1087449"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083445_e4177a6bc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083445_8e39de21e2_o.png",
+      "id_image": "lemon_258587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390892_dd77cbf1e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390892_3ed0267534_o.png",
+      "id_image": "lemon_952030"
+    }
+  ]
+}

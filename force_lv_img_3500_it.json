@@ -1,0 +1,265 @@
+{
+  "english": "force",
+  "phat_am": "[fɔ:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đơn vị đo sức gió",
+          "list_en_vn": [
+            {
+              "full_en": "a force 9 gale",
+              "full_vn": "cơn bão mạnh cấp 9"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sức; lực; sức mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "physical force",
+              "full_vn": "sức mạnh vật chất"
+            },
+            {
+              "full_en": "moral force",
+              "full_vn": "sức mạnh tinh thần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vũ lực, quyền lực; sự bắt buộc",
+          "list_en_vn": [
+            {
+              "full_en": "by force",
+              "full_vn": "bằng vũ lực bắt buộc"
+            },
+            {
+              "full_en": "by force of circumstances",
+              "full_vn": "do hoàn cảnh bắt buộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm người được tổ chức vì một mục đích cụ thể nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "a sales /labour force",
+              "full_vn": "lực lượng bán hàng/lao động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơ cấu có tổ chức của quân đội hoặc của những người được huấn luyện đặc biệt; lực lượng",
+          "list_en_vn": [
+            {
+              "full_en": "armed forces",
+              "full_vn": "lực lượng vũ trang; quân lực"
+            },
+            {
+              "full_en": "the people's police force",
+              "full_vn": "lực lượng công an nhân dân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ảnh hưởng, tác dụng; sức thuyết phục",
+          "list_en_vn": [
+            {
+              "full_en": "there is force in what you say",
+              "full_vn": "câu nói của anh có sức thuyết phục"
+            },
+            {
+              "full_en": "the force of an argument",
+              "full_vn": "sức thuyết phục của một lý lẽ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tác động mạnh mẽ, ấn tượng sâu sắc; sự sinh động",
+          "list_en_vn": [
+            {
+              "full_en": "to describe something with much force",
+              "full_vn": "tả cái gì rất sinh động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) hiệu lực",
+          "list_en_vn": [
+            {
+              "full_en": "the law remains in force",
+              "full_vn": "điều luật đó còn có hiệu lực"
+            },
+            {
+              "full_en": "to come into force",
+              "full_vn": "có hiệu lực"
+            },
+            {
+              "full_en": "to put an act in force",
+              "full_vn": "thi hành một đạo luật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý nghĩa",
+          "list_en_vn": [
+            {
+              "full_en": "the force of a clause",
+              "full_vn": "ý nghĩa của một điều khoản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) lực; (từ cổ,nghĩa cổ) năng lượng",
+          "list_one_mean": [
+            {
+              "id_full_en": "by force of",
+              "list_im": [
+                {
+                  "im_full_vn": "do nhờ, bằng cách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in great force",
+              "list_im": [
+                {
+                  "im_full_vn": "mạnh mẽ, sung sức"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "internal force",
+              "full_vn": "lực trong, nội lực"
+            },
+            {
+              "full_en": "external force",
+              "full_vn": "lực ngoài, ngoại lực"
+            },
+            {
+              "full_en": "conservation of force",
+              "full_vn": "(từ cổ,nghĩa cổ) sự bảo toàn năng lượng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dùng vũ lực đối với, bức hiếp, ép buộc, cưỡng ép, bắt buộc",
+          "list_en_vn": [
+            {
+              "full_en": "to force one's way into a house",
+              "full_vn": "dùng vũ lực xông vào nhà"
+            },
+            {
+              "full_en": "to force a statement out of somebody",
+              "full_vn": "bắt ai phải khai ra (tuyên bố) cái gì"
+            },
+            {
+              "full_en": "to force something upon somebody",
+              "full_vn": "ép buộc ai phải nhận cái gì"
+            },
+            {
+              "full_en": "to force a woman",
+              "full_vn": "hãm hiếp một người đàn bà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phá (cửa); bẻ (khoá)"
+        },
+        {
+          "m_full_vn": "(đánh bài) bắt, ép (phải đưa một quân nào ra)",
+          "list_en_vn": [
+            {
+              "full_en": "to force a card",
+              "full_vn": "làm cho phải lấy một lá bài nào đó (khi làm trò quỷ thuật bằng bài tẩy)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ép, gượng",
+          "list_en_vn": [
+            {
+              "full_en": "to force the pace",
+              "full_vn": "tăng tốc độ để ép đối phương chóng mệt (trong cuộc chạy thi)"
+            },
+            {
+              "full_en": "to force a word",
+              "full_vn": "dùng ép một từ"
+            },
+            {
+              "full_en": "to force a smile",
+              "full_vn": "gượng cười"
+            },
+            {
+              "full_en": "to force one's voice",
+              "full_vn": "ép giọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm (quả) chín gượng, làm chín sớm; làm (hoa) nở ép, làm nở sớm; thúc cho (cây) chóng lớn"
+        },
+        {
+          "m_full_vn": "thúc đẩy, đẩy tới",
+          "list_en_vn": [
+            {
+              "full_en": "to force a process",
+              "full_vn": "thúc đẩy một quá trình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cưỡng đoạt, chiếm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to force someone's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt ai phải hành động hơi sớm; buộc ai phải manh động"
+                },
+                {
+                  "im_full_vn": "bắt ai phải công nhận một chính sách"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to force something out of someone's hand",
+              "full_vn": "cưỡng đoạt cái gì ở tay ai"
+            },
+            {
+              "full_en": "to force an enemy stronghold",
+              "full_vn": "chiếm một đồn địch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052730_e26f893849_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052730_980b672f63_o.png",
+      "id_image": "force_1533964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670869_99f15e1227_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670869_b542bbe323_o.png",
+      "id_image": "force_4305267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431128_dc7818758b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431128_d67415e83a_o.png",
+      "id_image": "force_4542581"
+    }
+  ]
+}

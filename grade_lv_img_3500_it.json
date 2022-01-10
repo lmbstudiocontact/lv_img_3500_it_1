@@ -1,0 +1,142 @@
+{
+  "english": "grade",
+  "phat_am": "[greid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "như gradient"
+        },
+        {
+          "m_full_vn": "mức; loại; cấp",
+          "list_en_vn": [
+            {
+              "full_en": "a person's salary grade",
+              "full_vn": "mức lương của một người"
+            },
+            {
+              "full_en": "high-grade /low-grade civil servants",
+              "full_vn": "công chức cấp cao/thấp"
+            },
+            {
+              "full_en": "high-grade milk",
+              "full_vn": "sữa chất lượng cao"
+            },
+            {
+              "full_en": "Grade A potatoes are the best in quality",
+              "full_vn": "Khoai tây loại A là loại tốt nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) điểm số (của học sinh)",
+          "list_en_vn": [
+            {
+              "full_en": "to make the grade",
+              "full_vn": "đạt đủ điểm; đạt được tiêu chuẩn quy định"
+            },
+            {
+              "full_en": "on the up /down grade",
+              "full_vn": "đang phất lên/ sa sút (nói về việc kinh doanh...)"
+            },
+            {
+              "full_en": "pupils with 90% or more are awarded Grade A",
+              "full_vn": "học sinh đạt 90 % điểm số trở lên được xếp loại A"
+            },
+            {
+              "full_en": "she got excellent grades in her exams",
+              "full_vn": "cô ta đạt hạng ưu trong kỳ thi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trình độ (nhất là về (âm nhạc))",
+          "list_en_vn": [
+            {
+              "full_en": "He's got Violin Grade 6",
+              "full_vn": "anh ta đạt bậc 6 về vĩ cầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớp (trong hệ thống giáo dục)",
+          "list_en_vn": [
+            {
+              "full_en": "the fourth grade",
+              "full_vn": "lớp bốn"
+            },
+            {
+              "full_en": "my son's in the third grade",
+              "full_vn": "con trai tôi học lớp ba"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nông nghiệp) giống súc vật lai tạo (do lai giống địa phương với giống tốt hơn)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to grade something / somebody by something ) ( to grade something / somebody according to something ) ( to grade something / somebody from something to something ) xếp loại",
+          "list_en_vn": [
+            {
+              "full_en": "the potatoes are graded by /according to size",
+              "full_vn": "khoai tây được phân loại theo kích cỡ"
+            },
+            {
+              "full_en": "eggs are graded from small to extra-large",
+              "full_vn": "trứng được xếp loại từ nhỏ đến cực to"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chấm điểm (bài thi)",
+          "list_en_vn": [
+            {
+              "full_en": "the term papers have been graded",
+              "full_vn": "bài thi học kỳ đã được chấm điểm"
+            },
+            {
+              "full_en": "a student who gets 90% is graded A",
+              "full_vn": "học nào đạt 90 % sẽ được xếp loại A"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho đất (nhất là đường đi) thoai thoải bằng cách giảm bớt độ dốc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327056_939b7c7450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327056_aba9c325d2_o.png",
+      "id_image": "grade_1058546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371737_04cb1558e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371737_9e871891f2_o.png",
+      "id_image": "grade_1328224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371707_4979f92ecd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371707_c3fa1f633c_o.png",
+      "id_image": "grade_4650649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371672_eba60c4540_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371672_95063129ae_o.png",
+      "id_image": "grade_5663157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371847_46aa54c052_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371847_1efa7b7039_o.png",
+      "id_image": "grade_766825"
+    }
+  ]
+}

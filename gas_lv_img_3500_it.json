@@ -1,0 +1,111 @@
+{
+  "english": "gas",
+  "phat_am": "[gæs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khí"
+        },
+        {
+          "m_full_vn": "khí thắp, hơi đốt"
+        },
+        {
+          "m_full_vn": "khí tê khi chữa răng ( (cũng) laughing gas )"
+        },
+        {
+          "m_full_vn": "(quân sự) hơi độc, hơi ngạt"
+        },
+        {
+          "m_full_vn": "khí nổ (mỏ, than)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) dầu xăng"
+        },
+        {
+          "m_full_vn": "(thông tục) chuyện rỗng tuếch không đâu vào đâu, chuyện tầm phào; chuyện huyên hoang khoác lác",
+          "list_one_mean": [
+            {
+              "id_full_en": "to step on the gas",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) step"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cung cấp khí thấp, cung cấp hơi đốt (cho một căn buồng)"
+        },
+        {
+          "m_full_vn": "hơ (chỉ, sợi...) qua đèn khí (cho hết lông tơ)"
+        },
+        {
+          "m_full_vn": "thắp sáng bằng đèn khí"
+        },
+        {
+          "m_full_vn": "thả hơi độc, thả hơi ngạt, làm ngạt bằng hơi độc"
+        },
+        {
+          "m_full_vn": "(thông tục) lừa bịp (ai) bằng những lời huênh hoang khoác lác"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xì hơi"
+        },
+        {
+          "m_full_vn": "nói dông dài; nói chuyện tầm phào; huyên hoang khoác lác",
+          "list_one_mean": [
+            {
+              "id_full_en": "To gas up",
+              "list_im": [
+                {
+                  "im_full_vn": "cung cấp xăng; đổ xăng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "To gas up a plane",
+                      "full_vn": "Đổ xăng cho máy bay"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338401_2400af30ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338401_aa4bcf3530_o.png",
+      "id_image": "gas_3365464"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453343_3e5f09e80a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453343_c40f182428_o.png",
+      "id_image": "gas_3523673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383372_96424b035d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383372_8d74130b48_o.png",
+      "id_image": "gas_465018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075390_cf940399a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075390_e22f87888a_o.png",
+      "id_image": "gas_6315520"
+    }
+  ]
+}

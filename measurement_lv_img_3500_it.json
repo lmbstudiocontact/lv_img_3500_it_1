@@ -1,0 +1,45 @@
+{
+  "english": "measurement",
+  "phat_am": "['məʒəmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đo lường; phép đo"
+        },
+        {
+          "m_full_vn": "kích thước; khuôn khổ; số đo",
+          "list_en_vn": [
+            {
+              "full_en": "to take the measurements of something",
+              "full_vn": "đo kích thước, lấy kích thước (của cái gì)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055260_db1ce4b6ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055260_f1e83de56c_o.png",
+      "id_image": "measurement_2637622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318666_c49658e6c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318666_69d51f7c4b_o.png",
+      "id_image": "measurement_3773044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363237_9696bd49f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363237_48cacdd26d_o.png",
+      "id_image": "measurement_532036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055265_1fa02a8051_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055265_647bba845b_o.png",
+      "id_image": "measurement_927856"
+    }
+  ]
+}

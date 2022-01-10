@@ -1,0 +1,30 @@
+{
+  "english": "maggot",
+  "phat_am": "['mægət]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con giòi (trong thịt, cá)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ý nghĩ ngông cuồng, ý nghĩ kỳ quái; cuồng tưởng, ảo tưởng",
+          "list_en_vn": [
+            {
+              "full_en": "to have a maggot in one's head",
+              "full_vn": "có một ý nghĩ kỳ quái trong đầu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330191_505b80ddf9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330191_c563d9048c_o.png",
+      "id_image": "maggot_4982438"
+    }
+  ]
+}

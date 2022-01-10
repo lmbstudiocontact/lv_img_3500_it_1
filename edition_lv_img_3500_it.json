@@ -1,0 +1,56 @@
+{
+  "english": "edition",
+  "phat_am": "[i'di∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "loại sách in ra, loại sách xuất bản"
+        },
+        {
+          "m_full_vn": "số bản in ra (báo, sách...)"
+        },
+        {
+          "m_full_vn": "lần in ra, lần xuất bản"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người giống hệt người khác; bản sao",
+          "list_en_vn": [
+            {
+              "full_en": "she is a livelier edition of her sister",
+              "full_vn": "cô ta giống hệt như cô chị, nhưng hoạt bát hơn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444683_1d2416e167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444683_4f6a6beb5f_o.png",
+      "id_image": "edition_1296693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329696_c09c09c8e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329696_27a748c3ac_o.png",
+      "id_image": "edition_1296697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684619_83e9b1f8e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684619_df2c05084d_o.png",
+      "id_image": "edition_3056454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066395_696336ef6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066395_c151a64545_o.png",
+      "id_image": "edition_3767273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444548_31090f724a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444548_88d8cd1644_o.png",
+      "id_image": "edition_4053285"
+    }
+  ]
+}

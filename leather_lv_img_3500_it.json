@@ -1,0 +1,100 @@
+{
+  "english": "leather",
+  "phat_am": "['leðə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "da thuộc"
+        },
+        {
+          "m_full_vn": "đồ da, vật làm bằng da thuộc"
+        },
+        {
+          "m_full_vn": "dây da"
+        },
+        {
+          "m_full_vn": "( số nhiều) quần cộc"
+        },
+        {
+          "m_full_vn": "( số nhiều) xà cạp bằng da"
+        },
+        {
+          "m_full_vn": "(từ lóng) quả bóng đá; quả bóng crickê"
+        },
+        {
+          "m_full_vn": "(từ lóng) da",
+          "list_one_mean": [
+            {
+              "id_full_en": "American leather",
+              "list_im": [
+                {
+                  "im_full_vn": "vải sơn, vải dầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "leather and prunella",
+              "list_im": [
+                {
+                  "im_full_vn": "sự khác nhau về quần áo, sự khác nhau về bề ngoài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there is nothing like leather",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ có cái của mình mới tốt; chỉ có hàng của mình mới tốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hell for leather",
+              "list_im": [
+                {
+                  "im_full_vn": "nhanh thật nhanh, nhanh hết tốc lực"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to lose leather",
+              "full_vn": "bị tróc da"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bọc bằng da"
+        },
+        {
+          "m_full_vn": "(từ lóng) quật, đánh, vụt (bằng roi da)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462393_dbc1b88e61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462393_de923775e5_o.png",
+      "id_image": "leather_1466545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392542_cce1a41126_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392542_d93a39892d_o.png",
+      "id_image": "leather_2865708"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702359_d1285eb1f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702359_15d48543f2_o.png",
+      "id_image": "leather_4366753"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "english": "discussion",
+  "phat_am": "[dis'kʌ∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thảo luận; sự bàn cãi; sự tranh luận",
+          "list_en_vn": [
+            {
+              "full_en": "after much discussion /several lengthy discussions , they decided to accept our offer",
+              "full_vn": "sau nhiều cuộc bàn cãi/một vài cuộc bàn cãi lê thê, họ quyết định chấp nhận đề nghị của chúng tôi"
+            },
+            {
+              "full_en": "the question is under discussion",
+              "full_vn": "vấn đề đang được thảo luận"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053325_a1a22a17e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053325_0e5592170b_o.png",
+      "id_image": "discussion_2139528"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361172_a1d9a07ae6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361172_88ebe4f1a7_o.png",
+      "id_image": "discussion_2643487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316866_35d94cd7e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316866_fd06a3a3a7_o.png",
+      "id_image": "discussion_3381432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671639_4484f81673_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671639_f506b5f1d9_o.png",
+      "id_image": "discussion_745195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671614_d7f19b6ede_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671614_0dde1182af_o.png",
+      "id_image": "discussion_745202"
+    }
+  ]
+}

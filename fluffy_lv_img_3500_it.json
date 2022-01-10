@@ -1,0 +1,36 @@
+{
+  "english": "fluffy",
+  "phat_am": "['flʌfi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "như lông tơ; có lông tơ; phủ lông tơ",
+          "list_en_vn": [
+            {
+              "full_en": "most animals are soft and fluffy when first born",
+              "full_vn": "hầu hết súc vật lúc mới sinh đều có lông tơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mịn, nhẹ và thoáng",
+          "list_en_vn": [
+            {
+              "full_en": "light and fluffy mashed potatoes",
+              "full_vn": "khoai tây nghiền nhừ và mịn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434613_359425ac2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434613_55a572e795_o.png",
+      "id_image": "fluffy_2507846"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "interstellar",
+  "phat_am": "[,intə'stelə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "giữa các vì sao",
+          "list_en_vn": [
+            {
+              "full_en": "interstellar communication",
+              "full_vn": "thông tin liên lạc giữa các vì so"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385927_d28f42480c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385927_f30fd34f99_o.png",
+      "id_image": "interstellar_2205397"
+    }
+  ]
+}

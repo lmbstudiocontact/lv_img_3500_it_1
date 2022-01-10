@@ -1,0 +1,71 @@
+{
+  "english": "glitter",
+  "phat_am": "['glitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ánh sáng lấp lánh"
+        },
+        {
+          "m_full_vn": "sự lộng lẫy; vẻ tráng lệ, vẻ rực rỡ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lấp lánh",
+          "list_en_vn": [
+            {
+              "full_en": "stars glittering in the sky",
+              "full_vn": "các vì sao lấp lánh trên trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rực rỡ, chói lọi",
+          "list_one_mean": [
+            {
+              "id_full_en": "all that glitters is not gold",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) chớ thấy sáng mà ngỡ là vàng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376397_4655d3d755_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376397_d82404285e_o.png",
+      "id_image": "glitter_1490220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331621_2e985b724b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331621_6a9cbd5be7_o.png",
+      "id_image": "glitter_2332698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446593_f31cb767e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446593_f41d92b960_o.png",
+      "id_image": "glitter_2472754"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686564_0b6c9a3abd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686564_3dbfa87b90_o.png",
+      "id_image": "glitter_2472789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446523_f2d1b3f025_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446523_be495f4d7e_o.png",
+      "id_image": "glitter_2534858"
+    }
+  ]
+}

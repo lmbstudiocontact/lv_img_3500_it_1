@@ -1,0 +1,49 @@
+{
+  "english": "kingdom",
+  "phat_am": "['kiηdəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vương quốc",
+          "list_en_vn": [
+            {
+              "full_en": "the United kingdom",
+              "full_vn": "vương quốc Anh"
+            },
+            {
+              "full_en": "the kingdom of heaven",
+              "full_vn": "thiên đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) giới",
+          "list_en_vn": [
+            {
+              "full_en": "the animal kingdom",
+              "full_vn": "giới động vật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lĩnh vực",
+          "list_en_vn": [
+            {
+              "full_en": "the kingdom of thought",
+              "full_vn": "lĩnh vực tư tưởng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682114_47b56bd75f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682114_c478997216_o.png",
+      "id_image": "kingdom_4545234"
+    }
+  ]
+}

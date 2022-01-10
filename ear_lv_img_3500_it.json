@@ -1,0 +1,283 @@
+{
+  "english": "ear",
+  "phat_am": "[iə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tai",
+          "list_en_vn": [
+            {
+              "full_en": "to pick up (to cock ) one's ears",
+              "full_vn": "vểnh tai lên (để nghe)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật hình tai (quai, bình đựng nước...)"
+        },
+        {
+          "m_full_vn": "sự nghe, khả năng nghe",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be over head and ears in ; to be head over in",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) head"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring hornet' nest about one's ears",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hornet"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get someone up on his ears",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) làm ai phật ý, làm ai nổi cáu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give (lend ) an ear to",
+              "list_im": [
+                {
+                  "im_full_vn": "lắng nghe"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to box someone's ear",
+              "list_im": [
+                {
+                  "im_full_vn": "cho ai một cái bạt tai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go in one ear and out the other",
+              "list_im": [
+                {
+                  "im_full_vn": "vào tai này ra tai kia"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have (gain ) someone's ear",
+              "list_im": [
+                {
+                  "im_full_vn": "được ai sẵn sàng lắng nghe"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's ear open for",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng nghe"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send somebody away a flea in his ear",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai tiu nghỉu (vì từ chối cái gì, vì khiển trách)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set by the ears",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) set"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn a sympathetic (ready ) ear to someone's request",
+              "list_im": [
+                {
+                  "im_full_vn": "lắng nghe lời yêu cầu của ai với thái độ thiện cảm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "walls have ears",
+              "list_im": [
+                {
+                  "im_full_vn": "tai vách mạch rừng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a word in someone's ears",
+              "list_im": [
+                {
+                  "im_full_vn": "lời rỉ tai ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "would give one's ears for something (to get something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) give"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all ears",
+              "list_im": [
+                {
+                  "im_full_vn": "chăm chú lắng nghe"
+                }
+              ]
+            },
+            {
+              "id_full_en": "something comes to someone's ears",
+              "list_im": [
+                {
+                  "im_full_vn": "điều gì đến tai ai, ai mà nghe được việc này"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sb's ears are burning",
+              "list_im": [
+                {
+                  "im_full_vn": "nóng tai lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "easy on the ear",
+              "list_im": [
+                {
+                  "im_full_vn": "dễ chịu khi nghe hay nhìn vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall on deaf ears",
+              "list_im": [
+                {
+                  "im_full_vn": "bị bỏ ngoài tai, bị lờ đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's ears to the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "nhạy bén, nắm bắt vấn đề một cách nhanh chóng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a pig's ear of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho lộn xộn rối tung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to meet the the ear",
+              "list_im": [
+                {
+                  "im_full_vn": "đập vào tai, nghe được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play it by ear",
+              "list_im": [
+                {
+                  "im_full_vn": "ứng biến, ứng tác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smile from ear to ear",
+              "list_im": [
+                {
+                  "im_full_vn": "cười ngoác đến mang tai, cười toe toét"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn a deaf ear",
+              "list_im": [
+                {
+                  "im_full_vn": "vờ không nghe, giả bộ làm ngơ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "wet behind the ears",
+              "list_im": [
+                {
+                  "im_full_vn": "miệng còn hôi sữa, quá non nớt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with half an ear",
+              "list_im": [
+                {
+                  "im_full_vn": "không chú ý cho lắm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to believe one's ears",
+              "list_im": [
+                {
+                  "im_full_vn": "không tin vào tai mình nữa, không ngờ nổi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be up to one's ears /eyes in something",
+              "list_im": [
+                {
+                  "im_full_vn": "rất bận công việc gì hoặc vùi đầu vào việc gì; ngập đến tận mang tai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm up to my ears in work at the moment",
+                      "full_vn": "lúc này công việc ngập đến tận mang tai"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have (keep ) a sensitive ear ; to have sharp ears",
+              "full_vn": "thính tai"
+            },
+            {
+              "full_en": "a fine ear for music",
+              "full_vn": "tai sành nhạc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378352_863300c2e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378352_f481ef65e3_o.png",
+      "id_image": "ear_6147784"
+    }
+  ]
+}

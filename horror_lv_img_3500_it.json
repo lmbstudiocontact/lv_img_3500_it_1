@@ -1,0 +1,103 @@
+{
+  "english": "horror",
+  "phat_am": "['hɔrə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự khiếp sợ; sự ghê rợn; nỗi kinh hoàng",
+          "list_en_vn": [
+            {
+              "full_en": "I recoiled in horror from the snake",
+              "full_vn": "Con rắn làm tôi sợ giật lùi người lại"
+            },
+            {
+              "full_en": "To her horror , she saw him fall",
+              "full_vn": "Cô ấy kinh hoàng nhìn thấy ông ta rơi xuống"
+            },
+            {
+              "full_en": "I've a horror of being trapped in a broken lift",
+              "full_vn": "Tôi rất sợ bị kẹt trong thang máy hỏng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự căm thù sâu sắc",
+          "list_en_vn": [
+            {
+              "full_en": "I've a deep horror of cruelty",
+              "full_vn": "Tôi rất căm thù sự tàn bạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ghê tởm",
+          "list_en_vn": [
+            {
+              "full_en": "It's hard to appreciate the full horror of life in a concentration camp",
+              "full_vn": "Thật khó nói hết được nỗi ghê tởm cuộc sống trong trại tập trung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật hoặc người gây ra lòng căm thù hoặc nỗi sợ hãi",
+          "list_en_vn": [
+            {
+              "full_en": "The horrors of war",
+              "full_vn": "Những điều khủng khiếp của chiến tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kẻ tinh quái; kẻ ma mãnh",
+          "list_en_vn": [
+            {
+              "full_en": "Her son is a right little horror",
+              "full_vn": "Con trai cô ấy quả là một đứa tinh quái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the horrors ) cơn rùng mình, sự sợ hãi; trạng thái ủ rũ buồn nản (trong cơn mê sảng của những người nghiện rượu nặng)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ly kỳ; rùng rợn; kinh dị",
+          "list_en_vn": [
+            {
+              "full_en": "horror film",
+              "full_vn": "phim kinh dị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331641_ef14440d5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331641_b205bab3ac_o.png",
+      "id_image": "horror_2040686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331596_5b48e55581_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331596_b8f30205e8_o.png",
+      "id_image": "horror_2123879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376252_77d43cbf55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376252_d1ba83ff73_o.png",
+      "id_image": "horror_2446915"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331516_32d03eb2f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331516_ac250c712e_o.png",
+      "id_image": "horror_6150434"
+    }
+  ]
+}

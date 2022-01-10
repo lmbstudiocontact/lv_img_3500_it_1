@@ -1,0 +1,45 @@
+{
+  "english": "footage",
+  "phat_am": "['futidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chiều dài tính bằng phút (của cuộn phim)"
+        },
+        {
+          "m_full_vn": "cảnh (phim)",
+          "list_en_vn": [
+            {
+              "full_en": "a jungle footage",
+              "full_vn": "một cảnh rừng rú"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361342_9572356094_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361342_5ced8eef37_o.png",
+      "id_image": "footage_2009811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432068_94e7884b86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432068_da75ed378a_o.png",
+      "id_image": "footage_4427659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317016_c7649ec7e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317016_cbe068de21_o.png",
+      "id_image": "footage_4427891"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432013_6e24f2cd84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432013_2a6d9d6d38_o.png",
+      "id_image": "footage_4428008"
+    }
+  ]
+}

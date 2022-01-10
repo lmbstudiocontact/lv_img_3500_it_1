@@ -1,0 +1,68 @@
+{
+  "english": "journal",
+  "phat_am": "['dʒə:nl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "báo hằng ngày hoặc tạp chí về một chuyên đề; báo; tập san",
+          "list_en_vn": [
+            {
+              "full_en": "a medical /scientific /educational journal",
+              "full_vn": "tập san y học/khoa học/giáo dục"
+            },
+            {
+              "full_en": "a trade journal",
+              "full_vn": "một tờ báo thương mại"
+            },
+            {
+              "full_en": "Wall Street Journal",
+              "full_vn": "nhật báo phố U-ôn"
+            },
+            {
+              "full_en": "The Businessmen's Journal",
+              "full_vn": "tập san của giới kinh doanh"
+            },
+            {
+              "full_en": "to subscribe to a journal",
+              "full_vn": "đặt mua một tờ báo hàng ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghi chép hàng ngày các tin tức, sự kiện, giao dịch kinh doanh...; nhật ký",
+          "list_en_vn": [
+            {
+              "full_en": "to keep a journal of one's stormy life",
+              "full_vn": "ghi nhật ký về cuộc đời sóng gió của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) ( the Journals ) biên bản (những phiên họp nghị viện)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cổ trục, ngõng trục"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687419_5d5fcfc0f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687419_40b04de082_o.png",
+      "id_image": "journal_1188506"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332416_fae310d23c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332416_ea6cc07f06_o.png",
+      "id_image": "journal_2232505"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377237_b815418883_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377237_8771897cc3_o.png",
+      "id_image": "journal_422997"
+    }
+  ]
+}

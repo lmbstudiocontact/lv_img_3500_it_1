@@ -1,0 +1,37 @@
+{
+  "english": "dosage",
+  "phat_am": "['dousidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lượng thuốc phải dùng mỗi lần hoặc trong một thời gian; liều lượng",
+          "list_en_vn": [
+            {
+              "full_en": "Do not exceed the recommended dosage",
+              "full_vn": "Không được dùng quá liều lượng chỉ định"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424063_95126dcb60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424063_74a17ab6d1_o.png",
+      "id_image": "dosage_1798587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353047_0d3eece6d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353047_f8296e7ae2_o.png",
+      "id_image": "dosage_2037103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308831_8a137b76cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308831_0bcbe9c66e_o.png",
+      "id_image": "dosage_4867023"
+    }
+  ]
+}

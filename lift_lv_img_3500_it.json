@@ -1,0 +1,252 @@
+{
+  "english": "lift",
+  "phat_am": "[lift]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nâng lên; sự nhấc lên",
+          "list_en_vn": [
+            {
+              "full_en": "Give him a lift : He's too small to see anything",
+              "full_vn": "Hãy nâng nó lên : Nó thấp quá nên chẳng thấy gì cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thang máy (cũng) elevator"
+        },
+        {
+          "m_full_vn": "áp lực đẩy lên do không khí tác động vào máy bay đang bay; sức nâng",
+          "list_en_vn": [
+            {
+              "full_en": "It's on the sixth floor - let's take the lift",
+              "full_vn": "ở trên tầng sáu - chúng ta hãy đi thang máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đi nhờ xe",
+          "list_en_vn": [
+            {
+              "full_en": "To give the soldiers a lift to their barracks",
+              "full_vn": "cho những người lính đi nhờ xe về doanh trại"
+            },
+            {
+              "full_en": "To thumb /hitch a lift",
+              "full_vn": "ra hiệu/vẫy xin đi nhờ xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ gồ lên, chỗ nhô lên (ở sàn nhà)"
+        },
+        {
+          "m_full_vn": "cảm giác hân hoan, phấn chấn",
+          "list_en_vn": [
+            {
+              "full_en": "Winning the scholarship gave her a tremendous lift",
+              "full_vn": "Cô ta rất phấn khởi vì được cấp học bổng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giơ lên, nhấc lên, nâng lên; giương cao",
+          "list_en_vn": [
+            {
+              "full_en": "to lift up one's hands",
+              "full_vn": "giơ tay lên (để cầu khẩn...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đỡ lên, dựng lên, kéo dậy"
+        },
+        {
+          "m_full_vn": "đào, bới",
+          "list_en_vn": [
+            {
+              "full_en": "to lift potatoes",
+              "full_vn": "đào khoai tây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) ăn trộm (súc vật), ăn cắp (văn)",
+          "list_en_vn": [
+            {
+              "full_en": "to lift cattle",
+              "full_vn": "ăn trộm trâu bò"
+            },
+            {
+              "full_en": "to lift someone's purse",
+              "full_vn": "móc ví ai"
+            },
+            {
+              "full_en": "to lift many long passages from other authors",
+              "full_vn": "ăn cắp nhiều đoạn văn dài của các tác giả khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhổ (trại)"
+        },
+        {
+          "m_full_vn": "chấm dứt (sự phong toả...); bãi bỏ (sự cấm đoán...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhấc lên được, nâng lên được",
+          "list_en_vn": [
+            {
+              "full_en": "this window won't lift",
+              "full_vn": "cái cửa sổ này không nhấc lên được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tan đi, cuốn đi (mây, sương mù, bóng đêm...)",
+          "list_en_vn": [
+            {
+              "full_en": "mist lifts",
+              "full_vn": "sương mù tan đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cưỡi sóng (tàu)",
+          "list_en_vn": [
+            {
+              "full_en": "ship lifts",
+              "full_vn": "con tàu cưỡi sóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gồ lên (sàn nhà)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lift a hand to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "mó tay làm việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lift one's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa tay lên thề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lift one's hand against somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "giơ tay đánh ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lift up one's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "ngước nhìn, nhìn lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lift up one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "ngóc đầu dậy"
+                },
+                {
+                  "im_full_vn": "hồi phục lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lift up another's head",
+              "list_im": [
+                {
+                  "im_full_vn": "(kinh thánh) trả lại tự do cho ai; trả lại danh dự cho ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lift up one's horn",
+              "list_im": [
+                {
+                  "im_full_vn": "có nhiều tham vọng"
+                },
+                {
+                  "im_full_vn": "tự hào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lift up one's voice",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) voice"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be lifted up with pride",
+              "list_im": [
+                {
+                  "im_full_vn": "dương dương tự đắc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lift off",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về tên lửa, tàu vũ trụ) phóng vụt lên"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "floor lifts",
+              "full_vn": "sàn nhà gồ lên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342786_1ff4783c08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342786_9f52134e4c_o.png",
+      "id_image": "lift_2422737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457578_dbb25058cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457578_78d3f77cdc_o.png",
+      "id_image": "lift_2472834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457523_fafd83b130_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457523_698a5e5dea_o.png",
+      "id_image": "lift_5132462"
+    }
+  ]
+}

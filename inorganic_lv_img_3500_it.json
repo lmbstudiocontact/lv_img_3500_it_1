@@ -1,0 +1,30 @@
+{
+  "english": "inorganic",
+  "phat_am": "[,inɔ:'gænik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "vô cơ",
+          "list_en_vn": [
+            {
+              "full_en": "inorganic chemistry",
+              "full_vn": "hoá học vô cơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không cơ bản; ngoại lai"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460913_ef11d34fdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460913_a74ce28ccd_o.png",
+      "id_image": "inorganic_6010530"
+    }
+  ]
+}

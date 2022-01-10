@@ -1,0 +1,49 @@
+{
+  "english": "fertilizer",
+  "phat_am": "['fə:tilaizə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phân bón",
+          "list_en_vn": [
+            {
+              "full_en": "to get some more fertilizer for the garden",
+              "full_vn": "bón thêm chút ít phân cho khu vườn"
+            },
+            {
+              "full_en": "bone-meal and nitrates are common fertilizers",
+              "full_vn": "bột xương và ni trát là những phân bón phổ biến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) cái làm thụ tinh; người làm thụ thai"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446563_d9f8bd2fa2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446563_79474cff1a_o.png",
+      "id_image": "fertilizer_3526896"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068245_35ef096a11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068245_0d13cc7848_o.png",
+      "id_image": "fertilizer_4525256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331456_497ff54a56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331456_aba15eb53a_o.png",
+      "id_image": "fertilizer_5011039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686444_9e4b20a08c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686444_13076dd152_o.png",
+      "id_image": "fertilizer_5264906"
+    }
+  ]
+}

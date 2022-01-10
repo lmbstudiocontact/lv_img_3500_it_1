@@ -1,0 +1,533 @@
+{
+  "english": "good",
+  "phat_am": "[gud]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tốt, hay, tuyệt",
+          "list_en_vn": [
+            {
+              "full_en": "very good !",
+              "full_vn": "rất tốt!, rất hay!, tuyệt"
+            },
+            {
+              "full_en": "a good friend",
+              "full_vn": "một người bạn tốt"
+            },
+            {
+              "full_en": "good conduct",
+              "full_vn": "hạnh kiểm tốt"
+            },
+            {
+              "full_en": "a good story",
+              "full_vn": "một câu chuyện hay"
+            },
+            {
+              "full_en": "good wine",
+              "full_vn": "rượu ngon"
+            },
+            {
+              "full_en": "good soil",
+              "full_vn": "đất tốt, đất màu mỡ"
+            },
+            {
+              "full_en": "a person of good family",
+              "full_vn": "một người xuất thân gia đình khá giả"
+            },
+            {
+              "full_en": "good to eat",
+              "full_vn": "ngon, ăn được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tử tế, rộng lượng, thương người; có đức hạnh, ngoan",
+          "list_en_vn": [
+            {
+              "full_en": "to be good to someone",
+              "full_vn": "tốt bụng với ai, tử tế với ai"
+            },
+            {
+              "full_en": "how good of you !",
+              "full_vn": "anh tử tế quá!"
+            },
+            {
+              "full_en": "good boy",
+              "full_vn": "đứa bé ngoan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tươi (cá)",
+          "list_en_vn": [
+            {
+              "full_en": "fish does not keep good in hot days",
+              "full_vn": "cá không giữ được tươi vào những ngày nóng bức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tốt lành, trong lành, lành; có lợi",
+          "list_en_vn": [
+            {
+              "full_en": "doing exercise is good for health",
+              "full_vn": "tập thể dục có lợi cho sức khoẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cừ, giỏi, đảm đang, được việc",
+          "list_en_vn": [
+            {
+              "full_en": "a good teacher",
+              "full_vn": "giáo viên dạy giỏi"
+            },
+            {
+              "full_en": "a good worker",
+              "full_vn": "công nhân lành nghề, công nhân khéo"
+            },
+            {
+              "full_en": "a good wife",
+              "full_vn": "người vợ đảm đang"
+            },
+            {
+              "full_en": "good at mathematics",
+              "full_vn": "giỏi toán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vui vẻ, dễ chịu, thoải mái",
+          "list_en_vn": [
+            {
+              "full_en": "good news",
+              "full_vn": "tin mừng, tin vui, tin lành"
+            },
+            {
+              "full_en": "to have a good time",
+              "full_vn": "được hưởng một thời gian thoải mái"
+            },
+            {
+              "full_en": "a good joke",
+              "full_vn": "câu nói đùa vui nhộn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn toàn, triệt để; ra trò, nên thân",
+          "list_en_vn": [
+            {
+              "full_en": "to give somebody a good beating",
+              "full_vn": "đánh một trận nên thân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng, phải",
+          "list_en_vn": [
+            {
+              "full_en": "it is good to help others",
+              "full_vn": "giúp mọi người là phải"
+            },
+            {
+              "full_en": "good ! good !",
+              "full_vn": "được được!, phải đấy!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tin cậy được; an toàn, chắc chắn; có giá trị",
+          "list_en_vn": [
+            {
+              "full_en": "good debts",
+              "full_vn": "món nợ chắc chắn sẽ thu hồi được"
+            },
+            {
+              "full_en": "a good reason",
+              "full_vn": "lý do tin được, lý do chính đáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoẻ, khoẻ mạnh, đủ sức",
+          "list_en_vn": [
+            {
+              "full_en": "to be good for a ten-mile walk",
+              "full_vn": "đủ sức đi bộ mười dặm"
+            },
+            {
+              "full_en": "I feel good",
+              "full_vn": "(từ Mỹ,nghĩa Mỹ) tôi cảm thấy khoẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thân, nhà (dùng trong câu gọi)",
+          "list_en_vn": [
+            {
+              "full_en": "don't do it , my good friend !",
+              "full_vn": "(mỉa mai) đừng làm thế ông bạn ơi!"
+            },
+            {
+              "full_en": "how's your good man ?",
+              "full_vn": "ông nhà có khoẻ không, (thưa bà)?"
+            },
+            {
+              "full_en": "how's your good lady ?",
+              "full_vn": "bà nhà có khoẻ không ông?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khá nhiều, khá lớn, khá xa",
+          "list_en_vn": [
+            {
+              "full_en": "a good deal of money",
+              "full_vn": "khá nhiều tiền"
+            },
+            {
+              "full_en": "a good many people",
+              "full_vn": "khá nhiều người"
+            },
+            {
+              "full_en": "we've come a good long way",
+              "full_vn": "chúng tôi đã từ khá xa tới đây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ít nhất là",
+          "list_one_mean": [
+            {
+              "id_full_en": "as good as",
+              "list_im": [
+                {
+                  "im_full_vn": "hầu như, coi như, gần như",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "as good as dead",
+                      "full_vn": "hầu như chết rồi"
+                    },
+                    {
+                      "full_en": "the problem is as good as settled",
+                      "full_vn": "vấn đề coi như đã được giải quyết"
+                    },
+                    {
+                      "full_en": "to be as good as one's word",
+                      "full_vn": "giữ lời hứa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do a good turn to",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp đỡ (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as good as pie",
+              "list_im": [
+                {
+                  "im_full_vn": "rất tốt, rất ngoan"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as good as wheat",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) rất tốt, rất xứng đáng, rất thích hợp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "good day !",
+              "list_im": [
+                {
+                  "im_full_vn": "chào (trong ngày); tạm biệt nhé!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "good morning !",
+              "list_im": [
+                {
+                  "im_full_vn": "chào (buổi sáng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "good afternoon !",
+              "list_im": [
+                {
+                  "im_full_vn": "chào (buổi chiều)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "good evening !",
+              "list_im": [
+                {
+                  "im_full_vn": "chào (buổi tối)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "good night !",
+              "list_im": [
+                {
+                  "im_full_vn": "chúc ngủ ngon, tạm biệt nhé!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "good luck !",
+              "list_im": [
+                {
+                  "im_full_vn": "chúc may mắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "good money",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) lương cao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a good mind to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "có ý muốn làm cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in good spirits",
+              "list_im": [
+                {
+                  "im_full_vn": "vui vẻ, phấn khởi, phấn chấn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make good",
+              "list_im": [
+                {
+                  "im_full_vn": "thực hiện; giữ (lời hứa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make good one's promise",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ lời hứa, làm đúng như lời hứa"
+                },
+                {
+                  "im_full_vn": "bù đắp lại; gỡ lại, đền, thay; sửa chữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to make good one's losses",
+                      "full_vn": "bù lại những cái đã mất"
+                    },
+                    {
+                      "full_en": "to make good the casualties",
+                      "full_vn": "(quân sự) bổ sung cho số quân bị chết"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "xác nhận, chứng thực"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) làm ăn phát đạt, thành công, tiến bộ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to make good in a short time",
+                      "full_vn": "phất trong một thời gian ngắn (nhà buôn)"
+                    },
+                    {
+                      "full_en": "to make good at school",
+                      "full_vn": "học tập tiến bộ ở trường (học sinh)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand good",
+              "list_im": [
+                {
+                  "im_full_vn": "vẫn còn giá trị; vẫn đúng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take something in good part",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) part"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that's a good one",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) nói dối nghe được đấy! nói láo nghe được đấy!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the good people",
+              "list_im": [
+                {
+                  "im_full_vn": "các vị tiên"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "we've waited for you for a good hour",
+              "full_vn": "chúng tôi đợi anh ít nhất là một tiếng rồi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều thiện, điều tốt, điều lành",
+          "list_en_vn": [
+            {
+              "full_en": "to do good",
+              "full_vn": "làm việc thiện, làm phúc"
+            },
+            {
+              "full_en": "to return good for evil",
+              "full_vn": "lấy ân báo oán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lợi, lợi ích",
+          "list_en_vn": [
+            {
+              "full_en": "to be some good to",
+              "full_vn": "có lợi phần nào cho"
+            },
+            {
+              "full_en": "to work for the good of the people",
+              "full_vn": "làm việc vì lợi ích của nhân dân"
+            },
+            {
+              "full_en": "to do more harm than good",
+              "full_vn": "làm hại nhiều hơn lợi"
+            },
+            {
+              "full_en": "it will do you good to do physical exercises in the morning",
+              "full_vn": "tập thể dục buổi sáng có lợi cho anh"
+            },
+            {
+              "full_en": "what good is it ?",
+              "full_vn": "điều ấy có lợi gì?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều đáng mong muốn, vật đáng mong muốn"
+        },
+        {
+          "m_full_vn": "những người tốt, những người có đạo đức",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be up to no good ; to be after no good",
+              "list_im": [
+                {
+                  "im_full_vn": "đang rắp tâm dở trò ma mãnh gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to good",
+              "list_im": [
+                {
+                  "im_full_vn": "không đi đến đâu, không đạt kết quả gì, không làm nên trò trống gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for good and all",
+              "list_im": [
+                {
+                  "im_full_vn": "mãi mãi, vĩnh viễn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to stay here for good and all",
+                      "full_vn": "ở lại đây mãi mãi"
+                    },
+                    {
+                      "full_en": "to be gone for good and all",
+                      "full_vn": "đi mãi mãi không bao giờ trở lại"
+                    },
+                    {
+                      "full_en": "to refuse for good and all",
+                      "full_vn": "nhất định từ chối, khăng khăng từ chối"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the good",
+              "list_im": [
+                {
+                  "im_full_vn": "được lãi, được lời",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be 100 dongs to the good",
+                      "full_vn": "được lời 100 đ"
+                    },
+                    {
+                      "full_en": "it's all to the good",
+                      "full_vn": "càng hay, càng lời, càng tốt"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373472_88e89e3bc0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373472_12eb78c786_o.png",
+      "id_image": "good_4703279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443658_1e942bde9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443658_fb8e9a378c_o.png",
+      "id_image": "good_6171954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328656_b7da281a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328656_6f9a9fa496_o.png",
+      "id_image": "good_6394260"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "english": "exclusive",
+  "phat_am": "[iks'klu:siv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không chấp nhận cái gì khác, loại bỏ những xét đoán khác; loại trừ",
+          "list_en_vn": [
+            {
+              "full_en": "the two solutions are mutually exclusive",
+              "full_vn": "hai giải pháp loại trừ nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về một nhóm, hội đoàn...) không sẵn sàng nhận thành viên mới (nhất là thành viên đó bị coi (như) thấp kém về địa vị xã hội); có chọn lọc; riêng biệt; dành riêng",
+          "list_en_vn": [
+            {
+              "full_en": "he's part of an exclusive social circle and belongs to an exclusive club",
+              "full_vn": "anh ta thuộc một giới xã hội riêng biệt và thuộc một câu lạc bộ riêng biệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về hàng hoá) không tìm thấy ở đâu khác; dành riêng cho người giàu",
+          "list_en_vn": [
+            {
+              "full_en": "exclusive styles /designs /articles",
+              "full_vn": "những kiểu cách/mẫu mã/hàng đặc biệt (không đâu có)"
+            },
+            {
+              "full_en": "an exclusive restaurant /private school",
+              "full_vn": "một nhà hàng/trường tư đặc biệt (không đâu có)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dành riêng cho những người hoặc những nhóm liên quan; dành riêng; độc quyền",
+          "list_en_vn": [
+            {
+              "full_en": "exclusive privileges of the aristocracy",
+              "full_vn": "đặc quyền dành riêng cho giới quý tộc"
+            },
+            {
+              "full_en": "this is an interview exclusive to the Ho Chi Minh City's Police weekly",
+              "full_vn": "đây là cuộc phỏng vấn dành riêng cho tuần báo Công An thành phố Hồ Chí Minh"
+            },
+            {
+              "full_en": "an exclusive agency for the sale of Ford cars in this town",
+              "full_vn": "một đại lý độc quyền bán xe ôtô Ford tại thành phố này"
+            },
+            {
+              "full_en": "to have exclusive rights to sell something",
+              "full_vn": "độc quyền bán cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "duy nhất; độc nhất",
+          "list_en_vn": [
+            {
+              "full_en": "one's exclusive occupation",
+              "full_vn": "công việc duy nhất của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trừ, không kể, không gồm",
+          "list_en_vn": [
+            {
+              "full_en": "from page one to page ten exclusive",
+              "full_vn": "từ trang 1 đến trang 10 không kể trang 10"
+            },
+            {
+              "full_en": "100,000 people exclusive of women",
+              "full_vn": "100000 người không kể đàn bà con gái"
+            },
+            {
+              "full_en": "the price of the holiday is exclusive of accommodation",
+              "full_vn": "giá cả đi nghỉ là chưa tính đến tiền trọ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "truyện dành riêng cho một chuyên mục của tờ báo ( (cũng) exclusive story )"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667079_a13597dd72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667079_d5a64ece6b_o.png",
+      "id_image": "exclusive_4171875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048740_62702e8420_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048740_0a0feede88_o.png",
+      "id_image": "exclusive_5360000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667014_67046d6eb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667014_8cf9105c8c_o.png",
+      "id_image": "exclusive_5619772"
+    }
+  ]
+}

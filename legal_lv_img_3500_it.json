@@ -1,0 +1,68 @@
+{
+  "english": "legal",
+  "phat_am": "['li:gəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về hoặc dựa trên luật pháp",
+          "list_en_vn": [
+            {
+              "full_en": "legal adviser /representative",
+              "full_vn": "cố vấn/đại diện pháp lý"
+            },
+            {
+              "full_en": "to take /seek legal advice",
+              "full_vn": "hỏi ý kiến luật sư"
+            },
+            {
+              "full_en": "to take legal action",
+              "full_vn": "kiện; khởi tố"
+            },
+            {
+              "full_en": "legal responsibility",
+              "full_vn": "trách nhiệm pháp lý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được phép hoặc yêu cầu bởi pháp luật; hợp pháp",
+          "list_en_vn": [
+            {
+              "full_en": "should euthanasia be made legal ?",
+              "full_vn": "cho người mắc bệnh nan y chết không đau đớn là có hợp pháp hay không?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461453_299984fcd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461453_3b7196de57_o.png",
+      "id_image": "legal_2419622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084020_e726c509f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084020_2fa55dcd75_o.png",
+      "id_image": "legal_2861285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461378_9bd982e8e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461378_9a4008c1ac_o.png",
+      "id_image": "legal_4459244"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461328_e453db5346_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461328_45280bd98a_o.png",
+      "id_image": "legal_5300039"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461288_bab2c0cd28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461288_4088f89295_o.png",
+      "id_image": "legal_6299625"
+    }
+  ]
+}

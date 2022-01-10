@@ -1,0 +1,66 @@
+{
+  "english": "effort",
+  "phat_am": "['efət]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cố gắng; sự ráng sức; sự nỗ lực",
+          "list_en_vn": [
+            {
+              "full_en": "a waste of time and effort",
+              "full_vn": "sự lãng phí thời gian và sức lực"
+            },
+            {
+              "full_en": "they lifted the heavy rock without effort",
+              "full_vn": "họ nhấc tảng đá nặng lên một cách dễ dàng"
+            },
+            {
+              "full_en": "he must put more effort into his work",
+              "full_vn": "anh ấy phải cố gắng thêm trong công việc của mình"
+            },
+            {
+              "full_en": "his efforts were much appreciated",
+              "full_vn": "các nỗ lực của anh ấy được đánh giá cao"
+            },
+            {
+              "full_en": "it was a real effort to stay awake through the film",
+              "full_vn": "thức để xem hết bộ phim thì quả là cố gắng lắm"
+            },
+            {
+              "full_en": "I'll make every effort to arrive on time",
+              "full_vn": "tôi sẽ cố gắng hết sức để đến đúng giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kết quả của sự cố gắng",
+          "list_en_vn": [
+            {
+              "full_en": "that's a good effort",
+              "full_vn": "đó là một kết quả tốt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682799_c47e9f5035_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682799_8e38213afe_o.png",
+      "id_image": "effort_1006626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064365_4135b10807_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064365_644e9e17ef_o.png",
+      "id_image": "effort_5773026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372322_82667fba5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372322_0736ed13c2_o.png",
+      "id_image": "effort_5906170"
+    }
+  ]
+}

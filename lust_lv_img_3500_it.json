@@ -1,0 +1,66 @@
+{
+  "english": "lust",
+  "phat_am": "['lʌst]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( lust for somebody ) tính dâm dục; thói dâm ô; thú tính",
+          "list_en_vn": [
+            {
+              "full_en": "to curb one's lust",
+              "full_vn": "kiềm chế thú tính của mình"
+            },
+            {
+              "full_en": "to gratify one's lust",
+              "full_vn": "thoả mãn thú tính của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( lust for / of something ) sự thèm khát; lòng tham",
+          "list_en_vn": [
+            {
+              "full_en": "a lust for power / honours",
+              "full_vn": "sự thèm khát quyền lực/danh vọng"
+            },
+            {
+              "full_en": "filled with the lust of battle",
+              "full_vn": "khao khát được đi chiến đấu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to lust for / after somebody / something ) ham muốn; thèm khát",
+          "list_en_vn": [
+            {
+              "full_en": "to lust after women",
+              "full_vn": "thèm khát đàn bà"
+            },
+            {
+              "full_en": "to lust for blood",
+              "full_vn": "khát máu"
+            },
+            {
+              "full_en": "to lust for revenge",
+              "full_vn": "khao khát trả thù"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376892_7daf2c7e2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376892_37bbc7093b_o.png",
+      "id_image": "lust_1316898"
+    }
+  ]
+}

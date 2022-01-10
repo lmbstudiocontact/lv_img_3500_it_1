@@ -1,0 +1,76 @@
+{
+  "english": "lunar",
+  "phat_am": "['lu:nə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) mặt trăng",
+          "list_en_vn": [
+            {
+              "full_en": "lunar month",
+              "full_vn": "tháng âm lịch"
+            },
+            {
+              "full_en": "lunar New Year",
+              "full_vn": "tết âm lịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mờ nhạt, không sáng lắm"
+        },
+        {
+          "m_full_vn": "hình lưỡi liềm",
+          "list_en_vn": [
+            {
+              "full_en": "lunar bone",
+              "full_vn": "xương hình lưỡi liềm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) (thuộc) bạc; chứa chất bạc",
+          "list_one_mean": [
+            {
+              "id_full_en": "lunar politics",
+              "list_im": [
+                {
+                  "im_full_vn": "những vấn đề viễn vông không thực tế"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332626_3ec98f57d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332626_98d59e7d42_o.png",
+      "id_image": "lunar_1469374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377407_6f6c991969_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377407_2d0fd3926a_o.png",
+      "id_image": "lunar_1469375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377382_1fbde0cfc9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377382_4108a27e1e_o.png",
+      "id_image": "lunar_2984103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447568_2e96d44830_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447568_60c8649188_o.png",
+      "id_image": "lunar_4383590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447533_8e77ef98f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447533_d9ab131ed7_o.png",
+      "id_image": "lunar_4657808"
+    }
+  ]
+}

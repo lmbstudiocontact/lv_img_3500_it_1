@@ -1,0 +1,83 @@
+{
+  "english": "medium",
+  "phat_am": "['mi:diəm]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều là media",
+      "list_m": [
+        {
+          "m_full_vn": "sự trung gian; sự môi giới",
+          "list_en_vn": [
+            {
+              "full_en": "through (by ) the medium of",
+              "full_vn": "qua sự môi giới của"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phương tiện truyền đạt (phát thanh, truyền hình, ấn loát...)"
+        },
+        {
+          "m_full_vn": "hoàn cảnh; môi trường",
+          "list_en_vn": [
+            {
+              "full_en": "sound travels through the medium of air",
+              "full_vn": "âm thanh truyền qua môi trường không khí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều là mediums",
+      "list_m": [
+        {
+          "m_full_vn": "trung dung; điểm chiết trung",
+          "list_en_vn": [
+            {
+              "full_en": "happy medium",
+              "full_vn": "chính sách trung dung, chính sách ôn hoà"
+            },
+            {
+              "full_en": "medium between tolerance and intolerance",
+              "full_vn": "cái trung dung giữa tính khoan dung và tính cố chấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ông đồng bà cốt; đồng cốt"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trung bình, trung, vừa",
+          "list_en_vn": [
+            {
+              "full_en": "medium wave",
+              "full_vn": "(rađiô) làn sóng trung"
+            },
+            {
+              "full_en": "medium temperature",
+              "full_vn": "nhiệt độ trung bình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463478_04bfcf1d6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463478_1bf42a274b_o.png",
+      "id_image": "medium_1455330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810085935_93382716f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810085935_c5b9c55f49_o.png",
+      "id_image": "medium_3103560"
+    }
+  ]
+}

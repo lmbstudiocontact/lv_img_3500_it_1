@@ -1,0 +1,113 @@
+{
+  "english": "liberty",
+  "phat_am": "['libəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tự do; quyền tự do",
+          "list_en_vn": [
+            {
+              "full_en": "liberty of conscience",
+              "full_vn": "tự do tín ngưỡng"
+            },
+            {
+              "full_en": "liberty of speech",
+              "full_vn": "tự do ngôn luận"
+            },
+            {
+              "full_en": "liberty of the press",
+              "full_vn": "tự do báo chí"
+            },
+            {
+              "full_en": "to set someone free /at liberty",
+              "full_vn": "thả ai, trả lại sự tự do cho ai"
+            },
+            {
+              "full_en": "liberties enjoyed by all citizens",
+              "full_vn": "những quyền tự do mà tất cả mọi công dân được hưởng"
+            },
+            {
+              "full_en": "they give their children a great deal of liberty",
+              "full_vn": "họ để cho con cái họ rất tự do"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) thái độ sỗ sàng, thái độ coi thường, thái độ nhờn, thái độ tuỳ tiện",
+          "list_en_vn": [
+            {
+              "full_en": "to take liberties with a woman",
+              "full_vn": "sỗ sàng với một người phụ nữ"
+            },
+            {
+              "full_en": "to take liberties with rules",
+              "full_vn": "tuỳ tiện với nội quy, coi thường quy tắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) đặc quyền",
+          "list_one_mean": [
+            {
+              "id_full_en": "at liberty (to do something )",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về người) được phép; cứ tự nhiên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you are at liberty to leave",
+                      "full_vn": "anh cứ tự nhiên ra về"
+                    },
+                    {
+                      "full_en": "you're at liberty to say what you like",
+                      "full_vn": "anh tha hồ nói gì thì nói"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the liberty of doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cái gì mà không có phép; mạn phép",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I took the liberty of borrowing your lawn-mower while you were away",
+                      "full_vn": "tôi đã mạn phép mượn cái máy cắt cỏ của anh trong lúc anh đi vắng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the liberties of a city",
+              "full_vn": "những đặc quyền của một đô thị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081295_80f04e7edd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081295_6fc830cbaa_o.png",
+      "id_image": "liberty_1849913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458673_7de71f2707_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458673_f2124f302a_o.png",
+      "id_image": "liberty_3956702"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458603_ac7cdc960f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458603_ffb65a0369_o.png",
+      "id_image": "liberty_4742541"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "english": "health",
+  "phat_am": "[helθ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sức khoẻ"
+        },
+        {
+          "m_full_vn": "sự lành mạnh"
+        },
+        {
+          "m_full_vn": "thể chất",
+          "list_en_vn": [
+            {
+              "full_en": "good health",
+              "full_vn": "thể chất khoẻ mạnh; sức khoẻ tốt"
+            },
+            {
+              "full_en": "bad health",
+              "full_vn": "thể chất yếu đuối; sức khoẻ kém"
+            },
+            {
+              "full_en": "to be broken in health",
+              "full_vn": "thể chất suy nhược; sức khoẻ suy nhược"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cốc rượu chúc sức khoẻ",
+          "list_en_vn": [
+            {
+              "full_en": "to drink somebody's health ,to drink a health to somebody",
+              "full_vn": "nâng cốc chúc sức khoẻ ai"
+            },
+            {
+              "full_en": "to propose somebody's health",
+              "full_vn": "đề nghị mọi người nâng cốc chúc sức khoẻ ai"
+            },
+            {
+              "full_en": "in rude health",
+              "full_vn": "khoẻ mạnh, tráng kiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "y tế",
+          "list_en_vn": [
+            {
+              "full_en": "the Ministry of Health",
+              "full_vn": "Bộ y tế"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456073_8ebdf160f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456073_b55313b2a2_o.png",
+      "id_image": "health_1168110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386207_f0edd05253_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386207_9b43637d7c_o.png",
+      "id_image": "health_1396230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386182_6d0f9d0489_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386182_735ca5f089_o.png",
+      "id_image": "health_2233985"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455978_d1cc74d35b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455978_4bf869058b_o.png",
+      "id_image": "health_4334112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386282_90cf2eb570_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386282_952d7f9ed4_o.png",
+      "id_image": "health_883309"
+    }
+  ]
+}

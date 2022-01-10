@@ -1,0 +1,259 @@
+{
+  "english": "hour",
+  "phat_am": "['auə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mồtphân hai mươi tư của ngày và đêm; 60 phút; giờ, tiếng (đồng hồ)",
+          "list_en_vn": [
+            {
+              "full_en": "half an hour",
+              "full_vn": "nửa giờ"
+            },
+            {
+              "full_en": "the film lasts two hours",
+              "full_vn": "bộ phim kéo dài hai tiếng đồng hồ"
+            },
+            {
+              "full_en": "to work a forty-hour week",
+              "full_vn": "làm việc bốn mươi giờ một tuần"
+            },
+            {
+              "full_en": "a three hours' journey /a three-hour journey",
+              "full_vn": "một chuyến đi ba tiếng đồng hồ"
+            },
+            {
+              "full_en": "the clock strikes the hours but not the half-hours",
+              "full_vn": "đồng hồ điểm giờ, chứ không điểm nửa giờ"
+            },
+            {
+              "full_en": "he came at the agreed hour",
+              "full_vn": "anh ấy đến đúng giờ đã thoả thuận"
+            },
+            {
+              "full_en": "who can ring us at this late hour ?",
+              "full_vn": "ai có thể gọi điện thoại cho chúng ta vào giờ khuya khoắt thế này nhỉ?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( hours ) (dùng để tính thời gian theo 24 giờ đồng hồ); (khoảng thời gian ấn định để làm việc, sử dụng phương tiện...)",
+          "list_en_vn": [
+            {
+              "full_en": "it's eighteen hours",
+              "full_vn": "bây giờ là mười tám giờ đúng"
+            },
+            {
+              "full_en": "it's twenty-one thirty hours",
+              "full_vn": "bây giờ là 21 giờ 30"
+            },
+            {
+              "full_en": "hours of business",
+              "full_vn": "giờ buôn bán"
+            },
+            {
+              "full_en": "office hours are from 9 am to 5 pm",
+              "full_vn": "giờ làm việc là từ 9 giờ sáng đến 5 giờ chiều"
+            },
+            {
+              "full_en": "school hours",
+              "full_vn": "giờ học ở trường"
+            },
+            {
+              "full_en": "doctors work long hours",
+              "full_vn": "các bác sĩ có giờ làm việc dài hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng cách có thể đi được trong một tiếng đồng hồ",
+          "list_en_vn": [
+            {
+              "full_en": "London's only two hours away",
+              "full_vn": "Luân Đôn chỉ còn cách hai giờ đồng hồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lúc; giờ phút",
+          "list_one_mean": [
+            {
+              "id_full_en": "Book of Hours",
+              "list_im": [
+                {
+                  "im_full_vn": "sách tụng kinh hằng ngày"
+                }
+              ]
+            },
+            {
+              "id_full_en": "after hours",
+              "list_im": [
+                {
+                  "im_full_vn": "sau khoảng thời gian làm việc bình thường hàng ngày",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "staff must stay behind after hours to catch up on their work",
+                      "full_vn": "nhân viên phải ở lại sau giờ làm việc để làm nốt công việc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at /till all hours",
+              "list_im": [
+                {
+                  "im_full_vn": "cho đến bất cứ lúc nào (dù không thích hợp hoặc không thuận tiện)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she stays out till all hours",
+                      "full_vn": "cô ấy đi chơi đến tận khuya"
+                    },
+                    {
+                      "full_en": "he's inclined to telephone at all hours of the day or night",
+                      "full_vn": "anh ta có thói gọi điện thoại bất kể giờ nào ban ngày hay ban đêm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the eleventh hour",
+              "list_im": [
+                {
+                  "im_full_vn": "vào giờ chót, vào phút chót"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the early hours",
+              "list_im": [
+                {
+                  "im_full_vn": "xem early"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep late /early /regular hours",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ngủ hoặc làm việc muộn/sớm/theo đúng thời khoá biểu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the hour",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng 1 giờ, 2 giờ, 3 giờ...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "my appointment was for 9 am and I arrived on the hour",
+                      "full_vn": "cuộc hẹn của tôi là 9 giờ sáng và tôi đã đến đúng giờ"
+                    },
+                    {
+                      "full_en": "the London bus departs every hour on the hour",
+                      "full_vn": "xe búyt đi Luân Đôn mỗi giờ có một chuyến vào đúng giờ chẵn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of hours",
+              "list_im": [
+                {
+                  "im_full_vn": "trước và sau giờ làm việc hàng ngày, ngoài giờ làm việc; vào những thời gian mà rượu không được phép bày bán trong các quầy giải khát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in a good hour",
+              "list_im": [
+                {
+                  "im_full_vn": "vào lúc may mắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in an evil hour",
+              "list_im": [
+                {
+                  "im_full_vn": "vào lúc rủi ro, vào lúc gặp vận đen"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the question of the hour",
+              "list_im": [
+                {
+                  "im_full_vn": "vấn đề nóng hổi lúc này, vấn đề nóng hổi lúc đó; vấn đề thời sự nóng hổi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's waking hours",
+              "list_im": [
+                {
+                  "im_full_vn": "lúc tỉnh giấc tàn canh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she spent all her waking hours worrying about her job",
+                      "full_vn": "suốt thời gian tỉnh giấc, cô ta cứ lo lăng về công việc của mình"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in the hour of danger",
+              "full_vn": "trong giờ phút lâm nguy"
+            },
+            {
+              "full_en": "she helped me in my hour of need",
+              "full_vn": "cô ấy giúp đỡ tôi vào giờ phút cần thiết"
+            },
+            {
+              "full_en": "the country's finest hour",
+              "full_vn": "giờ phút tươi đẹp nhất của đất nước"
+            },
+            {
+              "full_en": "until one's last hour",
+              "full_vn": "cho đến giờ phút cuối cùng của cuộc đời"
+            },
+            {
+              "full_en": "his hour has come",
+              "full_vn": "giờ phút cuối cùng của đời nó đã đến rồi, nó đã đến lúc chết rồi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374357_4cd15562bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374357_919886af79_o.png",
+      "id_image": "hours_1010949"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374332_e98c2f9038_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374332_0b61968676_o.png",
+      "id_image": "hours_1195639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066420_8bf814d811_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066420_c44500a467_o.png",
+      "id_image": "hours_3603834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329611_8f497d09ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329611_88f0bd033c_o.png",
+      "id_image": "hours_4745511"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "hawk",
+  "phat_am": "[hɔ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) diều hâu; chim ưng"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) (chính trị) người ủng hộ chính sách hiếu chiến trong công tác đối ngoại; kẻ diều hâu",
+          "list_one_mean": [
+            {
+              "id_full_en": "not to know a hawk from a handsaw",
+              "list_im": [
+                {
+                  "im_full_vn": "dốt đặc không biết gì hết"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "săn bằng chim ưng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to hawk something about / around ) chào (hàng) để bán bằng cách đi đến từng nhà, từng đường phố..."
+        },
+        {
+          "m_full_vn": "tung tin bằng cách nói",
+          "list_en_vn": [
+            {
+              "full_en": "who's been hawking gossip about ?",
+              "full_vn": "ai là người đã truyền tin đồn khắp nơi?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343231_1d796ef2c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343231_a6d803ec3c_o.png",
+      "id_image": "hawk_1917204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388137_733f11c307_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388137_8903498b32_o.png",
+      "id_image": "hawk_4786602"
+    }
+  ]
+}

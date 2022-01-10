@@ -1,0 +1,62 @@
+{
+  "english": "invitation",
+  "phat_am": "[,invi'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( invitation to something / to do something ) sự mời hoặc được mời; lời mời; giấy mời",
+          "list_en_vn": [
+            {
+              "full_en": "a letter of invitation",
+              "full_vn": "thư mời"
+            },
+            {
+              "full_en": "invitation card",
+              "full_vn": "thiệp mời"
+            },
+            {
+              "full_en": "admission is by invitation only",
+              "full_vn": "có giấy mời mới được vào"
+            },
+            {
+              "full_en": "to send out invitations to a party",
+              "full_vn": "gửi giấy mời tới dự tiệc"
+            },
+            {
+              "full_en": "I gladly accepted their invitation to open the fête",
+              "full_vn": "tôi vui mừng nhận lời mời của họ tới khai mạc lễ hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( invitation to somebody / something ) cái lôi cuốn, cái hấp dẫn",
+          "list_en_vn": [
+            {
+              "full_en": "an open window is an invitation to burglars /an invitation to crime",
+              "full_vn": "cửa sổ để ngỏ là một sự khuyến khích bọn trộm/gây tội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075215_0acd261bb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075215_62932d5c87_o.png",
+      "id_image": "invitation_1660235"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453043_7f42568a7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453043_6958895bd9_o.png",
+      "id_image": "invitation_1711925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338181_2f71a6f043_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338181_aacb5813e8_o.png",
+      "id_image": "invitation_443586"
+    }
+  ]
+}

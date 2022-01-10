@@ -1,0 +1,72 @@
+{
+  "english": "international",
+  "phat_am": "[,intə'næ∫ənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "quốc tế",
+          "list_en_vn": [
+            {
+              "full_en": "international police",
+              "full_vn": "cảnh sát quốc tế"
+            },
+            {
+              "full_en": "international cooperation",
+              "full_vn": "sự hợp tác quốc tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) tổ chức quốc tế cộng sản"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vận động viên trình độ quốc tế"
+        },
+        {
+          "m_full_vn": "cuộc thi đấu quốc tế"
+        },
+        {
+          "m_full_vn": "( International ) Quốc tế cộng sản",
+          "list_en_vn": [
+            {
+              "full_en": "the First International",
+              "full_vn": "Quốc tế cộng sản I"
+            },
+            {
+              "full_en": "the Second International",
+              "full_vn": "Quốc tế cộng sản II"
+            },
+            {
+              "full_en": "the Third International",
+              "full_vn": "Quốc tế cộng sản III"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456453_6249506598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456453_78d85736a2_o.png",
+      "id_image": "international_1424768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341566_f375257478_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341566_1a721880e0_o.png",
+      "id_image": "international_2090519"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696759_823da832e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696759_e9a33bbbcf_o.png",
+      "id_image": "international_4459318"
+    }
+  ]
+}

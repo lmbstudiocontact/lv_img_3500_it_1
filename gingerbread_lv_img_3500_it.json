@@ -1,0 +1,55 @@
+{
+  "english": "gingerbread",
+  "phat_am": "['dʒindʒəbred]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bánh gừng"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "loè loẹt, hào nhoáng",
+          "list_en_vn": [
+            {
+              "full_en": "gingerbread architecture",
+              "full_vn": "kiến trúc hào nhoáng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332776_f64598e797_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332776_a73ef579e3_o.png",
+      "id_image": "gingerbread_452572"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332696_ca19d16dd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332696_e3d4754898_o.png",
+      "id_image": "gingerbread_6259834"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377482_bc55bf36c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377482_a622ee122a_o.png",
+      "id_image": "gingerbread_6259844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377427_1f9df6c933_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377427_eef473b24f_o.png",
+      "id_image": "gingerbread_6259854"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332746_30b0073b11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332746_1546b57c9f_o.png",
+      "id_image": "gingerbread_643933"
+    }
+  ]
+}

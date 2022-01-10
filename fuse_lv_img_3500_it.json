@@ -1,0 +1,117 @@
+{
+  "english": "fuse",
+  "phat_am": "[fju:z]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tròng một mạch điện) đoạn dây kim loại ngắn nóng chảy ra và làm ngắt mạch điện nếu dòng điện vượt quá mức an toàn; cầu chì",
+          "list_en_vn": [
+            {
+              "full_en": "it looks as though you've blown a fuse",
+              "full_vn": "dường như anh đã làm nổ cầu chì"
+            },
+            {
+              "full_en": "fuse-box",
+              "full_vn": "tủ đựng cầu chì"
+            },
+            {
+              "full_en": "fuse-wire",
+              "full_vn": "dây chì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc một mạch điện) ngừng hoặc làm ngừng hoạt động vì cầu chì nóng chảy",
+          "list_en_vn": [
+            {
+              "full_en": "the lights have all fused",
+              "full_vn": "tất cả các đèn đều hỏng cầu chì"
+            },
+            {
+              "full_en": "I've fused all the lights",
+              "full_vn": "tôi đã làm hỏng cầu chì tất cả các đèn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mẩu vật liệu dễ cháy (dây, giấy) có tia lửa chuyển động theo chiều dài châm ngòi cho pháo, bom... khiến nó nổ; ngòi nổ; kip nổ"
+        },
+        {
+          "m_full_vn": "thiết bị làm bom đạn nổ do chạm mạnh hoặc do đặt giờ (cũng) fuze",
+          "list_one_mean": [
+            {
+              "id_full_en": "on a short fuse",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) nóng nảy; dễ cáu tiết"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the bomb had been set with a four-hour fuse",
+              "full_vn": "quả bom được hẹn giờ để bốn giờ sau sẽ nổ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(làm cho vật gì) trở thành lỏng bằng cách đốt nóng; nấu chảy",
+          "list_en_vn": [
+            {
+              "full_en": "to fuse metals (into a solid mass )",
+              "full_vn": "nấu chảy các kim loại (thành một khối)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nối (cái gì) hoặc hỗn hợp bằng cách đốt nóng",
+          "list_en_vn": [
+            {
+              "full_en": "to fuse two pieces of wire together",
+              "full_vn": "hàn nối hai mẩu dây kim loại lại với nhau"
+            },
+            {
+              "full_en": "the two companies are fused by their common interest",
+              "full_vn": "hai công ty hợp nhất vì lợi ích chung của họ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455853_d14992207a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455853_435aef53d0_o.png",
+      "id_image": "fuse_2231295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078365_ffa6a66e26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078365_6099fa8f55_o.png",
+      "id_image": "fuse_2546980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455798_6339d7dc79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455798_33a03ef0a2_o.png",
+      "id_image": "fuse_5387352"
+    }
+  ]
+}

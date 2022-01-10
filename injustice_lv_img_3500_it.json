@@ -1,0 +1,62 @@
+{
+  "english": "injustice",
+  "phat_am": "[in'dʒʌstis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thiếu không bằng; sự bất công; hành động bất công",
+          "list_one_mean": [
+            {
+              "id_full_en": "to do somebody an injustice",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh giá ai một cách không công bằng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "in saying this , you do her an injustice",
+                      "full_vn": "nói ra điều đó tức là anh đã nói oan cho cô ta"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "không làm bộc lộ được tài năng thức sự của ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his latest novel does him an injustice",
+                      "full_vn": "tiểu thuyết mới nhất của ông ấy đã không cho thấy hết tài năng của ông ấy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a fierce opponent of injustice",
+              "full_vn": "một người kịch liệt phản đối sự bất công"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084095_ffecd86d8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084095_974b098a02_o.png",
+      "id_image": "injustice_2473095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461468_80515a02ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461468_a0dc77e3a3_o.png",
+      "id_image": "injustice_3724896"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391597_10294c57e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391597_d9f133110f_o.png",
+      "id_image": "injustice_5434083"
+    }
+  ]
+}

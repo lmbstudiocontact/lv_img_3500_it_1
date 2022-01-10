@@ -1,0 +1,73 @@
+{
+  "english": "fake",
+  "phat_am": "[feik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) vòng dây cáp"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) cuộn (dây cáp)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật làm giả, đồ giả mạo; đồ cổ giả mạo"
+        },
+        {
+          "m_full_vn": "báo cáo bịa"
+        },
+        {
+          "m_full_vn": "( định ngữ) giả, giả mạo",
+          "list_en_vn": [
+            {
+              "full_en": "a fake monk",
+              "full_vn": "kẻ giả danh thầy tu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm giống như thật"
+        },
+        {
+          "m_full_vn": "làm giả, giả mạo"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) ứng khẩu (một đoạn nhạc jazz)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337091_ecbf3a7f5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337091_170810b071_o.png",
+      "id_image": "fake_1717700"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692444_0b3f55f084_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692444_6983ed37d2_o.png",
+      "id_image": "fake_2233992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692399_77d05b9627_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692399_cb58536752_o.png",
+      "id_image": "fake_2742130"
+    }
+  ]
+}

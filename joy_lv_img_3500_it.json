@@ -1,0 +1,89 @@
+{
+  "english": "joy",
+  "phat_am": "[dʒɔi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vui mừng, sự hân hoan, sự vui sướng",
+          "list_en_vn": [
+            {
+              "full_en": "to jump for joy",
+              "full_vn": "nhảy lên vì vui sướng"
+            },
+            {
+              "full_en": "to someone's joy",
+              "full_vn": "làm cho ai vui sướng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "niềm vui",
+          "list_one_mean": [
+            {
+              "id_full_en": "full of the joys of spring",
+              "list_im": [
+                {
+                  "im_full_vn": "sôi nổi và vui vẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have no joy from sb",
+              "list_im": [
+                {
+                  "im_full_vn": "không được sự hài lòng của ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he is the joy and pride of his mother",
+              "full_vn": "nó là niềm vui và tự hào của mẹ nó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thơ ca) vui mừng, vui sướng"
+        },
+        {
+          "m_full_vn": "(thơ ca) làm vui mừng, làm vui sướng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446963_e943f56694_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446963_5e55a51b19_o.png",
+      "id_image": "joy_2341866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068570_1fc57c3f9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068570_c961308f35_o.png",
+      "id_image": "joy_3508730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686889_9d38fe95e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686889_a1997c4cbf_o.png",
+      "id_image": "joy_6000975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332031_9af3cbc5a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332031_7257d917bd_o.png",
+      "id_image": "joy_708669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068640_03fa592fcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068640_05e03ae926_o.png",
+      "id_image": "joy_708677"
+    }
+  ]
+}

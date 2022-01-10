@@ -1,0 +1,78 @@
+{
+  "english": "frost",
+  "phat_am": "[frɔst]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đông giá"
+        },
+        {
+          "m_full_vn": "sương giá"
+        },
+        {
+          "m_full_vn": "sự lạnh nhạt"
+        },
+        {
+          "m_full_vn": "(từ lóng) sự thất bại"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm chết cóng (vì sương giá) (cây, mùa màng...)"
+        },
+        {
+          "m_full_vn": "phủ sương giá",
+          "list_en_vn": [
+            {
+              "full_en": "frosted window-panes",
+              "full_vn": "những ô kính cửa sổ phủ sương giá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rắc đường lên",
+          "list_en_vn": [
+            {
+              "full_en": "to frost a cake",
+              "full_vn": "rắc đường lên cái bánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm (mặt gương) lấm tấm (như) có phủ sương giá"
+        },
+        {
+          "m_full_vn": "làm (tóc) bạc"
+        },
+        {
+          "m_full_vn": "đóng đinh (vào sắt móng ngựa để chống trượt)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388597_49f75ff8eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388597_91a2c2a208_o.png",
+      "id_image": "frost_271869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343611_a68c67d83c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343611_d38b3035cc_o.png",
+      "id_image": "frost_6183141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698794_a140e7cf0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698794_6fe3299cb1_o.png",
+      "id_image": "frost_6301438"
+    }
+  ]
+}

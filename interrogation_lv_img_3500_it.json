@@ -1,0 +1,40 @@
+{
+  "english": "interrogation",
+  "phat_am": "[in,terə'gei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hỏi dò, sự thẩm vấn, sự chất vấn; câu tra hỏi, câu thẩm vấn, câu chất vấn",
+          "list_en_vn": [
+            {
+              "full_en": "several interrogations by police officers",
+              "full_vn": "một số cuộc thẩm vấn của các sĩ quan cảnh sát"
+            },
+            {
+              "full_en": "the prisoner gave way under interrogation",
+              "full_vn": "người tù đã khuất phục khi bị thẩm vấn"
+            },
+            {
+              "full_en": "interrogation techniques",
+              "full_vn": "kỹ thuật thẩm vấn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696529_e430fda6d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696529_96f706ee7f_o.png",
+      "id_image": "interrogate_3317249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696514_d777d4c9b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696514_55c5d23700_o.png",
+      "id_image": "interrogation_4463241"
+    }
+  ]
+}

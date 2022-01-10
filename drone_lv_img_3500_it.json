@@ -1,0 +1,66 @@
+{
+  "english": "drone",
+  "phat_am": "[droun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) ong mật đực"
+        },
+        {
+          "m_full_vn": "kẻ lười biếng, kẻ ăn không ngồi rồi"
+        },
+        {
+          "m_full_vn": "tiếng o o, tiếng vo ve"
+        },
+        {
+          "m_full_vn": "bài nói đều đều; người nói giọng đều đều"
+        },
+        {
+          "m_full_vn": "kèn túi; tiếng ò è của kèn túi"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (hàng không) máy bay không người lái"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kêu o o, kêu vo ve; kêu ò è (như) tiếng kèn túi"
+        },
+        {
+          "m_full_vn": "nói giọng đều đều"
+        },
+        {
+          "m_full_vn": "( (thường) + away ) làm biếng, ăn không ngồi rồi",
+          "list_en_vn": [
+            {
+              "full_en": "to drone away one's life",
+              "full_vn": "ăn không ngồi rồi phí hết cuộc đời"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452808_1307a00a80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452808_9fc8c90e09_o.png",
+      "id_image": "drone_386472"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074945_148f702967_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074945_7547858d3a_o.png",
+      "id_image": "drone_473187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452753_5d26bef4d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452753_f47316f21c_o.png",
+      "id_image": "drone_536707"
+    }
+  ]
+}

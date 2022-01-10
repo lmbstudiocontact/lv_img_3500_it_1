@@ -1,0 +1,51 @@
+{
+  "english": "glider",
+  "phat_am": "[glaidə]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lướt qua, lướt nhẹ, trượt nhẹ, đi nhẹ qua, chảy êm đềm (sông...); bay liệng (chim, tàu lượn...); trôi qua (thời gian)",
+          "list_en_vn": [
+            {
+              "full_en": "to glider out of the room",
+              "full_vn": "lướt nhẹ ra khỏi phòng"
+            },
+            {
+              "full_en": "the river gliders through the fields",
+              "full_vn": "con sông êm đềm chảy qua những cánh đồng"
+            },
+            {
+              "full_en": "time gliders by",
+              "full_vn": "thời gian trôi qua"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm trượt đi, làm lướt đi"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng không) tàu lượn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376437_0e290938cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376437_816f330bb4_o.png",
+      "id_image": "glider_4768202"
+    }
+  ]
+}

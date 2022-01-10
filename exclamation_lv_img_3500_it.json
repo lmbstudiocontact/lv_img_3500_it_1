@@ -1,0 +1,37 @@
+{
+  "english": "exclamation",
+  "phat_am": "[,eksklə'mei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "từ chỉ sự cảm thán, thán từ",
+          "list_en_vn": [
+            {
+              "full_en": "note of exclamation",
+              "full_vn": "dấu cảm thán, dấu than"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312296_ec619372ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312296_4709a9fd21_o.png",
+      "id_image": "exclamation_228377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048905_ff34ce812a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048905_59076ae16b_o.png",
+      "id_image": "exclamation_258359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667184_1f28bd5973_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667184_e2f8a28399_o.png",
+      "id_image": "exclamation_594646"
+    }
+  ]
+}

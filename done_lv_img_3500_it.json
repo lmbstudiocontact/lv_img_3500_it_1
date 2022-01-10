@@ -1,0 +1,109 @@
+{
+  "english": "done",
+  "phat_am": "[dʌn]",
+  "list_type": [
+    {
+      "type": "động tính từ quá khứ của do"
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(về thức ăn) nấu chín",
+          "list_en_vn": [
+            {
+              "full_en": "the joint isn't quite done yet",
+              "full_vn": "súc thịt nấu chưa chín hẳn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể chấp nhận về mặt xã hội",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be the done thing",
+              "list_im": [
+                {
+                  "im_full_vn": "là việc cần phải làm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be /have done with somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "không còn làm việc gì hoặc có liên quan đến ai/cái gì; bỏ đi, thôi đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "let's spend another half an hour painting and then have done with it",
+                      "full_vn": "chúng ta hãy dành thêm nửa giờ nữa để quét sơn, cho nó xong đi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "over and done with",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn kết thúc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "their relationship is over and done with",
+                      "full_vn": "mối quan hệ giữa họ với nhau đã tan rã và hoàn toàn chấm dứt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "what is done cannot be undone",
+              "list_im": [
+                {
+                  "im_full_vn": "cái gì đã làm thì không thay đổi được nữa; bút sa gà chết"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "smoking between courses isn't done",
+              "full_vn": "hút thuốc là trong khi chờ thức ăn là điều không thể chấp nhận được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "(dùng để cho thấy mình chấp nhận một đề nghị) xong!",
+          "list_en_vn": [
+            {
+              "full_en": "I'll give you 8500 for the car - Done !",
+              "full_vn": "Tôi sẽ trả anh 8500 pao tiền chiếc xe ô tô ấy - Xong!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310026_4a822d9207_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310026_7568e09ee2_o.png",
+      "id_image": "done_1042010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665234_b16858bdf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665234_6dea5b90eb_o.png",
+      "id_image": "done_5216773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046900_3911315c0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046900_f5eceed913_o.png",
+      "id_image": "done_5622617"
+    }
+  ]
+}

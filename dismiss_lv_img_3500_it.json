@@ -1,0 +1,68 @@
+{
+  "english": "dismiss",
+  "phat_am": "[dis'mis]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giải tán (đám đông tụ tập, quân đội...)",
+          "list_en_vn": [
+            {
+              "full_en": "dismiss !",
+              "full_vn": "giải tán! (tiếng ra lệnh sau buổi tập...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho đi"
+        },
+        {
+          "m_full_vn": "đuổi ra, thải hồi, sa thải (người làm...)"
+        },
+        {
+          "m_full_vn": "gạt bỏ, xua đuổi (ý nghĩ...)"
+        },
+        {
+          "m_full_vn": "bàn luận qua loa, nêu lên qua loa (một vấn đề, cốt để bỏ qua)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đánh đi (quả bóng crickê)"
+        },
+        {
+          "m_full_vn": "(pháp lý) bỏ không xét (một vụ); bác (đơn)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "the dismiss (quân sự) sự giải tán (sau buổi tập luyện)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315636_360df7c446_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315636_d9a6db81c2_o.png",
+      "id_image": "dismissed_1533220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670264_db56a80d1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670264_c9e128a691_o.png",
+      "id_image": "dismissed_5692046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359922_dd4c94ea5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359922_4bd54e9fb0_o.png",
+      "id_image": "dismiss_5692029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430603_1b532839cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430603_d2f3c1e0c6_o.png",
+      "id_image": "dismiss_5692454"
+    }
+  ]
+}

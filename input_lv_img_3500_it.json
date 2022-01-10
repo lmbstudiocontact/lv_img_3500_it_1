@@ -1,0 +1,79 @@
+{
+  "english": "input",
+  "phat_am": "['input]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động đưa cái gì vào",
+          "list_en_vn": [
+            {
+              "full_en": "the input of additional resources into the project",
+              "full_vn": "sự đưa thêm phương tiện vào dự án"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái được cho vào",
+          "list_en_vn": [
+            {
+              "full_en": "an input of energy to a system",
+              "full_vn": "năng lượngđưa vào hệ thống"
+            },
+            {
+              "full_en": "electrical input",
+              "full_vn": "dòng điện vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) nguồn vào"
+        },
+        {
+          "m_full_vn": "(tin học) sự đưa dữ liệu vào máy tính để xử lý hoặc lưu trữ; sự nhập liệu"
+        },
+        {
+          "m_full_vn": "dữ liệu được đưa vào"
+        },
+        {
+          "m_full_vn": "bộ phận trong máy tính thực hiện việc nhập liệu",
+          "list_en_vn": [
+            {
+              "full_en": "input key /code /level",
+              "full_vn": "phím/mã/cấp độ nhập liệu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Ê-cốt) số tiền cúng"
+        }
+      ]
+    },
+    {
+      "type": "động từ ( động tính từ quá khứ và thì quá khứ là input hoặc inputted )",
+      "list_m": [
+        {
+          "m_full_vn": "(tin học) ( to input something to / into something ) đưa (dữ liệu) vào máy tính; nhập liệu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460853_2545c98e1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460853_208ea5bd91_o.png",
+      "id_image": "input_1783691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391077_513b6dbb35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391077_3958cc222a_o.png",
+      "id_image": "input_2721589"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346111_5f86188b81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346111_7313204781_o.png",
+      "id_image": "input_338106"
+    }
+  ]
+}

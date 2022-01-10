@@ -1,0 +1,67 @@
+{
+  "english": "dye",
+  "phat_am": "[dai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuốc nhuộm"
+        },
+        {
+          "m_full_vn": "màu, màu sắc ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "a deep dye",
+              "full_vn": "màu thẫm"
+            },
+            {
+              "full_en": "a crime of the blackest dye",
+              "full_vn": "tội ác đen tối nhất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhuộn",
+          "list_en_vn": [
+            {
+              "full_en": "to dye red",
+              "full_vn": "nhuộm đỏ"
+            },
+            {
+              "full_en": "this stuff dows not dye well",
+              "full_vn": "loại vải len này nhuộm không ăn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689044_2694865f48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689044_b2c15daea0_o.png",
+      "id_image": "dye_1053045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448943_6f798906bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448943_2dda3610ac_o.png",
+      "id_image": "dye_3967401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448913_e7672ae3f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448913_08f2b9f9d4_o.png",
+      "id_image": "dye_5238415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688934_dc181b8bd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688934_7ff451132d_o.png",
+      "id_image": "dye_5732052"
+    }
+  ]
+}

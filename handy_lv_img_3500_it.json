@@ -1,0 +1,74 @@
+{
+  "english": "handy",
+  "phat_am": "[hændi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(về những đồ dùng) dễ điều khiển hoặc sử dụng; có ich",
+          "list_en_vn": [
+            {
+              "full_en": "a good toolbox is a handy thing to have in the house",
+              "full_vn": "một hộp dụng cụ tốt là một vật hữu ích nên có ở trong nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để ở chỗ thuận tiện dễ lấy hoặc dễ sử dụng",
+          "list_en_vn": [
+            {
+              "full_en": "our flat is very handy for the schools",
+              "full_vn": "căn hộ của chúng tôi rất thuận tiện để đến các trường học"
+            },
+            {
+              "full_en": "Always keep a first-aid kit handy",
+              "full_vn": "Hãy luôn có sẵn một túi cấp cứu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khéo tay",
+          "list_one_mean": [
+            {
+              "id_full_en": "to come in handy",
+              "list_im": [
+                {
+                  "im_full_vn": "có ích vào một lúc nào đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "my extra earnings came in very handy",
+                      "full_vn": "những khoản tiền kiếm thêm của tôi đến thật đúng lúc"
+                    },
+                    {
+                      "full_en": "don't throw that cardboard box away - it may come in handy",
+                      "full_vn": "đừng vất cái hộp cactông ấy đi - rồi có lúc nó sẽ có ích đấy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he's handy about the house",
+              "full_vn": "nó rất khéo tay về các việc trong nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460153_0a289238fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460153_6b1eaf2b46_o.png",
+      "id_image": "handy_3349640"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460133_004dabf118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460133_43a834b10c_o.png",
+      "id_image": "handy_3879792"
+    }
+  ]
+}

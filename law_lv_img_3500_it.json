@@ -1,0 +1,276 @@
+{
+  "english": "law",
+  "phat_am": "[lɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phép; phép tắc; luật; luật lệ; quy luật, định luật",
+          "list_en_vn": [
+            {
+              "full_en": "the new law comes into force next month",
+              "full_vn": "luật mới sẽ có hiệu lực từ tháng sau"
+            },
+            {
+              "full_en": "respect for tribal law",
+              "full_vn": "sự tôn trọng luật lệ của bộ lạc"
+            },
+            {
+              "full_en": "to observe /obey the law",
+              "full_vn": "tuân thủ luật lệ"
+            },
+            {
+              "full_en": "to break the law",
+              "full_vn": "vi phạm pháp luật"
+            },
+            {
+              "full_en": "to be within /outside the law",
+              "full_vn": "đúng luật/phạm luật"
+            },
+            {
+              "full_en": "she acts as if she's above the law",
+              "full_vn": "cô ta hành động như thể cô ta đứng trên luật pháp"
+            },
+            {
+              "full_en": "the law is on our side",
+              "full_vn": "luật pháp đứng về phía chúng ta"
+            },
+            {
+              "full_en": "children not admitted - by law",
+              "full_vn": "trẻ em không được vào - theo luật pháp quy định"
+            },
+            {
+              "full_en": "the law of gravity",
+              "full_vn": "định luật về trọng lực"
+            },
+            {
+              "full_en": "the laws of football",
+              "full_vn": "luật bóng đá"
+            },
+            {
+              "full_en": "the laws of painting",
+              "full_vn": "quy tắc hội hoạ"
+            },
+            {
+              "full_en": "economic laws",
+              "full_vn": "quy luật kinh tế"
+            },
+            {
+              "full_en": "the law of supply and demand",
+              "full_vn": "luật cung cầu"
+            },
+            {
+              "full_en": "the law of averages",
+              "full_vn": "quy luật quân bình"
+            },
+            {
+              "full_en": "the laws of motion",
+              "full_vn": "những quy luật về vận động"
+            },
+            {
+              "full_en": "to settle a matter without going to law",
+              "full_vn": "hoà giải một công việc không cần đến pháp luật"
+            },
+            {
+              "full_en": "court of law",
+              "full_vn": "toà án"
+            },
+            {
+              "full_en": "to put the law into force ; to carry out the law",
+              "full_vn": "thi hành pháp luật"
+            },
+            {
+              "full_en": "commercial law",
+              "full_vn": "luật thương mại"
+            },
+            {
+              "full_en": "maritime law",
+              "full_vn": "luật hàng hải"
+            },
+            {
+              "full_en": "international law ; the law of nations",
+              "full_vn": "luật quốc tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "luật học; nghề luật sư",
+          "list_en_vn": [
+            {
+              "full_en": "to read /study law",
+              "full_vn": "học luật"
+            },
+            {
+              "full_en": "law student",
+              "full_vn": "học sinh đại học luật; sinh viên luật"
+            },
+            {
+              "full_en": "law school",
+              "full_vn": "trường đào tạo ngành luật, trường luật"
+            },
+            {
+              "full_en": "Doctor of Laws ; LL D",
+              "full_vn": "tiến sĩ luật khoa"
+            },
+            {
+              "full_en": "Master of Laws ; LL M",
+              "full_vn": "thạc sĩ luật khoa"
+            },
+            {
+              "full_en": "Bachelor of Laws ; LL B",
+              "full_vn": "cử nhân luật"
+            },
+            {
+              "full_en": "to follow the law ; to practise the law ; to go in for the law",
+              "full_vn": "làm nghề luật sư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the law ) cảnh sát",
+          "list_one_mean": [
+            {
+              "id_full_en": "law and order",
+              "list_im": [
+                {
+                  "im_full_vn": "an ninh trật tự",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to establish , maintain , uphold law and order",
+                      "full_vn": "thiết lập, duy trì, giữ vững an ninh trật tự"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be a law unto oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "làm theo đường lối của mình, bất chấp cả luật lệ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "necessity (needs ) knows no law",
+              "list_im": [
+                {
+                  "im_full_vn": "bần cùng sinh đạo tặc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the arm of the law",
+              "list_im": [
+                {
+                  "im_full_vn": "quyền lực của pháp luật, ưu quyền của pháp luật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the law of the jungle",
+              "list_im": [
+                {
+                  "im_full_vn": "luật giang hồ, luật rừng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay down the law",
+              "list_im": [
+                {
+                  "im_full_vn": "diễu võ giương oai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the letter of the law",
+              "list_im": [
+                {
+                  "im_full_vn": "tính xác đáng của thuật ngữ pháp lý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "possession is nine points of the law",
+              "list_im": [
+                {
+                  "im_full_vn": "chiếm hoặc làm chủ được cái gì thì sẽ ở cái thế giữ nó tốt hơn là bất cứ ai đang to tiếng đòi hỏi cái đó; xin xỏ cho lắm không bằng nắm trong tay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the law into one's own hands",
+              "list_im": [
+                {
+                  "im_full_vn": "xem thường luật pháp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there's no law against it",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng có luật nào cấm đoán điều đó cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "an unwritten law",
+              "list_im": [
+                {
+                  "im_full_vn": "luật bất thành văn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to law",
+              "list_im": [
+                {
+                  "im_full_vn": "nhờ đến pháp luật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the law on somebody ; to go to law against somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "thưa kiện ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Watch out - here comes the law !",
+              "full_vn": "Coi chừng - cảnh sát đến kìa!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673399_99e2dacc0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673399_9e0c687a96_o.png",
+      "id_image": "law_1208147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363122_971eb4d367_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363122_9b86634dc5_o.png",
+      "id_image": "law_1781212"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318541_a112e66c4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318541_ab942da961_o.png",
+      "id_image": "law_3142936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055095_7d08662c31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055095_fd78efac55_o.png",
+      "id_image": "law_3142988"
+    }
+  ]
+}

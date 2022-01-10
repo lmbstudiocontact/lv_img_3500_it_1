@@ -1,0 +1,421 @@
+{
+  "english": "hard",
+  "phat_am": "[hɑ:d]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cứng, rắn",
+          "list_en_vn": [
+            {
+              "full_en": "as hard as steel",
+              "full_vn": "rắn như thép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rắn chắc, cứng cáp",
+          "list_en_vn": [
+            {
+              "full_en": "hard muscles",
+              "full_vn": "bắp thịt rắn chắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cứng (nước)",
+          "list_en_vn": [
+            {
+              "full_en": "hard water",
+              "full_vn": "nước cứng (có hoà tan nhiều muối vô cơ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thô cứng; gay gắt, khó chịu",
+          "list_en_vn": [
+            {
+              "full_en": "hard features",
+              "full_vn": "những nét thô cứng"
+            },
+            {
+              "full_en": "hard to the ear",
+              "full_vn": "nghe khó chịu"
+            },
+            {
+              "full_en": "hard to the eye",
+              "full_vn": "nhìn khó chịu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hà khắc, khắc nghiệt, nghiêm khắc, không thương xót, không có tính cứng rắn, cứng cỏi; hắc, keo cú, chi li",
+          "list_en_vn": [
+            {
+              "full_en": "a hard look",
+              "full_vn": "cái nhìn nghiêm khắc"
+            },
+            {
+              "full_en": "hard discipline",
+              "full_vn": "kỷ luật khắc nghiệt"
+            },
+            {
+              "full_en": "hard winter",
+              "full_vn": "mùa đông khắc nghiệt"
+            },
+            {
+              "full_en": "to be hard on (upon ) somebody",
+              "full_vn": "khắc nghiệt với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nặng, nặng nề",
+          "list_en_vn": [
+            {
+              "full_en": "a hard blow",
+              "full_vn": "một đòn nặng nề, một đòn trời giáng"
+            },
+            {
+              "full_en": "hard of hearing",
+              "full_vn": "nặng tai"
+            },
+            {
+              "full_en": "a hard drinker",
+              "full_vn": "người nghiện rượu nặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gay go, khó khăn, gian khổ, hắc búa",
+          "list_en_vn": [
+            {
+              "full_en": "a hard problem",
+              "full_vn": "vấn đề hắc búa"
+            },
+            {
+              "full_en": "hard lines",
+              "full_vn": "số không may; sự khổ cực"
+            },
+            {
+              "full_en": "to be hard to convince",
+              "full_vn": "khó mà thuyết phục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không thể chối cãi được, không bác bỏ được, rõ rành rành",
+          "list_en_vn": [
+            {
+              "full_en": "hard facts",
+              "full_vn": "sự việc rõ rành rành không thể chối cãi được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cao, đứng giá (thị trường giá cả)"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) kêu (âm)"
+        },
+        {
+          "m_full_vn": "bằng đồng, bằng kim loại (tiền)",
+          "list_en_vn": [
+            {
+              "full_en": "hard cash",
+              "full_vn": "tiền đồng, tiền kim loại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) có nồng độ rượu cao",
+          "list_one_mean": [
+            {
+              "id_full_en": "hard and fast",
+              "list_im": [
+                {
+                  "im_full_vn": "cứng rắn, chặt chẽ (nguyên tắc, luật lệ...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as hard as nails",
+              "list_im": [
+                {
+                  "im_full_vn": "lạnh như tiền, rắn như đanh (tính tình)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a hard nut to crack",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) nut"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a hard row to hoe",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) row"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drive a hard bargain",
+              "list_im": [
+                {
+                  "im_full_vn": "cò kè bớt một thêm hai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a hard-luck story",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyện rủi ro, chuyện không may"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the hard /soft sell",
+              "list_im": [
+                {
+                  "im_full_vn": "bán theo kiểu nhồi nhét/mời mọc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "no hard feelings",
+              "list_im": [
+                {
+                  "im_full_vn": "không buồn phiền chi cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a hard line on sth",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ lập trường dứt khoát về điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "too much like hard work",
+              "list_im": [
+                {
+                  "im_full_vn": "quá khó nhọc, quá tốn công sức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make hard work of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho cái gì có vẻ khó khăn hơn thực tế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the hard way",
+              "list_im": [
+                {
+                  "im_full_vn": "phương cách khó khăn nhất"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "hard liquors",
+              "full_vn": "rượu mạnh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "hết sức cố gắng, tích cực",
+          "list_en_vn": [
+            {
+              "full_en": "to try hard to succeed",
+              "full_vn": "cố gắng hết sức để thành công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chắc, mạnh, nhiều",
+          "list_en_vn": [
+            {
+              "full_en": "to hold something hard",
+              "full_vn": "nắm chắc cái gì"
+            },
+            {
+              "full_en": "to strike hard",
+              "full_vn": "đánh mạnh"
+            },
+            {
+              "full_en": "to drink hard",
+              "full_vn": "uống tuý luý, uống rượu như hũ chìm"
+            },
+            {
+              "full_en": "it's raining hard",
+              "full_vn": "trời mưa to"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khắc nghiệt, nghiêm khắc; cứng rắn; hắc",
+          "list_en_vn": [
+            {
+              "full_en": "don't use him too hard",
+              "full_vn": "đừng khắc nghiệt quá đối với nó"
+            },
+            {
+              "full_en": "to criticize hard",
+              "full_vn": "phê bình nghiêm khắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gay go, khó khăn, chật vật, gian khổ",
+          "list_en_vn": [
+            {
+              "full_en": "to die hard",
+              "full_vn": "chết một cách khó khăn"
+            },
+            {
+              "full_en": "money is hard earned",
+              "full_vn": "chật vật lắm mới kiếm được tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sát, gần, sát cạnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be hard bit",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bit"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be hard pressed",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) press"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be hard put to bit",
+              "list_im": [
+                {
+                  "im_full_vn": "bị lâm vào hoàn cảnh khó khăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be hard up",
+              "list_im": [
+                {
+                  "im_full_vn": "cạn túi, cháy túi, hết tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be hard up for",
+              "list_im": [
+                {
+                  "im_full_vn": "bí không bới đâu ra, bế tắc không tìm đâu ra (cái gì...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have it hard",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) lâm vào hoàn cảnh khó khăn, phải va chạm với những khó khăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hard upon",
+              "list_im": [
+                {
+                  "im_full_vn": "gần sát, xấp xỉ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it is getting hard upon twelve",
+                      "full_vn": "đã gần 12 giờ rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "it will go hard with him",
+              "list_im": [
+                {
+                  "im_full_vn": "rất là khó khăn bất lợi cho anh ta"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "hard by",
+              "full_vn": "sát cạnh, gần bên"
+            },
+            {
+              "full_en": "to follow hard after",
+              "full_vn": "bám sát theo sau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường dốc xuống bãi, đường dốc xuống bến"
+        },
+        {
+          "m_full_vn": "(từ lóng) hình phạt khổ sai",
+          "list_en_vn": [
+            {
+              "full_en": "to get a two-year hard",
+              "full_vn": "bị hai năm khổ sai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459293_a4517017ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459293_3378c028d6_o.png",
+      "id_image": "hard_1410450"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081935_6cac39e9a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081935_b8277d50e1_o.png",
+      "id_image": "hard_6401692"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344531_979febc18a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344531_313f5ce018_o.png",
+      "id_image": "hard_827667"
+    }
+  ]
+}

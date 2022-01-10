@@ -1,0 +1,30 @@
+{
+  "english": "drinker",
+  "phat_am": "['driηkə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người uống"
+        },
+        {
+          "m_full_vn": "người nghiện rượu",
+          "list_en_vn": [
+            {
+              "full_en": "a hard (heavy ) drinker",
+              "full_vn": "người nghiện rượu nặng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383762_91f6ae6831_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383762_a01af61058_o.png",
+      "id_image": "drinker_1818716"
+    }
+  ]
+}

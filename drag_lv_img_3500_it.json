@@ -1,0 +1,180 @@
+{
+  "english": "drag",
+  "phat_am": "[dræg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái bừa lớn, cái bừa nặng"
+        },
+        {
+          "m_full_vn": "xe trượt (san đất, chở đồ nặng...)"
+        },
+        {
+          "m_full_vn": "xe bốn ngựa"
+        },
+        {
+          "m_full_vn": "lưỡi kéo, lưỡi vét (bắt cá, bẫy chim) ( (cũng) drag net )"
+        },
+        {
+          "m_full_vn": "máy nạo vét; dụng cụ câu móc (người chết đuối...); cái cào phân"
+        },
+        {
+          "m_full_vn": "cái cân (để giảm tốc độ xe xuống dốc)"
+        },
+        {
+          "m_full_vn": "cái ngáng trở, điều ngáng trở, điều trở ngại (cho sự tiến bộ)"
+        },
+        {
+          "m_full_vn": "sự kéo lê, sự đi kéo lê, sự chậm chạp lề mề"
+        },
+        {
+          "m_full_vn": "sự rít một hơi (tẩu, thuốc lá...)",
+          "list_en_vn": [
+            {
+              "full_en": "to take a long drag on one's cigarette",
+              "full_vn": "rít một hơi thuốc lá dài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) ảnh hưởng, sự lôi kéo"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đường phố"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) cô gái đi chung"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) cuộc đua xe hơi"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lôi kéo"
+        },
+        {
+          "m_full_vn": "kéo lê",
+          "list_en_vn": [
+            {
+              "full_en": "to drag one's feet",
+              "full_vn": "kéo lê chân; (nghĩa bóng) làm chậm chạp lề mề, làm miễn cưỡng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) kéo (neo) trôi đi",
+          "list_en_vn": [
+            {
+              "full_en": "ship drags her anchor",
+              "full_vn": "tàu kéo neo trôi đi (neo trôi không cầm chắc)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mò đáy, vét đáy (sông, hồ..)",
+          "list_en_vn": [
+            {
+              "full_en": "to drag the lake for the drowned man",
+              "full_vn": "mò đáy hồ tìm xác người chết đuối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lắp cái cản (vào bánh xe để giảm tốc độ khi xuống dốc)"
+        },
+        {
+          "m_full_vn": "bừa (ruộng...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kéo, kéo lê, đi kéo lê"
+        },
+        {
+          "m_full_vn": "(âm nhạc) kéo dài, chơi quá chậm, thiếu sinh động"
+        },
+        {
+          "m_full_vn": "kề mề, kéo dài (câu chuyện, công việc...)"
+        },
+        {
+          "m_full_vn": "(hàng hải) trôi, không cầm chặt (neo)"
+        },
+        {
+          "m_full_vn": "mò đáy, vét đáy (để tìm cái gì)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to drag in",
+              "list_im": [
+                {
+                  "im_full_vn": "lôi vào, kéo vào"
+                },
+                {
+                  "im_full_vn": "đưa vào (một vấn đề) một cách vụng về, đưa vào không cần thiết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drag on",
+              "list_im": [
+                {
+                  "im_full_vn": "lôi theo, kéo theo"
+                },
+                {
+                  "im_full_vn": "lề mề, kéo dài nặng nề chán ngắt (câu chuyện...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drag out",
+              "list_im": [
+                {
+                  "im_full_vn": "lôi ra, kéo ra"
+                },
+                {
+                  "im_full_vn": "kéo dài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drag up",
+              "list_im": [
+                {
+                  "im_full_vn": "lôi lên, kéo lên"
+                },
+                {
+                  "im_full_vn": "(thông tục) nuôi dạy ẩu, nuôi dạy thô bạo (con cái)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307051_5178710213_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307051_c3e34d3219_o.png",
+      "id_image": "drag_1196456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351192_bb7b80f606_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351192_fd6a4cf576_o.png",
+      "id_image": "drag_247733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422188_7787547394_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422188_9d80c85424_o.png",
+      "id_image": "drag_4430332"
+    }
+  ]
+}

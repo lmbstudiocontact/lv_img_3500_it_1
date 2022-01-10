@@ -1,0 +1,219 @@
+{
+  "english": "early",
+  "phat_am": "['ə:li]",
+  "list_type": [
+    {
+      "type": "tính từ & phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "gần lúc bắt đầu của một khoảng thời gian; sớm; đầu",
+          "list_en_vn": [
+            {
+              "full_en": "in early spring",
+              "full_vn": "lúc đầu xuân"
+            },
+            {
+              "full_en": "in the early morning ; early in the morning",
+              "full_vn": "vào lúc sáng sớm"
+            },
+            {
+              "full_en": "two players were injured early in the season",
+              "full_vn": "hai cầu thủ đã bị thương ngay đầu mùa bóng"
+            },
+            {
+              "full_en": "I'll go there early next month",
+              "full_vn": "đầu tháng sau tôi sẽ đến đó"
+            },
+            {
+              "full_en": "early in the 19th century ; in the early 19th century",
+              "full_vn": "đầu thế kỷ 19"
+            },
+            {
+              "full_en": "in his early twenties",
+              "full_vn": "trong những năm đầu của tuổi hai mươi của anh ta (tức là lúc anh ta có tuổi từ 20 đến 23, 24)"
+            },
+            {
+              "full_en": "early works (of a composer , poet , writer ...)",
+              "full_vn": "các tác phẩm đầu tay (của một nhà soạn nhạc, nhà thơ, nhà văn...)"
+            },
+            {
+              "full_en": "an early riser",
+              "full_vn": "người hay dậy sớm"
+            },
+            {
+              "full_en": "in early 1998",
+              "full_vn": "đầu năm 1998"
+            },
+            {
+              "full_en": "in the early 1980s",
+              "full_vn": "đầu những năm 1980"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trước thời gian bình thường hoặc mong đợi",
+          "list_one_mean": [
+            {
+              "id_full_en": "at your earliest convenience",
+              "list_im": [
+                {
+                  "im_full_vn": "càng sớm càng tốt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "please deliver the goods at your earliest convenience",
+                      "full_vn": "xin làm ơn giao hàng càng sớm càng tốt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "bright and early",
+              "list_im": [
+                {
+                  "im_full_vn": "xem bright"
+                }
+              ]
+            },
+            {
+              "id_full_en": "early in the list",
+              "list_im": [
+                {
+                  "im_full_vn": "ở đầu danh sách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the early bird catches the worm",
+              "list_im": [
+                {
+                  "im_full_vn": "người nào đến sớm/dậy sớm thì sẽ thành công; đến trước thì được miếng ngon"
+                }
+              ]
+            },
+            {
+              "id_full_en": "early days (yet )",
+              "list_im": [
+                {
+                  "im_full_vn": "còn quá sớm để biết chắc điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm not sure , if our book will be a success",
+                      "full_vn": "tôi không chắc là cuốn sách của chúng ta có thành công hay không, còn quá sớm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the early hours",
+              "list_im": [
+                {
+                  "im_full_vn": "lúc tảng sáng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they danced till the early hours",
+                      "full_vn": "họ khiêu vũ đến tận gần sáng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "an early /a late night",
+              "list_im": [
+                {
+                  "im_full_vn": "xem night"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as early as the 19th century",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay từ thế kỷ 19"
+                }
+              ]
+            },
+            {
+              "id_full_en": "they got up a bit early for you",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) chúng láu cá hơn anh, chúng đã lừa được anh rồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "early on",
+              "list_im": [
+                {
+                  "im_full_vn": "rất sớm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I knew early on (in the film ) that I wasn't going to enjoy it",
+                      "full_vn": "mới xem tôi đã biết là tôi sẽ không thích phim này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "an early /a late riser",
+              "list_im": [
+                {
+                  "im_full_vn": "xem riser"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep early hours",
+              "list_im": [
+                {
+                  "im_full_vn": "dậy sớm và đi ngủ sớm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "early to bed and early to rise (makes a man healthy , wealthy and wise )",
+              "list_im": [
+                {
+                  "im_full_vn": "sống một cách hợp lý và điều độ (sẽ đem lại sức khoẻ, tiền bạc và kiến thức)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "early prunes",
+              "full_vn": "mận sớm, mận đầu mùa"
+            },
+            {
+              "full_en": "an early breakfast",
+              "full_vn": "một bữa điểm tâm sớm"
+            },
+            {
+              "full_en": "I got up early today ; I rise early today",
+              "full_vn": "hôm nay tôi dậy sớm"
+            },
+            {
+              "full_en": "the bus arrived five minutes early",
+              "full_vn": "xe búyt đến sớm năm phút"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333376_db9a892631_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333376_dcc9de4600_o.png",
+      "id_image": "early_6117302"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378187_2cdd952a8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378187_46b666b43e_o.png",
+      "id_image": "early_6381378"
+    }
+  ]
+}

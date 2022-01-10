@@ -1,0 +1,57 @@
+{
+  "english": "grinder",
+  "phat_am": "['graində]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cối xay (cà phê...) máy nghiền, máy xát, máy xay"
+        },
+        {
+          "m_full_vn": "thợ mài, thợ xay, thợ xát",
+          "list_en_vn": [
+            {
+              "full_en": "an itinerant grinder",
+              "full_vn": "thợ mài dao kéo đi rong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) người kèm học thi"
+        },
+        {
+          "m_full_vn": "học sinh học gạo"
+        },
+        {
+          "m_full_vn": "răng hàm"
+        },
+        {
+          "m_full_vn": "( số nhiều) tiếng lục cục (khi vặn (rađiô))"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366207_a1664847a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366207_9a979eae56_o.png",
+      "id_image": "grinder_1111097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436523_01aa5a3593_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436523_ca95f03d4f_o.png",
+      "id_image": "grinder_2670368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057960_fa0e2f830a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057960_faa328fa63_o.png",
+      "id_image": "grinder_5181748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436598_66e0f5b4da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436598_8c1128929c_o.png",
+      "id_image": "grinder_808746"
+    }
+  ]
+}

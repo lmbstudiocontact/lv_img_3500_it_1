@@ -1,0 +1,45 @@
+{
+  "english": "equation",
+  "phat_am": "[i'kwei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động làm cho bằng nhau hoặc coi như bằng nhau",
+          "list_en_vn": [
+            {
+              "full_en": "the equation of wealth with happiness can be dangerous",
+              "full_vn": "sự đánh đồng giàu có và hạnh phúc có thể là nguy hiểm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) cách trình bày hai biểu thức bằng nhau (nối nhau bằng dấu =), ví dụ như 2 x + 5 = 11; phương trình"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053040_38a2610054_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053040_1661d5eedd_o.png",
+      "id_image": "equation_2106623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431638_389f752c75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431638_fd5419561d_o.png",
+      "id_image": "equation_227943"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053055_e8f79d7f58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053055_84f399b968_o.png",
+      "id_image": "equation_227944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671304_ef098c8917_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671304_6f6284960d_o.png",
+      "id_image": "equation_2281778"
+    }
+  ]
+}

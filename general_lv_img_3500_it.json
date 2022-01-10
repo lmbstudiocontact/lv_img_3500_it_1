@@ -1,0 +1,252 @@
+{
+  "english": "general",
+  "phat_am": "['dʒenərəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tác động đến tất cả hoặc hầu hết mọi người, mọi nơi, mọi vật; chung; phổ biến",
+          "list_en_vn": [
+            {
+              "full_en": "a matter of general interest /concern",
+              "full_vn": "một vấn đề có quan hệ đến lợi ích chung; một vấn đề được mọi người quan tâm"
+            },
+            {
+              "full_en": "a general lowering of standards",
+              "full_vn": "một sự hạ thấp toàn diện về cáctiêu chuẩn"
+            },
+            {
+              "full_en": "once quite rare , they are now in general use",
+              "full_vn": "trước đây có lúc rất hiếm, nhưng ngày nay chúng được sử dụng rộng rãi"
+            },
+            {
+              "full_en": "that man's a general nuisance",
+              "full_vn": "gã ấy chuyên gây phiền toái cho mọi người"
+            },
+            {
+              "full_en": "the general public",
+              "full_vn": "công chúng rộng rãi"
+            },
+            {
+              "full_en": "to work for general welfare",
+              "full_vn": "làm việc vì phúc lợi chung"
+            },
+            {
+              "full_en": "general opinion",
+              "full_vn": "ý kiến chung"
+            },
+            {
+              "full_en": "the bad weather has been fairly general",
+              "full_vn": "thời tiết xấu là điều khá phổ biến"
+            },
+            {
+              "full_en": "the general impression was that it had improved",
+              "full_vn": "ấn tượng chung là việc đó đã được cải thiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không giới hạn ở một phần hoặc một khía cạnh của con người, sự vật, hoặc ở một thời điểm cụ thể nào; toàn thể, toàn bộ, chung",
+          "list_en_vn": [
+            {
+              "full_en": "a general meeting",
+              "full_vn": "cuộc họp toàn thể"
+            },
+            {
+              "full_en": "a general strike",
+              "full_vn": "cuộc tổng bãi công"
+            },
+            {
+              "full_en": "a general election",
+              "full_vn": "cuộc tổng tuyển cử"
+            },
+            {
+              "full_en": "there is still some weakness in the legs , but her general condition is good",
+              "full_vn": "chân cô ta hãy còn yếu, nhưng tình trạng chung (tổng trạng) là tốt"
+            },
+            {
+              "full_en": "the opening chapter gives a general view of the subject",
+              "full_vn": "chương mở đầu cho ta cái nhìn tổng quát vấn đề"
+            },
+            {
+              "full_en": "the old building was in a general state of decay /disrepair",
+              "full_vn": "tình trạng chung của toà nhà cổ là mục nát/ọp ẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không chuyên sâu vào chủ đề",
+          "list_en_vn": [
+            {
+              "full_en": "general sciences /studies",
+              "full_vn": "các môn khoa học/nghiên cứu đại cương"
+            },
+            {
+              "full_en": "general knowledge",
+              "full_vn": "kiến thức chung, kiến thức phổ thông"
+            },
+            {
+              "full_en": "we kept the conversation fairly general",
+              "full_vn": "chúng tôi duy trì buổi nói chuyện về khá nhiều vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không chuyên sâu hoặc giới hạn về phạm vi công việc, công dụng, hoạt động",
+          "list_en_vn": [
+            {
+              "full_en": "general hospital",
+              "full_vn": "bệnh viện đa khoa"
+            },
+            {
+              "full_en": "general practitioner",
+              "full_vn": "bác sĩ đa khoa"
+            },
+            {
+              "full_en": "the general reader",
+              "full_vn": "người đọc đủ thứ đề tài"
+            },
+            {
+              "full_en": "a general factotum",
+              "full_vn": "người hầu làm đủ mọi việc"
+            },
+            {
+              "full_en": "general dealer",
+              "full_vn": "người bán bách hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thường) trong các chức danh viết hoa và đi sau danh từ; tổng",
+          "list_en_vn": [
+            {
+              "full_en": "the general manager",
+              "full_vn": "tổng giám đốc"
+            },
+            {
+              "full_en": "the Attorney /Inspector /Governor General",
+              "full_vn": "Viên Tổng chưởng lý/Tổng thanh tra/Toàn quyền"
+            },
+            {
+              "full_en": "Secretary General",
+              "full_vn": "tổng thư ký, tổng bí thư"
+            },
+            {
+              "full_en": "General Headquarters",
+              "full_vn": "tổng hành dinh"
+            },
+            {
+              "full_en": "General Staff",
+              "full_vn": "bộ tổng tham mưu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bình thường; thông thường",
+          "list_en_vn": [
+            {
+              "full_en": "the general practice in such cases is to apply for a court order",
+              "full_vn": "thủ tục thông thường trong các vụ như vậy là xin chỉ thị của toà án"
+            },
+            {
+              "full_en": "a general principle to which there may be several exceptions",
+              "full_vn": "nguyên tắc chung mà vẫn có thể có một số ngoại lệ"
+            },
+            {
+              "full_en": "as a general rule",
+              "full_vn": "trong hầu hết mọi trường hợp; theo lệ thường"
+            },
+            {
+              "full_en": "in general",
+              "full_vn": "nói chung, đại khái, đại thể"
+            },
+            {
+              "full_en": "in general , her work has been good , but this essay is dreadful",
+              "full_vn": "nói chung bài làm của cô ấy tốt, nhưng bài luận này thì kém quá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không rõ, mơ hồ",
+          "list_en_vn": [
+            {
+              "full_en": "his description was too general to be of much use",
+              "full_vn": "ông ta mô tả chung chung đến mức không có nhiều tác dụng"
+            },
+            {
+              "full_en": "to bear a general resemblance to somebody /something",
+              "full_vn": "hao hao giống ai/cái gì"
+            },
+            {
+              "full_en": "to speak /write in general terms",
+              "full_vn": "nói/viết một cách chung chung"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái chung, cái đại thể, cái tổng quát, toàn thể",
+          "list_en_vn": [
+            {
+              "full_en": "to argue from the general to the particular",
+              "full_vn": "suy từ cái chung ra cái riêng"
+            },
+            {
+              "full_en": "the general of mankind",
+              "full_vn": "toàn thể loài người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) tướng, nhà chiến lược xuất sắc; nhà chiến thuật xuất sắc",
+          "list_en_vn": [
+            {
+              "full_en": "a four -star general",
+              "full_vn": "tướng bốn sao (trong quân đội Hoa Kỳ)"
+            },
+            {
+              "full_en": "General Westmoreland",
+              "full_vn": "Tướng Westmoreland"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the general ) (từ cổ,nghĩa cổ) nhân dân quần chúng"
+        },
+        {
+          "m_full_vn": "(tôn giáo) trưởng tu viện"
+        },
+        {
+          "m_full_vn": "người hầu đủ mọi việc ( (cũng) general servant )",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be caviare to the general",
+              "list_im": [
+                {
+                  "im_full_vn": "tế nhị quá đáng khiến người ta không trọng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381377_e6a1c16335_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381377_e99041684e_o.png",
+      "id_image": "general_1461917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691669_1b161341ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691669_023bd26878_o.png",
+      "id_image": "general_2714191"
+    }
+  ]
+}

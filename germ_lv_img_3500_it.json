@@ -1,0 +1,58 @@
+{
+  "english": "germ",
+  "phat_am": "[dʒə:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần của một cơ thể sống có khả năng trở thành một cơ thể mới; mầm của một hạt; mộng; thai; phôi"
+        },
+        {
+          "m_full_vn": "sinh vật cực nhỏ (nhất là loại có thể gây bệnh); vi trùng; mầm bệnh",
+          "list_en_vn": [
+            {
+              "full_en": "disinfectant kills germs",
+              "full_vn": "thuốc tẩy sát trùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the germ of something ) (nghĩa bóng) sự bắt đầu phát triển của cái gì; mầm mống",
+          "list_one_mean": [
+            {
+              "id_full_en": "germ warfare",
+              "list_im": [
+                {
+                  "im_full_vn": "chiến tranh vi trùng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379562_45b760b207_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379562_d662ae41ae_o.png",
+      "id_image": "germ_5282557"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689709_fb4349b09a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689709_813b3a7f38_o.png",
+      "id_image": "germ_5282591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689644_2cc584a12b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689644_4ae00d142c_o.png",
+      "id_image": "germ_5282627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449513_9d20bebb41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449513_c8b6c8af57_o.png",
+      "id_image": "germ_5282666"
+    }
+  ]
+}

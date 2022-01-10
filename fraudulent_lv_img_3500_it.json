@@ -1,0 +1,41 @@
+{
+  "english": "fraudulent",
+  "phat_am": "['frɔ:djulənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không trung thực; lừa dối",
+          "list_en_vn": [
+            {
+              "full_en": "a fraudulent display of sympathy",
+              "full_vn": "sự biểu lộ cảm thông dối trá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chiếm đoạt được hoặc làm được bằng cách lừa đảo",
+          "list_en_vn": [
+            {
+              "full_en": "fraudulent gains",
+              "full_vn": "những của đi lừa được"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313016_068ae7c37d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313016_54fb01f7d9_o.png",
+      "id_image": "fraudulent_4201357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356972_ed6c39dbc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356972_9fb1e3d982_o.png",
+      "id_image": "fraudulent_4633960"
+    }
+  ]
+}

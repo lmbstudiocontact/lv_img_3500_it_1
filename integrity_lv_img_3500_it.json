@@ -1,0 +1,50 @@
+{
+  "english": "integrity",
+  "phat_am": "[in'tegriti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính chính trực, tính liêm chính"
+        },
+        {
+          "m_full_vn": "tính toàn bộ, tính toàn vẹn, tính nguyên; tình trạng không bị sứt mẻ, tình trạng toàn vẹn, tình trạng nguyên vẹn",
+          "list_en_vn": [
+            {
+              "full_en": "territorial integrity",
+              "full_vn": "sự toàn vẹn lãnh thổ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080680_9259236acb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080680_247583da10_o.png",
+      "id_image": "integrity_3317711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080630_f9812a1f0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080630_260ae586a1_o.png",
+      "id_image": "integrity_3966419"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698359_44fb2f7ab6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698359_5c70d85371_o.png",
+      "id_image": "integrity_4729308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343091_7d98805061_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343091_6e6dd31d62_o.png",
+      "id_image": "integrity_5267374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388022_fbe186f0ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388022_b6d009860c_o.png",
+      "id_image": "integrity_5307795"
+    }
+  ]
+}

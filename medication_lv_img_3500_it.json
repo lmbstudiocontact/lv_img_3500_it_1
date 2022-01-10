@@ -1,0 +1,64 @@
+{
+  "english": "medication",
+  "phat_am": "[,medi'kei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thêm hoặc cho dược phẩm vào; sự cho thuốc",
+          "list_en_vn": [
+            {
+              "full_en": "to need medication",
+              "full_vn": "cần uống thuốc"
+            },
+            {
+              "full_en": "to prescribe medication",
+              "full_vn": "kê đơn bốc thuốc"
+            },
+            {
+              "full_en": "to administer medication",
+              "full_vn": "cho uống thuốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuốc chữa bệnh, dược phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "what is the best medication for this condition",
+              "full_vn": "dùng thuốc nào tốt nhất trong tình trạng này?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318076_83976cd71f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318076_56620cf7fc_o.png",
+      "id_image": "medication_1098069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433308_26ba3f1922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433308_10b88985b7_o.png",
+      "id_image": "medication_2621577"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318071_55c13aca4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318071_0b8658e846_o.png",
+      "id_image": "medication_2621814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433273_1132d0aefe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433273_e88bc8f6ce_o.png",
+      "id_image": "medication_4514486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672949_a996c6874b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672949_b10442e854_o.png",
+      "id_image": "medication_552437"
+    }
+  ]
+}

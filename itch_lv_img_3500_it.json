@@ -1,0 +1,78 @@
+{
+  "english": "itch",
+  "phat_am": "[it∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ngứa; bệnh ngứa"
+        },
+        {
+          "m_full_vn": "sự rất mong muốn; sự nóng lòng muốn có cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "the seven-year itch",
+              "list_im": [
+                {
+                  "im_full_vn": "sự khao khát \"của lạ\" sau khi lấy vợ lấy chồng được bảy năm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have an itch for success",
+              "full_vn": "nóng lòng muốn thành công"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngứa"
+        },
+        {
+          "m_full_vn": "rất mong muốn",
+          "list_en_vn": [
+            {
+              "full_en": "clock-watchers itch for the working day to end",
+              "full_vn": "những kẻ hay nhìn đồng hồ luôn mong cho ngày làm việc mau kết thúc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho ngứa"
+        },
+        {
+          "m_full_vn": "quấy rầy; làm khó chịu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have an itching palm",
+              "list_im": [
+                {
+                  "im_full_vn": "khao khát có thật nhiều tiền"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381882_61291ee8f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381882_65a48b0b31_o.png",
+      "id_image": "itch_5730040"
+    }
+  ]
+}

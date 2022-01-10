@@ -1,0 +1,60 @@
+{
+  "english": "hoist",
+  "phat_am": "[hɔist]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kéo lên; sự nhấc bổng lên (bằng cần trục...)"
+        },
+        {
+          "m_full_vn": "thang máy"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cần trục; tời"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kéo (cờ) lên; nhấc bổng lên (bằng cần trục, tời...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be hoist with one's own petard",
+              "list_im": [
+                {
+                  "im_full_vn": "tự mình rơi vào cạm bẫy của chính mình, gậy ông đập lưng ông"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to hoist a flag",
+              "full_vn": "kéo cờ lên"
+            },
+            {
+              "full_en": "to hoist a sail",
+              "full_vn": "kéo buồm lên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690549_009f59e5aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690549_2b870680fa_o.png",
+      "id_image": "hoist_1201861"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690499_c6ac16ab56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690499_43537267f8_o.png",
+      "id_image": "hoist_4852165"
+    }
+  ]
+}

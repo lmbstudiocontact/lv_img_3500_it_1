@@ -1,0 +1,51 @@
+{
+  "english": "environmental",
+  "phat_am": "[in,vairən'mentl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về môi trường",
+          "list_en_vn": [
+            {
+              "full_en": "environmental pollution",
+              "full_vn": "sự ô nhiễm môi trường"
+            },
+            {
+              "full_en": "environmental science",
+              "full_vn": "khoa học về môi trường, môi trường học"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053710_d7bd4b359f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053710_b4290c9688_o.png",
+      "id_image": "environmental_2037038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317296_33a6d84423_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317296_1027d11145_o.png",
+      "id_image": "environmental_2191425"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671974_d718806d34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671974_b129b128c5_o.png",
+      "id_image": "environmental_2911685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053655_2e60ba4678_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053655_c0d84ba255_o.png",
+      "id_image": "environmental_3904971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671904_4874bd4b8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671904_6e4fa37b3d_o.png",
+      "id_image": "environmental_6333226"
+    }
+  ]
+}

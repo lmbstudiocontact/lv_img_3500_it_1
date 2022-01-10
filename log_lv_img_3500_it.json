@@ -1,0 +1,128 @@
+{
+  "english": "log",
+  "phat_am": "[lɔg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khúc gỗ mới đốn hạ",
+          "list_en_vn": [
+            {
+              "full_en": "in the log",
+              "full_vn": "còn chưa xẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) máy đo tốc độ (tàu)"
+        },
+        {
+          "m_full_vn": "(như) log-book"
+        },
+        {
+          "m_full_vn": "người đần, người ngu, người ngớ ngẩn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fall like a log",
+              "list_im": [
+                {
+                  "im_full_vn": "ngã vật xuống, ngã như trời giáng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep the log rolling",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) làm với một nhịp độ nhanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "roll my log and I'll roll yours",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy giúp tôi, tôi sẽ giúp lại anh (trong những mưu toan (chính trị), trong việc tâng bốc tác phẩm của nhau giữa các nhà phê bình (văn học))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to split the log",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (nghĩa bóng) giải thích cái gì, cắt nghĩa cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as easy as falling off a log",
+              "list_im": [
+                {
+                  "im_full_vn": "quá dễ, rất dễ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sleep like a log",
+              "list_im": [
+                {
+                  "im_full_vn": "ngủ say như chết"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "viết tắt",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) lôga"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chặt (đốn) thành từng khúc"
+        },
+        {
+          "m_full_vn": "(hàng hải) ghi (số dặm đã đi) vào sổ nhật ký hàng hải; đi được (bao nhiêu dặm)"
+        },
+        {
+          "m_full_vn": "(hàng hải) ghi (tên, lỗi của thuỷ thủ) vào sổ phạt; phạt (ai)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to log off",
+              "list_im": [
+                {
+                  "im_full_vn": "nhổ lên, đào gốc (cây)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451993_9af3ded075_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451993_d70786126b_o.png",
+      "id_image": "log_125161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337076_32397cabf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337076_58d05b7247_o.png",
+      "id_image": "log_5139731"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692474_295c4f06dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692474_bb5c8f4038_o.png",
+      "id_image": "log_721100"
+    }
+  ]
+}

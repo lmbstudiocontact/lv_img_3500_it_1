@@ -1,0 +1,73 @@
+{
+  "english": "industry",
+  "phat_am": "['indəstri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "công nghiệp, kỹ nghệ",
+          "list_en_vn": [
+            {
+              "full_en": "heavy industry",
+              "full_vn": "công nghiệp nặng"
+            },
+            {
+              "full_en": "light industry",
+              "full_vn": "công nghiệp nhẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chăm chỉ, tính cần cù, tính siêng năng ( (cũng) industriousness )"
+        },
+        {
+          "m_full_vn": "ngành kinh doanh; nghề làm ăn",
+          "list_one_mean": [
+            {
+              "id_full_en": "a captain of industry",
+              "list_im": [
+                {
+                  "im_full_vn": "người điều hành một cơ sở công nghiệp lớn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "tourist industry",
+              "full_vn": "ngành kinh doanh du lịch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361752_0314a3839a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361752_5cf7b3e1a5_o.png",
+      "id_image": "industry_1437238"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053805_9082685e00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053805_d06fc8b5d2_o.png",
+      "id_image": "industry_1437239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432473_536f87c659_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432473_b6731a850f_o.png",
+      "id_image": "industry_2143482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672059_357e84a7ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672059_192ee1b063_o.png",
+      "id_image": "industry_2994350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317306_c81c4e12ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317306_2d3a2a6f9d_o.png",
+      "id_image": "industry_5434557"
+    }
+  ]
+}

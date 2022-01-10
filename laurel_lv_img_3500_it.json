@@ -1,0 +1,62 @@
+{
+  "english": "laurel",
+  "phat_am": "['lɔrəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cây nguyệt quế",
+          "list_en_vn": [
+            {
+              "full_en": "laurel wreath",
+              "full_vn": "vòng nguyệt quế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) vinh dự, vinh hiển, quang vinh",
+          "list_en_vn": [
+            {
+              "full_en": "to win (gain , reap ) one's laurels",
+              "full_vn": "thắng trận; công thành danh toại"
+            },
+            {
+              "full_en": "to look to one's laurels",
+              "full_vn": "lưu tâm bảo vệ vinh dự đã đạt được; phòng ngừa kẻ địch"
+            },
+            {
+              "full_en": "to rest on one's laurels",
+              "full_vn": "thoả mãn với vinh dự đã đạt được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đội vòng nguyệt quế cho (ai)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363472_fdfd2f31f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363472_92d56f6fc6_o.png",
+      "id_image": "laurel_1929180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673704_03e4b86284_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673704_3ddf015ae8_o.png",
+      "id_image": "laurel_4004038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363492_527ea9aa3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363492_d3b62354db_o.png",
+      "id_image": "laurel_530021"
+    }
+  ]
+}

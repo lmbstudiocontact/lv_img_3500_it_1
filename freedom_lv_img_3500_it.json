@@ -1,0 +1,96 @@
+{
+  "english": "freedom",
+  "phat_am": "['fri:dəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tự do; nền tự do",
+          "list_en_vn": [
+            {
+              "full_en": "to fight for freedom",
+              "full_vn": "đấu tranh giành tự do"
+            },
+            {
+              "full_en": "freedom of speech",
+              "full_vn": "tự do ngôn luận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyền tự do (ra vào, sử dụng)",
+          "list_en_vn": [
+            {
+              "full_en": "to give a friend the freedom of one's house",
+              "full_vn": "cho một người bạn quyền tự do sử dụng nhà mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyền tự quyết"
+        },
+        {
+          "m_full_vn": "sự miễn, sự khỏi phải, sự không có (khuyết điểm...)",
+          "list_en_vn": [
+            {
+              "full_en": "freedom from tax",
+              "full_vn": "sự miễn thuế"
+            },
+            {
+              "full_en": "freedom from wants",
+              "full_vn": "sự không bị thiếu thốn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thoải mái; sự xuề xoà, sự suồng sã",
+          "list_en_vn": [
+            {
+              "full_en": "to take freedoms with somebody",
+              "full_vn": "quá suồng sã với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặc quyền (của một thành phố, một tổ chức...)"
+        },
+        {
+          "m_full_vn": "(vật lý) khả năng chuyển dộng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give someone his freedom",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng ý ly dị với vợ hoặc chồng mình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049435_e86d04feae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049435_93beb50d52_o.png",
+      "id_image": "freedom_4729333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667764_296732c6a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667764_73776e0e68_o.png",
+      "id_image": "freedom_5778514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667734_19d0363a8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667734_b5138bfa40_o.png",
+      "id_image": "freedom_6009766"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427733_7e821ec2d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427733_2bcb64d1f8_o.png",
+      "id_image": "freedom_6174489"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "english": "manufacturer",
+  "phat_am": "[mænju'fækt∫ərə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà sản xuất; hãng sản xuất",
+          "list_en_vn": [
+            {
+              "full_en": "to send the faulty goods back to the manufacturer",
+              "full_vn": "gửi các hàng hoá kém phẩm chất lại cho nhà sản xuất"
+            },
+            {
+              "full_en": "a clothing /car manufacturer",
+              "full_vn": "hãng sản xuất quần áo/xe hơi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439883_5434d390ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439883_493752dcb3_o.png",
+      "id_image": "manufacturer_1353751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369602_d661f8f48f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369602_ab3000e89f_o.png",
+      "id_image": "manufacturer_1857062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679919_9fdf50e187_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679919_1713e7609b_o.png",
+      "id_image": "manufacturer_2761089"
+    }
+  ]
+}

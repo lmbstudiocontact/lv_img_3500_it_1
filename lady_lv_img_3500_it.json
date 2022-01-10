@@ -1,0 +1,120 @@
+{
+  "english": "lady",
+  "phat_am": "['leidi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người phụ nữ có những đức tính tốt và cách cư xử đàng hoàng"
+        },
+        {
+          "m_full_vn": "cô nương, tiểu thư",
+          "list_en_vn": [
+            {
+              "full_en": "Lady Isabella",
+              "full_vn": "tiểu thư Isabella"
+            },
+            {
+              "full_en": "she was a lady by birth",
+              "full_vn": "cô ấy sinh ra đã là một tiểu thư quý phái"
+            },
+            {
+              "full_en": "ask that lady to speak in recommendation of your friend",
+              "full_vn": "hãy nhờ cô ấy tiến cử bạn anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quý bà",
+          "list_en_vn": [
+            {
+              "full_en": "ladies and gentlemen",
+              "full_vn": "thưa quý bà, quý ông"
+            },
+            {
+              "full_en": "Lady President",
+              "full_vn": "Tổng thống phu nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dùng như một từ xưng hô",
+          "list_en_vn": [
+            {
+              "full_en": "hey lady - stop fussing !",
+              "full_vn": "này bà ơi, đừng làm nhặng xị nữa!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Lady) danh hiệu dùng cho vợ một nhà quý tộc; phu nhân",
+          "list_en_vn": [
+            {
+              "full_en": "Lady Churchill",
+              "full_vn": "phu nhân Churchill"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người yêu"
+        },
+        {
+          "m_full_vn": "bà chủ; người đàn bà nắm quyền bính trong tay",
+          "list_one_mean": [
+            {
+              "id_full_en": "the lady of the house",
+              "list_im": [
+                {
+                  "im_full_vn": "bà chủ nhà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "young lady",
+              "list_im": [
+                {
+                  "im_full_vn": "cô bạn gái, người bạn gái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Our Lady",
+              "list_im": [
+                {
+                  "im_full_vn": "Đức Mẹ đồng trinh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a lady doctor",
+              "list_im": [
+                {
+                  "im_full_vn": "bà bác sĩ, nữ bác sĩ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the lady of the manor",
+              "full_vn": "bà chủ trang viên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438118_8c6096833e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438118_e9e014cc6c_o.png",
+      "id_image": "lady_332062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367867_3848beb8cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367867_538de390e6_o.png",
+      "id_image": "lady_819561"
+    }
+  ]
+}

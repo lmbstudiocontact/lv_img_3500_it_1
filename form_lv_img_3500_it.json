@@ -1,0 +1,230 @@
+{
+  "english": "form",
+  "phat_am": "[fɔ:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình, hình thể, hình dạng, hình dáng"
+        },
+        {
+          "m_full_vn": "(triết học) hình thức, hình thái",
+          "list_en_vn": [
+            {
+              "full_en": "form and content",
+              "full_vn": "hình thức và nội dung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hình thức (bài văn...), dạng",
+          "list_en_vn": [
+            {
+              "full_en": "in every form",
+              "full_vn": "dưới mọi hình thức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) hình thái",
+          "list_en_vn": [
+            {
+              "full_en": "correct forms of words",
+              "full_vn": "hình thái đúng của từ"
+            },
+            {
+              "full_en": "negative form",
+              "full_vn": "hình thái phủ định"
+            },
+            {
+              "full_en": "affirmative form",
+              "full_vn": "hình thái khẳng định"
+            },
+            {
+              "full_en": "determinative form",
+              "full_vn": "hình thái hạn định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớp",
+          "list_en_vn": [
+            {
+              "full_en": "the sixth form",
+              "full_vn": "lớp sáu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thể thức, nghi thức, thủ tục, lề thói",
+          "list_en_vn": [
+            {
+              "full_en": "in due form",
+              "full_vn": "theo đúng thể thức"
+            },
+            {
+              "full_en": "good form",
+              "full_vn": "cách cư xử đúng lề thói"
+            },
+            {
+              "full_en": "bad form",
+              "full_vn": "cách cư xử không đúng lề thói"
+            },
+            {
+              "full_en": "a form of address",
+              "full_vn": "thể thức viết hoặc nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mẫu (đơn...) có chỗ trống (để điền vào)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) tình trạng sức khoẻ",
+          "list_en_vn": [
+            {
+              "full_en": "in form",
+              "full_vn": "sức khoẻ tốt, sung sức"
+            },
+            {
+              "full_en": "out of form",
+              "full_vn": "không khoẻ, không sung sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phấn khởi",
+          "list_en_vn": [
+            {
+              "full_en": "to be in great form",
+              "full_vn": "rất phấn khởi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghế dài"
+        },
+        {
+          "m_full_vn": "(ngành in) khuôn"
+        },
+        {
+          "m_full_vn": "hang thỏ"
+        },
+        {
+          "m_full_vn": "(điện học) ắc quy"
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) sự ghép, sự thiết lập (đoàn toa xe lửa)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm thành, tạo thành, nặn thành"
+        },
+        {
+          "m_full_vn": "huấn luyện, rèn luyện, đào tạo",
+          "list_en_vn": [
+            {
+              "full_en": "to form the mind",
+              "full_vn": "rèn luyện trí óc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tổ chức, thiết lập, thành lập",
+          "list_en_vn": [
+            {
+              "full_en": "to form a class for beginners in English",
+              "full_vn": "tổ chức một lớp cho người bắt đầu học tiếng Anh"
+            },
+            {
+              "full_en": "to form a new government",
+              "full_vn": "thành lập chính phủ mới"
+            },
+            {
+              "full_en": "to form an alliance",
+              "full_vn": "thành lập một liên minh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát thành tiếng, phát âm rõ (từ)"
+        },
+        {
+          "m_full_vn": "nghĩ ra, hình thành (ý kiến...)",
+          "list_en_vn": [
+            {
+              "full_en": "to form a plan",
+              "full_vn": "hình thành một kế hoạch"
+            },
+            {
+              "full_en": "to form an idea",
+              "full_vn": "hình thành ý nghĩ, có ý nghĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gây, tạo được; nhiễm (thói quen)"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) cấu tạo (từ)"
+        },
+        {
+          "m_full_vn": "(quân sự) xếp thành",
+          "list_en_vn": [
+            {
+              "full_en": "to form line",
+              "full_vn": "xếp thành hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) ghép, thiết lập (đoàn toa xe lửa)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành hình, được tạo thành",
+          "list_en_vn": [
+            {
+              "full_en": "his habit is forming",
+              "full_vn": "thói quen của anh ta đang thành nếp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) xếp thành hàng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669669_95e6d013b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669669_8d23c92b4a_o.png",
+      "id_image": "form_1455095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669624_70f0b5881e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669624_c5f39169ed_o.png",
+      "id_image": "form_1792371"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429843_7165eafa9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429843_f8985656d4_o.png",
+      "id_image": "form_2730055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669594_3595d36b81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669594_7a2e2f45c2_o.png",
+      "id_image": "form_5982009"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "english": "fun",
+  "phat_am": "[fʌn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vui đùa, sự vui thích; trò vui",
+          "list_en_vn": [
+            {
+              "full_en": "to be fond of fun",
+              "full_vn": "thích vui đùa"
+            },
+            {
+              "full_en": "we had lots of fun at the fair today",
+              "full_vn": "hôm nay chúng tôi vui chơi rất nhiều ở hội chợ"
+            },
+            {
+              "full_en": "it took all the fun of the occasion when we heard that you were ill",
+              "full_vn": "khi nghe nói anh ốm, chúng tôi mất hết vui thú trong dịp lễ"
+            },
+            {
+              "full_en": "what fun it will be when we all go on holiday together",
+              "full_vn": "thật là thích biết bao khi tất cả chúng ta cùng đi nghỉ"
+            },
+            {
+              "full_en": "have fun !",
+              "full_vn": "hãy vui chơi đi!"
+            },
+            {
+              "full_en": "sailing is (good /great ) fun",
+              "full_vn": "chèo thuyền là một nguồn vui lớn"
+            },
+            {
+              "full_en": "it's not much fun going to a party alone",
+              "full_vn": "đi dự tiệc một mình thì chẳng thích thú gì mấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính hay đùa nghịch; tính hay hài hước",
+          "list_one_mean": [
+            {
+              "id_full_en": "fun and games",
+              "list_im": [
+                {
+                  "im_full_vn": "sự nô đùa vô tư lự",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "That's enough fun and games ! Let's get down to work",
+                      "full_vn": "Thôi, vui chơi thế là đủ rồi! Bắt tay vào việc thôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "like fun",
+              "list_im": [
+                {
+                  "im_full_vn": "mạnh mẽ; rất nhanh"
+                },
+                {
+                  "im_full_vn": "nhiều lần"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) chắc chắn là không; không một chút nào; đáng ngờ lắm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make fun of",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) make"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to poke fun at somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) poke"
+                }
+              ]
+            },
+            {
+              "id_full_en": "what fun !",
+              "list_im": [
+                {
+                  "im_full_vn": "thật là vui thú!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(just ) for fun /for the fun of it ; (just ) in fun",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ là cho vui thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'm learning to cook , just for the fun of it",
+                      "full_vn": "tôi đang học nấu ăn, chỉ để cho vui thôi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she's very lively and full of fun",
+              "full_vn": "cô ấy hoạt bát và rất vui tính"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngộ nghĩnh",
+          "list_en_vn": [
+            {
+              "full_en": "a fun hat",
+              "full_vn": "cái mũ ngộ nghĩnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080245_3b6c3dfb29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080245_68468669eb_o.png",
+      "id_image": "fun_3248298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697999_2eb8233f2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697999_28d220df9d_o.png",
+      "id_image": "fun_4729455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387727_10d43c2024_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387727_3b8b2efa1c_o.png",
+      "id_image": "fun_6321934"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "forget",
+  "phat_am": "[fə'get]",
+  "list_type": [
+    {
+      "type": "ngoại động từ forgot , forgotten",
+      "list_m": [
+        {
+          "m_full_vn": "quên, không nhớ đến"
+        },
+        {
+          "m_full_vn": "coi thường, coi nhẹ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quên",
+          "list_one_mean": [
+            {
+              "id_full_en": "eaten bread is soon forgotten",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn cháo đá bát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to forget oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "quên mình"
+                },
+                {
+                  "im_full_vn": "bất tỉnh"
+                },
+                {
+                  "im_full_vn": "không đứng đắn (hành động), không nghiêm chỉnh (ăn nói); thiếu tự trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to forgive and forget",
+              "list_im": [
+                {
+                  "im_full_vn": "tha thứ và bỏ qua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "elephants never forget",
+              "list_im": [
+                {
+                  "im_full_vn": "loài voi nhớ dai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to forget about something",
+              "full_vn": "quên cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051785_4799b5073d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051785_9047cb1ebe_o.png",
+      "id_image": "forget_6370384"
+    }
+  ]
+}

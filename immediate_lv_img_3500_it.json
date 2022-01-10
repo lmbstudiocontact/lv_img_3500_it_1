@@ -1,0 +1,49 @@
+{
+  "english": "immediate",
+  "phat_am": "[i'mi:djət]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trực tiếp",
+          "list_en_vn": [
+            {
+              "full_en": "an immediate cause",
+              "full_vn": "nguyên nhân trực tiếp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lập tức, tức thì, ngay, trước mắt",
+          "list_en_vn": [
+            {
+              "full_en": "an immediate answer",
+              "full_vn": "câu trả lời lập tức"
+            },
+            {
+              "full_en": "an immediate task",
+              "full_vn": "nhiệm vụ trước mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gần gũi, gần nhất, sát cạnh",
+          "list_en_vn": [
+            {
+              "full_en": "my immediate neighbour",
+              "full_vn": "ông bạn láng giềng sát vách của tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437613_61a4fa05d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437613_feb0a2e26a_o.png",
+      "id_image": "immediate_5361451"
+    }
+  ]
+}

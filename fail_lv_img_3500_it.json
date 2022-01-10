@@ -1,0 +1,174 @@
+{
+  "english": "fail",
+  "phat_am": "[feil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hỏng thi",
+          "list_one_mean": [
+            {
+              "id_full_en": "without fail",
+              "list_im": [
+                {
+                  "im_full_vn": "chắc chắn, nhất định",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll be there at two o'clock without fail",
+                      "full_vn": "nhất định tôi sẽ có mặt ở đó lúc hai giờ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I had three passes and one fail",
+              "full_vn": "tôi đỗ ba môn, trượt một môn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quên; lơ là hoặc không có khả năng (làm cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "don't fail to let me know",
+              "full_vn": "đừng quên nhắn tin cho tôi"
+            },
+            {
+              "full_en": "he never fails to write to his mother every week",
+              "full_vn": "nó không bao giờ quên viết thư cho mẹ nó mỗi tuần"
+            },
+            {
+              "full_en": "she did not fail to keep her word",
+              "full_vn": "cô ta đã không quên giữ lời"
+            },
+            {
+              "full_en": "your promises have failed to materialize",
+              "full_vn": "những lời hứa của anh đã không được thực hiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không đủ cho (ai); chấm dứt hoặc thiếu khi ai vẫn còn đang cần đến hoặc đang được mong đợi",
+          "list_en_vn": [
+            {
+              "full_en": "the crops failed because of drought",
+              "full_vn": "vụ thu hoạch này thất bát vì hạn hán"
+            },
+            {
+              "full_en": "our water supply has failed (us )",
+              "full_vn": "chúng tôi đã thiếu nước"
+            },
+            {
+              "full_en": "words fail me",
+              "full_vn": "tôi không đủ lời để nói (không tìm ra được lời lẽ thích đáng để mô tả tình cảm của tôi)"
+            },
+            {
+              "full_en": "the wind failed us",
+              "full_vn": "thuyền của chúng ta hết gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về sức khoẻ, thị lực) trở nên yếu",
+          "list_en_vn": [
+            {
+              "full_en": "his eyesight is failing",
+              "full_vn": "thị lực của anh ta đang giảm sút"
+            },
+            {
+              "full_en": "he has suffered from failing health /has been failing in health for the last two years",
+              "full_vn": "trong hai năm qua, sức khoẻ anh ta kém lắm"
+            },
+            {
+              "full_en": "his memory fails",
+              "full_vn": "trí nhớ của anh ta kém lắm rồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hỏng, không chạy nữa",
+          "list_en_vn": [
+            {
+              "full_en": "the brakes failed",
+              "full_vn": "phanh hỏng rồi"
+            },
+            {
+              "full_en": "the engine failed",
+              "full_vn": "máy hỏng rồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phá sản; vỡ nợ",
+          "list_en_vn": [
+            {
+              "full_en": "several banks failed during the depression",
+              "full_vn": "nhiều ngân hàng đã phá sản trong thời kỳ suy thoái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thất bại",
+          "list_en_vn": [
+            {
+              "full_en": "if you don't work hard , you may fail",
+              "full_vn": "nếu không làm việc tích cực, có thể anh sẽ thất bại"
+            },
+            {
+              "full_en": "I passed in maths but failed in French",
+              "full_vn": "tôi qua được môn toán, nhưng hỏng môn tiếng Pháp"
+            },
+            {
+              "full_en": "he fails his driving test",
+              "full_vn": "nó trượt kỳ thi sát hạch lấy bằng lái"
+            },
+            {
+              "full_en": "she failed to reach the semi-finals",
+              "full_vn": "cô ta không lọt được vào vòng bán kết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh trượt (một thí sinh)",
+          "list_en_vn": [
+            {
+              "full_en": "the examiners failed half the candidates",
+              "full_vn": "các giám khảo đã đánh trượt một nửa số thí sinh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452633_f62207e6ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452633_c823d4f660_o.png",
+      "id_image": "failed_3188157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074745_43e6013e68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074745_bcec20d42e_o.png",
+      "id_image": "failed_4313065"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074810_24729392f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074810_d88aa3d0ef_o.png",
+      "id_image": "fail_5705141"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "english": "local",
+  "phat_am": "['loukəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về một nơi hoặc vùng nào đó; địa phương",
+          "list_en_vn": [
+            {
+              "full_en": "the local farmer , doctor , shopkeeper",
+              "full_vn": "nông dân, bác sĩ, chủ hiệu ở địa phương"
+            },
+            {
+              "full_en": "local knowledge",
+              "full_vn": "hiểu biết về địa phương"
+            },
+            {
+              "full_en": "she's a local girl",
+              "full_vn": "cô ấy là dân địa phương"
+            },
+            {
+              "full_en": "a local train /bus",
+              "full_vn": "xe lửa/xe búyt địa phương"
+            },
+            {
+              "full_en": "local authorities",
+              "full_vn": "nhà đương cục địa phương"
+            },
+            {
+              "full_en": "local time",
+              "full_vn": "giờ địa phương"
+            },
+            {
+              "full_en": "local colour",
+              "full_vn": "(văn học) màu sắc địa phương"
+            },
+            {
+              "full_en": "local government",
+              "full_vn": "chính quyền địa phương"
+            },
+            {
+              "full_en": "local call",
+              "full_vn": "điện thoại gọi đến một nơi gần (cước phí thấp); điện thoại trong vùng; điện thoại nội hạt"
+            },
+            {
+              "full_en": "local option",
+              "full_vn": "quyền quyết định của dân địa phương thông qua việc bỏ phiếu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tác động đến một chỗ nào đó; cục bộ",
+          "list_en_vn": [
+            {
+              "full_en": "local war",
+              "full_vn": "chiến tranh cục bộ"
+            },
+            {
+              "full_en": "local anaesthetic",
+              "full_vn": "gây tê cục bộ"
+            },
+            {
+              "full_en": "local inflammation",
+              "full_vn": "viêm cục bộ"
+            },
+            {
+              "full_en": "is the pain local ?",
+              "full_vn": "đau ở một chỗ à?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) (thuộc) quỹ tích"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( số nhiều) cư dân ở một nơi hoặc một vùng nào đó; người dân địa phương",
+          "list_en_vn": [
+            {
+              "full_en": "the locals tend to be suspicious of strangers",
+              "full_vn": "người dân địa phương có khuynh hướng nghi ngờ người lạ mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tàu hoả hoặc xe búyt ở địa phương"
+        },
+        {
+          "m_full_vn": "quán rượu gần nhà của mình",
+          "list_en_vn": [
+            {
+              "full_en": "which is your local ?",
+              "full_vn": "quán rượu nào là quán anh hay lui tới?"
+            },
+            {
+              "full_en": "to pop into the local for a pint",
+              "full_vn": "tạt vào quán rượu làm một panh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chi nhánh của một tổ chức (nhất là của công đoàn)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453168_ec156a8f81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453168_01a12cb31e_o.png",
+      "id_image": "local_997681"
+    }
+  ]
+}

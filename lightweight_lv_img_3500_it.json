@@ -1,0 +1,52 @@
+{
+  "english": "lightweight",
+  "phat_am": "['laitweit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nói về võ sĩ quyền Anh) cân nặng từ 57 đến 61 kg, nghĩa là hơn 126 nhưng không quá 135 pao); hạng nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "the European lightweight champion",
+              "full_vn": "vô địch quyền Anh hạng nhẹ của châu Âu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ít quan trọng; nhẹ cân",
+          "list_en_vn": [
+            {
+              "full_en": "a lightweight news item",
+              "full_vn": "tin ít quan trọng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "võ sĩ hạng nhẹ"
+        },
+        {
+          "m_full_vn": "(thông tục) người tầm thường, người không quan trọng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079480_444754c1f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079480_7d155eed5e_o.png",
+      "id_image": "lightweight_5660388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387082_12a8b745ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387082_f0078c3330_o.png",
+      "id_image": "lightweight_5675398"
+    }
+  ]
+}

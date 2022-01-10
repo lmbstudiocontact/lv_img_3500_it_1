@@ -1,0 +1,59 @@
+{
+  "english": "editorial",
+  "phat_am": "[,edi'tɔ:riəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) biên tập viên",
+          "list_en_vn": [
+            {
+              "full_en": "The editorial office",
+              "full_vn": "Cơ quan biên tập; toà soạn"
+            },
+            {
+              "full_en": "Editorial work",
+              "full_vn": "Công tác biên tập"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bài xã luận (của một tờ báo...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444368_2be45490ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444368_2c3db9acca_o.png",
+      "id_image": "editorial_1277318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329376_de92407b55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329376_a23718c45f_o.png",
+      "id_image": "editorial_1806592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329351_94ea2cf9b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329351_ac0c25f7dc_o.png",
+      "id_image": "editorial_2662853"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444223_4dee5b1329_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444223_5b37ac09cc_o.png",
+      "id_image": "editorial_4514996"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444153_54df4595cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444153_b18b08147e_o.png",
+      "id_image": "editorial_4514997"
+    }
+  ]
+}

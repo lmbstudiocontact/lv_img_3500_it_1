@@ -1,0 +1,32 @@
+{
+  "english": "manifesto",
+  "phat_am": "[,mæni'festou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản tuyên ngôn",
+          "list_en_vn": [
+            {
+              "full_en": "to issue a manifesto",
+              "full_vn": "ra một bản tuyên ngôn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325611_bfbb1c57fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325611_a7f973d24a_o.png",
+      "id_image": "manifesto_3122426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680649_4652cb51a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680649_42170eb2eb_o.png",
+      "id_image": "manifesto_6009841"
+    }
+  ]
+}

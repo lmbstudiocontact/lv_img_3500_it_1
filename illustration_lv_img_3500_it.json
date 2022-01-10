@@ -1,0 +1,49 @@
+{
+  "english": "illustration",
+  "phat_am": "[,iləs'trei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự minh hoạ hoặc được minh hoạ",
+          "list_en_vn": [
+            {
+              "full_en": "the art of book illustration",
+              "full_vn": "nghệ thuật minh hoạ sách"
+            },
+            {
+              "full_en": "illustration is often more useful than definition for showing what words mean",
+              "full_vn": "minh hoạ nhiều khi bổ ích hơn là định nghĩa để cho các từ có nghĩa gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tranh minh hoạ; thí dụ minh hoạ; câu chuyện minh hoạ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678234_feeacda5a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678234_c1d0b00c72_o.png",
+      "id_image": "illustration_1688378"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323046_3781248c16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323046_09a4433fbd_o.png",
+      "id_image": "illustration_2301794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059720_bfbe8ca73a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059720_50cf8b7493_o.png",
+      "id_image": "illustration_4359629"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678299_093d00d94e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678299_45a807539a_o.png",
+      "id_image": "illustration_538091"
+    }
+  ]
+}

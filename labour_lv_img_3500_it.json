@@ -1,0 +1,195 @@
+{
+  "english": "labour",
+  "phat_am": "['leibə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "công việc chân tay hoặc trí óc; lao động",
+          "list_en_vn": [
+            {
+              "full_en": "manual labour",
+              "full_vn": "lao động chân tay"
+            },
+            {
+              "full_en": "workers are paid for their labour",
+              "full_vn": "người ta trả công lao động cho công nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công việc, công việc nặng nhọc",
+          "list_en_vn": [
+            {
+              "full_en": "labour of great difficulty",
+              "full_vn": "một công việc rất khó khăn"
+            },
+            {
+              "full_en": "the labours of Hercules ; herculean labours",
+              "full_vn": "những công việc đòi hỏi phải có sức khoẻ phi thường"
+            },
+            {
+              "full_en": "tired after one's labours",
+              "full_vn": "mệt mỏi sau khi làm việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầng lớp lao động, nhân công",
+          "list_en_vn": [
+            {
+              "full_en": "labour and capital",
+              "full_vn": "lao động và tư bản; thợ và chủ"
+            },
+            {
+              "full_en": "shortage of labour",
+              "full_vn": "tình trạng thiếu nhân công"
+            },
+            {
+              "full_en": "skilled /unskilled labour",
+              "full_vn": "nhân công có/không có tay nghề"
+            },
+            {
+              "full_en": "labour relations",
+              "full_vn": "quan hệ lao động (giữa thợ và chủ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "các cơn co dạ con trong quá trình đẻ",
+          "list_one_mean": [
+            {
+              "id_full_en": "lost labour",
+              "list_im": [
+                {
+                  "im_full_vn": "những cố gắng vô ích, những nỗ lực uổng công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a labour of love",
+              "list_im": [
+                {
+                  "im_full_vn": "việc làm xuất phát từ niềm say mê, chứ không vì lợi lộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Labour (viết tắt là Lab )",
+              "list_im": [
+                {
+                  "im_full_vn": "(chính trị) Công đảng Anh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Labour supporters",
+                      "full_vn": "những người ủng hộ Công đảng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to begin labour ; to go into /be in labour",
+              "full_vn": "bắt đầu đau đẻ; sắp/đang đau đẻ"
+            },
+            {
+              "full_en": "she had a difficult labour",
+              "full_vn": "bà ấy khó đẻ"
+            },
+            {
+              "full_en": "a woman in labour",
+              "full_vn": "người đàn bà đau đẻ"
+            },
+            {
+              "full_en": "labour ward",
+              "full_vn": "dãy phòng trong bệnh viện dành cho việc sinh đẻ; khu sản phụ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gắng công, nỗ lực, dốc sức",
+          "list_en_vn": [
+            {
+              "full_en": "to labour for the happiness of mankind",
+              "full_vn": "nỗ lực vì hạnh phúc của loài người"
+            },
+            {
+              "full_en": "to labour at /on a task",
+              "full_vn": "dốc sức hoàn thành nhiệm vụ"
+            },
+            {
+              "full_en": "he laboured to finish the job on time",
+              "full_vn": "nó dốc sức hoàn thành công việc đúng hạn"
+            },
+            {
+              "full_en": "the old man laboured up the hill",
+              "full_vn": "ông lão cố sức leo lên sườn đồi"
+            },
+            {
+              "full_en": "the ship laboured through the rough seas",
+              "full_vn": "con tàu nặng nhọc trườn trên biển động"
+            },
+            {
+              "full_en": "labouring to breathe",
+              "full_vn": "làm việc cực nhọc đến nỗi thở dốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về máy móc) hoạt động chậm chạp và khó khăn"
+        },
+        {
+          "m_full_vn": "( to labour under something ) bị giày vò, quằn quại, chịu đau đớn; là nạn nhân của",
+          "list_en_vn": [
+            {
+              "full_en": "to labour under a disease",
+              "full_vn": "bị bệnh tật giày vò"
+            },
+            {
+              "full_en": "he labours under the delusion that he's a fine actor",
+              "full_vn": "anh ta bị huyễn hoặc bởi cái ảo tưởng rằng mình là một diễn viên giỏi"
+            },
+            {
+              "full_en": "people labouring under the handicaps of ignorance and superstition",
+              "full_vn": "những người đau khổ vì ngu dốt và mê tín"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đau đẻ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to labour the point",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp tục nhắc lại hoặc giải thích điều đã nói hoặc người ta đã hiểu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "your argument was clear to us from the start - there's no need to labour the point",
+                      "full_vn": "lập luận của anh chúng tôi đã rõ ngay từ đầu - khỏi cần nói đi nói lại mãi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678894_3f8aceb235_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678894_e6292fa597_o.png",
+      "id_image": "labour_3158157"
+    }
+  ]
+}

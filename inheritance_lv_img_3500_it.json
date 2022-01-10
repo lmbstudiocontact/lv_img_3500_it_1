@@ -1,0 +1,44 @@
+{
+  "english": "inheritance",
+  "phat_am": "[in'heritəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quyền thừa kế, sự thừa kế",
+          "list_en_vn": [
+            {
+              "full_en": "the title passes by inheritance to the eldest son",
+              "full_vn": "tước hiệu được chuyển theo quyền thừa kế cho người con trai cả"
+            },
+            {
+              "full_en": "inheritance of intelligence from one's father",
+              "full_vn": "sự thừa kế trí thông minh từ bố mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "của thừa kế, gia tài, di sản"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392347_41c0322a45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392347_7df1796363_o.png",
+      "id_image": "inheritance_1087549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462093_528c64b01f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462093_3aa5d345c7_o.png",
+      "id_image": "inheritance_5904096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347276_dddc67283d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347276_4c253ba1ce_o.png",
+      "id_image": "inheritance_6000962"
+    }
+  ]
+}

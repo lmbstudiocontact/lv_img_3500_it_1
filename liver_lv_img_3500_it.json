@@ -1,0 +1,76 @@
+{
+  "english": "liver",
+  "phat_am": "['livə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người sống",
+          "list_en_vn": [
+            {
+              "full_en": "a loose liver",
+              "full_vn": "người sống truỵ lạc, người sống phóng túng bừa bãi"
+            },
+            {
+              "full_en": "a good liver",
+              "full_vn": "người sống có đạo đức"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gan"
+        },
+        {
+          "m_full_vn": "bệnh đau gan",
+          "list_one_mean": [
+            {
+              "id_full_en": "hot liver",
+              "list_im": [
+                {
+                  "im_full_vn": "tính đa tình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "white (lily ) liver",
+              "list_im": [
+                {
+                  "im_full_vn": "tính hèn nhát"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have a liver",
+              "full_vn": "bị đau gan"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339271_f5b8156495_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339271_b08efdcebb_o.png",
+      "id_image": "liver_245278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694354_ab8831bb44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694354_2f8fa42ca2_o.png",
+      "id_image": "liver_6147604"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384142_3b57c54b71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384142_9202f3c894_o.png",
+      "id_image": "liver_6350266"
+    }
+  ]
+}

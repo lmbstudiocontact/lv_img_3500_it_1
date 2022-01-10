@@ -1,0 +1,82 @@
+{
+  "english": "guide",
+  "phat_am": "[gaid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chỉ dẫn; người chỉ đường, người hướng dẫn (cho khách du lịch)"
+        },
+        {
+          "m_full_vn": "bài học, điều chỉ dẫn, điều tốt, điều hay (cần noi theo)"
+        },
+        {
+          "m_full_vn": "như guide-book",
+          "list_en_vn": [
+            {
+              "full_en": "a guide to Vietnam",
+              "full_vn": "sách chỉ dẫn đi thăm Việt Nam"
+            },
+            {
+              "full_en": "a guide to poultry keeping",
+              "full_vn": "sách chỉ dẫn cách nuôi gà vịt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cọc hướng dẫn; biển chỉ đường"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) thiết bị dẫn đường, thanh dẫn"
+        },
+        {
+          "m_full_vn": "(quân sự) quân thám báo"
+        },
+        {
+          "m_full_vn": "(hàng hải) tàu hướng dẫn (cho cả đội tàu)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dẫn đường, chỉ đường, dắt, dẫn, hướng dẫn; chỉ đạo",
+          "list_en_vn": [
+            {
+              "full_en": "to guide somebody to a place",
+              "full_vn": "dẫn ai tới nơi nào"
+            },
+            {
+              "full_en": "to guide somebody in (out of )",
+              "full_vn": "đưa ai vào (ra khỏi) nơi nào"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054805_144431cdc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054805_b68f00a46e_o.png",
+      "id_image": "guide_2034098"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433448_6284fb5a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433448_618ef68dcd_o.png",
+      "id_image": "guide_2599840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362777_f7b4e71733_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362777_2252a36c44_o.png",
+      "id_image": "guide_405713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318141_d0d0aaaeaf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318141_9deb058ece_o.png",
+      "id_image": "guide_4215303"
+    }
+  ]
+}

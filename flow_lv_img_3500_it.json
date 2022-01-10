@@ -1,0 +1,161 @@
+{
+  "english": "flow",
+  "phat_am": "[flou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chảy"
+        },
+        {
+          "m_full_vn": "lượng chảy, lưu lượng"
+        },
+        {
+          "m_full_vn": "luồng nước"
+        },
+        {
+          "m_full_vn": "nước triều lên",
+          "list_en_vn": [
+            {
+              "full_en": "ebb and flow",
+              "full_vn": "nước triều xuống và nước triều lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đổ hàng hoá vào một nước"
+        },
+        {
+          "m_full_vn": "sự bay dập dờn (quần áo...)"
+        },
+        {
+          "m_full_vn": "(vật lý) dòng, luồng",
+          "list_one_mean": [
+            {
+              "id_full_en": "flow of spirits",
+              "list_im": [
+                {
+                  "im_full_vn": "tính vui vẻ, tính sảng khoái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to flow of soul",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyện trò vui vẻ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "diffusion flow",
+              "full_vn": "dòng khuếch tán"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chảy"
+        },
+        {
+          "m_full_vn": "rủ xuống, xoà xuống",
+          "list_en_vn": [
+            {
+              "full_en": "hair flows down one's back",
+              "full_vn": "tóc rủ xuống lưng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lên (thuỷ triều)"
+        },
+        {
+          "m_full_vn": "phun ra, toé ra, tuôn ra"
+        },
+        {
+          "m_full_vn": "đổ (máu); thấy kinh nhiều (đàn bà)"
+        },
+        {
+          "m_full_vn": "xuất phát, bắt nguồn (từ)",
+          "list_en_vn": [
+            {
+              "full_en": "wealth flows from industry and agriculture",
+              "full_vn": "của cải bắt nguồn từ công nghiệp và nông nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rót tràn đầy (rượu)"
+        },
+        {
+          "m_full_vn": "ùa tới, tràn tới, đến tới tấp",
+          "list_en_vn": [
+            {
+              "full_en": "letters flowed to him from every corner of the country",
+              "full_vn": "thư từ khắp nơi trong nước gửi đến anh ta tới tấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trôi chảy (văn)"
+        },
+        {
+          "m_full_vn": "bay dập dờn (quần áo, tóc...)"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) tràn trề",
+          "list_one_mean": [
+            {
+              "id_full_en": "to swim with the flowing tide",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng về phe thắng, phù thịnh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "land flowing with milk and honey",
+              "full_vn": "đất tràn trề sữa và mật ong"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364852_3588b0fde9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364852_2dabdeb123_o.png",
+      "id_image": "flow_1140846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056660_5fe4713c79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056660_3cf1560b5b_o.png",
+      "id_image": "flow_1172375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675004_1343c1ae36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675004_e8d22f14b0_o.png",
+      "id_image": "flow_4099201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319991_01ef815d8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319991_38b8e5c168_o.png",
+      "id_image": "flow_4234409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674939_b1030ed9de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674939_a46663cdf9_o.png",
+      "id_image": "flow_5351481"
+    }
+  ]
+}

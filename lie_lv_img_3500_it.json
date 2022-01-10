@@ -1,0 +1,383 @@
+{
+  "english": "lie",
+  "phat_am": "[lai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nói dối, sự nói láo, sự nói điêu, sự dối trá; sự lừa dối, sự lừa gạt",
+          "list_en_vn": [
+            {
+              "full_en": "to give someone the lie",
+              "full_vn": "buộc tội ai là dối trá"
+            },
+            {
+              "full_en": "a white lie",
+              "full_vn": "lời nói dối vô tội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều tin tưởng sai lầm; ước lệ sai lầm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give a lie to sth",
+              "list_im": [
+                {
+                  "im_full_vn": "chứng minh là sai; đập tan (luận điệu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live a lie",
+              "list_im": [
+                {
+                  "im_full_vn": "tự lừa dối mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to nail a lie",
+              "list_im": [
+                {
+                  "im_full_vn": "vạch trần sự dối trá"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to worship a lie",
+              "full_vn": "sùng bái một cái sai lầm"
+            },
+            {
+              "full_en": "to maintain a lie",
+              "full_vn": "duy trì một ước lệ sai lầm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói dối, nói láo",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lie in one's teeth",
+              "list_im": [
+                {
+                  "im_full_vn": "nói dối mà chẳng biết ngượng, nói dối một cách trơ tráo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie one's way into sth",
+              "list_im": [
+                {
+                  "im_full_vn": "nói dối nên mới đạt được cái gì, đạt được cái gì nhờ nói dối"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tư thế nằm"
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) nơi quả bóng dừng hẳn sau cú đánh",
+          "list_one_mean": [
+            {
+              "id_full_en": "the lie of the land",
+              "list_im": [
+                {
+                  "im_full_vn": "sự thể, đầu đuôi sự việc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ lay , lain",
+      "list_m": [
+        {
+          "m_full_vn": "nằm, nằm nghỉ",
+          "list_en_vn": [
+            {
+              "full_en": "the ship is lying at the port",
+              "full_vn": "con tàu thả neo nằm ở bên cảng"
+            },
+            {
+              "full_en": "the valley lies at our feet",
+              "full_vn": "thung lũng nằm ở dưới chân chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) được coi là hợp lệ, được coi là hợp pháp, được pháp luật chấp nhận",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lie back",
+              "list_im": [
+                {
+                  "im_full_vn": "ngả mình (nghỉ ngơi)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie behind sth",
+              "list_im": [
+                {
+                  "im_full_vn": "là lời giải đáp cho cái gì, là nguyên nhân của cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "laziness lies behind his crimes",
+                      "full_vn": "thói lười biếng là nguyên nhân gây ra những tội lỗi của hắn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie by",
+              "list_im": [
+                {
+                  "im_full_vn": "nằm bên, ở bên cạnh"
+                },
+                {
+                  "im_full_vn": "để dự trữ, để dành dụm; để đó chưa dùng đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie down",
+              "list_im": [
+                {
+                  "im_full_vn": "nằm nghỉ"
+                },
+                {
+                  "im_full_vn": "chịu khuất phục"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie in",
+              "list_im": [
+                {
+                  "im_full_vn": "sinh nở, ở cữ"
+                },
+                {
+                  "im_full_vn": "ngủ muộn, ngủ nướng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie off",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng hải) nằm cách xa (bờ hoặc tàu khác)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie on (upon )",
+              "list_im": [
+                {
+                  "im_full_vn": "thuộc trách nhiệm (của ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie out",
+              "list_im": [
+                {
+                  "im_full_vn": "ngủ đêm ngoài trời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie over",
+              "list_im": [
+                {
+                  "im_full_vn": "hoãn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie up",
+              "list_im": [
+                {
+                  "im_full_vn": "nằm liệt giừơng (vì ốm)"
+                },
+                {
+                  "im_full_vn": "rút về một nơi kín đáo; ở một nơi kín đáo"
+                },
+                {
+                  "im_full_vn": "(hàng hải) về nằm ở xưởng sửa chữa; bị loại ra không dùng được nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie with sb",
+              "list_im": [
+                {
+                  "im_full_vn": "là việc của, là quyền của"
+                },
+                {
+                  "im_full_vn": "ngủ với, ăn nằm với (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie heavy on sth",
+              "list_im": [
+                {
+                  "im_full_vn": "gây cảm giác khó chịu cho cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie down under an insult",
+              "list_im": [
+                {
+                  "im_full_vn": "cam chịu lời chửi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie in wait for",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) wait"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as one makes one's bed , so one must lie on it",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) mình làm mình chịu, bụng làm dạ chịu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie out of one's money",
+              "list_im": [
+                {
+                  "im_full_vn": "không được người ta trả tiền cho mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do all that lies in one's power",
+              "list_im": [
+                {
+                  "im_full_vn": "làm hết sức mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find out how the land lies",
+              "list_im": [
+                {
+                  "im_full_vn": "xem sự thể ra sao, xem tình hình ra sao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to know where one's interest lies",
+              "list_im": [
+                {
+                  "im_full_vn": "biết rõ lợi cho mình ở đâu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "so far as in me lies",
+              "list_im": [
+                {
+                  "im_full_vn": "trong phạm vi khả năng của tôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take sth lying down",
+              "list_im": [
+                {
+                  "im_full_vn": "dễ dàng chấp nhận điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "time lies heavy on one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "thời gian nặng nề trôi qua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie close",
+              "list_im": [
+                {
+                  "im_full_vn": "ẩn mình kín đáo, ẩn nấp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "let sleeping dogs lie",
+              "list_im": [
+                {
+                  "im_full_vn": "đừng gợi lại những gì không hay trong quá khứ, đừng bới cứt ra mà ngửi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie at sb's door",
+              "list_im": [
+                {
+                  "im_full_vn": "có thể quy cho ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie doggo",
+              "list_im": [
+                {
+                  "im_full_vn": "nằm in thin thít, nằm không nhúc nhích"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the appeal does not lie",
+              "full_vn": "sự chống án không hợp lệ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343291_3049ec54ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343291_ff2b01942c_o.png",
+      "id_image": "lie_3798350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343266_8f0ef6bc14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343266_78ddfe6320_o.png",
+      "id_image": "lie_5526267"
+    }
+  ]
+}

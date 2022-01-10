@@ -1,0 +1,40 @@
+{
+  "english": "lesbian",
+  "phat_am": "['lezbiən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đàn bà thích đồng dục nữ"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về hoặc có liên quan đến những người đàn bà đồng dục nữ",
+          "list_en_vn": [
+            {
+              "full_en": "a lesbian relationship",
+              "full_vn": "mối quan hệ đồng dục nữ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390322_3cd66964e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390322_44114ccef9_o.png",
+      "id_image": "lesbian_1475208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460138_569feff4ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460138_7ab1b18dca_o.png",
+      "id_image": "lesbian_1475239"
+    }
+  ]
+}

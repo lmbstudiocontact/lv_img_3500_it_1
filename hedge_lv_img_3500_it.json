@@ -1,0 +1,124 @@
+{
+  "english": "hedge",
+  "phat_am": "[hedʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hàng rào, bờ giậu; (nghĩa bóng) hàng rào ngăn cách",
+          "list_en_vn": [
+            {
+              "full_en": "quickset hedge",
+              "full_vn": "hàng rào cây xanh"
+            },
+            {
+              "full_en": "dead hedge",
+              "full_vn": "hàng rào cây khô; hàng rào gỗ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng rào (người hoặc vật)"
+        },
+        {
+          "m_full_vn": "sự đánh bao vây (đánh cá ngựa... để yên trí khỏi thua)",
+          "list_one_mean": [
+            {
+              "id_full_en": "it doesn't grow on every hedge",
+              "list_im": [
+                {
+                  "im_full_vn": "cái đó hiếm thấy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) hàng rào; ở hàng rào; gần hàng rào"
+        },
+        {
+          "m_full_vn": "vụng trộm, lén lút",
+          "list_en_vn": [
+            {
+              "full_en": "a hedge love-affair",
+              "full_vn": "chuyện yêu đương lén lút"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rào lại (một miếng đất...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) bao quanh, bao bọc, bao vây",
+          "list_en_vn": [
+            {
+              "full_en": "to hedge the enemy's army",
+              "full_vn": "bao vây quân địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngăn cách, rào đón"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) làm hàng rào; sửa hàng rào, sửa giậu"
+        },
+        {
+          "m_full_vn": "tránh không trả lời thẳng, tìm lời thoái thác; tránh không tự thắt buộc mình"
+        },
+        {
+          "m_full_vn": "đánh bao vây (đánh cá ngựa... để yên trí khỏi thua)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hedge in",
+              "list_im": [
+                {
+                  "im_full_vn": "rào lại, bao quanh bằng hàng rào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hedge off",
+              "list_im": [
+                {
+                  "im_full_vn": "ngăn cách bằng hàng rào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hedge one's bets",
+              "list_im": [
+                {
+                  "im_full_vn": "đi nước đôi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454573_05de75b2e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454573_72e6f91729_o.png",
+      "id_image": "hedge_2296473"
+    }
+  ]
+}

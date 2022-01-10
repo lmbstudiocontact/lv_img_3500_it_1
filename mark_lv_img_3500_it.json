@@ -1,0 +1,223 @@
+{
+  "english": "mark",
+  "phat_am": "[mɑ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồng Mác (tiền Đức)"
+        },
+        {
+          "m_full_vn": "dấu, nhãn, nhãn hiệu"
+        },
+        {
+          "m_full_vn": "vết, lằn"
+        },
+        {
+          "m_full_vn": "bớt (người), đốm, lang (súc vật)",
+          "list_en_vn": [
+            {
+              "full_en": "a horse with a white mark on its head",
+              "full_vn": "một con ngựa có đốm trắng ở đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dấu chữ thập (thay chữ ký của những người không biết viết)"
+        },
+        {
+          "m_full_vn": "đích, mục đích, mục tiêu ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to hit the mark",
+              "full_vn": "bắn trúng đích; đạt mục đích"
+            },
+            {
+              "full_en": "to miss the mark",
+              "full_vn": "bắn không trúng; không đạt mục đích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chứng cớ, biểu hiện",
+          "list_en_vn": [
+            {
+              "full_en": "a mark of esteem",
+              "full_vn": "một biểu hiện của sự quý trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "danh vọng, danh tiếng",
+          "list_en_vn": [
+            {
+              "full_en": "a man of mark",
+              "full_vn": "người danh vọng, người tai mắt"
+            },
+            {
+              "full_en": "to make one's mark",
+              "full_vn": "nổi danh, nổi tiếng; đạt được tham vọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mức, tiêu chuẩn, trình độ",
+          "list_en_vn": [
+            {
+              "full_en": "below the mark",
+              "full_vn": "dưới tiêu chuẩn, không đạt trình độ"
+            },
+            {
+              "full_en": "up to the mark",
+              "full_vn": "đạt tiêu chuẩn, đạt trình độ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điểm, điểm số",
+          "list_en_vn": [
+            {
+              "full_en": "to get good marks",
+              "full_vn": "được điểm tốt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh dấu, ghi dấu",
+          "list_en_vn": [
+            {
+              "full_en": "to mark a passage in pencil",
+              "full_vn": "đánh dấu một đoạn văn bằng bút chì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho điểm, ghi điểm"
+        },
+        {
+          "m_full_vn": "chỉ, bày tỏ; biểu lộ, biểu thị; chứng tỏ, đặc trưng",
+          "list_en_vn": [
+            {
+              "full_en": "to speak with a tone which marks all one's displeasure",
+              "full_vn": "nói lên một giọng biểu thị tất cả sự không hài lòng"
+            },
+            {
+              "full_en": "the qualities that mark a great leader",
+              "full_vn": "đức tính đặc trưng cho một vị lãnh tụ vĩ đại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để ý, chú ý",
+          "list_en_vn": [
+            {
+              "full_en": "mark my words !",
+              "full_vn": "hãy chú ý những lời tôi nói, hãy ghi nhớ những lời tôi nói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) bám sát (đối thủ) để anh ta không thể thi đấu dễ dàng; kèm; bám",
+          "list_one_mean": [
+            {
+              "id_full_en": "to mark down",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi (giá hàng) hạ hơn (trên phiếu ghi giá)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mark off",
+              "list_im": [
+                {
+                  "im_full_vn": "chọn lựa, phân biệt, tách ra ( (nghĩa đen) & (nghĩa bóng))",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a word clearly marked off from the others",
+                      "full_vn": "một từ được phân biệt với các từ khác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mark out",
+              "list_im": [
+                {
+                  "im_full_vn": "giới hạn, vẽ ranh giới, quy định ranh giới (để xây dựng)"
+                },
+                {
+                  "im_full_vn": "vạch (con đường); vạch, đề ra (kế hoạch)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mark out for",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ định, chọn lựa (để làm một nhiệm vụ, công việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mark up",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi (giá hàng) cao hơn (trên phiếu ghi giá)"
+                },
+                {
+                  "im_full_vn": "định giá bán (bằng cách cộng thêm kinh phí vào giá vốn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mark time",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) giậm chân tại chỗ theo nhịp"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) giậm chân tại chỗ; không tiến chút nào"
+                },
+                {
+                  "im_full_vn": "chịu tốn thời gian để làm một việc gì đó (dù không hứng thú lắm) cho đến khi tìm được một việc khác thú vị và phù hợp với mình hơn; làm cho qua ngày",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "She's just marking time in this job , because her family is very rich",
+                      "full_vn": "Cô ấy làm việc này cho qua ngày thôi, vì gia đình cô ấy giàu lắm"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Our defence had him closely marked throughout the second half",
+              "full_vn": "Hàng phòng ngự của bọn tôi kèm chặt anh ta suốt hiệp nhì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059920_a084acf5c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059920_11d0336ec2_o.png",
+      "id_image": "mark_1119875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678364_d417e5c85a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678364_229e29ace4_o.png",
+      "id_image": "mark_4469819"
+    }
+  ]
+}

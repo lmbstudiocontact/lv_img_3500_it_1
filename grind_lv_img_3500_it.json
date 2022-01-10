@@ -1,0 +1,202 @@
+{
+  "english": "grind",
+  "phat_am": "[graind]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xay, sự tán, sự nghiền"
+        },
+        {
+          "m_full_vn": "sự mài"
+        },
+        {
+          "m_full_vn": "tiếng nghiến ken két"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) công việc cực nhọc đều đều",
+          "list_en_vn": [
+            {
+              "full_en": "the daily grind",
+              "full_vn": "công việc hằng ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc đi bộ để tập luyện"
+        },
+        {
+          "m_full_vn": "lớp học cấp tốc để đi thi; lớp luyện thi"
+        },
+        {
+          "m_full_vn": "(từ lóng) cuộc đua ngựa nhảy rào"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) học sinh học gạo"
+        }
+      ]
+    },
+    {
+      "type": "động từ ground",
+      "list_m": [
+        {
+          "m_full_vn": "xay, tán, nghiền",
+          "list_en_vn": [
+            {
+              "full_en": "to grind corn into flour",
+              "full_vn": "xay lúa mì thành bột"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mài, giũa",
+          "list_en_vn": [
+            {
+              "full_en": "to grind a knife",
+              "full_vn": "mài dao"
+            },
+            {
+              "full_en": "to grind diamonds",
+              "full_vn": "mài kim cương"
+            },
+            {
+              "full_en": "to grind one's teeth together",
+              "full_vn": "nghiến răng"
+            },
+            {
+              "full_en": "the ship grinding on the rocks",
+              "full_vn": "tàu sạt vào những tảng đá"
+            },
+            {
+              "full_en": "to grind one's heel into the ground",
+              "full_vn": "di di gót chân xuống đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đàn áp, áp bức, đè nén",
+          "list_en_vn": [
+            {
+              "full_en": "to grind the faces of the poor",
+              "full_vn": "áp bức người nghèo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quay (cối xay cà phê)",
+          "list_en_vn": [
+            {
+              "full_en": "to grind music out of a hurdy-gurdy",
+              "full_vn": "quay đàn"
+            },
+            {
+              "full_en": "to grind out some verses",
+              "full_vn": "nặn ra vài câu thơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt (ai) làm việc cật lực"
+        },
+        {
+          "m_full_vn": "nhồi nhét",
+          "list_one_mean": [
+            {
+              "id_full_en": "to grind away",
+              "list_im": [
+                {
+                  "im_full_vn": "( + at ) làm cật lực, làm tích cực"
+                },
+                {
+                  "im_full_vn": "học tập cần cù; học gạo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to grind down",
+              "list_im": [
+                {
+                  "im_full_vn": "xay nhỏ, tán nhỏ, nghiền nhỏ, nghiền nát"
+                },
+                {
+                  "im_full_vn": "hành hạ, áp bức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to grind in",
+              "list_im": [
+                {
+                  "im_full_vn": "(kỹ thuật) mài, nghiền, rà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to grind out",
+              "list_im": [
+                {
+                  "im_full_vn": "đè bẹp, giẫm nát, nghiền nát"
+                },
+                {
+                  "im_full_vn": "nghiền, nạo ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to grind out an oath",
+                      "full_vn": "nghiến răng lại mà nguyền rủa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to grind up",
+              "list_im": [
+                {
+                  "im_full_vn": "nghiền nhỏ, tán nhỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to grind one's own axe",
+              "list_im": [
+                {
+                  "im_full_vn": "theo đuổi mục đích cá nhân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have an axe to grind",
+              "list_im": [
+                {
+                  "im_full_vn": "có một mục đích cá nhân phải đạt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to grind to a halt /standstill",
+              "list_im": [
+                {
+                  "im_full_vn": "hãm lại, dừng lại"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to grind for the exam",
+              "full_vn": "học nhồi để thi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436633_8cac028956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436633_19c116fde1_o.png",
+      "id_image": "grind_1407905"
+    }
+  ]
+}

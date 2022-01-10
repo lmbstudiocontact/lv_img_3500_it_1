@@ -1,0 +1,89 @@
+{
+  "english": "element",
+  "phat_am": "['elimənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "yếu tố",
+          "list_en_vn": [
+            {
+              "full_en": "element of comparison",
+              "full_vn": "yếu tố để so sánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguyên tố",
+          "list_en_vn": [
+            {
+              "full_en": "the four elements",
+              "full_vn": "bốn nguyên tố (đất, nước, không khí, lửa)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) pin"
+        },
+        {
+          "m_full_vn": "(toán học) yếu tố phân tử",
+          "list_en_vn": [
+            {
+              "full_en": "elements of the integral",
+              "full_vn": "yếu tố của tích phân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiện tượng khí tượng"
+        },
+        {
+          "m_full_vn": "( số nhiều) cơ sở, nguyên lý cơ bản (của một khoa học)"
+        },
+        {
+          "m_full_vn": "( số nhiều) sức mạnh thiên nhiên"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đơn vị không quân"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) môi trường",
+          "list_en_vn": [
+            {
+              "full_en": "to be in one's element",
+              "full_vn": "ở đúng trong môi trường của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061760_f1e00e13ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061760_ae25843b20_o.png",
+      "id_image": "element_191103"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439878_4522191730_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439878_d16ca97fed_o.png",
+      "id_image": "element_2311647"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679964_21febd8065_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679964_b97857654e_o.png",
+      "id_image": "element_2563440"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324721_5d10889b22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324721_9f85304df0_o.png",
+      "id_image": "element_3527748"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679879_0e80802d2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679879_7bf52c37cb_o.png",
+      "id_image": "element_5740896"
+    }
+  ]
+}

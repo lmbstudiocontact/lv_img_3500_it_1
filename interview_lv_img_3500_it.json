@@ -1,0 +1,79 @@
+{
+  "english": "interview",
+  "phat_am": "['intəvju:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự gặp gỡ, sự gặp mặt; cuộc nói chuyện riêng",
+          "list_en_vn": [
+            {
+              "full_en": "an interview between a job applicicant and the director",
+              "full_vn": "cuộc gặp riêng giữa người xin việc với ông giám đốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc phỏng vấn; bài phỏng vấn",
+          "list_en_vn": [
+            {
+              "full_en": "a newspaper interview",
+              "full_vn": "cuộc phỏng vấn báo chí"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gặp riêng, nói chuyện riêng",
+          "list_en_vn": [
+            {
+              "full_en": "to interview job applicants",
+              "full_vn": "gặp riêng (hỏi riêng) những người đến xin việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phỏng vấn",
+          "list_en_vn": [
+            {
+              "full_en": "to interview a tourist after his trip to Vietnam",
+              "full_vn": "phỏng vấn một du khách sau chuyến đi Việt Nam của ông ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385802_dcc628e98c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385802_5d844ee56b_o.png",
+      "id_image": "interview_166908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385682_c97001648e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385682_0b1517e8b4_o.png",
+      "id_image": "interview_2303813"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385772_71f8058959_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385772_c636e9137e_o.png",
+      "id_image": "interview_470208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385732_52cc6efe3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385732_a80deafb9f_o.png",
+      "id_image": "interview_476712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078055_7f2cbbee3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078055_5f724e66ec_o.png",
+      "id_image": "interview_6315737"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "english": "event",
+  "phat_am": "[i'vent]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự việc; sự kiện",
+          "list_en_vn": [
+            {
+              "full_en": "one of the chief events of 1999",
+              "full_vn": "một trong những sự kiện chính trong năm 1999"
+            },
+            {
+              "full_en": "the chain of events that led to the riot",
+              "full_vn": "chuỗi sự kiện dẫn đến cuộc bạo động"
+            },
+            {
+              "full_en": "it was quite an event when a girl in this village became a beauty queen",
+              "full_vn": "việc một cô gái trong làng này trở thành hoa hậu quả là một sự kiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) môn thi đấu",
+          "list_en_vn": [
+            {
+              "full_en": "which events have you entered for ?",
+              "full_vn": "anh thi đấu những môn nào?"
+            },
+            {
+              "full_en": "this is the third event of the morning",
+              "full_vn": "đây là môn thi thứ ba trong buổi sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trường hợp; khả năng có thể xảy ra",
+          "list_one_mean": [
+            {
+              "id_full_en": "wise after the event",
+              "list_im": [
+                {
+                  "im_full_vn": "xem wise"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in the event of success",
+              "full_vn": "trong trường hợp thành công"
+            },
+            {
+              "full_en": "in the event of a traffic accident",
+              "full_vn": "trong trường hợp tai nạn giao thông (nếu tai nạn (giao thông) xảy ra)"
+            },
+            {
+              "full_en": "in the event of his premature death , they will sell the house",
+              "full_vn": "trong trường hợp ông ấy chết sớm, họ sẽ bán nhà"
+            },
+            {
+              "full_en": "in that event , we cannot but surrender",
+              "full_vn": "trong trường hợp ấy, chúng ta không thể không đầu hàng"
+            },
+            {
+              "full_en": "at all events ; in any event",
+              "full_vn": "trong bất kỳ trường hợp nào; trong mọi tình huống"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668454_1baab1a755_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668454_0a5a921808_o.png",
+      "id_image": "event_2974648"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050230_531e646a96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050230_e70c5c04de_o.png",
+      "id_image": "event_3120761"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357742_bc30ff1229_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357742_9b5b815369_o.png",
+      "id_image": "event_4515712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050175_66ecb94100_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050175_687809fe3b_o.png",
+      "id_image": "event_6079964"
+    }
+  ]
+}

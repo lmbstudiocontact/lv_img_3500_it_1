@@ -1,0 +1,56 @@
+{
+  "english": "membership",
+  "phat_am": "['membə∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tư cách hội viên, địa vị hội viên",
+          "list_en_vn": [
+            {
+              "full_en": "a membership card",
+              "full_vn": "thẻ hội viên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số hội viên, toàn thể hội viên",
+          "list_en_vn": [
+            {
+              "full_en": "this club has a large membership",
+              "full_vn": "số hội viên của câu lạc bộ này rất lớn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347771_8162974897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347771_d49929ed1e_o.png",
+      "id_image": "membership_2016300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462513_9834557d46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462513_0f94f83e71_o.png",
+      "id_image": "membership_5072000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347691_f2b62a6cec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347691_44dc565412_o.png",
+      "id_image": "membership_5301441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462443_f28e1026a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462443_8a02f51740_o.png",
+      "id_image": "membership_5455944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392557_efd23385f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392557_97b001b04b_o.png",
+      "id_image": "membership_5983730"
+    }
+  ]
+}

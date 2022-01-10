@@ -1,0 +1,31 @@
+{
+  "english": "expiry",
+  "phat_am": "[iks'paiəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự mãn hạn; sự kết thúc",
+          "list_en_vn": [
+            {
+              "full_en": "the expiry of a driving licence , credit card",
+              "full_vn": "sự hết hạn của bằng lái xe, thẻ tín dụng"
+            },
+            {
+              "full_en": "the expiry date",
+              "full_vn": "ngày hết hạn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353887_90b22e6c60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353887_31a445169d_o.png",
+      "id_image": "expiry_4391610"
+    }
+  ]
+}

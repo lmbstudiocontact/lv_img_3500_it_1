@@ -1,0 +1,197 @@
+{
+  "english": "join",
+  "phat_am": "[dʒɔin]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nối lại, chắp, ghép, buộc (cái nọ vào cái kia)"
+        },
+        {
+          "m_full_vn": "nối liền",
+          "list_en_vn": [
+            {
+              "full_en": "the road joins the two cities",
+              "full_vn": "con đường nối liền hai thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thắt chặt, hợp nhất, kết hợp, liên hiệp; kết giao, kết thân",
+          "list_en_vn": [
+            {
+              "full_en": "to join forces with",
+              "full_vn": "hợp lực với"
+            },
+            {
+              "full_en": "to join two persons in marriage",
+              "full_vn": "kết thân hai người trong mối tình vợ chồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gia nhập, nhập vào, vào",
+          "list_en_vn": [
+            {
+              "full_en": "to join a party",
+              "full_vn": "gia nhập một đảng"
+            },
+            {
+              "full_en": "to join the army",
+              "full_vn": "vào quân đội, nhập ngũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếp với, gặp; đổ vào (con sông)",
+          "list_en_vn": [
+            {
+              "full_en": "where the foot-path joins the main road",
+              "full_vn": "ở nơi mà con đường nhỏ nối với con đường cái"
+            },
+            {
+              "full_en": "where the Luoc river joins the Red river",
+              "full_vn": "ở nơi mà sông Luộc đổ vào sông Hồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi theo, đến với, đến gặp; cùng tham gia",
+          "list_en_vn": [
+            {
+              "full_en": "I'll join you in a few minutes",
+              "full_vn": "độ vài phút nữa tôi sẽ đến với anh"
+            },
+            {
+              "full_en": "would you join us in our picnic ?",
+              "full_vn": "anh có muốn tham gia cuộc đi chơi ngoài trời với chúng tôi không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trở về, trở lại",
+          "list_en_vn": [
+            {
+              "full_en": "to join the regiment",
+              "full_vn": "trở lại trung đoàn (sau ngày nghỉ phép...)"
+            },
+            {
+              "full_en": "to join the ship",
+              "full_vn": "trở về tàu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nối lại với nhau, thắt chặt lại với nhau, kết hợp lại với nhau; liên hiệp với nhau, kết thân với nhau"
+        },
+        {
+          "m_full_vn": "gặp nhau, nối tiếp nhau",
+          "list_en_vn": [
+            {
+              "full_en": "parallel lines never join",
+              "full_vn": "hai đường song song không bao giờ gặp nhau"
+            },
+            {
+              "full_en": "where the two rivers join",
+              "full_vn": "ở nơi mà hai con sông gặp nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tham gia, tham dự, nhập vào, xen vào",
+          "list_en_vn": [
+            {
+              "full_en": "to join in the conversation",
+              "full_vn": "tham gia vào câu chuyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) giáp với nhau, tiếp giáp với nhau",
+          "list_en_vn": [
+            {
+              "full_en": "the two gardens join",
+              "full_vn": "hai khu vườn tiếp giáp với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) nhập ngũ ( (cũng) join up )",
+          "list_one_mean": [
+            {
+              "id_full_en": "to join battle",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu giao chiến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to join hands",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm chặt tay nhau, bắt chặt tay nhau"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) phối hợp chặt chẽ với nhau; câu kết chặt chẽ với nhau (để làm gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "if you can't beat them , join them",
+              "list_im": [
+                {
+                  "im_full_vn": "không thắng nổi địch thủ thì bắt tay với họ cho rồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to join the club",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng hội cùng thuyền, đồng cảnh ngộ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỗ nối, điểm nối, đường nối"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688019_889e482ee1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688019_9000393fb1_o.png",
+      "id_image": "join_1971139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069840_e8ee3b66d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069840_79dc214d5e_o.png",
+      "id_image": "join_2733455"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377802_81dd8441cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377802_17840d12e7_o.png",
+      "id_image": "join_4470914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447983_0959ae080d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447983_f60b4458a6_o.png",
+      "id_image": "join_4590194"
+    }
+  ]
+}

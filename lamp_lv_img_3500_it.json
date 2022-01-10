@@ -1,0 +1,101 @@
+{
+  "english": "lamp",
+  "phat_am": "[læmp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đèn",
+          "list_en_vn": [
+            {
+              "full_en": "electric lamp",
+              "full_vn": "đèn điện"
+            },
+            {
+              "full_en": "oil lamp",
+              "full_vn": "đèn dầu"
+            },
+            {
+              "full_en": "table lamp",
+              "full_vn": "đèn để bàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt trời, mặt trăng, sao",
+          "list_en_vn": [
+            {
+              "full_en": "lamp of Phoebus",
+              "full_vn": "(thơ ca) mặt trời"
+            },
+            {
+              "full_en": "lamp of heaven",
+              "full_vn": "(thơ ca) mặt trăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguồn ánh sáng (tinh thần...), nguồn hy vọng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to pass (band ) on the lamp",
+              "list_im": [
+                {
+                  "im_full_vn": "góp phần vào bước tiến (của khoa học, của một sự nghiệp...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smell of the lamp",
+              "list_im": [
+                {
+                  "im_full_vn": "tỏ ra công phu; phải thức đêm thức hôm để làm"
+                },
+                {
+                  "im_full_vn": "nặng nề, không thanh thoát; cầu kỳ (văn)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chiếu sáng, rọi sáng"
+        },
+        {
+          "m_full_vn": "treo đèn, chăng đèn"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) nhìn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367072_8c3233a6a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367072_00b31f6135_o.png",
+      "id_image": "lamp_1108652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437503_7b24c3dbac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437503_30034d307f_o.png",
+      "id_image": "lamp_164353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059015_bb1067f831_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059015_a7779ab184_o.png",
+      "id_image": "lamp_168635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437438_25b6d89575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437438_df172a622b_o.png",
+      "id_image": "lamp_292025"
+    }
+  ]
+}

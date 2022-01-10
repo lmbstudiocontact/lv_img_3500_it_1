@@ -1,0 +1,62 @@
+{
+  "english": "liability",
+  "phat_am": "[,laiə'biliti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trách nhiệm pháp lý, nghĩa vụ pháp lý",
+          "list_en_vn": [
+            {
+              "full_en": "liability for military service",
+              "full_vn": "nghĩa vụ tòng quân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) tiền nợ, khoản phải trả, tiêu sản",
+          "list_en_vn": [
+            {
+              "full_en": "to be unable to meet one's liabilities",
+              "full_vn": "không có khả năng trả nợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( liability to something ) khả năng bị, khả năng mắc, nguy cơ",
+          "list_en_vn": [
+            {
+              "full_en": "liability to errors",
+              "full_vn": "khả năng mắc sai lầm"
+            },
+            {
+              "full_en": "liability to accidents",
+              "full_vn": "khả năng xảy ra tai nạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái gây khó khăn trở ngại; cái của nợ, cái nợ đời"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344196_47de1dbbfd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344196_92d0974aca_o.png",
+      "id_image": "liability_1622614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344176_a8e1fe4ce7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344176_81974eab34_o.png",
+      "id_image": "liability_2361650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344121_74d6b12940_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344121_474f69a7c8_o.png",
+      "id_image": "liability_6418224"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "homosexual",
+  "phat_am": "[,hɔmə'sek∫uəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỉ hấp dẫn về tình dục với những người cùng giới; đồng tính luyến ái",
+          "list_en_vn": [
+            {
+              "full_en": "homosexual relationships , tendencies",
+              "full_vn": "quan hệ, thiên hướng đồng tính luyến ái"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đồng tính luyến ái"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333951_26042fc6ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333951_0c5fc11454_o.png",
+      "id_image": "homosexual_4125667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378817_d92733cc76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378817_4a20f5774a_o.png",
+      "id_image": "homosexual_4125669"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "downhill",
+  "phat_am": "['daunhil]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dốc xuống"
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "xuống dốc ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to go downhill",
+              "full_vn": "xuống dốc ( (nghĩa đen) & (nghĩa bóng))"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dốc"
+        },
+        {
+          "m_full_vn": "cánh xế bóng (của cuộc đời)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sự xuống dốt (trượt tuyết)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307496_afc2a0ef52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307496_a7338e4b3a_o.png",
+      "id_image": "downhill_2259666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662804_701d69c442_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662804_2a86524ff5_o.png",
+      "id_image": "downhill_984307"
+    }
+  ]
+}

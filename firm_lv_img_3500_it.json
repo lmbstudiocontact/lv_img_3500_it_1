@@ -1,0 +1,154 @@
+{
+  "english": "firm",
+  "phat_am": "['fə:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hãng, công ty"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chắc, rắn chắc",
+          "list_en_vn": [
+            {
+              "full_en": "firm muscles",
+              "full_vn": "bắp thịt rắn chắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vững chắc; bền vững",
+          "list_en_vn": [
+            {
+              "full_en": "a firm foundation",
+              "full_vn": "nền tảng vững chắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhất định, không thay đổi",
+          "list_en_vn": [
+            {
+              "full_en": "firm prices",
+              "full_vn": "giá nhất định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mạnh mẽ",
+          "list_en_vn": [
+            {
+              "full_en": "a firm voice",
+              "full_vn": "giọng nói mạnh mẽ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiên quyết, vững vàng, không chùn bước",
+          "list_en_vn": [
+            {
+              "full_en": "firm measures",
+              "full_vn": "biện pháp kiên quyết"
+            },
+            {
+              "full_en": "a firm faith",
+              "full_vn": "lòng tin sắt đá"
+            },
+            {
+              "full_en": "a firm position (stand )",
+              "full_vn": "lập trường kiến định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trung thành, trung kiên",
+          "list_one_mean": [
+            {
+              "id_full_en": "as firm as rock",
+              "list_im": [
+                {
+                  "im_full_vn": "vững như bàn thạch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on the firm ground",
+              "list_im": [
+                {
+                  "im_full_vn": "tin chắc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a firm hold of something",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm chắc cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "vững, vững vàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hold firm to one's beliefs",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ vững niềm tin"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to stand firm",
+              "full_vn": "đứng vững"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho vững vàng, làm cho chắc chắn"
+        },
+        {
+          "m_full_vn": "nén (đất)"
+        },
+        {
+          "m_full_vn": "cắm chặt (cây) xuống đất"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên vững chắc, trở nên rắn chắc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680799_7645c1de7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680799_fd18b7b1c3_o.png",
+      "id_image": "firm_1622690"
+    }
+  ]
+}

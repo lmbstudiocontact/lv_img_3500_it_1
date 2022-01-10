@@ -1,0 +1,49 @@
+{
+  "english": "legislation",
+  "phat_am": "[,ledʒis'lei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự làm luật; sự xây dựng luật; sự lập pháp"
+        },
+        {
+          "m_full_vn": "pháp luật; pháp chế",
+          "list_en_vn": [
+            {
+              "full_en": "humanity of socialist legislation",
+              "full_vn": "tính nhân đạo của pháp chế xã hội chủ nghĩa"
+            },
+            {
+              "full_en": "new legislation is to be introduced to help single-parent families",
+              "full_vn": "luật mới sẽ được đưa ra để giúp các gia đình chỉ cò bố hoặc mẹ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391307_c5382aa770_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391307_40e73e41b5_o.png",
+      "id_image": "legislation_3883150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346371_b1f109f56a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346371_96b8b7d038_o.png",
+      "id_image": "legislation_3900034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701214_6f27b42e04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701214_3a95aeb51f_o.png",
+      "id_image": "legislation_5605971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346271_db335550c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346271_008eeb3aea_o.png",
+      "id_image": "legislation_6174541"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "hump",
+  "phat_am": "[hʌmp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái bướu (lạc đà, người gù lưng...)"
+        },
+        {
+          "m_full_vn": "gò, mô đất"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) điểm gay go (trong một cuộc thử thách)",
+          "list_en_vn": [
+            {
+              "full_en": "over the hump",
+              "full_vn": "vượt qua được lúc gay go"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) lúc chán nản, lúc chán chường; lúc buồn phiền",
+          "list_en_vn": [
+            {
+              "full_en": "to have the hump",
+              "full_vn": "chán chường, buồn phiền"
+            },
+            {
+              "full_en": "to give sb the hump",
+              "full_vn": "làm cho ai chán chường"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất thành đống"
+        },
+        {
+          "m_full_vn": "làm gù, khom thành gù"
+        },
+        {
+          "m_full_vn": "vác cái gì trên vai",
+          "list_en_vn": [
+            {
+              "full_en": "to hump one's swag",
+              "full_vn": "vác gói quần áo trên vai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682919_dd2a3b307c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682919_814f9e8cf8_o.png",
+      "id_image": "hump_2439672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442853_c5f414a7ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442853_88e9e0789b_o.png",
+      "id_image": "hump_4344740"
+    }
+  ]
+}

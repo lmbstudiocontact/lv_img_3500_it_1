@@ -1,0 +1,32 @@
+{
+  "english": "eyebrow",
+  "phat_am": "['aibrau]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lông mày",
+          "list_en_vn": [
+            {
+              "full_en": "eyebrow pencil",
+              "full_vn": "bút kẻ lông mày"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454468_5ee930a930_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454468_3e8a3af6f2_o.png",
+      "id_image": "eyebrow_2418010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694749_9d743561bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694749_26141d8e21_o.png",
+      "id_image": "eyebrow_4011698"
+    }
+  ]
+}

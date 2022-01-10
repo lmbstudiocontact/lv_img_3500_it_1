@@ -1,0 +1,169 @@
+{
+  "english": "lap",
+  "phat_am": "[læp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vạt áo, vạt váy"
+        },
+        {
+          "m_full_vn": "lòng",
+          "list_en_vn": [
+            {
+              "full_en": "the baby sat on his mother's lap",
+              "full_vn": "đứa bé ngồi trong lòng mẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dái tai"
+        },
+        {
+          "m_full_vn": "thung (chỗ trũng giữa hai quả đồi)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in Fortune's lap",
+              "list_im": [
+                {
+                  "im_full_vn": "may mắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the lap of gods",
+              "list_im": [
+                {
+                  "im_full_vn": "có trời biết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the lap of luxury",
+              "list_im": [
+                {
+                  "im_full_vn": "trong cảnh xa hoa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop sth in sb's lap",
+              "list_im": [
+                {
+                  "im_full_vn": "đổ lỗi cho ai, đổ thừa tại ai, đổ trách nhiệm cho ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the last lap",
+              "list_im": [
+                {
+                  "im_full_vn": "giai đoạn sau cùng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật phủ lên một vật khác"
+        },
+        {
+          "m_full_vn": "vòng dây, vòng chỉ (quấn vào một cuộn)"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) vòng chạy, vòng đua"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) tấm nối (đường ray) ( (cũng) half lap )"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phủ lên, chụp lên, bọc"
+        },
+        {
+          "m_full_vn": "quấn, cuộn; gói",
+          "list_en_vn": [
+            {
+              "full_en": "to lap something round something",
+              "full_vn": "quấn vật gì chung quanh vật khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vượt hơn một vòng (trong cuộc chạy đua)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) đá mài"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) mài bằng đá mài"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái liềm, cái tớp"
+        },
+        {
+          "m_full_vn": "thức ăn lỏng (cho chó...)"
+        },
+        {
+          "m_full_vn": "tiếng vỗ bập bềnh (sóng)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "liếm, tớp (bằng lưỡi)"
+        },
+        {
+          "m_full_vn": "nốc, uống ừng ực"
+        },
+        {
+          "m_full_vn": "vỗ bập bềnh (sóng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lap up everything one is told",
+              "list_im": [
+                {
+                  "im_full_vn": "ai nói gì cũng tin"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365317_cf2a02abcf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365317_b104a1e879_o.png",
+      "id_image": "lap_1506399"
+    }
+  ]
+}

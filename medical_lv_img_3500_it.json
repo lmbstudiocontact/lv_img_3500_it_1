@@ -1,0 +1,92 @@
+{
+  "english": "medical",
+  "phat_am": "['medikl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) y học; (thuộc) y khoa",
+          "list_en_vn": [
+            {
+              "full_en": "medical student",
+              "full_vn": "sinh viên y khoa"
+            },
+            {
+              "full_en": "medical school",
+              "full_vn": "trường y"
+            },
+            {
+              "full_en": "medical treatment",
+              "full_vn": "sự trị bệnh"
+            },
+            {
+              "full_en": "medical examination",
+              "full_vn": "sự khám sức khoẻ"
+            },
+            {
+              "full_en": "medical practitioner",
+              "full_vn": "người hành nghề chữa bệnh"
+            },
+            {
+              "full_en": "medical certificate",
+              "full_vn": "giấy chứng chỉ sức khoẻ (chứng nhận một người cò khoẻ mạnh hay không)"
+            },
+            {
+              "full_en": "army medical officer",
+              "full_vn": "quân y sĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) khoa nội (trị bệnh mà không có sự can thiệp bằng phẫu thuật)",
+          "list_en_vn": [
+            {
+              "full_en": "this polyclinic has a medical ward and a surgical ward",
+              "full_vn": "bệnh viện đa khoa này có khu nội và khu ngoại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) học sinh trường y"
+        },
+        {
+          "m_full_vn": "(thông tục) sự khám sức khoẻ",
+          "list_en_vn": [
+            {
+              "full_en": "to have a medical",
+              "full_vn": "đi khám sức khoẻ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362672_4b46dcfd11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362672_52dec55e8f_o.png",
+      "id_image": "medical_1969917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433353_c85e743c79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433353_6bb94b4a01_o.png",
+      "id_image": "medical_3023806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672989_8ef6a008a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672989_815cb477d5_o.png",
+      "id_image": "medical_412618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054730_503b03c7da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054730_dff19ac33b_o.png",
+      "id_image": "medical_4246617"
+    }
+  ]
+}

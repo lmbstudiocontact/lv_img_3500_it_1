@@ -1,0 +1,81 @@
+{
+  "english": "expert",
+  "phat_am": "['ekspə:t]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( expert at / in / on something / doing something ) thành thạo; tinh thông; lão luyện",
+          "list_en_vn": [
+            {
+              "full_en": "according to expert advice",
+              "full_vn": "theo ý kiến chuyên môn"
+            },
+            {
+              "full_en": "an expert rider",
+              "full_vn": "người rành cưỡi ngựa"
+            },
+            {
+              "full_en": "he's expert at /in cooking good cheap meals",
+              "full_vn": "anh ta thạo nấu những bữa ăn ngon mà rẻ tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "của nhà chuyên môn; về mặt chuyên môn",
+          "list_en_vn": [
+            {
+              "full_en": "an expert opinion",
+              "full_vn": "ý kiến của nhà chuyên môn; ý kiến về mặt chuyên môn"
+            },
+            {
+              "full_en": "according to expert evidence",
+              "full_vn": "theo bằng chứng của nhà chuyên môn đưa ra"
+            },
+            {
+              "full_en": "an expert job",
+              "full_vn": "một công việc chuyên môn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà chuyên môn; chuyên gia; chuyên viên",
+          "list_en_vn": [
+            {
+              "full_en": "an expert in Chinese philosophy",
+              "full_vn": "một chuyên gia về triết học Trung Hoa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424968_d0b921fe92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424968_fabd4f928c_o.png",
+      "id_image": "expert_3645122"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046790_6f3e25e95f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046790_789b470ce9_o.png",
+      "id_image": "expert_4646857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354037_3b39b07dca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354037_816d75176c_o.png",
+      "id_image": "expert_4668457"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665094_eab936815d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665094_ec731c85b6_o.png",
+      "id_image": "expert_5661391"
+    }
+  ]
+}

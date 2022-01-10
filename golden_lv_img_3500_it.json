@@ -1,0 +1,152 @@
+{
+  "english": "golden",
+  "phat_am": "['gouldən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng vàng"
+        },
+        {
+          "m_full_vn": "có vàng, nhiều vàng"
+        },
+        {
+          "m_full_vn": "có màu vàng",
+          "list_en_vn": [
+            {
+              "full_en": "golden hair",
+              "full_vn": "tóc màu vàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quý giá, quý báu, quý như vàng",
+          "list_en_vn": [
+            {
+              "full_en": "a golden opportunity",
+              "full_vn": "một dịp quý báu"
+            },
+            {
+              "full_en": "golden remedy",
+              "full_vn": "thuốc quý, thuốc thánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thịnh vượng; hạnh phúc",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Golden City",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) thành phố Xan-Fran-xit-co"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the golden mean",
+              "list_im": [
+                {
+                  "im_full_vn": "sự dung hoà, sự cân bằng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a golden handshake",
+              "list_im": [
+                {
+                  "im_full_vn": "số tiền dành cho một viên chức kỳ cựu khi nghỉ việc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "golden opinions",
+              "list_im": [
+                {
+                  "im_full_vn": "sự tôn trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the golden rule",
+              "list_im": [
+                {
+                  "im_full_vn": "(kinh thánh) quy tắc xử sự chuẩn mực, khuôn vàng thước ngọc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the Golden State",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) bang Ca-li-fo-ni-a"
+                }
+              ]
+            },
+            {
+              "id_full_en": "golden wedding",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) wedding"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to worship the golden calf",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) calf"
+                }
+              ]
+            },
+            {
+              "id_full_en": "silence is golden",
+              "list_im": [
+                {
+                  "im_full_vn": "im lặng là thượng sách, im lặng là vàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kill the goose that lays the golden egg",
+              "list_im": [
+                {
+                  "im_full_vn": "thấy lợi trước mắt mà không thấy hại về sau, tham lợi trước mắt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the golden age",
+              "full_vn": "thời đại hoàng kim, thời vàng son, thời oanh liệt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374027_dc283b93c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374027_1dfb8776c2_o.png",
+      "id_image": "golden_1354770"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444288_f7088fa289_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444288_4a244317c0_o.png",
+      "id_image": "golden_2298992"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444243_6b1b59254b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444243_8a0ebb4430_o.png",
+      "id_image": "golden_2298995"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444188_79ea638147_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444188_476bc0bccc_o.png",
+      "id_image": "golden_4033731"
+    }
+  ]
+}

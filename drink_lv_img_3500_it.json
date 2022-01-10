@@ -1,0 +1,297 @@
+{
+  "english": "drink",
+  "phat_am": "[driηk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ uống, thức uống",
+          "list_en_vn": [
+            {
+              "full_en": "food and drink",
+              "full_vn": "đồ ăn thức uống"
+            },
+            {
+              "full_en": "soft drinks",
+              "full_vn": "đồ uống nhẹ (không có cồn)"
+            },
+            {
+              "full_en": "fizzy drinks",
+              "full_vn": "đồ uống có ga"
+            },
+            {
+              "full_en": "drinks are on me",
+              "full_vn": "đồ uống là phần tôi (để tôi trả tiền)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hớp, ngụm",
+          "list_en_vn": [
+            {
+              "full_en": "a drink of water",
+              "full_vn": "một ngụm nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rượu; lượng rượu đã rót ra",
+          "list_en_vn": [
+            {
+              "full_en": "strong drink",
+              "full_vn": "rượu mạnh"
+            },
+            {
+              "full_en": "isn't there any drink in the house ?",
+              "full_vn": "trong nhà không có rượu ư?"
+            },
+            {
+              "full_en": "to have a drink",
+              "full_vn": "uống một cốc (rượu...)"
+            },
+            {
+              "full_en": "how about a quick drink ?",
+              "full_vn": "ta làm nhanh một cốc nhé?"
+            },
+            {
+              "full_en": "he's had one drink too many",
+              "full_vn": "anh ấy đã quá chén (hơi say)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thói rượu chè, thói nghiện rượu",
+          "list_en_vn": [
+            {
+              "full_en": "to be on the drink",
+              "full_vn": "rượu chè bê tha, uống rượu tí bỉ"
+            },
+            {
+              "full_en": "drink is a growing problem among the young",
+              "full_vn": "thói rượu chè là một vấn đề đang ngày càng phổ biến ở thanh niên"
+            },
+            {
+              "full_en": "to take to drink because of domestic problems",
+              "full_vn": "nhiễm thói rượu chè bê tha vì chuyện nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the drink ) biển",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be the worse for drink",
+              "list_im": [
+                {
+                  "im_full_vn": "say hết biết trời trăng mây nước"
+                }
+              ]
+            },
+            {
+              "id_full_en": "meat and drink to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "nguồn hạnh phúc, niềm vui của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the demon drink",
+              "list_im": [
+                {
+                  "im_full_vn": "kẻ rồ dại khi có rượu vào; ma men"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drive somebody to drink",
+              "list_im": [
+                {
+                  "im_full_vn": "đẩy ai vào cảnh rượu chè bê tha",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "working here is enough to drive anyone to drink",
+                      "full_vn": "ai làm việc ở đây rồi cũng thành kẻ bê tha rượu chè"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ (thì quá khứ là drank ; động tính từ quá khứ là drunk )",
+      "list_m": [
+        {
+          "m_full_vn": "uống",
+          "list_en_vn": [
+            {
+              "full_en": "to drink the waters",
+              "full_vn": "uống nước khoáng (để chữa bệnh)"
+            },
+            {
+              "full_en": "he has drunk two cups of tea",
+              "full_vn": "anh ấy đã uống cạn hai tách trà"
+            },
+            {
+              "full_en": "to drink the cup of joy",
+              "full_vn": "tận hưởng niềm vui"
+            },
+            {
+              "full_en": "to drink the cup of pain",
+              "full_vn": "chịu đựng cho đến cùng nỗi đau đớn"
+            },
+            {
+              "full_en": "to drink one's wages",
+              "full_vn": "uống hết tiền lương, rượu chè phung phí hết tiền lương"
+            },
+            {
+              "full_en": "to drink oneself drunk",
+              "full_vn": "uống say tuý lúy"
+            },
+            {
+              "full_en": "to drink oneself to death",
+              "full_vn": "uống nhiều quá đến chết mất"
+            },
+            {
+              "full_en": "to drink oneself into debt",
+              "full_vn": "uống cho đến mang công mắc nợ"
+            },
+            {
+              "full_en": "to drink oneself stupid /into a stupor",
+              "full_vn": "uống rượu đến nỗi mụ người"
+            },
+            {
+              "full_en": "to drink somebody's health ; to drink a health to somebody",
+              "full_vn": "nâng cốc chúc sức khoẻ ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "uống rượu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to drink something down /up",
+              "list_im": [
+                {
+                  "im_full_vn": "nốc cạn; uống thẳng một hơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drink like a fish",
+              "list_im": [
+                {
+                  "im_full_vn": "uống rượu như hũ chìm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drink in",
+              "list_im": [
+                {
+                  "im_full_vn": "(cây, đất...) hút vào, thấm vào"
+                },
+                {
+                  "im_full_vn": "nghe như uống lấy, nghe say sưa; ngắm nhìn như uống lấy, ngắm nhìn say sưa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they stood drinking in the beauty of the landscape",
+                      "full_vn": "họ đứng đó say sưa ngắm nhìn cảnh đẹp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drink (something ) to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "nâng cốc chúc mừng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to drink to somebody's health /happiness /prosperity",
+                      "full_vn": "nâng cốc chúc mừng sức khoẻ/hạnh phúc/sự thịnh vượng của ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drink confusion to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) confusion"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drink somebody under the table",
+              "list_im": [
+                {
+                  "im_full_vn": "uống được nhiều rượu hơn ai, tửu lượng bỏ xa ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you can take a horse to water , but you can't make him drink",
+              "list_im": [
+                {
+                  "im_full_vn": "bạn có thể tạo cơ hội cho người ta, nhưng họ vẫn có thể bỏ cơ hội ấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drain /drink something to the dregs",
+              "list_im": [
+                {
+                  "im_full_vn": "uống cạn cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to drink deep ; to drink hard ; to drink heavily",
+              "full_vn": "uống tuý lúy"
+            },
+            {
+              "full_en": "don't drink and drive !",
+              "full_vn": "chớ có uống rượu rồi lái xe!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339041_f8da57356d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339041_0fe7961ac1_o.png",
+      "id_image": "drink_2488417"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383937_c27f5e7a6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383937_3ac02b849d_o.png",
+      "id_image": "drink_2601014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076055_aaceb37aef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076055_47b37f512a_o.png",
+      "id_image": "drink_2738804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076000_f1e3099b1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076000_35c6bb690e_o.png",
+      "id_image": "drink_2921819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339091_13fa472f6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339091_75bd1b59e1_o.png",
+      "id_image": "drink_722855"
+    }
+  ]
+}

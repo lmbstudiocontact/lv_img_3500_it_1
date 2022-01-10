@@ -1,0 +1,229 @@
+{
+  "english": "fill",
+  "phat_am": "[fil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái làm đầy; cái đủ để nhồi đầy",
+          "list_en_vn": [
+            {
+              "full_en": "a fill of tobacco",
+              "full_vn": "mồi thuốc (đủ để nhồi đầy tẩu)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự no nê",
+          "list_en_vn": [
+            {
+              "full_en": "to eat one's fill",
+              "full_vn": "ăn no đến chán"
+            },
+            {
+              "full_en": "to drink one's fill",
+              "full_vn": "uống no"
+            },
+            {
+              "full_en": "to take one's fill of pleasures",
+              "full_vn": "vui chơi thoả thích chán chê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (ngành đường sắt) nền đường"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đầy, chứa đầy, đổ đầy; đắp đầy, rót đầy",
+          "list_en_vn": [
+            {
+              "full_en": "to fill a bottle with water",
+              "full_vn": "rót đầy nước vào chai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhồi",
+          "list_en_vn": [
+            {
+              "full_en": "to fill one's pipe",
+              "full_vn": "nhồi thuốc vào tẩu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lấp kín (một lỗ hổng), trám, hàn",
+          "list_en_vn": [
+            {
+              "full_en": "to fill a tooth",
+              "full_vn": "trám (hàn) một cái răng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bổ nhiệm, thế vào, điền vào",
+          "list_en_vn": [
+            {
+              "full_en": "to fill (in ) a post",
+              "full_vn": "bổ khuyết một chức vị; thế chân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chiếm, choán hết (chỗ)",
+          "list_en_vn": [
+            {
+              "full_en": "the table fills the whole room",
+              "full_vn": "cái bàn choán hết chỗ trong phòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ (chức vụ)",
+          "list_en_vn": [
+            {
+              "full_en": "to fill someone's shoes",
+              "full_vn": "thay thế ai, kế vị ai"
+            },
+            {
+              "full_en": "to fill a part",
+              "full_vn": "đóng một vai trò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm thoả thích, làm thoả mãn",
+          "list_en_vn": [
+            {
+              "full_en": "to fill someone to repletion with drink",
+              "full_vn": "cho ai uống say bí tỉ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đáp ứng",
+          "list_en_vn": [
+            {
+              "full_en": "to fill every requirement",
+              "full_vn": "đáp ứng mọi nhu cầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thực hiện",
+          "list_en_vn": [
+            {
+              "full_en": "to fill an order",
+              "full_vn": "thực hiện đơn đặt hàng"
+            },
+            {
+              "full_en": "to fill a prescription",
+              "full_vn": "bán thuốc theo đơn, bốc thuốc theo đơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm căng (buồm)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầy, tràn đầy",
+          "list_en_vn": [
+            {
+              "full_en": "the hall soon filled",
+              "full_vn": "phòng chẳng mấy chốc đã đầy người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phồng căng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fill in",
+              "list_im": [
+                {
+                  "im_full_vn": "điền vào, ghi vào, cho vào cho đủ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fill in one's name",
+                      "full_vn": "ghi tên vào một bản khai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fill out",
+              "list_im": [
+                {
+                  "im_full_vn": "làm căng ra, làm to ra"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) điền vào"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) lớn ra, đẫy ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fill up",
+              "list_im": [
+                {
+                  "im_full_vn": "đổ đầy, lấp đầy, tràn đầy, đầy ngập",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fill up a pound",
+                      "full_vn": "lấp đầy một cái ao"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fill someone in on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) cung cấp cho ai thêm những chi tiết"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "sails fill",
+              "full_vn": "buồm căng gió"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374257_79cecab13b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374257_f5e1673ff1_o.png",
+      "id_image": "fill_1151161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374202_a67866f641_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374202_2d75ff2b5b_o.png",
+      "id_image": "fill_2547632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329536_bfce9cbde0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329536_3bda716193_o.png",
+      "id_image": "fill_5448487"
+    }
+  ]
+}

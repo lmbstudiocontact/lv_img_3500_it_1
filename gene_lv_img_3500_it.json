@@ -1,0 +1,46 @@
+{
+  "english": "gene",
+  "phat_am": "[dʒi:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(sinh vật học) Gien",
+          "list_en_vn": [
+            {
+              "full_en": "dominant gene",
+              "full_vn": "gien trội"
+            },
+            {
+              "full_en": "recessive gene",
+              "full_vn": "gien lặn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451488_b7f52739e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451488_2b0e67369b_o.png",
+      "id_image": "gene_2547751"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451433_ce78f5913e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451433_0649f96486_o.png",
+      "id_image": "gene_3883138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381507_bf0bdc9d1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381507_6014180292_o.png",
+      "id_image": "gene_5264768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381467_5baed34c06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381467_227b150420_o.png",
+      "id_image": "gene_5903851"
+    }
+  ]
+}

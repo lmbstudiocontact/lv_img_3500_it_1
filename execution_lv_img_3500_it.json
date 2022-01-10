@@ -1,0 +1,49 @@
+{
+  "english": "execution",
+  "phat_am": "[,eksi'kju:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thực hiện, sự thi hành, sự thừa hành, sự chấp hành"
+        },
+        {
+          "m_full_vn": "sự thể hiện; sự biểu diễn (bản nhạc...)"
+        },
+        {
+          "m_full_vn": "(pháp lý) sự làm thủ tục để cho có giá trị (hiệp ước, giao kèo...)"
+        },
+        {
+          "m_full_vn": "sự hành hình, sự thi hành án tử hình"
+        },
+        {
+          "m_full_vn": "sức phá hoại, sức tàn phá, sức mê hoặc",
+          "list_en_vn": [
+            {
+              "full_en": "to do execution",
+              "full_vn": "gây tàn phá; (nghĩa bóng) làm chết mê chết mệt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048570_f5b6259fc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048570_e4c4e9a6d7_o.png",
+      "id_image": "execution_2832692"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311916_9193fbba98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311916_f1b795aba7_o.png",
+      "id_image": "execution_5321885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048495_c1a99d1373_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048495_0673f5a397_o.png",
+      "id_image": "execution_5661517"
+    }
+  ]
+}

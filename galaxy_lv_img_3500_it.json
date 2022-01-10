@@ -1,0 +1,45 @@
+{
+  "english": "galaxy",
+  "phat_am": "['gæləksi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "The Galaxy ngân hà, thiên hà ( (cũng) The Milky Way )"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nhóm tinh hoa, nhóm",
+          "list_en_vn": [
+            {
+              "full_en": "a galaxy of talent",
+              "full_vn": "nhóm những người có tài"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695849_b0f09170e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695849_cd6540e6ff_o.png",
+      "id_image": "galaxy_167347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077800_06b7604169_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077800_35e89c4698_o.png",
+      "id_image": "galaxy_207300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385422_d10eebb177_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385422_293146100e_o.png",
+      "id_image": "galaxy_3212598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077735_f5647e8bf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077735_586832bd33_o.png",
+      "id_image": "galaxy_5570602"
+    }
+  ]
+}

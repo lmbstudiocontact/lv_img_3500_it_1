@@ -1,0 +1,70 @@
+{
+  "english": "human",
+  "phat_am": "['hju:mən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) con người, (thuộc) loài người",
+          "list_en_vn": [
+            {
+              "full_en": "human being",
+              "full_vn": "con người"
+            },
+            {
+              "full_en": "human nature",
+              "full_vn": "bản tính con người, nhân tính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có tính người, có tình cảm của con người",
+          "list_one_mean": [
+            {
+              "id_full_en": "the milk of human kindness",
+              "list_im": [
+                {
+                  "im_full_vn": "nhân chi sơ, tính bổn thiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to err is human",
+              "list_im": [
+                {
+                  "im_full_vn": "không ai là hoàn toàn không mắc sai lầm, nhân vô thập toàn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con người"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328256_c79a70402b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328256_5fa3d6f4e4_o.png",
+      "id_image": "human_1742013"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328206_257bb525a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328206_0a1daab851_o.png",
+      "id_image": "human_1761554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443193_3fde63a518_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443193_b3649455ef_o.png",
+      "id_image": "human_3382602"
+    }
+  ]
+}

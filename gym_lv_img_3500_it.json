@@ -1,0 +1,58 @@
+{
+  "english": "gym",
+  "phat_am": "[dʒim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phòng tập thể dục",
+          "list_en_vn": [
+            {
+              "full_en": "exercises in the gym",
+              "full_vn": "luyện tập ở phòng tập thể dục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "môn thể dục trong nhà trường",
+          "list_one_mean": [
+            {
+              "id_full_en": "gym-shoes",
+              "list_im": [
+                {
+                  "im_full_vn": "giày thể dục (giày vải có đế cao su)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a gym mistress",
+              "list_im": [
+                {
+                  "im_full_vn": "cô giáo dạy môn thể dục"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432383_31a31a79c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432383_233356d170_o.png",
+      "id_image": "gym_1177617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361562_973682d7e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361562_c9cba93e33_o.png",
+      "id_image": "gym_1403333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053660_b9ce1d34f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053660_d25e9ce6c1_o.png",
+      "id_image": "gym_2503456"
+    }
+  ]
+}

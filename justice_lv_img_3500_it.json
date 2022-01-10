@@ -1,0 +1,127 @@
+{
+  "english": "justice",
+  "phat_am": "['dʒʌstis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự công bằng; phẩm chất công bằng",
+          "list_en_vn": [
+            {
+              "full_en": "laws based on the principles of justice",
+              "full_vn": "pháp luật dựa trên các nguyên tắc công bằng"
+            },
+            {
+              "full_en": "efforts to achieve complete social justice",
+              "full_vn": "những cố gắng để thực hiện công bằng xã hội trọn vẹn"
+            },
+            {
+              "full_en": "he demanded , with some justice , that he should be given an opportunity to express his views",
+              "full_vn": "anh ta yêu cầu, có phần nào hợp lý và đúng đắn, rằng phải cho anh ta một cơ hội bày tỏ quan điểm của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "luật pháp và sự thực thi luật pháp; công lý; tư pháp",
+          "list_en_vn": [
+            {
+              "full_en": "court of justice",
+              "full_vn": "toà án công lý"
+            },
+            {
+              "full_en": "to bring somebody to justice",
+              "full_vn": "đưa ai ra toà để xét xử"
+            },
+            {
+              "full_en": "a miscarriage of justice",
+              "full_vn": "một vụ án xử sai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng làm danh hiệu của một quan toà ở toà án tối cao)",
+          "list_one_mean": [
+            {
+              "id_full_en": "High Court of Justice",
+              "list_im": [
+                {
+                  "im_full_vn": "như High Court"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do justice to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "biết thưởng thức (biết đánh giá đúng) cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Since we'd already eaten , we couldn't do justice to her cooking",
+                      "full_vn": "Vì chúng tôi đã ăn rồi, nên không thưởng thức được tài nấu ăn của bà ấy"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thừa nhận giá trị của ai/cái gì; đối xử công bằng với ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to do her justice , we must admit that she did deserve to win",
+                      "full_vn": "công bằng mà nói, chúng ta phải thừa nhận rằng cô ta xứng đáng thắng cuộc"
+                    },
+                    {
+                      "full_en": "the photograph does not do full justice to the rich colours of the gardens",
+                      "full_vn": "bức ảnh không thể hiện được đầy đủ màu sắc rực rỡ của các vườn hoa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do oneself justice",
+              "list_im": [
+                {
+                  "im_full_vn": "làm xứng với tài năng của mình; dốc hết tài năng để làm việc gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he didn't do himself justice in the exams",
+                      "full_vn": "anh ta không dốc hết khả năng trong kỳ thi vừa rồi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Mr Justice Smith",
+              "full_vn": "Ngài thẩm phán Smith"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445068_18e0785a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445068_b598c73995_o.png",
+      "id_image": "justice_1750503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374722_6bc5139fe1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374722_e984dfa050_o.png",
+      "id_image": "justice_3142982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685119_3a73504da3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685119_b11d68a1c8_o.png",
+      "id_image": "justice_325672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684949_126b436dac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684949_eddfeed40a_o.png",
+      "id_image": "justice_4729343"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "explosive",
+  "phat_am": "[iks'plousiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nổ; gây nổ, dễ nổ, dễ bùng nổ ( (nghĩa đen) & (nghĩa bóng))"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) bật hơi"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất nổ",
+          "list_en_vn": [
+            {
+              "full_en": "atomic explosive",
+              "full_vn": "chất nổ nguyên tử"
+            },
+            {
+              "full_en": "high explosive",
+              "full_vn": "chất nổ có sức công phá mạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) âm bật hơi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696784_84eea120eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696784_2dbf4d4ae8_o.png",
+      "id_image": "explosive_224677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078935_7e8756ae4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078935_8998e120fb_o.png",
+      "id_image": "explosive_2790375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386542_2103da0da0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386542_0d1c1b6071_o.png",
+      "id_image": "explosive_4321601"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456333_15dac43704_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456333_d903c2eae5_o.png",
+      "id_image": "explosive_4695119"
+    }
+  ]
+}

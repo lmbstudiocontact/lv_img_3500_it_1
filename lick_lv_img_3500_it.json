@@ -1,0 +1,148 @@
+{
+  "english": "lick",
+  "phat_am": "[lik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự liếm, cú liếm"
+        },
+        {
+          "m_full_vn": "(từ lóng) cú đấm, cái vụt; đòn đau"
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ Mỹ,nghĩa Mỹ), (từ lóng) sự cố gắng, sự nỗ lực",
+          "list_en_vn": [
+            {
+              "full_en": "to put in one's best licks",
+              "full_vn": "hết sức cố gắng, nỗ lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) tốc độ đi",
+          "list_en_vn": [
+            {
+              "full_en": "at full lick",
+              "full_vn": "hết sức hối hả, ba chân bốn cẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bãi liếm (nơi đất mặn, dã thú (thường) đến liếm muối ( (cũng) salt lick ))",
+          "list_one_mean": [
+            {
+              "id_full_en": "a lick and a promise",
+              "list_im": [
+                {
+                  "im_full_vn": "sự làm qua quýt, sự làm chiếu lệ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "liếm"
+        },
+        {
+          "m_full_vn": "lướt qua, đốt trụi",
+          "list_en_vn": [
+            {
+              "full_en": "the flames licked the dry grass",
+              "full_vn": "ngọn lửa lướt lem lém qua đám cỏ khô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) đánh; được, thắng"
+        },
+        {
+          "m_full_vn": "(từ lóng) đi, đi hối hả",
+          "list_en_vn": [
+            {
+              "full_en": "to go as fast (hard ) as one could lick",
+              "full_vn": "đi hết sức hối hả, đi ba chân bốn cẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) vượt quá sự hiểu biết của...",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lick creation",
+              "list_im": [
+                {
+                  "im_full_vn": "vượt tất cả mọi thứ, không gì sánh kịp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lick the dust",
+              "list_im": [
+                {
+                  "im_full_vn": "bị đánh gục, bị đánh bại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lick one's lips",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) lip"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lick one's wounds",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy lại sức, phục hồi sức khoẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lick into shape",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) shape"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lick someone's shoes",
+              "list_im": [
+                {
+                  "im_full_vn": "liếm gót ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "well that licks me",
+              "full_vn": "chà! cái đó vượt quá sự hiểu biết của tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458088_f057fc17bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458088_85ec0b9536_o.png",
+      "id_image": "lick_1128930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458038_f4eba1c956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458038_a3b1bedb10_o.png",
+      "id_image": "lick_4893358"
+    }
+  ]
+}

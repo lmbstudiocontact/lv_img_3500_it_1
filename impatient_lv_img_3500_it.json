@@ -1,0 +1,46 @@
+{
+  "english": "impatient",
+  "phat_am": "[im'pei∫ənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thiếu kiên nhẫn, không kiên tâm, nóng vội, nôn nóng; hay sốt ruột",
+          "list_en_vn": [
+            {
+              "full_en": "to be impatient for something",
+              "full_vn": "nôn nóng muốn cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + of ) không chịu đựng được, không dung thứ được, khó chịu (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "impatient of reproof",
+              "full_vn": "không chịu đựng được sự quở trách"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058210_d4b15782fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058210_416b9f4998_o.png",
+      "id_image": "impatient_3220581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321461_8e89b3407e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321461_d48a74e930_o.png",
+      "id_image": "impatient_6365909"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676634_92247d684a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676634_3afa0f5b00_o.png",
+      "id_image": "impatient_708652"
+    }
+  ]
+}

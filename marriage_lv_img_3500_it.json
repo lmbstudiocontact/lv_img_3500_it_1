@@ -1,0 +1,77 @@
+{
+  "english": "marriage",
+  "phat_am": "['mæridʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cưới xin, sự kết hôn, hôn nhân",
+          "list_en_vn": [
+            {
+              "full_en": "an offer of marriage",
+              "full_vn": "lời cầu hôn"
+            },
+            {
+              "full_en": "to take somebody in marriage",
+              "full_vn": "kết hôn (với ai)"
+            },
+            {
+              "full_en": "a marriage feast",
+              "full_vn": "bữa tiệc cưới"
+            },
+            {
+              "full_en": "to give one's daughter in marriage to a high-ranking official",
+              "full_vn": "gả con gái cho một quan chức cao cấp"
+            },
+            {
+              "full_en": "her first marriage ended after five years",
+              "full_vn": "cuộc hôn nhân lần đầu của cô ta chấm dứt sau năm năm"
+            },
+            {
+              "full_en": "marriage certificate ; marriage lines",
+              "full_vn": "giấy đăng ký kết hôn; hôn thú"
+            },
+            {
+              "full_en": "marriage articles ; marriage-contract",
+              "full_vn": "hôn khế"
+            },
+            {
+              "full_en": "marriage licence",
+              "full_vn": "giấy cho phép tổ chức một lễ cưới hợp pháp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lễ cưới",
+          "list_en_vn": [
+            {
+              "full_en": "her second marriage was held /took place in St John's Church",
+              "full_vn": "lễ cưới lần thứ hai của bà ta được tổ chức ở nhà thờ Thánh Giôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kết hợp hài hoà"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677509_d20c93363e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677509_56e2a9da27_o.png",
+      "id_image": "marriage_1775676"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437608_1b7a2f714d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437608_73396f346e_o.png",
+      "id_image": "marriage_5091520"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367372_8c2a9e2dc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367372_20b98791f8_o.png",
+      "id_image": "marriage_538248"
+    }
+  ]
+}

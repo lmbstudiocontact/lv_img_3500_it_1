@@ -1,0 +1,345 @@
+{
+  "english": "half",
+  "phat_am": "[hɑ:f]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều halves",
+      "list_m": [
+        {
+          "m_full_vn": "phân nửa, một nửa",
+          "list_en_vn": [
+            {
+              "full_en": "I broke the chocolate into halves - here's your half",
+              "full_vn": "tôi bẻ thanh sôcôla này làm hai nửa - đây là nửa của anh"
+            },
+            {
+              "full_en": "John and Liz shared the prize money between them - John used his half to buy a word processor",
+              "full_vn": "John và Liz chia nhau tiền thưởng - John dùng nửa của mình để mua một máy xử lý văn bản"
+            },
+            {
+              "full_en": "two halves make a whole",
+              "full_vn": "hai nửa hợp thành một cái nguyên"
+            },
+            {
+              "full_en": "the second half of the book is more exciting than the first",
+              "full_vn": "nửa cuối của cuốn sách hấp dẫn hơn nửa đầu"
+            },
+            {
+              "full_en": "two and a half ounces , hours , miles",
+              "full_vn": "hai aoxơ rưỡi, hai giờ rưỡi, hai dặm rưỡi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một trong hai phần thời gian bằng nhau của một trận đấu thể thao, buổi hoà nhạc...",
+          "list_en_vn": [
+            {
+              "full_en": "no goals were scored in the first half",
+              "full_vn": "không bên nào ghi được bàn thắng trong hiệp một"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vé nửa tiền (nhất là cho trẻ em) trên xe búyt hoặc xe lửa",
+          "list_en_vn": [
+            {
+              "full_en": "two and two halves to the city centre , please",
+              "full_vn": "cho hai vé và hai vé nửa tiền đi vào trung tâm thành phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như half-back"
+        },
+        {
+          "m_full_vn": "một nửa panh (nhất là bia)",
+          "list_one_mean": [
+            {
+              "id_full_en": "one's better half",
+              "list_im": [
+                {
+                  "im_full_vn": "vợ hoặc chồng mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "and a half",
+              "list_im": [
+                {
+                  "im_full_vn": "quan trọng, xuất sắc hơn bình thường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that was a game and a half",
+                      "full_vn": "đó là một trận đấu quan trọng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do things by halves",
+              "list_im": [
+                {
+                  "im_full_vn": "làm không đến nơi đến chốn; làm nửa vời",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he's not a man who do things by halves - either he donates a huge sum to a charity or he gives nothing",
+                      "full_vn": "anh ta không phải hạng người nửa vời - hoặc anh ta tặng một món tiền thật lớn cho một hội từ thiện hoặc chẳng cho gì cả"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break /chop /cut /tear something in half",
+              "list_im": [
+                {
+                  "im_full_vn": "đập/chặt/cắt/xé cái gì làm hai phần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I once saw a man tear a telephone directory in half",
+                      "full_vn": "có lần tôi trông thấy một người xé cuốn danh bạ điện thoại làm đôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go half and half (with somebody ); to go halves (with somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "chia đều chi phí (về cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that was an expensive meal - let's go halves",
+                      "full_vn": "đây là một bữa ăn đắt tiền - chúng ta hãy chia đôi tiền ăn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the half of it",
+              "list_im": [
+                {
+                  "im_full_vn": "phần quan trọng nhất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "how the other half lives",
+              "list_im": [
+                {
+                  "im_full_vn": "(sự hiểu biết hoặc sự từng trải về một) lối sống của một nhóm xã hội khác, nhất là nhóm giàu có hơn hoặc nghèo hơn nhóm của mình rất nhiều; thực trạng của một tập thể khác ngoài tập thể của mình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he's been lucky all his life and has never had to find out how the other half lives",
+                      "full_vn": "anh ta gặp may suốt đời và chưa bao giờ phải tìm hiểu xem người khác sống thế nào"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "two halves of bitter , please !",
+              "full_vn": "cho hai vại (nửa panh) bia!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lên tới hoặc tạo thành một nửa",
+          "list_one_mean": [
+            {
+              "id_full_en": "half a minute , second , tick ...",
+              "list_im": [
+                {
+                  "im_full_vn": "chút xíu, tí xíu (thời gian)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I'll be ready in half a minute",
+                      "full_vn": "chỉ chút xíu nữa là tôi xong đây"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "half past one , two ...; half after one , two ...",
+              "list_im": [
+                {
+                  "im_full_vn": "ba mươi phút sau (bất cứ giờ nào trên đồng hồ), một (giờ) rưỡi, hai (giờ) rưỡi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "half the work is already finished",
+              "full_vn": "một nửa công việc đã xong rồi"
+            },
+            {
+              "full_en": "they spent half the time looking for a parking space",
+              "full_vn": "họ mất một nửa thời gian để tìm chỗ đỗ xe"
+            },
+            {
+              "full_en": "her house is half a mile down the road",
+              "full_vn": "nhà ba ta ở phía cuối đường cách đây nửa dặm"
+            },
+            {
+              "full_en": "half the men",
+              "full_vn": "nửa số người"
+            },
+            {
+              "full_en": "half an hour /a half-hour",
+              "full_vn": "nửa giờ/nửa tiếng đồng hồ"
+            },
+            {
+              "full_en": "half a dozen /a half-dozen",
+              "full_vn": "nửa tá"
+            },
+            {
+              "full_en": "he has a half share in the firm",
+              "full_vn": "nó có nửa số cổ phần trong công ty"
+            },
+            {
+              "full_en": "half the fruit was bad",
+              "full_vn": "một nửa chỗ trái cây này hỏng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "tới một nửa",
+          "list_en_vn": [
+            {
+              "full_en": "half crying , half laughing",
+              "full_vn": "nửa khóc nửa cười, dở khóc dở cười"
+            },
+            {
+              "full_en": "half full",
+              "full_vn": "đầy một nửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một phần, dở",
+          "list_one_mean": [
+            {
+              "id_full_en": "half as much /many again",
+              "list_im": [
+                {
+                  "im_full_vn": "nhiều gấp rưỡi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there aren't enough chairs for the meeting - we need half as many again",
+                      "full_vn": "không đủ ghế cho cuộc họp - chúng ta cần nhiều gấp rưỡi như thế"
+                    },
+                    {
+                      "full_en": "I'd like the photograph enlarged so that it's half as big again",
+                      "full_vn": "tôi muốn bức ảnh được phóng to gấp rưỡi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not half",
+              "list_im": [
+                {
+                  "im_full_vn": "không một chút nào; rất, lắm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's not half bad , your new flat",
+                      "full_vn": "căn hộ mới của anh không tồi chút nào"
+                    },
+                    {
+                      "full_en": "he didn't half swear",
+                      "full_vn": "hắn chửi thề dữ lắm"
+                    },
+                    {
+                      "full_en": "'Was she annoyed ?' - 'Not half ' !",
+                      "full_vn": "Cô ta có bực mình không? - Bực mình ghê lắm!"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "half cooked",
+              "full_vn": "chín dở"
+            },
+            {
+              "full_en": "half built",
+              "full_vn": "xây dở"
+            },
+            {
+              "full_en": "to be half awaken",
+              "full_vn": "nửa thức, nửa ngủ"
+            },
+            {
+              "full_en": "I'm half inclined to agree",
+              "full_vn": "tôi nửa muốn đồng ý nửa không"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "số lượng tạo thành một nửa",
+          "list_one_mean": [
+            {
+              "id_full_en": "too clever by half",
+              "list_im": [
+                {
+                  "im_full_vn": "quá ư thông minh, quá khôn ngoan"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "half of six is three",
+              "full_vn": "một nửa của sáu là ba"
+            },
+            {
+              "full_en": "half of these officers are majors",
+              "full_vn": "một nửa số sĩ quan này là thiếu tá"
+            },
+            {
+              "full_en": "out of fifty candidates , half stand for the communist party",
+              "full_vn": "trong số năm mươi ứng cử viên, một nửa đại diện cho đảng cộng sản"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360227_e85190b012_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360227_72ba093439_o.png",
+      "id_image": "half_1722026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430893_d6008a80a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430893_c4d7914323_o.png",
+      "id_image": "half_5331557"
+    }
+  ]
+}

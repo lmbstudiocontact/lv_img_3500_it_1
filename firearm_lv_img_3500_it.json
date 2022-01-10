@@ -1,0 +1,32 @@
+{
+  "english": "firearm",
+  "phat_am": "['faiə'ɑ:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "súng cầm tay các loại (súng trường, súng lục...)",
+          "list_en_vn": [
+            {
+              "full_en": "to carry firearms",
+              "full_vn": "mang súng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063595_f59eec0e75_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063595_c71c94eb20_o.png",
+      "id_image": "firearm_2671331"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063535_9e972a282a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063535_d2659e1cf0_o.png",
+      "id_image": "firearm_2761772"
+    }
+  ]
+}

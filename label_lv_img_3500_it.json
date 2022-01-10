@@ -1,0 +1,74 @@
+{
+  "english": "label",
+  "phat_am": "['leibl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhãn, nhãn hiệu"
+        },
+        {
+          "m_full_vn": "danh hiệu; chiêu bài",
+          "list_en_vn": [
+            {
+              "full_en": "under the label of freedom and democracy",
+              "full_vn": "dưới chiêu bài tự do và dân chủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) phân bổ chính (của một văn kiện)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) mái hắt"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dán nhãn, ghi nhãn",
+          "list_en_vn": [
+            {
+              "full_en": "to label hand-luggage",
+              "full_vn": "dán nhãn lên hành lý xách tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) liệt vào loại, gán cho là",
+          "list_en_vn": [
+            {
+              "full_en": "any opponent is labelled a \"communist \" by the reactionary government",
+              "full_vn": "mọi phần tử chống đối đều bị chính phủ phản động gán cho là \"cộng sản\""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324216_663bce0685_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324216_5202160980_o.png",
+      "id_image": "label_1168128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324166_733de47a2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324166_3b4d8f4db2_o.png",
+      "id_image": "label_3120698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061235_e2336468bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061235_5f2abb030f_o.png",
+      "id_image": "label_618040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061180_cb2c023ed5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061180_0c441f64d0_o.png",
+      "id_image": "label_618060"
+    }
+  ]
+}

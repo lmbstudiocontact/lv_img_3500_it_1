@@ -1,0 +1,98 @@
+{
+  "english": "fault",
+  "phat_am": "[fɔ:lt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khiếm khuyết hoặc thiếu sót; lỗi lầm; khuyết điểm",
+          "list_en_vn": [
+            {
+              "full_en": "I like him despite his faults",
+              "full_vn": "Tôi vẫn thích ông ấy dù ông ấy có những khiếm khuyết"
+            },
+            {
+              "full_en": "there is a fault in the electrical system",
+              "full_vn": "có một chỗ hỏng trong hệ thống điện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(trách nhiệm về một) sai lầm; tội; lỗi",
+          "list_en_vn": [
+            {
+              "full_en": "Whose fault is this ? - Mine , I'm afraid",
+              "full_vn": "Lỗi tại ai? - Chắc là tại tôi đấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) phay, sự đứt đoạn"
+        },
+        {
+          "m_full_vn": "(điện học) sự rò, sự lạc"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự hỏng, sự hư hỏng"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) sự giao bóng nhầm ô; quả bóng giao nhầm ô (quần vợt)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to find fault",
+              "list_im": [
+                {
+                  "im_full_vn": "xem find"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at fault",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu trách nhiệm về một sai lầm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "my memory was at fault",
+                      "full_vn": "trí nhớ của tôi đã nhầm lẫn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to a fault",
+              "list_im": [
+                {
+                  "im_full_vn": "hết sức; vô cùng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chê trách; chê bai",
+          "list_en_vn": [
+            {
+              "full_en": "no one could fault his performance",
+              "full_vn": "không ai có thể chê cách diễn xuất của anh ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071230_3fa7407515_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071230_d77405767a_o.png",
+      "id_image": "fault_2867347"
+    }
+  ]
+}

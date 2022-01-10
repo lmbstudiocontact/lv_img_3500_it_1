@@ -1,0 +1,95 @@
+{
+  "english": "faint",
+  "phat_am": "[feint]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "uể oải; lả (vì đói)"
+        },
+        {
+          "m_full_vn": "e thẹn; nhút nhát"
+        },
+        {
+          "m_full_vn": "yếu ớt",
+          "list_en_vn": [
+            {
+              "full_en": "a faint show of resistance",
+              "full_vn": "một sự chống cự yếu ớt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mờ nhạt, không rõ",
+          "list_en_vn": [
+            {
+              "full_en": "faint lines",
+              "full_vn": "những đường nét mờ nhạt"
+            },
+            {
+              "full_en": "a faint idea",
+              "full_vn": "một ý kiến không rõ rệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chóng mặt, hay ngất"
+        },
+        {
+          "m_full_vn": "oi bức, ngột ngạt (không khí)"
+        },
+        {
+          "m_full_vn": "kinh tởm, lợm giọng (mùi)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cơn ngất; sự ngất",
+          "list_en_vn": [
+            {
+              "full_en": "in a dead faint",
+              "full_vn": "bất tỉnh nhân sự, chết ngất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + away ) ngất đi, xỉu đi"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) nhượng bộ, nản lòng, nản chí",
+          "list_one_mean": [
+            {
+              "id_full_en": "not have the faintest idea",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng biết mô tê gì cả"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337531_43dc2d590e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337531_f91063564f_o.png",
+      "id_image": "faint_3997839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692779_8f1363d5f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692779_e7a07c7dd0_o.png",
+      "id_image": "faint_4444887"
+    }
+  ]
+}

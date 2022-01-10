@@ -1,0 +1,63 @@
+{
+  "english": "gutter",
+  "phat_am": "['gʌtə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máng nước, ống máng, máng xối (dưới mái nhà)"
+        },
+        {
+          "m_full_vn": "rãnh nước (xung quanh nhà, hai bên đường phố...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nơi bùn lầy nước đọng; cặn bã (xã hội)",
+          "list_en_vn": [
+            {
+              "full_en": "the language of the gutter",
+              "full_vn": "giọng du côn đểu cáng"
+            },
+            {
+              "full_en": "the manners of the gutter",
+              "full_vn": "tác phong du côn"
+            },
+            {
+              "full_en": "to take the child out of the gutter ; to raise the child from the gutter",
+              "full_vn": "đưa đứa bé ra khỏi chốn bùn lầy nước đọng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bắc máng nước"
+        },
+        {
+          "m_full_vn": "đào rãnh"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chảy thành rãnh"
+        },
+        {
+          "m_full_vn": "chảy (nến)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432458_809f8199cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432458_eb8bcae9d3_o.png",
+      "id_image": "gutter_5613134"
+    }
+  ]
+}

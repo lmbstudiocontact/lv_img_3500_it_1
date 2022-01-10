@@ -1,0 +1,63 @@
+{
+  "english": "inclusive",
+  "phat_am": "[in'klu:siv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bao gồm cái gì; bao gồm nhiều hoặc tất cả; kể cả",
+          "list_en_vn": [
+            {
+              "full_en": "the price is 800 dollars inclusive of tax",
+              "full_vn": "giá là 800 đô la luôn cả thuế"
+            },
+            {
+              "full_en": "inclusive terms at a hotel",
+              "full_vn": "giá tính tất cả các khoản tại một khách sạn; giá trọn gói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(theo sau danh từ) kể cả giới hạn đã nêu",
+          "list_en_vn": [
+            {
+              "full_en": "from May 1st to June 3rd inclusive",
+              "full_vn": "từ ngày 1 tháng 5 đến hết ngày 3 tháng 6"
+            },
+            {
+              "full_en": "from Monday to Saturday inclusive",
+              "full_vn": "từ thứ hai cho đến hết thứ bảy"
+            },
+            {
+              "full_en": "pages 7 to 26 inclusive",
+              "full_vn": "trang 7 đến hết trang 26"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363957_98bba68f21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363957_75d4ea8cdc_o.png",
+      "id_image": "inclusive_3966167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434403_b4802b9d50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434403_840d47f9e1_o.png",
+      "id_image": "inclusive_3996146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055845_75de97d8f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055845_d21f728d0a_o.png",
+      "id_image": "inclusive_4480444"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674079_d3d03cbf4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674079_6371773a5f_o.png",
+      "id_image": "inclusive_5692692"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "english": "hat",
+  "phat_am": "[hæt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái mũ ( (thường) có vành)",
+          "list_one_mean": [
+            {
+              "id_full_en": "bad hat",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) người xấu, người đê tiện, người không có luân thường đạo lý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send round the hat",
+              "list_im": [
+                {
+                  "im_full_vn": "đi quyên tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hang one's hat on somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) lệ thuộc vào ai; bám vào ai, dựa vào ai; hy vọng vào ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with one's hat in one's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "khúm núm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "his hat covers his family",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) anh ta sống độc thân không có gia đình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep something under one's hat",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ bí mật điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "my hat !",
+              "list_im": [
+                {
+                  "im_full_vn": "thật à!, thế à! (tỏ ý ngạc nhiên)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take off one's hat to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) take"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk through one's hat",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) huênh hoang khoác lác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw one's hat into the ring",
+              "list_im": [
+                {
+                  "im_full_vn": "nhận lời thách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under one's hat",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hết sức bí mật, tối mật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the drop of a hat",
+              "list_im": [
+                {
+                  "im_full_vn": "không chậm trễ, ngay tức khắc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I eat my hat",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi sẽ đi lộn đầu xuống đất (biểu lộ thái độ không tin tưởng vào việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of the hat",
+              "list_im": [
+                {
+                  "im_full_vn": "theo phương thức bốc thăm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock sb into a cocked hat",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh nhừ tử, đánh thê thảm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "squash hat",
+              "full_vn": "mũ phớt mềm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đội mũ cho (ai)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698689_dc89542e74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698689_9e6181621e_o.png",
+      "id_image": "hat_119164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388412_18b2b43b61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388412_548056d2a9_o.png",
+      "id_image": "hat_288593"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698654_d8279dbec0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698654_56680292c2_o.png",
+      "id_image": "hat_292020"
+    }
+  ]
+}

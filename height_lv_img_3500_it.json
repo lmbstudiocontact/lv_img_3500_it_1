@@ -1,0 +1,99 @@
+{
+  "english": "height",
+  "phat_am": "[hait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số đo từ đáy lên đỉnh của một vật hoặc từ đầu đếnchân của một người đang đứng; chiều cao",
+          "list_en_vn": [
+            {
+              "full_en": "what's the height of the mountain ?",
+              "full_vn": "ngọn núi cao bao nhiêu?"
+            },
+            {
+              "full_en": "state your height",
+              "full_vn": "hãy nói rõ chiều cao của anh"
+            },
+            {
+              "full_en": "he is 1.70m in height",
+              "full_vn": "anh ấy cao 1 mét 70"
+            },
+            {
+              "full_en": "he can see over the wall because of his height",
+              "full_vn": "anh ta thấy qua tường là do anh ta cao"
+            },
+            {
+              "full_en": "height above sea level",
+              "full_vn": "độ cao so với mặt biển"
+            },
+            {
+              "full_en": "to fly at a height of 6000 metres (above sea level )",
+              "full_vn": "bay ở độ cao 6000 mét (so với mặt biển)"
+            },
+            {
+              "full_en": "the aircraft is gaining height",
+              "full_vn": "máy bay đang lấy độ cao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điểm cao nhất, đỉnh cao nhất",
+          "list_one_mean": [
+            {
+              "id_full_en": "to draw oneself up to one's full height",
+              "list_im": [
+                {
+                  "im_full_vn": "vươn thẳng người"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the height of summer",
+              "full_vn": "lúc nóng nhất của mùa hè"
+            },
+            {
+              "full_en": "the storm was at its height",
+              "full_vn": "cơn bão đang lúc mạnh nhất"
+            },
+            {
+              "full_en": "the height of folly",
+              "full_vn": "tột độ của sự điên rồ"
+            },
+            {
+              "full_en": "to be dressed in the height of fashion",
+              "full_vn": "ăn mặc cực mốt"
+            },
+            {
+              "full_en": "the height of one's ambition",
+              "full_vn": "cực điểm của lòng tham"
+            },
+            {
+              "full_en": "to be afraid of heights",
+              "full_vn": "sợ những nơi trên cao"
+            },
+            {
+              "full_en": "the climber fell from a great height",
+              "full_vn": "người leo núi đã rơi từ một điểm rất cao"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339546_918907eb5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339546_999a645947_o.png",
+      "id_image": "height_1607332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694744_4596c9a5a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694744_ee64f534d2_o.png",
+      "id_image": "height_5593750"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "encourage",
+  "phat_am": "[in'kʌridʒ]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to encourage somebody in something ) khuyến khích; cổ vũ; động viên",
+          "list_en_vn": [
+            {
+              "full_en": "don't encourage bad habits in a child",
+              "full_vn": "đừng khuyến khích thói quen xấu của trẻ"
+            },
+            {
+              "full_en": "he felt encouraged by the progress he'd made",
+              "full_vn": "anh ta cảm thấy được khích lệ bởi những tiến bộ của mình"
+            },
+            {
+              "full_en": "her parents encouraged her in her studies",
+              "full_vn": "bố mẹ cô ấy khuyến khích cô ấy học tập"
+            },
+            {
+              "full_en": "to encourage somebody to lose weight",
+              "full_vn": "khuyến khích ai giảm cân"
+            },
+            {
+              "full_en": "to encourage exports",
+              "full_vn": "khuyến khích xuất khẩu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365157_f654559d73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365157_e0bc0d5773_o.png",
+      "id_image": "encourage_4462839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320276_10c10b1803_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320276_3f9209b798_o.png",
+      "id_image": "encourage_4576953"
+    }
+  ]
+}

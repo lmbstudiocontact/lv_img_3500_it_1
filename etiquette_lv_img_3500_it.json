@@ -1,0 +1,51 @@
+{
+  "english": "etiquette",
+  "phat_am": "['etiket]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghi thức; phép xã giao",
+          "list_en_vn": [
+            {
+              "full_en": "Etiquette was considered very important in Victorian England",
+              "full_vn": "Nước Anh thời Nữ hoàng Victoria rất coi trọng phép xã giao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quy ước mặc nhận (của một giới chuyên môn)",
+          "list_en_vn": [
+            {
+              "full_en": "medical etiquette",
+              "full_vn": "quy ước mặc nhận trong giới y học"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314386_7d9803bba0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314386_a64c5a1b01_o.png",
+      "id_image": "etiquette_4813556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669044_7cd1b7b93d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669044_aef720faf4_o.png",
+      "id_image": "etiquette_4827226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429228_4210a5539a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429228_cf32082635_o.png",
+      "id_image": "etiquette_4994660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429183_0e4dd9d67b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429183_50708df9ee_o.png",
+      "id_image": "etiquette_5074095"
+    }
+  ]
+}

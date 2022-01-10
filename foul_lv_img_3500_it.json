@@ -1,0 +1,242 @@
+{
+  "english": "foul",
+  "phat_am": "[faul]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hôi hám, hôi thối",
+          "list_en_vn": [
+            {
+              "full_en": "a foul smell",
+              "full_vn": "mùi hôi thối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bẩn thỉu, cáu bẩn",
+          "list_en_vn": [
+            {
+              "full_en": "a foul pipe",
+              "full_vn": "cái tẩu cáu bẩn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ươn (cá)"
+        },
+        {
+          "m_full_vn": "xấu, đáng ghét (thời tiết)"
+        },
+        {
+          "m_full_vn": "xấu, tồi, thô tục, tục tĩu, thô lỗ",
+          "list_en_vn": [
+            {
+              "full_en": "foul motive",
+              "full_vn": "động cơ xấu"
+            },
+            {
+              "full_en": "foul talk",
+              "full_vn": "chuyện tục tĩu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) gớm, tởm, kinh tởm"
+        },
+        {
+          "m_full_vn": "nhiễm độc",
+          "list_en_vn": [
+            {
+              "full_en": "foul air",
+              "full_vn": "không khí nhiễm độc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhiều rêu; nhiều hà (đáy tàu)"
+        },
+        {
+          "m_full_vn": "tắc nghẽn",
+          "list_en_vn": [
+            {
+              "full_en": "a foul gun-barrel",
+              "full_vn": "nòng súng bị tắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rối (dây thừng)"
+        },
+        {
+          "m_full_vn": "trái luật, gian lận",
+          "list_en_vn": [
+            {
+              "full_en": "a foul blow",
+              "full_vn": "cú đấm trái luật"
+            },
+            {
+              "full_en": "foul game",
+              "full_vn": "trò chơi gian lận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngược (gió)"
+        },
+        {
+          "m_full_vn": "(ngành in) nhiều lỗi",
+          "list_one_mean": [
+            {
+              "id_full_en": "by fair means or foul",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) mean"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a foul copy",
+              "full_vn": "bản in nhiều lỗi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "trái luật, gian trá, gian lận",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fall (go , run ) foul of",
+              "list_im": [
+                {
+                  "im_full_vn": "va phải, đụng phải"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) đụng chạm với, va chạm với"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to hit foul",
+              "full_vn": "đánh một cú trái luật"
+            },
+            {
+              "full_en": "to play somebody foul",
+              "full_vn": "chơi xỏ ai; gian trá đối với ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật bẩn, vật hôi thối"
+        },
+        {
+          "m_full_vn": "điều xấu"
+        },
+        {
+          "m_full_vn": "sự đụng, sự chạm, sự va"
+        },
+        {
+          "m_full_vn": "sự vướng mắc vào nhau, sự rối"
+        },
+        {
+          "m_full_vn": "cú đấm trái luật; cú ăn gian; cú chơi xấu (bóng đá...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "through foul and fair",
+              "list_im": [
+                {
+                  "im_full_vn": "bằng mọi cách"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên bẩn, trở nên hôi thối"
+        },
+        {
+          "m_full_vn": "va chạm, đụng chạm"
+        },
+        {
+          "m_full_vn": "bị tắc nghẽn; bị vướng, bị rối"
+        },
+        {
+          "m_full_vn": "chơi trái luật; chơi ăn gian; chơi xấu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm xấu, làm dơ bẩn, làm nhơ nhuốc"
+        },
+        {
+          "m_full_vn": "đụng chạm vào, va chạm vào (cái gì)"
+        },
+        {
+          "m_full_vn": "làm tắc nghẽn (đường đi lại); làm rối",
+          "list_one_mean": [
+            {
+              "id_full_en": "to foul up",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm rối tung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to foul one's nest",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ô danh gia đình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358007_16cc9f7080_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358007_cc103a00d5_o.png",
+      "id_image": "foul_3295208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313806_54de731db1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313806_770691cb8e_o.png",
+      "id_image": "foul_5284226"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357947_7e96db9c7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357947_696fd45c1c_o.png",
+      "id_image": "foul_5284249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050375_8b4f3bb2af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050375_47652596c3_o.png",
+      "id_image": "foul_5613143"
+    }
+  ]
+}

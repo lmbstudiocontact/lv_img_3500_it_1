@@ -1,0 +1,90 @@
+{
+  "english": "layer",
+  "phat_am": "['leiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đặt, người gài (bẫy)"
+        },
+        {
+          "m_full_vn": "lớp",
+          "list_en_vn": [
+            {
+              "full_en": "a layer of clay",
+              "full_vn": "lớp đất sét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) tầng đất, địa tầng"
+        },
+        {
+          "m_full_vn": "cành chiết"
+        },
+        {
+          "m_full_vn": "gà (chim) đẻ trứng",
+          "list_en_vn": [
+            {
+              "full_en": "a good layer",
+              "full_vn": "gà (chim) đẻ mắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) dải lúa bị rạp"
+        },
+        {
+          "m_full_vn": "đầm nuôi trai"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắp từng lớp, sắp từng tầng"
+        },
+        {
+          "m_full_vn": "chiết cành"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngả, ngả rạp xuống (lúa)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362437_c11c1e6791_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362437_cefe0faee6_o.png",
+      "id_image": "layers_3594586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317926_c89b6e70c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317926_6f5794d3ce_o.png",
+      "id_image": "layers_4148456"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433043_0f3ac09a11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433043_f13eed989c_o.png",
+      "id_image": "layers_4395224"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433258_ffdcb79b7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433258_9cb5f481b7_o.png",
+      "id_image": "layer_1218466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054615_9f181c7bca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054615_9a4762acd1_o.png",
+      "id_image": "layer_4311696"
+    }
+  ]
+}

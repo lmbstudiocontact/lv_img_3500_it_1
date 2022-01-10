@@ -1,0 +1,92 @@
+{
+  "english": "failure",
+  "phat_am": "['feiljə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự không thực hiện, sự thiếu khả năng",
+          "list_en_vn": [
+            {
+              "full_en": "the failure to grasp a policy",
+              "full_vn": "sự không nắm vững một chính sách"
+            },
+            {
+              "full_en": "the failure to comply with the regulations",
+              "full_vn": "sự không tuân theo các quy định"
+            },
+            {
+              "full_en": "repeated failures to appear in court",
+              "full_vn": "nhiều lần không chịu ra hầu toà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng không thích hợp, không hoạt động như mong đợi",
+          "list_en_vn": [
+            {
+              "full_en": "a case of heart failure",
+              "full_vn": "một ca suy tim"
+            },
+            {
+              "full_en": "failure of crops often results in famine",
+              "full_vn": "mất mùa thường dẫn đến nạn đói"
+            },
+            {
+              "full_en": "engine failures",
+              "full_vn": "những trường hợp máy hỏng hóc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người bị thất bại; sự thất bại, cố gắng không thành công",
+          "list_en_vn": [
+            {
+              "full_en": "he is a failure in art",
+              "full_vn": "anh ấy không thành công trong nghệ thuật"
+            },
+            {
+              "full_en": "failure in one examination should not stop you trying again",
+              "full_vn": "trượt một kỳ thi không thể ngăn anh chị thi lại một lần nữa"
+            },
+            {
+              "full_en": "success came after many failures",
+              "full_vn": "thành công đã đến sau nhiều phen thất bại"
+            },
+            {
+              "full_en": "he was a failure as a teacher",
+              "full_vn": "anh ta làm giáo viên không đạt"
+            },
+            {
+              "full_en": "our new radio is a failure",
+              "full_vn": "cái rađiô mới của chúng ta là đồ bỏ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692959_f94ded01ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692959_9a030d6bbb_o.png",
+      "id_image": "failure_3447965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452513_390a28af31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452513_7aa68b0642_o.png",
+      "id_image": "failure_3449452"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452463_343208ef52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452463_288f3a7dcc_o.png",
+      "id_image": "failure_5520914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452393_70db1556a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452393_25a9fa4983_o.png",
+      "id_image": "failure_5521012"
+    }
+  ]
+}

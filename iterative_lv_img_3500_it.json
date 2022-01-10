@@ -1,0 +1,30 @@
+{
+  "english": "iterative",
+  "phat_am": "['itərətiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhắc lại, lắp lại, nhắc đi nhắc lại, lặp đi lặp lại",
+          "list_en_vn": [
+            {
+              "full_en": "iterative integral",
+              "full_vn": "tích phân lặp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) lặp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381792_70c9a89a27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381792_4373df2d48_o.png",
+      "id_image": "iterative_6309848"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "farewell",
+  "phat_am": "[,feə'wel]",
+  "list_type": [
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "tạm biệt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bid /say farewell to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "chào tạm biệt ai/cái gì; (nghĩa bóng) không còn có ai/cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "farewell until we meet again !",
+              "full_vn": "tạm biệt cho đến khi gặp lại!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lời chào tạm biệt",
+          "list_one_mean": [
+            {
+              "id_full_en": "a farewell party /gift /speech",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc liên hoan chia tay/quà tặng khi tạm biệt/diễn văn từ biệt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to make one's last farewells",
+              "full_vn": "nói những lời tạm biệt cuối cùng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691044_4485936456_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691044_51a8b685e5_o.png",
+      "id_image": "farewell_2165932"
+    }
+  ]
+}

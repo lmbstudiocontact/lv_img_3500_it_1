@@ -1,0 +1,53 @@
+{
+  "english": "gel",
+  "phat_am": "[dʒel]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hoá học) chất đặc quánh, chất gien",
+          "list_en_vn": [
+            {
+              "full_en": "hair-gel , bath-gel",
+              "full_vn": "dầu gội đầu, dầu tắm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặc quánh"
+        },
+        {
+          "m_full_vn": "thành hình, định hình"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336766_3bd3bf3714_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336766_3b0c754057_o.png",
+      "id_image": "gel_1656603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451648_a4a1928d79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451648_f245dd0a0e_o.png",
+      "id_image": "gel_2370965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381737_69aa5f5e18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381737_686d6d3460_o.png",
+      "id_image": "gel_2916887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073850_c9214f238f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073850_a7bf471a01_o.png",
+      "id_image": "gel_456625"
+    }
+  ]
+}

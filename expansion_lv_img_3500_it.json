@@ -1,0 +1,53 @@
+{
+  "english": "expansion",
+  "phat_am": "[iks'pæn∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự mở rộng, sự bành trướng, sự phát triển, sự phồng ra; phần mở rộng"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự giãn, sự nở; độ giãn, độ nở"
+        },
+        {
+          "m_full_vn": "(toán học) sự khai triển",
+          "list_en_vn": [
+            {
+              "full_en": "expansion in series",
+              "full_vn": "khai triển thành chuỗi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665724_7c410bce38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665724_6e2ebe9c57_o.png",
+      "id_image": "expansion_1553090"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425463_aaa96361e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425463_dcf9abc63e_o.png",
+      "id_image": "expansion_1888475"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310466_6c095f1212_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310466_ab90c81c0f_o.png",
+      "id_image": "expansion_4636004"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665619_2977e8fd1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665619_7801b16ab3_o.png",
+      "id_image": "expansion_5361862"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665584_3cecee392b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665584_bc8e4ae2ab_o.png",
+      "id_image": "expansion_5391352"
+    }
+  ]
+}

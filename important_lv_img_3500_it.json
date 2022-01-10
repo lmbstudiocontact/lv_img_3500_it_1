@@ -1,0 +1,72 @@
+{
+  "english": "important",
+  "phat_am": "[im'pɔ:tənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "quan trọng; trọng yếu; hệ trọng",
+          "list_en_vn": [
+            {
+              "full_en": "an important event /decision /announcement /meeting",
+              "full_vn": "một sự kiện/quyết định/thông báo/cuộc họp quan trọng"
+            },
+            {
+              "full_en": "it is vitally important to cancel the order immediately",
+              "full_vn": "điều quan trọng sống còn là phải lập tức hủy bỏ lệnh đó"
+            },
+            {
+              "full_en": "it is important that students (should ) attend /for students to attend all the lectures",
+              "full_vn": "điều quan trọng là sinh viên phải dự tất cả các buổi giảng"
+            },
+            {
+              "full_en": "they need more money now but , more important , they need long-term help",
+              "full_vn": "lúc này họ cần có thêm tiền, nhưng điều quan trọng hơn nữa là họ cần được giúp đỡ lâu dài"
+            },
+            {
+              "full_en": "it's important to me that you should be there",
+              "full_vn": "điều quan trọng đối với tôi là anh phải có mặt ở đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có quyền thế, có thế lực",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be self-important",
+              "list_im": [
+                {
+                  "im_full_vn": "ra vẻ mình là nhân vật quan trọng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it's not as if he was very important in the company hierarchy",
+              "full_vn": "hình như ông ta không phải là người rất trọng yếu trong hệ thống cấp bậc của công ty"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435933_da7d9a8fcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435933_460c5e417f_o.png",
+      "id_image": "important_2343607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675764_694baf9e8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675764_eb447f4b97_o.png",
+      "id_image": "important_5512109"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365622_538488deb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365622_9186d207e6_o.png",
+      "id_image": "important_5619196"
+    }
+  ]
+}

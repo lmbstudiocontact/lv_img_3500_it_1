@@ -1,0 +1,194 @@
+{
+  "english": "follow",
+  "phat_am": "['fɔlou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cú đánh theo ( bi-a)"
+        },
+        {
+          "m_full_vn": "nửa suất thêm (ở hàng ăn)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi theo sau"
+        },
+        {
+          "m_full_vn": "theo nghề, làm nghề",
+          "list_en_vn": [
+            {
+              "full_en": "to follow the sea",
+              "full_vn": "làm nghề thuỷ thủ"
+            },
+            {
+              "full_en": "to follow the plough",
+              "full_vn": "làm nghề nông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi theo một con đường"
+        },
+        {
+          "m_full_vn": "đi theo, đi hầu (ai)"
+        },
+        {
+          "m_full_vn": "theo, theo đuổi",
+          "list_en_vn": [
+            {
+              "full_en": "to follow a policy",
+              "full_vn": "theo một chính sách"
+            },
+            {
+              "full_en": "to follow someone's example",
+              "full_vn": "theo gương người nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghe kịp, hiểu kịp",
+          "list_en_vn": [
+            {
+              "full_en": "he spoke so fast that I couldn't follow him",
+              "full_vn": "nó nói mau đến nỗi tôi không nghe kịp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếp theo, kế theo",
+          "list_en_vn": [
+            {
+              "full_en": "the lecture is followed by a concert",
+              "full_vn": "tiếp theo buổi nói chuyện có hoà nhạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "theo dõi (tình hình...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi theo, đi theo sau"
+        },
+        {
+          "m_full_vn": "sinh ra, xảy đến",
+          "list_one_mean": [
+            {
+              "id_full_en": "to follow out",
+              "list_im": [
+                {
+                  "im_full_vn": "theo đuổi đến cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow up",
+              "list_im": [
+                {
+                  "im_full_vn": "theo miết, bám sát"
+                },
+                {
+                  "im_full_vn": "bồi thêm (một cú nữa)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as follows",
+              "list_im": [
+                {
+                  "im_full_vn": "như sau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the letter reads as follows",
+                      "full_vn": "bức thư viết như sau"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow like sheep",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) sheep"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow one's nose",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) nose"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow somebody like St Anthony pig",
+              "list_im": [
+                {
+                  "im_full_vn": "theo ai như hình với bóng, lẽo đẽo theo ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow the crowd",
+              "list_im": [
+                {
+                  "im_full_vn": "làm theo mọi người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow one's own bent",
+              "list_im": [
+                {
+                  "im_full_vn": "hành động theo sở thích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to follow in sb's footsteps",
+              "list_im": [
+                {
+                  "im_full_vn": "theo bước chân ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it must follow at the night the day",
+              "full_vn": "điều đó phải xảy ra như đêm phải tiếp tục theo ngày vậy"
+            },
+            {
+              "full_en": "hence it follows that",
+              "full_vn": "do đó mà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361992_ce22f99866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361992_b8595bbe1b_o.png",
+      "id_image": "follow_3057912"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672414_9015358a6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672414_0e6620e8ce_o.png",
+      "id_image": "follow_874672"
+    }
+  ]
+}

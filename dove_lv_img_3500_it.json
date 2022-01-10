@@ -1,0 +1,57 @@
+{
+  "english": "dove",
+  "phat_am": "[dʌv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chim bồ câu"
+        },
+        {
+          "m_full_vn": "người đem tin mừng; sứ giả của hoà bình",
+          "list_en_vn": [
+            {
+              "full_en": "Dove of Peace",
+              "full_vn": "chim bồ câu hoà bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người yêu quý, \"bồ câu nhỏ\" (tiếng gọi thân mật)",
+          "list_en_vn": [
+            {
+              "full_en": "my dove",
+              "full_vn": "em yêu quí của anh, con bồ câu nhỏ của anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chính trị) người chủ trương hoà bình (đối với kẻ hiếu chiến)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423003_91f9ff476a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423003_2a474392a1_o.png",
+      "id_image": "dove_3347380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422973_906461afa5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422973_b31637abb7_o.png",
+      "id_image": "dove_3480222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663044_a600bd0e6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663044_844779f39b_o.png",
+      "id_image": "dove_5002842"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307761_fbb75c95b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307761_c335dafc2f_o.png",
+      "id_image": "dove_5189202"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "information",
+  "phat_am": "[,infə'mei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cung cấp tin tức; sự thông tin",
+          "list_en_vn": [
+            {
+              "full_en": "economic information",
+              "full_vn": "thông tin kinh tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tin tức, tài liệu; kiến thức"
+        },
+        {
+          "m_full_vn": "(pháp lý) điều buộc tội"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053175_bb71efa79b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053175_cc15e187b6_o.png",
+      "id_image": "information_1057465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316746_1290b26af7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316746_83c22eee29_o.png",
+      "id_image": "information_1945758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360967_5b75ac14a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360967_4affccb124_o.png",
+      "id_image": "information_2170227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431703_2486f2021a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431703_16ba3c5928_o.png",
+      "id_image": "information_2373994"
+    }
+  ]
+}

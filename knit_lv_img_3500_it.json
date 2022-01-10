@@ -1,0 +1,74 @@
+{
+  "english": "knit",
+  "phat_am": "[nit]",
+  "list_type": [
+    {
+      "type": "động từ knitted , knit",
+      "list_m": [
+        {
+          "m_full_vn": "đan (len, sợi...)"
+        },
+        {
+          "m_full_vn": "nối chặt, gắn chặt, thắt chặt, kết chặt",
+          "list_en_vn": [
+            {
+              "full_en": "mortar knits bricks together",
+              "full_vn": "hồ vữa kết chặt các hòn gạch lại với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "liên kết chặt chẽ, ràng buộc chặt chẽ (trên cơ sở quyền lợi chung, do hôn nhân...)",
+          "list_en_vn": [
+            {
+              "full_en": "a closely knit argument",
+              "full_vn": "lý lẽ chặt chẽ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cau, nhíu (lông mày), nhăn (trán)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to knit up",
+              "list_im": [
+                {
+                  "im_full_vn": "khâu lại chỗ rách, đan lại chỗ rách (ở bít tất...)"
+                },
+                {
+                  "im_full_vn": "kết chặt, thắt chặt mối ràng buộc"
+                },
+                {
+                  "im_full_vn": "kết thúc (cuộc tranh luận...)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to knit one's brows",
+              "full_vn": "cau mày"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370262_2e7ac9631c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370262_72798fbc40_o.png",
+      "id_image": "knit_1748810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325391_e701597214_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325391_48d9abea4f_o.png",
+      "id_image": "knit_2927838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325321_90005f9d2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325321_1d2e6b2701_o.png",
+      "id_image": "knit_5391347"
+    }
+  ]
+}

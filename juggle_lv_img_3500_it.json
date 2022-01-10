@@ -1,0 +1,69 @@
+{
+  "english": "juggle",
+  "phat_am": "['dʒʌgl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trò tung hứng; trò xiếc"
+        },
+        {
+          "m_full_vn": "sự lừa bịp, sự lừa gạt"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to juggle with something ) tung (đồ vật, nhất là những quả bóng) lên trên không, bắt lấy chúng rồi lại tung chúng lên nữa, cứ thế mãi, sao cho luôn có một quả bóng ở trên không; tung hứng",
+          "list_en_vn": [
+            {
+              "full_en": "to juggle (with ) plates , balls",
+              "full_vn": "tung hứng đĩa, bóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to juggle with something ) sắp đặt lại; tráo trở",
+          "list_en_vn": [
+            {
+              "full_en": "juggling with one's timetable to fit in one's three-week trip",
+              "full_vn": "sắp đặt lại thời khoá biểu cho khớp với chuyến đi ba tuần của mình"
+            },
+            {
+              "full_en": "the government juggled with the figures and facts to hide political stability",
+              "full_vn": "chính phủ tráo trở các số liệu và sự kiện để che giấu tình trạng bất ổn về chính trị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lừa bịp; dùng mánh khoé để lừa",
+          "list_en_vn": [
+            {
+              "full_en": "to juggle someone out of something",
+              "full_vn": "lừa bịp ai lấy cái gì"
+            },
+            {
+              "full_en": "to juggle something away",
+              "full_vn": "dùng mánh khoé để lấy cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376082_5ffbd5957d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376082_64f16e0857_o.png",
+      "id_image": "juggle_1680803"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686434_229f2eaa94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686434_c33c1e6d13_o.png",
+      "id_image": "juggle_947861"
+    }
+  ]
+}

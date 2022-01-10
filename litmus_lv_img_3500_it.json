@@ -1,0 +1,27 @@
+{
+  "english": "litmus",
+  "phat_am": "['litməs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hoá học) quỳ",
+          "list_en_vn": [
+            {
+              "full_en": "litmus paper",
+              "full_vn": "giấy quỳ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339541_3639447142_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339541_8cc94d01ba_o.png",
+      "id_image": "litmus_3335817"
+    }
+  ]
+}

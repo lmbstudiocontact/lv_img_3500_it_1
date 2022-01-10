@@ -1,0 +1,74 @@
+{
+  "english": "manual",
+  "phat_am": "['mænjuəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) tay; làm bằng tay hoặc điều khiển bằng tay; thủ công",
+          "list_en_vn": [
+            {
+              "full_en": "manual labour",
+              "full_vn": "lao động chân tay"
+            },
+            {
+              "full_en": "manual workers",
+              "full_vn": "những người lao động chân tay"
+            },
+            {
+              "full_en": "manual gear-box",
+              "full_vn": "hộp số điều khiển bằng tay qua chiếc cần số (chứ không tự động)"
+            },
+            {
+              "full_en": "manual exercise",
+              "full_vn": "(quân sự) sự tập sử dụng súng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quyển sách có các thông tin hoặc chỉ dẫn thực hành (về một môn nào đó); sách học; sách giáo khoa",
+          "list_en_vn": [
+            {
+              "full_en": "a training manual",
+              "full_vn": "sách huấn luyện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phím đàn ( pianô...)"
+        },
+        {
+          "m_full_vn": "(quân sự) sự tập sử dụng súng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369962_6308147316_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369962_3fd6e47539_o.png",
+      "id_image": "manual_4275458"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369917_dd91270cec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369917_30227c674c_o.png",
+      "id_image": "manual_5982684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061985_249514ca53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061985_434f1e5302_o.png",
+      "id_image": "manual_947672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680249_c85f9be867_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680249_89161ca674_o.png",
+      "id_image": "manual_977646"
+    }
+  ]
+}

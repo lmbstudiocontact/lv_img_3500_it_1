@@ -1,0 +1,58 @@
+{
+  "english": "festival",
+  "phat_am": "['festivəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngày hoặc thời gian) lễ hội tôn giáo hoặc hội hè khác; ngày hội; đại hội liên hoan",
+          "list_en_vn": [
+            {
+              "full_en": "Christmas and Easter are Christian festivals",
+              "full_vn": "Nô-en và lễ phục sinh là những ngày lễ hội của cơ đốc giáo"
+            },
+            {
+              "full_en": "a festival atmosphere",
+              "full_vn": "không khí ngày hội; không khí hội hè đình đám"
+            },
+            {
+              "full_en": "lunar year festival",
+              "full_vn": "ngày tết, tết Nguyên đán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loạt biểu diễn âm nhạc, kịch, phim... tổ chức có định kỳ; liên hoan",
+          "list_en_vn": [
+            {
+              "full_en": "a film festival",
+              "full_vn": "liên hoan phim; đại hội điện ảnh"
+            },
+            {
+              "full_en": "the World Youth Festival",
+              "full_vn": "đại hội liên hoan thanh niên thế giới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446383_72977447d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446383_a202595275_o.png",
+      "id_image": "festival_1312005"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446318_b06736f03e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446318_01f79fab19_o.png",
+      "id_image": "festival_3728797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068030_0fd2c87be8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068030_3892681a35_o.png",
+      "id_image": "festival_3892281"
+    }
+  ]
+}

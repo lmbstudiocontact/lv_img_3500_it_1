@@ -1,0 +1,131 @@
+{
+  "english": "language",
+  "phat_am": "['læηgwidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngôn ngữ; tiếng",
+          "list_en_vn": [
+            {
+              "full_en": "the origins of language",
+              "full_vn": "các nguồn gốc của ngôn ngữ"
+            },
+            {
+              "full_en": "the development of language skills in young children",
+              "full_vn": "sự phát triển kỹ năng ngôn ngữ ở trẻ em"
+            },
+            {
+              "full_en": "foreign languages",
+              "full_vn": "tiếng nước ngoài; ngoại ngữ"
+            },
+            {
+              "full_en": "the language of diplomacy",
+              "full_vn": "ngôn ngữ ngoại giao"
+            },
+            {
+              "full_en": "dead language",
+              "full_vn": "tử ngữ"
+            },
+            {
+              "full_en": "living language",
+              "full_vn": "sinh ngữ"
+            },
+            {
+              "full_en": "The Bantu group of languages",
+              "full_vn": "Nhóm ngôn ngữ Bantu"
+            },
+            {
+              "full_en": "one's native language",
+              "full_vn": "ngôn ngữ bản địa của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "từ hoặc cụm từ được một nhóm người nào đó sử dụng",
+          "list_en_vn": [
+            {
+              "full_en": "everyday language",
+              "full_vn": "ngôn ngữ hàng ngày"
+            },
+            {
+              "full_en": "the language of science , drug addicts , the courtroom",
+              "full_vn": "ngôn ngữ khoa học, ngôn ngữ của giới nghiện ma túy, của toà án"
+            },
+            {
+              "full_en": "medical language",
+              "full_vn": "ngôn ngữ y học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hệ thống ký hiệu, dấu hiệu, động tác... truyền đạt thông tin",
+          "list_en_vn": [
+            {
+              "full_en": "music has been called the universal language",
+              "full_vn": "âm nhạc được gọi là ngôn ngữ phổ biến"
+            },
+            {
+              "full_en": "the language of flowers",
+              "full_vn": "ngôn ngữ của các loài hoa"
+            },
+            {
+              "full_en": "this theory can only be expressed in mathematical language",
+              "full_vn": "lý thuyết này chỉ có thể diễn đạt bằng ngôn ngữ toán học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) hệ thống lệnh được mã hoá để dùng trong việc lập trình",
+          "list_en_vn": [
+            {
+              "full_en": "BASIC is the language most programmers learn first",
+              "full_vn": "BASIC là ngôn ngữ mà hầu hết các lập trình viên đều phải học trước tiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách diễn đạt; cách ăn nói",
+          "list_one_mean": [
+            {
+              "id_full_en": "to speak the same language (as somebody )",
+              "list_im": [
+                {
+                  "im_full_vn": "có cùng sở thích và ý kiến (với ai); có chung một quan niệm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "bad /foul language",
+              "full_vn": "lời ăn tiếng nói xấu xa/thô tục"
+            },
+            {
+              "full_en": "his language was not persuasive",
+              "full_vn": "lối ăn nói của hắn không có sức thuyết phục"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675849_c4e2f85ee2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675849_34380e2d32_o.png",
+      "id_image": "language_2680952"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675819_60a37728fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675819_f309188400_o.png",
+      "id_image": "language_2761083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320736_645b761bfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320736_42cb226ed6_o.png",
+      "id_image": "language_3253307"
+    }
+  ]
+}

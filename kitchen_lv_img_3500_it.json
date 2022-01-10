@@ -1,0 +1,62 @@
+{
+  "english": "kitchen",
+  "phat_am": "['kit∫in]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phòng bếp, nhà bếp",
+          "list_one_mean": [
+            {
+              "id_full_en": "everything but the kitchen sink",
+              "list_im": [
+                {
+                  "im_full_vn": "tất cả đồ đạc có thể di chuyển được; chổi cùn rế rách",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we always seem to take everything but the kitchen sink when we go on holiday",
+                      "full_vn": "có vẻ như chúng ta luôn mang đủ thứ chổi cùn rế rách khi đi nghỉ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the kitchen table",
+              "full_vn": "bàn nhà bếp"
+            },
+            {
+              "full_en": "kitchen units",
+              "full_vn": "các dụng cụ nhà bếp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326406_a5a6289e5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326406_2db50ba0a8_o.png",
+      "id_image": "kitchen_1408047"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326356_beca2659f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326356_da2c9129c8_o.png",
+      "id_image": "kitchen_1472340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371197_532b6b048b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371197_b2f5337ac6_o.png",
+      "id_image": "kitchen_417435"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441413_c6e07f43b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441413_07f74ee755_o.png",
+      "id_image": "kitchen_963810"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "english": "logic",
+  "phat_am": "['lɔdʒik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoa học về lập luận; luận lý học; lô-gích học"
+        },
+        {
+          "m_full_vn": "chuỗi lý luận (được cho là hợp lý hoặc vô lý)",
+          "list_en_vn": [
+            {
+              "full_en": "We can't help accepting the logic of their argument",
+              "full_vn": "Chúng ta không thể không thừa nhận cái lô-gích trong lập luận của họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) những nguyên lý thiết kế máy tính"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692289_d6e1f919bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692289_f3ec8e0989_o.png",
+      "id_image": "logic_1332017"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692244_5265bf2a3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692244_7735d57c1d_o.png",
+      "id_image": "logic_2241398"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692214_6925667278_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692214_453e5068e0_o.png",
+      "id_image": "logic_5387386"
+    }
+  ]
+}

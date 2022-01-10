@@ -1,0 +1,59 @@
+{
+  "english": "example",
+  "phat_am": "[ig'zɑ:mpl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thí dụ, ví dụ"
+        },
+        {
+          "m_full_vn": "mẫu, gương mẫu, gương",
+          "list_en_vn": [
+            {
+              "full_en": "to set a good example",
+              "full_vn": "nêu gương tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái để làm gương",
+          "list_en_vn": [
+            {
+              "full_en": "to make an example of someone",
+              "full_vn": "phạt ai để làm gương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền lệ, lệ trước, vật so sánh, cái tương đương",
+          "list_en_vn": [
+            {
+              "full_en": "without example",
+              "full_vn": "từ trước chưa hề có cái như thế"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ (từ hiếm,nghĩa hiếm)",
+      "list_m": [
+        {
+          "m_full_vn": "dùng làm thí dụ"
+        },
+        {
+          "m_full_vn": "dùng làm mẫu; dùng làm gương"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312971_b7e9a30333_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312971_e40dc8168f_o.png",
+      "id_image": "example_1622689"
+    }
+  ]
+}

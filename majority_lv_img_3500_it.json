@@ -1,0 +1,84 @@
+{
+  "english": "majority",
+  "phat_am": "[mə'dʒɔriti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần lớn, phần đông, đa số",
+          "list_en_vn": [
+            {
+              "full_en": "the majority of people seem to prefer TV to radio",
+              "full_vn": "phần đông mọi người dường như thích TV hơn rađiô"
+            },
+            {
+              "full_en": "the majority was /were in favour of the proposal",
+              "full_vn": "số đông đã ủng hộ đề nghị đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đa số phiếu",
+          "list_en_vn": [
+            {
+              "full_en": "she was elected by a majority of 3749",
+              "full_vn": "bà ta được bầu với đa số phiếu là 3749"
+            },
+            {
+              "full_en": "they had a large majority over the other party at the last election",
+              "full_vn": "họ giành được đại đa số phiếu so với đảng kia trong cuộc bầu cử trước đây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuổi thành niên, tuổi trưởng thành",
+          "list_en_vn": [
+            {
+              "full_en": "he will reach his majority next month",
+              "full_vn": "tháng sau nó sẽ đến tuổi thành niên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) chức thiếu tá, hàm thiếu tá",
+          "list_one_mean": [
+            {
+              "id_full_en": "to join the majority",
+              "list_im": [
+                {
+                  "im_full_vn": "về với tổ tiên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in a /the majority",
+              "list_im": [
+                {
+                  "im_full_vn": "hình thành bộ phận lớn hơn/số lượng lớn hơn; chiếm đa số"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328381_c2fb3884e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328381_819964f361_o.png",
+      "id_image": "majority_5291794"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683424_489862c3c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683424_0b0cfa437a_o.png",
+      "id_image": "majority_5291807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683394_cf4ec34650_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683394_e243188cbf_o.png",
+      "id_image": "majority_5291865"
+    }
+  ]
+}

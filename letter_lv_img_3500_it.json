@@ -1,0 +1,148 @@
+{
+  "english": "letter",
+  "phat_am": "['letə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chữ cái, mẫu tự",
+          "list_en_vn": [
+            {
+              "full_en": "the 26 letters of the English alphabet",
+              "full_vn": "26 chữ của bảng chữ cái Anh"
+            },
+            {
+              "full_en": "a capital letter",
+              "full_vn": "chữ hoa"
+            },
+            {
+              "full_en": "a small letter",
+              "full_vn": "chữ nhỏ"
+            },
+            {
+              "full_en": "fill your answers in capital letters , not small letters",
+              "full_vn": "điền những câu trả lời của bạn bằng chữ hoa, không phải chữ thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thư; thư từ; thư tín",
+          "list_en_vn": [
+            {
+              "full_en": "gửi thư cho ai",
+              "full_vn": "to send a letter to somebody"
+            },
+            {
+              "full_en": "are there any letters for me ?",
+              "full_vn": "có thư gửi cho tôi hay không?"
+            },
+            {
+              "full_en": "please inform me by letter of your plans",
+              "full_vn": "đề nghị gửi thư cho tôi biết kế hoạch của anh"
+            },
+            {
+              "full_en": "business letters",
+              "full_vn": "thư giao thiệp về công việc, thư thương mại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghĩa chật hẹp, nghĩa mặt chữ",
+          "list_en_vn": [
+            {
+              "full_en": "to understand a clause in letter and spirit",
+              "full_vn": "hiểu một điều khoản về cả chữ lẫn ý của nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) văn học, văn chương",
+          "list_en_vn": [
+            {
+              "full_en": "a man of letters",
+              "full_vn": "nhà văn, văn sĩ"
+            },
+            {
+              "full_en": "a woman of letters",
+              "full_vn": "nữ văn sĩ; nữ sĩ"
+            },
+            {
+              "full_en": "the profession of letters",
+              "full_vn": "nghề viết văn"
+            },
+            {
+              "full_en": "republic (commonwealth ) of letters",
+              "full_vn": "giới văn học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) huy hiệu (tặng cho sinh viên có thành tích thể thao...) ( (thường) là tên tắt của trường)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to the letter",
+              "list_im": [
+                {
+                  "im_full_vn": "chú ý từng li từng tí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bread-and-butter letter",
+              "list_im": [
+                {
+                  "im_full_vn": "xem bread"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a dead letter",
+              "list_im": [
+                {
+                  "im_full_vn": "xem dead"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the letter of the law",
+              "list_im": [
+                {
+                  "im_full_vn": "xem law"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "viết chữ, khắc chữ lên, in chữ lên"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) đánh dấu, in dấu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459868_9ec2bf2449_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459868_3b760775d5_o.png",
+      "id_image": "letter_2300624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390077_1eede0a7a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390077_d3c44509cd_o.png",
+      "id_image": "letter_547041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390042_f6218399f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390042_8d6c8268d3_o.png",
+      "id_image": "letter_870121"
+    }
+  ]
+}

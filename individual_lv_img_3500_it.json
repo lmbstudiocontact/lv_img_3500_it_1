@@ -1,0 +1,120 @@
+{
+  "english": "individual",
+  "phat_am": "[,indi'vidjuəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nhất là với each ) một mình, riêng lẻ, cá thể",
+          "list_en_vn": [
+            {
+              "full_en": "individual interest",
+              "full_vn": "quyền lợi cá nhân"
+            },
+            {
+              "full_en": "each individual person is responsible for his own arrangements",
+              "full_vn": "mỗi cá nhân chịu trách nhiệm về cách thu xếp riêng của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc về hoặc cho một người",
+          "list_en_vn": [
+            {
+              "full_en": "food served in individual portions",
+              "full_vn": "thức ăn dọn theo khẩu phần từng người"
+            },
+            {
+              "full_en": "it's difficult for a teacher to give individual attention to children in a large class",
+              "full_vn": "giáo viên khó mà chú ý riêng được từng em một trong một lớp đông học sinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "do hoặc từ một người",
+          "list_en_vn": [
+            {
+              "full_en": "an individual effort /contribution",
+              "full_vn": "cố gắng/đóng góp của cá nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "độc đáo, riêng biệt, đặc biệt",
+          "list_en_vn": [
+            {
+              "full_en": "an individual style of writing",
+              "full_vn": "một văn phong độc đáo"
+            },
+            {
+              "full_en": "an individual style of dressing",
+              "full_vn": "phong cách ăn mặc độc đáo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "một con người riêng; cá nhân",
+          "list_en_vn": [
+            {
+              "full_en": "the rights of an /the individual compared with those of society as a whole",
+              "full_vn": "quyền của cá nhân so với quyền của xã hội nói chung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người thuộc về một loại cụ thể",
+          "list_en_vn": [
+            {
+              "full_en": "a pleasant /unpleasant individual",
+              "full_vn": "một người dễ chịu/khó tính"
+            },
+            {
+              "full_en": "what a strange individual !",
+              "full_vn": "một con người kỳ lạ thật!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người khác thường hoặc lập dị",
+          "list_en_vn": [
+            {
+              "full_en": "he's quite an individual !",
+              "full_vn": "hắn đúng là một kẻ lập dị!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) cá thể"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672629_1ca8f17761_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672629_ed3a544dd4_o.png",
+      "id_image": "individual_1460027"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432948_b6f204c70a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432948_a9023b3ff7_o.png",
+      "id_image": "individual_2909994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672534_4bab6f3a71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672534_b6f3dce2bc_o.png",
+      "id_image": "individual_3046267"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432913_8d841dabec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432913_30f0b3c6f6_o.png",
+      "id_image": "individual_4412876"
+    }
+  ]
+}

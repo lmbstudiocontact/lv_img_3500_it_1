@@ -1,0 +1,82 @@
+{
+  "english": "goal",
+  "phat_am": "[goul]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể dục,thể thao) khung thành, cầu môn",
+          "list_en_vn": [
+            {
+              "full_en": "to keep goal for a football team ; to be in goal for a football team",
+              "full_vn": "giữ gôn cho một đội bóng; là thủ môn của một đội bóng"
+            },
+            {
+              "full_en": "he headed the ball into an open goal",
+              "full_vn": "anh ta húc bóng vào khung thành đang bỏ ngỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) bàn thắng, điểm",
+          "list_en_vn": [
+            {
+              "full_en": "to score /kick a goal",
+              "full_vn": "ghi/sút thắng một bàn"
+            },
+            {
+              "full_en": "to win by three goals to one",
+              "full_vn": "thắng ba bàn thua một"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đích; mục đích, mục tiêu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to score an own goal",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi một bàn vào gôn nhà; tự mình hại mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to pursue , attain , reach one's goal in life",
+              "full_vn": "theo đuổi, đạt được, giành được mục tiêu của đời mình"
+            },
+            {
+              "full_en": "our goal was to improve the students' expert knowledge",
+              "full_vn": "mục tiêu của chúng tôi là nâng cao kiến thức chuyên môn của học viên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330226_8825f64565_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330226_4fa5a7260e_o.png",
+      "id_image": "goal_1033223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375017_644841c85e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375017_3e56edb312_o.png",
+      "id_image": "goal_451686"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067170_edd1d54f6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067170_9aeed5e43b_o.png",
+      "id_image": "goal_451716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685334_4f44655e66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685334_8626c25b51_o.png",
+      "id_image": "goal_470986"
+    }
+  ]
+}

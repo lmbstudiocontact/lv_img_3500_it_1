@@ -1,0 +1,54 @@
+{
+  "english": "healthy",
+  "phat_am": "['helθi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoẻ mạnh"
+        },
+        {
+          "m_full_vn": "có lợi cho sức khoẻ",
+          "list_en_vn": [
+            {
+              "full_en": "a healthy climate",
+              "full_vn": "khí hậu lành (tốt cho sức khoẻ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lành mạnh",
+          "list_en_vn": [
+            {
+              "full_en": "a healthy way of living",
+              "full_vn": "lối sống lành mạnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386057_743f82a8a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386057_14a4b74d01_o.png",
+      "id_image": "healthy_2707368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341161_09bb3cc0e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341161_ec143184a8_o.png",
+      "id_image": "healthy_706204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078470_e8b1955fe9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078470_faa618d133_o.png",
+      "id_image": "healthy_851514"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341086_25c5e45249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341086_10f75e429e_o.png",
+      "id_image": "healthy_926107"
+    }
+  ]
+}

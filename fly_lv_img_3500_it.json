@@ -1,0 +1,453 @@
+{
+  "english": "fly",
+  "phat_am": "[flai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con ruồi"
+        },
+        {
+          "m_full_vn": "(dùng trong từ ghép) bất cứ loại nào trong một số côn trùng biết bay",
+          "list_en_vn": [
+            {
+              "full_en": "butterfly",
+              "full_vn": "con bướm"
+            },
+            {
+              "full_en": "dragonfly",
+              "full_vn": "con chuồn chuồn"
+            },
+            {
+              "full_en": "tsetse-fly",
+              "full_vn": "ruồi xê-xê"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ruồi (làm mồi câu); ruồi giả (làm mồi câu cá)"
+        },
+        {
+          "m_full_vn": "(nông nghiệp) bệnh do ruồi, sâu bệnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to break a fly upon the wheel",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng dao mổ trâu cắt tiết gà, lấy búa đập muỗi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a fly on the wheel (on the coach wheel )",
+              "list_im": [
+                {
+                  "im_full_vn": "người lăng xăng tưởng mình quan trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(there are ) no flies on somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "người lanh lợi và không dễ bị lừa"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) anh ta rất láu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to die /drop /fall like flies",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi rụng/chết vô số kể; chết như rạ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the fly in the ointment",
+              "list_im": [
+                {
+                  "im_full_vn": "con sâu làm rầu nồi canh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a fly on the wall",
+              "list_im": [
+                {
+                  "im_full_vn": "kẻ nghe trộm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to harm /hurt a fly",
+              "list_im": [
+                {
+                  "im_full_vn": "hiền như cục bột; hiền khô"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bay; quãng đường bay",
+          "list_en_vn": [
+            {
+              "full_en": "on the fly",
+              "full_vn": "đang bay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vạt cài cúc (ở áo)"
+        },
+        {
+          "m_full_vn": "cánh cửa lều vải"
+        },
+        {
+          "m_full_vn": "đuôi cờ"
+        },
+        {
+          "m_full_vn": "(sân khấu), ( số nhiều) khoảng trên đầu sân khấu (có để những bộ kéo phông)"
+        },
+        {
+          "m_full_vn": "bộ phận điều chỉnh tốc độ (ở đồng hồ)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) (như) fly-wheel"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) xe độc mã"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ flew , flown",
+      "list_m": [
+        {
+          "m_full_vn": "bay"
+        },
+        {
+          "m_full_vn": "đi máy bay, đáp máy bay",
+          "list_en_vn": [
+            {
+              "full_en": "to fly home",
+              "full_vn": "đáp máy bay về nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bay vút lên cao (diều hâu, để đánh nhau)"
+        },
+        {
+          "m_full_vn": "bay phấp phới, tung bay",
+          "list_en_vn": [
+            {
+              "full_en": "flags are flying",
+              "full_vn": "cờ tung bay phất phới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi nhanh, chạy nhanh, rảo bước",
+          "list_en_vn": [
+            {
+              "full_en": "it's late , we must fly",
+              "full_vn": "đã muộn rồi, chúng ta phải đi nhanh lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tung; chạy vùn vụt như bay",
+          "list_en_vn": [
+            {
+              "full_en": "the door flew open",
+              "full_vn": "cửa mở tung"
+            },
+            {
+              "full_en": "time flies",
+              "full_vn": "thời gian vùn vụt trôi qua"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bay phấp phới, làm tung bay",
+          "list_en_vn": [
+            {
+              "full_en": "to fly a flag",
+              "full_vn": "cho cờ tung bay phất phới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thả (cho bay)",
+          "list_en_vn": [
+            {
+              "full_en": "to fly pigeons",
+              "full_vn": "thả chim bồ câu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lái (máy bay...); chuyên chở bằng máy bay",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fly on",
+              "list_im": [
+                {
+                  "im_full_vn": "xông lên; tấn công",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fly at the enemy",
+                      "full_vn": "xông lên tấn công quân địch"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly into",
+              "list_im": [
+                {
+                  "im_full_vn": "nổi (khùng), rớn (mừng)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fly into a rage",
+                      "full_vn": "nổi xung, nổi cơn thịnh nộ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "xông vào, xộc vào (trong phòng...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly off",
+              "list_im": [
+                {
+                  "im_full_vn": "bay đi (chim); chuồn đi"
+                },
+                {
+                  "im_full_vn": "đứt mất (cúc áo)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly out",
+              "list_im": [
+                {
+                  "im_full_vn": "tuôn ra một thôi một hồi"
+                },
+                {
+                  "im_full_vn": "nổi cơn hung hăng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly over",
+              "list_im": [
+                {
+                  "im_full_vn": "nhảy qua",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fly over fence",
+                      "full_vn": "nhảy qua hàng rào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly round",
+              "list_im": [
+                {
+                  "im_full_vn": "quay (bánh xe)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly upon",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) to fly at"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as the crow flies",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) crow"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the bird has flown",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) chim đã lọt lưới rồi, hung thủ đã tẩu thoát rồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly to arms",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) arm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly the country",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy trốn; đi khỏi xứ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly in the face of",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) face"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly at high game",
+              "list_im": [
+                {
+                  "im_full_vn": "có tham vọng, có hoài bão lớn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly a kite",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) kite"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly low",
+              "list_im": [
+                {
+                  "im_full_vn": "nằm im, lẩn lút"
+                }
+              ]
+            },
+            {
+              "id_full_en": "go fly a kite !",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) bước đi, đừng quấy rầy nữa!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let fly",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) let"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make the money fly",
+              "list_im": [
+                {
+                  "im_full_vn": "tiêu tiền như rác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make the sparks fly",
+              "list_im": [
+                {
+                  "im_full_vn": "gây ra sự xung đột"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly off the handle",
+              "list_im": [
+                {
+                  "im_full_vn": "nổi cơn tam bành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send things flying",
+              "list_im": [
+                {
+                  "im_full_vn": "hất tung toé"
+                }
+              ]
+            },
+            {
+              "id_full_en": "pigs might fly",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyện khó tin nổi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fly off at a tangent",
+              "list_im": [
+                {
+                  "im_full_vn": "thay đổi ý kiến liên miên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) cẩn thận, tỉnh táo, cảnh giác"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055545_f0282034e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055545_4f8520c200_o.png",
+      "id_image": "fly_1357476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363522_79e54d8455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363522_466e34196c_o.png",
+      "id_image": "fly_2230885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363497_f8a84eab0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363497_dc643063a8_o.png",
+      "id_image": "fly_4469569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434098_5803894c41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434098_890fbcf43f_o.png",
+      "id_image": "fly_5039292"
+    }
+  ]
+}

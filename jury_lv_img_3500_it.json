@@ -1,0 +1,64 @@
+{
+  "english": "jury",
+  "phat_am": "['dʒuəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(pháp lý) nhóm người ngồi tại toà án để nghe các sự việc của một vụ án, rồi quyết định xem bị cáo có tội hay vô tội; ban hội thẩm; hội thẩm đoàn; hội đồng xét xử",
+          "list_en_vn": [
+            {
+              "full_en": "seven men and five women sit on the jury",
+              "full_vn": "bảy người đàn ông và năm người đàn bà ngồi ở hội thẩm đoàn"
+            },
+            {
+              "full_en": "the jury returned a verdict of not guilty",
+              "full_vn": "ban hội thẩm tuyên án rằng bị cáo vô tội"
+            },
+            {
+              "full_en": "the jury is /are still out",
+              "full_vn": "hội thẩm đoàn chưa vào (vẫn còn đang hội ý với nhau)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm người được chọn để quyết định xem thí sinh nào thắng trong một cuộc thi; ban giám khảo",
+          "list_en_vn": [
+            {
+              "full_en": "the jury is /are about to announce the winners",
+              "full_vn": "ban giám khảo sắp công bố tên những người thắng cuộc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685289_5da47ef0f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685289_3517035b47_o.png",
+      "id_image": "jury_1284697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445173_67eed6f35b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445173_5d92c77c6a_o.png",
+      "id_image": "jury_1865618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685229_26028003e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685229_37c1f849a0_o.png",
+      "id_image": "jury_2861271"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067130_f632c18ed8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067130_ed3ceb3ba9_o.png",
+      "id_image": "jury_372308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374827_0f9bf41d2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374827_bd0cef7900_o.png",
+      "id_image": "jury_4391491"
+    }
+  ]
+}

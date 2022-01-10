@@ -1,0 +1,280 @@
+{
+  "english": "easy",
+  "phat_am": "['i:zi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ung dung; thoải mái",
+          "list_en_vn": [
+            {
+              "full_en": "easy manners",
+              "full_vn": "cử chỉ ung dung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thanh thản, dễ chịu",
+          "list_en_vn": [
+            {
+              "full_en": "to lead an easy life",
+              "full_vn": "sống một cuộc sống dễ chịu"
+            },
+            {
+              "full_en": "my mind is easier now",
+              "full_vn": "đầu óc tôi bây giờ đã thanh thản hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dễ, dễ dàng",
+          "list_en_vn": [
+            {
+              "full_en": "an easy exam",
+              "full_vn": "một kỳ thi dễ"
+            },
+            {
+              "full_en": "an easy place to reach",
+              "full_vn": "một nơi dễ đến"
+            },
+            {
+              "full_en": "the place is easy to reach",
+              "full_vn": "nơi đó dễ đến"
+            },
+            {
+              "full_en": "easy of access",
+              "full_vn": "dễ tiếp cận, dễ gần gũi"
+            },
+            {
+              "full_en": "easy money",
+              "full_vn": "tiền kiếm được dễ dàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dễ bị người khác lừa",
+          "list_en_vn": [
+            {
+              "full_en": "an easy victim /prey",
+              "full_vn": "nạn nhân/con mồi khờ khạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dễ chịu; không khó tính",
+          "list_en_vn": [
+            {
+              "full_en": "an easy teacher",
+              "full_vn": "một ông thầy dễ chịu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) ít người mua, ế ẩm",
+          "list_one_mean": [
+            {
+              "id_full_en": "easy circumstances",
+              "list_im": [
+                {
+                  "im_full_vn": "sự sung túc, cuộc sống phong lưu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "easy of virtue",
+              "list_im": [
+                {
+                  "im_full_vn": "lẳng lơ (đàn bà)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "easy game",
+              "list_im": [
+                {
+                  "im_full_vn": "người dễ bị bắt nạt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "easy on the ear /eye",
+              "list_im": [
+                {
+                  "im_full_vn": "dễ chịu khi nghe hoặc nhìn vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this music is easy on the ear late at night",
+                      "full_vn": "nhạc này đêm khuya nghe rất dễ chịu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have an easy time of it",
+              "list_im": [
+                {
+                  "im_full_vn": "không gặp trở ngại khi làm gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the easy way out",
+              "list_im": [
+                {
+                  "im_full_vn": "khéo xoay xở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "I'm easy",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi thì sao cũng được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "free and easy",
+              "list_im": [
+                {
+                  "im_full_vn": "thoải mái, không câu nệ hình thức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as easy as anything /as pie /as ABC /as falling off a log /as winking",
+              "list_im": [
+                {
+                  "im_full_vn": "dễ vô cùng, chẳng khó khăn chút nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "an easy touch",
+              "list_im": [
+                {
+                  "im_full_vn": "người dễ dãi về tiền bạc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on easy terms",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về tiền vay) có lãi suất thấp; (nói về việc mua) cho phép người mua trả dần trong một thời gian dài"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "(như) một mệnh lệnh di chuyển nhẹ nhàng và từ từ",
+          "list_one_mean": [
+            {
+              "id_full_en": "easier said than done",
+              "list_im": [
+                {
+                  "im_full_vn": "nói dễ hơn làm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "easy come , easy go",
+              "list_im": [
+                {
+                  "im_full_vn": "vào dễ thì ra cũng dễ (tiền bạc dễ kiếm thì (cũng) dễ hết)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I often win money at cards but never save a penny - 'easy come , easy go' is my motto",
+                      "full_vn": "Tôi thường kiếm được tiền nhờ đánh bài nhưng chẳngbao giờ tiết kiệm được một xu - 'Vào dễ thì ra cũng dễ' là khẩu hiệu của tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "easy /gently does it",
+              "list_im": [
+                {
+                  "im_full_vn": "công việc này nên làm từ từ và thận trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go easy",
+              "list_im": [
+                {
+                  "im_full_vn": "giảm bớt cường độ làm việc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go easy on /with somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "cẩn thận, nhẹ nhàng, vừa phải với ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Go easy on the milk ; we all want some",
+                      "full_vn": "uống sữa vừa phải thôi, tất cả chúng ta đều cần mỗi người một ít"
+                    },
+                    {
+                      "full_en": "You should go easy on that boy , he's only young",
+                      "full_vn": "anh nên nhẹ nhàng với thằng bé hơn, nó hãy còn non nớt mà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "stand easy",
+              "list_im": [
+                {
+                  "im_full_vn": "(mệnh lệnh trong quân đội) đứng được tự do chuyển động hơn; ở tư thế đứng nghỉ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take it /things easy",
+              "list_im": [
+                {
+                  "im_full_vn": "không làm việc quá căng thẳng; nghỉ ngơi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "easy with that chair - one of its legs is loose",
+              "full_vn": "cẩn thận với cái ghế đó - một chân của nó bị long"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377067_10af66f8a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377067_206c695ef1_o.png",
+      "id_image": "easy_2647573"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447278_2255785f6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447278_ed4dbd5027_o.png",
+      "id_image": "easy_5360589"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376977_88effe9956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376977_b0232d71de_o.png",
+      "id_image": "easy_5906078"
+    }
+  ]
+}

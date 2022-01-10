@@ -1,0 +1,31 @@
+{
+  "english": "feasibility",
+  "phat_am": "[,fi:zə'biliti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính có thể thi hành được, tính khả thi",
+          "list_en_vn": [
+            {
+              "full_en": "to study the feasibility of an investment project",
+              "full_vn": "nghiên cứu tính khả thi của một dự án đầu tư"
+            },
+            {
+              "full_en": "a feasibility study",
+              "full_vn": "một luận chứng về tính khả thi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378537_61bed8bcc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378537_811954023d_o.png",
+      "id_image": "feasibility_994631"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "english": "effigy",
+  "phat_am": "['efidʒi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình, hình nổi (ở đồng tiền, ở huy hiệu)"
+        },
+        {
+          "m_full_vn": "hình vẽ, hình nộm",
+          "list_en_vn": [
+            {
+              "full_en": "to hang (burn ) someone in effigy",
+              "full_vn": "treo cổ (đốt) hình nộm của ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372442_420cc5f408_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372442_2749822cdf_o.png",
+      "id_image": "effigy_4065217"
+    }
+  ]
+}

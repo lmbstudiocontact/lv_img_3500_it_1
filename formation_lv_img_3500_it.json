@@ -1,0 +1,62 @@
+{
+  "english": "formation",
+  "phat_am": "[fɔ:'mei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hình thành, sự thành lập",
+          "list_en_vn": [
+            {
+              "full_en": "the formation of a new government",
+              "full_vn": "sự thành lập chính phủ mới"
+            },
+            {
+              "full_en": "the formation of national character",
+              "full_vn": "sự hình thành tính cách dân tộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật được tạo nên, nhất là bằng cách riêng biệt hoặc đặc thù",
+          "list_en_vn": [
+            {
+              "full_en": "cloud /rock formations",
+              "full_vn": "sự tạo thành mây/đá"
+            },
+            {
+              "full_en": "new word formations",
+              "full_vn": "các cách cấu tạo từ mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sắp xếp hoặc mẫu hình cụ thể nào đó; đội hình",
+          "list_en_vn": [
+            {
+              "full_en": "aircraft flying in formation",
+              "full_vn": "máy bay bay theo đội hình"
+            },
+            {
+              "full_en": "formation flying",
+              "full_vn": "sự bay theo đội hình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669384_69f0f904b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669384_1be6d1b0f5_o.png",
+      "id_image": "formation_3564447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314716_4b2b2dfcf0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314716_3d7893123d_o.png",
+      "id_image": "formation_6224195"
+    }
+  ]
+}

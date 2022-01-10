@@ -1,0 +1,133 @@
+{
+  "english": "frame",
+  "phat_am": "[freim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cấu trúc, cơ cấu; hệ thống, thứ tự",
+          "list_en_vn": [
+            {
+              "full_en": "the frame of society",
+              "full_vn": "cơ cấu xã hội; thứ tự xã hội"
+            },
+            {
+              "full_en": "the frame of government",
+              "full_vn": "cơ cấu chính phủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trạng thái",
+          "list_en_vn": [
+            {
+              "full_en": "frame of mind",
+              "full_vn": "tâm trạng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khung (ảnh, cửa, xe...), sườn (tàu, nhà...)"
+        },
+        {
+          "m_full_vn": "thân hình, tầm vóc",
+          "list_en_vn": [
+            {
+              "full_en": "a man of gigantic frame",
+              "full_vn": "người tầm vóc to lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ảnh (trong một loại ảnh truyền hình)"
+        },
+        {
+          "m_full_vn": "lồng kính (che cây cho ấm)"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) khung rửa quặng"
+        },
+        {
+          "m_full_vn": "(rađiô) khung"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dàn xếp, bố trí, bố cục, dựng lên",
+          "list_en_vn": [
+            {
+              "full_en": "to frame a plan",
+              "full_vn": "dựng một kế hoạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều chỉnh, làm cho hợp"
+        },
+        {
+          "m_full_vn": "lắp, chắp"
+        },
+        {
+          "m_full_vn": "hư cấu (một truyện), tưởng tượng, nghĩ ra"
+        },
+        {
+          "m_full_vn": "trình bày (một lý thuyết)"
+        },
+        {
+          "m_full_vn": "phát âm (từng từ một)"
+        },
+        {
+          "m_full_vn": "đặt vào khung; lên khung, dựng khung",
+          "list_en_vn": [
+            {
+              "full_en": "to frame a roof",
+              "full_vn": "lên khung mái nhà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầy triển vọng ( (thường) to frame well )",
+          "list_one_mean": [
+            {
+              "id_full_en": "to frame up",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) mưu hại (ai)"
+                },
+                {
+                  "im_full_vn": "bịa, làm giả, gian lận (kết quả một cuộc tuyển cử...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428023_fdc77a5626_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428023_10f7f5e841_o.png",
+      "id_image": "frame_305719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357177_77a3ae5d2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357177_73279455fd_o.png",
+      "id_image": "frame_837195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313211_6256d14a79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313211_7f8c5bb51c_o.png",
+      "id_image": "frame_964014"
+    }
+  ]
+}

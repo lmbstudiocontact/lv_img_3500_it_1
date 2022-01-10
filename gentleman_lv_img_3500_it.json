@@ -1,0 +1,127 @@
+{
+  "english": "gentleman",
+  "phat_am": "['dʒentlmən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đàn ông hào hoa phong nhã",
+          "list_en_vn": [
+            {
+              "full_en": "to behave like a gentleman",
+              "full_vn": "cư xử ra người hào hoa phong nhã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói một cách lịch sự về về một người đàn ông)",
+          "list_en_vn": [
+            {
+              "full_en": "there's a gentleman at the door",
+              "full_vn": "có một ông đang ở ngoài cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người cao sang, quyền quý",
+          "list_en_vn": [
+            {
+              "full_en": "a country gentleman",
+              "full_vn": "một nhà quý tộc thôn quê"
+            },
+            {
+              "full_en": "a gentleman farmer",
+              "full_vn": "một ông chủ trại thượng lưu (thuê người làm, chứ chẳng bao giờ phải làm lụng vất vả)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) một cách xưng hô lịch sự đối với đàn ông",
+          "list_one_mean": [
+            {
+              "id_full_en": "the gentleman in black velvet",
+              "list_im": [
+                {
+                  "im_full_vn": "con chuột chũi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "gentleman of the long robe",
+              "list_im": [
+                {
+                  "im_full_vn": "quan toà, luật gia"
+                }
+              ]
+            },
+            {
+              "id_full_en": "gentleman of the road",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), người đi chào hàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "gentleman's agreement",
+              "list_im": [
+                {
+                  "im_full_vn": "lời hứa của người quân tử; lời hứa danh dự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "gentleman's gentleman",
+              "list_im": [
+                {
+                  "im_full_vn": "người hầu phòng, người hầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the old gentleman",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) ma vương"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Ladies and gentlemen !",
+              "full_vn": "Thưa quý bà quý ông!; Thưa quý vị!"
+            },
+            {
+              "full_en": "Gentlemen of the jury !",
+              "full_vn": "Thưa quý vị quan toà!; Thưa hội đồng xét xử!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380557_ea847be09c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380557_229b8b1637_o.png",
+      "id_image": "gentleman_2234093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072345_d9cb3f4fdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072345_e7ea9a2efe_o.png",
+      "id_image": "gentleman_2368839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335411_bf24429295_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335411_f370444d75_o.png",
+      "id_image": "gentleman_2896999"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335376_2ace966983_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335376_691b5f2b36_o.png",
+      "id_image": "gentleman_5020638"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "english": "lodge",
+  "phat_am": "[lɔdʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà nghỉ"
+        },
+        {
+          "m_full_vn": "túp lều (của người da đỏ)"
+        },
+        {
+          "m_full_vn": "nhà người giữ cửa (công viên); nhà người thường trực"
+        },
+        {
+          "m_full_vn": "nơi họp của hội Tam điểm; chi nhánh của hội Tam điểm",
+          "list_en_vn": [
+            {
+              "full_en": "grand lodge",
+              "full_vn": "ban lãnh đạo của hội Tam điểm (hay của hội cùng loại)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhà hiệu trưởng (trường đại học Căm-brít)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho ở, cho trọ"
+        },
+        {
+          "m_full_vn": "gửi (ở ngân hàng...); đưa, trao",
+          "list_en_vn": [
+            {
+              "full_en": "to lodge money in the bank",
+              "full_vn": "gửi tiền ở ngân hàng"
+            },
+            {
+              "full_en": "to lodge a protest with sb",
+              "full_vn": "đưa cho ai một bản kháng nghị"
+            },
+            {
+              "full_en": "to lodge power with someone",
+              "full_vn": "trao quyền hành cho ai"
+            },
+            {
+              "full_en": "to lodge a complaint against sb",
+              "full_vn": "đệ đơn kiện ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắn vào, đặt vào, giáng",
+          "list_en_vn": [
+            {
+              "full_en": "to lodge a blow on someone's jaw",
+              "full_vn": "giáng một quả đấm vào quai hàn ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đè rạp (gió)",
+          "list_en_vn": [
+            {
+              "full_en": "the wind lodged the yellow rice plants",
+              "full_vn": "gió đè rạp những cây lúa vàng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở, cư trú, trọ",
+          "list_en_vn": [
+            {
+              "full_en": "to lodge in someone's house",
+              "full_vn": "trọ ở nhà ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nằm, ở",
+          "list_en_vn": [
+            {
+              "full_en": "the bullet lodged in arm",
+              "full_vn": "viên đạn nằm ở trong cánh tay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382367_1dc8769956_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382367_500e844962_o.png",
+      "id_image": "lodge_191533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074275_0f057dfe0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074275_f72b547c80_o.png",
+      "id_image": "lodge_3751966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074390_35b919e0d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074390_5a4b734079_o.png",
+      "id_image": "lodge_588822"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382327_b81674a184_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382327_fe55dcf285_o.png",
+      "id_image": "lodge_746839"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074330_42a496b261_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074330_f798a541fd_o.png",
+      "id_image": "lodge_895523"
+    }
+  ]
+}

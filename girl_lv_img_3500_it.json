@@ -1,0 +1,71 @@
+{
+  "english": "girl",
+  "phat_am": "[gə:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con gái"
+        },
+        {
+          "m_full_vn": "cô gái giúp việc trong gia đình"
+        },
+        {
+          "m_full_vn": "(dùng trong danh từ ghép)",
+          "list_en_vn": [
+            {
+              "full_en": "school-girl",
+              "full_vn": "nữ sinh"
+            },
+            {
+              "full_en": "shop-girl",
+              "full_vn": "nữ mậu dịch viên; cô bán hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người yêu, người tình ( (cũng) best girl ))",
+          "list_one_mean": [
+            {
+              "id_full_en": "the girls",
+              "list_im": [
+                {
+                  "im_full_vn": "bọn con gái (có chồng và chưa chồng) trong nhà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "girl guide , girl scout",
+              "list_im": [
+                {
+                  "im_full_vn": "nữ hướng đạo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "my old girl",
+              "list_im": [
+                {
+                  "im_full_vn": "(thân mật) nhà tôi, bu nó"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687464_1bb0fd5cb6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687464_7628dc6565_o.png",
+      "id_image": "girl_627768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069205_72d884a231_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069205_9cfdc20d80_o.png",
+      "id_image": "girl_658423"
+    }
+  ]
+}

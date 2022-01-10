@@ -1,0 +1,64 @@
+{
+  "english": "lonely",
+  "phat_am": "['lounli]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "vắng vẻ, hiu quạnh"
+        },
+        {
+          "m_full_vn": "cô đơn, cô độc, bơ vơ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to plough a lonely furrow",
+              "list_im": [
+                {
+                  "im_full_vn": "làm mà không có ai giúp đỡ, đơn thân độc mã"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to feel lonely",
+              "full_vn": "cảm thấy cô độc"
+            },
+            {
+              "full_en": "to feel lonely for someone",
+              "full_vn": "(từ Mỹ,nghĩa Mỹ) nhớ ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336221_bb68b444e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336221_8e114115b1_o.png",
+      "id_image": "lonely_214246"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336186_92467142ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336186_925a6d4d0f_o.png",
+      "id_image": "lonely_2577611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691479_449277d008_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691479_d8a54d9a5b_o.png",
+      "id_image": "lonely_3215850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691409_6ea7e98452_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691409_fa78f66022_o.png",
+      "id_image": "lonely_4126627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072995_06696ee395_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072995_c84ecb8eb7_o.png",
+      "id_image": "lonely_5778078"
+    }
+  ]
+}

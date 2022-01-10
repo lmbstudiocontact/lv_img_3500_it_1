@@ -1,0 +1,259 @@
+{
+  "english": "first",
+  "phat_am": "[fə:st]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thứ nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the First World War",
+              "full_vn": "Chiến tranh thế giới lần thứ nhất, Đệ nhất thế chiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầu tiên; quan trọng nhất; cơ bản",
+          "list_one_mean": [
+            {
+              "id_full_en": "at first hand",
+              "list_im": [
+                {
+                  "im_full_vn": "trực tiếp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at first sight",
+              "list_im": [
+                {
+                  "im_full_vn": "từ ban đầu, từ cái nhìn ban đầu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "love at first sight",
+                      "full_vn": "tình yêu từ buổi đầu gặp nhau"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thoạt nhìn ( (cũng) at first view )"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at first view",
+              "list_im": [
+                {
+                  "im_full_vn": "thoạt nhìn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "at first view , the problem seems easy",
+                      "full_vn": "thoạt nhìn tưởng như vấn đề dễ giải quyết"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the first blush",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) blush"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the first go-off",
+              "list_im": [
+                {
+                  "im_full_vn": "mới đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to climb in first speed",
+              "list_im": [
+                {
+                  "im_full_vn": "sang số 1"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do something first thing",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm việc gì trước tiên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall head first",
+              "list_im": [
+                {
+                  "im_full_vn": "ngã lộn đầu xuống"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "first principles",
+              "full_vn": "nguyên tắc cơ bản"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "trước tiên, trước hết"
+        },
+        {
+          "m_full_vn": "trước",
+          "list_en_vn": [
+            {
+              "full_en": "you must complete this work first",
+              "full_vn": "anh phải hoàn thành việc này trước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầu tiên, lần đầu",
+          "list_en_vn": [
+            {
+              "full_en": "where did you see him first ?",
+              "full_vn": "lần đầu anh gặp cậu ấy ở đâu?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thà",
+          "list_one_mean": [
+            {
+              "id_full_en": "first and foremost",
+              "list_im": [
+                {
+                  "im_full_vn": "đầu tiên và trước hết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "first and last",
+              "list_im": [
+                {
+                  "im_full_vn": "nói chung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "first come first served",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) come"
+                }
+              ]
+            },
+            {
+              "id_full_en": "first of all",
+              "list_im": [
+                {
+                  "im_full_vn": "trước hết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "first off",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) trước hết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "first or last",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng chóng thì chày"
+                }
+              ]
+            },
+            {
+              "id_full_en": "first things first",
+              "list_im": [
+                {
+                  "im_full_vn": "điều quan trọng phải giải quyết trước cả những điều quan trọng khác"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he'd die first before betraying his cause",
+              "full_vn": "anh ấy thà chết chứ không thể phản lại sự nghiệp của mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đầu tiên, người thứ nhất; vật đầu tiên, vật thứ nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the first to arrive was Mr . X",
+              "full_vn": "người đến đầu tiên là ông X"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngày mùng một",
+          "list_en_vn": [
+            {
+              "full_en": "the first of January",
+              "full_vn": "ngày mùng một tháng Giêng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buổi đầu, lúc đầu",
+          "list_en_vn": [
+            {
+              "full_en": "from the first",
+              "full_vn": "từ lúc ban đầu"
+            },
+            {
+              "full_en": "from first to last",
+              "full_vn": "từ đầu đến cuối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) hàng loại đặc biệt (bơ, bột)",
+          "list_one_mean": [
+            {
+              "id_full_en": "the First",
+              "list_im": [
+                {
+                  "im_full_vn": "ngày mồng một tháng chín (mở đầu mùa săn gà gô)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062460_59a62b927c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062460_7204d0269f_o.png",
+      "id_image": "first_207307"
+    }
+  ]
+}

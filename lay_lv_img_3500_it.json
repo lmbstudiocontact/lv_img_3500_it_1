@@ -1,0 +1,634 @@
+{
+  "english": "lay",
+  "phat_am": "[lei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bài thơ ngắn, bài vè ngắn"
+        },
+        {
+          "m_full_vn": "(thơ ca) bài hát, bài ca, bài thơ"
+        },
+        {
+          "m_full_vn": "(thơ ca) tiếng chim, hót"
+        },
+        {
+          "m_full_vn": "vị trí, phương hướng"
+        },
+        {
+          "m_full_vn": "đường nét (của bờ sông bờ biển)"
+        },
+        {
+          "m_full_vn": "người phụ nữ cùng giao hợp",
+          "list_en_vn": [
+            {
+              "full_en": "an easy lay",
+              "full_vn": "cô gái dễ dãi trong quan hệ tình dục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) công việc",
+          "list_en_vn": [
+            {
+              "full_en": "that doesn't belong to my lay",
+              "full_vn": "cái đó không phải việc của tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ laid",
+      "list_m": [
+        {
+          "m_full_vn": "xếp, để, đặt; sắp đặt, bố trí",
+          "list_en_vn": [
+            {
+              "full_en": "to lay one's hand on someone's shoulder",
+              "full_vn": "để tay lên vai ai"
+            },
+            {
+              "full_en": "to lay a child to sleep",
+              "full_vn": "đặt đứa bé nằm ngủ"
+            },
+            {
+              "full_en": "to lay the foundation of socialism",
+              "full_vn": "đặt nền móng cho chủ nghĩa xã hội"
+            },
+            {
+              "full_en": "to lay a plan",
+              "full_vn": "bố trí một kế hoạch"
+            },
+            {
+              "full_en": "to lay a plot",
+              "full_vn": "sắp đặt một âm mưu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bày, bày biện",
+          "list_en_vn": [
+            {
+              "full_en": "to lay the table for dinner",
+              "full_vn": "bày bàn ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm xẹp xuống, làm lắng xuống, làm mất, làm hết",
+          "list_en_vn": [
+            {
+              "full_en": "the rain has laid the dust",
+              "full_vn": "mưa làm lắng bụi xuống"
+            },
+            {
+              "full_en": "to lay someone's doubts",
+              "full_vn": "làm ai hết nghi ngờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm rạp xuống (cây cối), phá hỏng",
+          "list_en_vn": [
+            {
+              "full_en": "the storm laid the crops",
+              "full_vn": "bão là rạp cả hoa màu, bão phá hỏng hoa màu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt vào, dẫn đến, đưa đến (một hoàn cảnh, một tình trạng)",
+          "list_en_vn": [
+            {
+              "full_en": "his bad behaviour lays me under the necessity of punishing him",
+              "full_vn": "cách xử sự xấu của hắn buộc tôi phải phạt hắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trình bày, đưa ra",
+          "list_en_vn": [
+            {
+              "full_en": "to lay the facts before the Commitee",
+              "full_vn": "trình bày sự việc trước uỷ ban"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quy (tội), đỗ (lỗi)",
+          "list_en_vn": [
+            {
+              "full_en": "to lay all the blame on someone",
+              "full_vn": "quy tất cả lỗi (trách nhiệm) vào ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt phải chịu, đánh (thuế)",
+          "list_en_vn": [
+            {
+              "full_en": "to lay heavy taxes on something",
+              "full_vn": "đánh thuế nặng vào cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trải lên, phủ lên",
+          "list_en_vn": [
+            {
+              "full_en": "to lay a floor with a carpet",
+              "full_vn": "trải thảm lên sàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh, giáng (đòn)",
+          "list_en_vn": [
+            {
+              "full_en": "to lay hard blows",
+              "full_vn": "giáng những đòn nặng nề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh cược",
+          "list_en_vn": [
+            {
+              "full_en": "to lay that ...",
+              "full_vn": "đánh cược răng..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hướng (đại bác) về phía"
+        },
+        {
+          "m_full_vn": "đẻ (chim)",
+          "list_en_vn": [
+            {
+              "full_en": "hens lay eggs",
+              "full_vn": "gà mái đẻ trứng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nằm"
+        },
+        {
+          "m_full_vn": "đánh cược"
+        },
+        {
+          "m_full_vn": "đẻ trứng (gà)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lay aside",
+              "list_im": [
+                {
+                  "im_full_vn": "gác sang một bên, không nghĩ tới",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to lay aside one's sorrow",
+                      "full_vn": "gác nỗi buồn riêng sang một bên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "dành dụm, để dành",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to lay aside money for one's old age",
+                      "full_vn": "dành dụm tiền cho đến lúc tuổi già"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bỏ, bỏ đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to lay aside one's old habits",
+                      "full_vn": "bỏ những thói quen cũ đi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay before",
+              "list_im": [
+                {
+                  "im_full_vn": "trình bày, bày tỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay down",
+              "list_im": [
+                {
+                  "im_full_vn": "đặt nằm xuống, để xuống"
+                },
+                {
+                  "im_full_vn": "cất (rượu) vào kho"
+                },
+                {
+                  "im_full_vn": "hạ bỏ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to lay down one's arms",
+                      "full_vn": "hạ vũ khí, đầu hàng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "chuyển (một miếng đất) thành đồng cỏ (để chăn nuôi)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to lay down land in (to , under , with ) grass",
+                      "full_vn": "chuyển một miếng đất thành cánh đồng cỏ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hy sinh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to lay down one's life for the fatherland",
+                      "full_vn": "hy sinh tính mệnh cho tổ quốc"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đánh cược, cược",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to lay down on the result of the race",
+                      "full_vn": "đánh cược về kết quả cuộc chạy đua"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "sắp đặt, dự kiến, bắt đầu xây dựng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to lay down a railway",
+                      "full_vn": "bắt đầu xây dựng một đường xe lửa"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đề ra, tuyên bố; xác nhận, thừa nhận",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I lay it down that this is a very intricate question",
+                      "full_vn": "tôi xác nhận đó là một vấn đề rất phức tạp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay for",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) nằm đợi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay in",
+              "list_im": [
+                {
+                  "im_full_vn": "dự trữ, để dành"
+                },
+                {
+                  "im_full_vn": "(thông tục) đánh, quai, đấm tới tấp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay off",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ, từ bỏ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you'd better lay off cigarettes",
+                      "full_vn": "anh nên bỏ thuốc thì hơn"
+                    },
+                    {
+                      "full_en": "lay off , you are quite a liar !",
+                      "full_vn": "thôi đi, mày quả là thằng dóc láo!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay sb off",
+              "list_im": [
+                {
+                  "im_full_vn": "cho ai nghỉ việc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay on",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh, giáng đòn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to lay hard blows on sb",
+                      "full_vn": "giáng cho ai những đòn nặng nề"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "rải lên, phủ lên, quét lên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to lay on plaster",
+                      "full_vn": "phủ một lượt vữa, phủ vữa lên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đặt ống (dẫn hơi, dẫn nước...); đặt đường dây (điện)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay out",
+              "list_im": [
+                {
+                  "im_full_vn": "sắp đặt, bố trí (theo sơ đồ)"
+                },
+                {
+                  "im_full_vn": "trình bày, phơi bày, đưa ra"
+                },
+                {
+                  "im_full_vn": "trải ra"
+                },
+                {
+                  "im_full_vn": "liệm (người chết)"
+                },
+                {
+                  "im_full_vn": "tiêu (tiền)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) giết"
+                },
+                {
+                  "im_full_vn": "dốc sức làm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to lay oneself out",
+                      "full_vn": "nổ lực, dốc hết sức làm (cái gì)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay over",
+              "list_im": [
+                {
+                  "im_full_vn": "trải lên, phủ lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay up",
+              "list_im": [
+                {
+                  "im_full_vn": "trữ, để dành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay about one",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh tứ phía"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay bare",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bare"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay one's bones",
+              "list_im": [
+                {
+                  "im_full_vn": "gửi xương, gửi xác ở đâu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay somebody by the heels",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) heel"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay captive",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt giữ, cầm tù"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay one's card on the table",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) card"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay fast",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm chặt, giữ chặt, không cho chạy thoát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay the fire",
+              "list_im": [
+                {
+                  "im_full_vn": "xếp củi để đốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay great store upon (on ) someone",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh giá cao ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay hands on",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hand"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay heads together",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) head"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay hold of (on )",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm chặt, giữ chặt, tóm, bắt"
+                },
+                {
+                  "im_full_vn": "lợi dụng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay it on thick",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) thick"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay an information against somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đệ đơn kiện ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay one's hope on",
+              "list_im": [
+                {
+                  "im_full_vn": "đặt hy vọng vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay open",
+              "list_im": [
+                {
+                  "im_full_vn": "tách vỏ ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay siege to",
+              "list_im": [
+                {
+                  "im_full_vn": "bao vây"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay under contribution",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) contribution"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay stress on",
+              "list_im": [
+                {
+                  "im_full_vn": "nhấn mạnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay something to heart",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) heart"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay to rest (to sleep )",
+              "list_im": [
+                {
+                  "im_full_vn": "chôn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay sb under an obligation",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho (ai) phải chịu ơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay under necessity",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt buộc (ai) phải"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không theo giáo hội, phi giáo hội, thế tục"
+        },
+        {
+          "m_full_vn": "không chuyên môn",
+          "list_en_vn": [
+            {
+              "full_en": "lay opinion",
+              "full_vn": "ý kiến của người không chuyên môn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thời quá khứ của lie"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318061_b632456485_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318061_eb1915beca_o.png",
+      "id_image": "lay_5635727"
+    }
+  ]
+}

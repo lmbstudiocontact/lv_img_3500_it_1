@@ -1,0 +1,108 @@
+{
+  "english": "exhaust",
+  "phat_am": "[ig'zɔ:st]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khói, khí, hơi nước từ một động cơ thải ra",
+          "list_en_vn": [
+            {
+              "full_en": "the smell of the exhaust",
+              "full_vn": "mùi khí thải"
+            },
+            {
+              "full_en": "exhaust fumes",
+              "full_vn": "khói thải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(cũng) exhaust-pipe chỗ hoặc ống dẫn khí thoát ra; ống xả",
+          "list_en_vn": [
+            {
+              "full_en": "my car needs a new exhaust",
+              "full_vn": "xe tôi cần có ống xả mới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cạn kiệt; (nghĩa bóng) làm kiệt sức",
+          "list_en_vn": [
+            {
+              "full_en": "to exhaust a well",
+              "full_vn": "làm cạn một cái giếng"
+            },
+            {
+              "full_en": "the long cycle ride exhausted her",
+              "full_vn": "chuyến đi xa bằng xe đạp đã làm cho cô ta kiệt sức"
+            },
+            {
+              "full_en": "he exhausted himself in the attempt",
+              "full_vn": "anh ta kiệt lực trong cuộc thử sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sử dụng hết hoàn toàn (cái gì); dốc hết",
+          "list_en_vn": [
+            {
+              "full_en": "to exhaust one's strength",
+              "full_vn": "dốc hết sức mình, đem hết sức mình ra"
+            },
+            {
+              "full_en": "to exhaust one's patience",
+              "full_vn": "dốc hết lòng kiên nhẫn"
+            },
+            {
+              "full_en": "to exhaust a money supply",
+              "full_vn": "đem hết số tiền dự trữ ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói tất cả những điều cần phải nói về cái gì; bàn hết mọi mặt",
+          "list_en_vn": [
+            {
+              "full_en": "I think we've just about exhausted that subject",
+              "full_vn": "tôi nghĩ là chúng ta đã bàn hết mọi khía cạnh của đề tài đó rồi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355442_3bbf5f9aa8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355442_da9a9322e8_o.png",
+      "id_image": "exhausted_1128918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666264_85b4860734_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666264_8564fa19d8_o.png",
+      "id_image": "exhausted_4126564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047910_1cbff26106_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047910_07c8e17d2d_o.png",
+      "id_image": "exhausted_6000913"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355512_2692a505e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355512_623fc32ea5_o.png",
+      "id_image": "exhaust_271835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426288_245bd655c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426288_aff8b9fd3d_o.png",
+      "id_image": "exhaust_4694692"
+    }
+  ]
+}

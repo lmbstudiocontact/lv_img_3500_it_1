@@ -1,0 +1,39 @@
+{
+  "english": "leakage",
+  "phat_am": "['li:kidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lọt qua, sự rỉ ra, sự rò ra, sự thoát ra"
+        },
+        {
+          "m_full_vn": "sự để lọt, sự để lộ",
+          "list_en_vn": [
+            {
+              "full_en": "leakage of military secrets",
+              "full_vn": "sự để lọt những bí mật quân sự ra ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự biến mất một cách phi pháp (tiền...)"
+        },
+        {
+          "m_full_vn": "kẽ hở, lỗ hở"
+        },
+        {
+          "m_full_vn": "vật lọt qua, vật rỉ ra"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317346_494f0eb660_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317346_ee10075f2f_o.png",
+      "id_image": "leakage_4633785"
+    }
+  ]
+}

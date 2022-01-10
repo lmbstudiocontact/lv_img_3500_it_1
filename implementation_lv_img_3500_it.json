@@ -1,0 +1,40 @@
+{
+  "english": "implementation",
+  "phat_am": "[,implimen'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thi hành, sự thực hiện đầy đủ",
+          "list_en_vn": [
+            {
+              "full_en": "the implementation of an agreement",
+              "full_vn": "sự thi hành một hiệp định"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bổ sung"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436293_f1b130942f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436293_819d3d4a80_o.png",
+      "id_image": "implementation_3057918"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676114_3129e45e20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676114_c03c3f4c63_o.png",
+      "id_image": "implementation_4129447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057780_ac096f8727_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057780_08c4c83ac8_o.png",
+      "id_image": "implementation_4702986"
+    }
+  ]
+}

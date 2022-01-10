@@ -1,0 +1,256 @@
+{
+  "english": "dog",
+  "phat_am": "[dɔg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chó"
+        },
+        {
+          "m_full_vn": "chó săn"
+        },
+        {
+          "m_full_vn": "chó đực; chó sói đực ( (cũng) dog wolf ); cáo đực ( (cũng) dog fox )"
+        },
+        {
+          "m_full_vn": "kẻ đê tiện, kẻ đáng khinh, đồ chó má; kẻ cắn cẩu cục cằn"
+        },
+        {
+          "m_full_vn": "gã, thằng cha",
+          "list_en_vn": [
+            {
+              "full_en": "a sly dog",
+              "full_vn": "thằng cha ma giáo, thằng cha ranh ma"
+            },
+            {
+              "full_en": "Greater Dog",
+              "full_vn": "(thiên văn học) chòm sao Đại-thiên-lang"
+            },
+            {
+              "full_en": "Lesser Dog",
+              "full_vn": "chòm sao Tiểu-thiên-lang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) vỉ lò ở lò sưởi ( (cũng) fire dogs )"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) móng kìm, cặp, móc ngoạm, gàu ngoạm"
+        },
+        {
+          "m_full_vn": "mống bão ở chân trời ( (cũng) sea dog )"
+        },
+        {
+          "m_full_vn": "(như) dogfish",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be a dog in the manger",
+              "list_im": [
+                {
+                  "im_full_vn": "như chó già giữ xương; ích kỷ, không muốn ai dùng đến cái gì mình không cần đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to die like a dog",
+              "list_im": [
+                {
+                  "im_full_vn": "chết khổ sở, chết nhục nhã, chết như một con chó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "dog and war",
+              "list_im": [
+                {
+                  "im_full_vn": "những sự tàn phá giết chóc của chiến tranh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "every dog has his day",
+              "list_im": [
+                {
+                  "im_full_vn": "ai rồi cũng có lúc gặp vận; không ai giàu ba họ, không ai khó ba đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give a dog an ill name and hang him",
+              "list_im": [
+                {
+                  "im_full_vn": "muốn giết chó thì bảo là chó dại; không ưa thì dưa có giòi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to the dogs",
+              "list_im": [
+                {
+                  "im_full_vn": "thất cơ lỡ vận, khánh kiệt, xuống dốc ( (nghĩa bóng))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to help a lame dog over stile",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp đỡ ai trong cơn hoạn nạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead a dog's life",
+              "list_im": [
+                {
+                  "im_full_vn": "sống một cuộc đời khổ như chó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead someone a dog's life",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt ai sống một cuộc đời khổ cực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "let sleeping dogs lie",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) đừng gợi lại những chuyện không hay trong quá khứ; đừng bới cứt ra mà ngửi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "love me , love my dog",
+              "list_im": [
+                {
+                  "im_full_vn": "yêu tôi thì hãy yêu cả những người thân của tôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not even a dog's chance",
+              "list_im": [
+                {
+                  "im_full_vn": "không có chút may mắn nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to have a word to throw at the dog",
+              "list_im": [
+                {
+                  "im_full_vn": "lầm lì không mở miệng nói nửa lời; kiêu kỳ không thèm mở miệng nói nửa lời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put on dog",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) làm bộ làm tịch, làm ra vẻ ta đây, làm ra vẻ ta đây quan trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it rains cats and dogs",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) rain"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a hair of the dog that bit you",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hair"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw to the dogs",
+              "list_im": [
+                {
+                  "im_full_vn": "vứt bỏ đi, quẳng đi (cho chó)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a dog's breakfast /dinner",
+              "list_im": [
+                {
+                  "im_full_vn": "tình trạng hỗn độn tạp nhạp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be dressed like a dog's dinner",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn mặc diêm dúa, loè loẹt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the tail wagging the dog",
+              "list_im": [
+                {
+                  "im_full_vn": "cái nhỏ lại quyết định tình hình của cái bao quát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you cannot teach an old dog new tricks",
+              "list_im": [
+                {
+                  "im_full_vn": "tre già khó uốn (không dễ gì thuyết phục được người già)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "theo nhùng nhằng, theo sát gót, bám sát (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to dog someone's footsteps",
+              "full_vn": "bám sát ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) kẹp bằng kìm, cặp bằng móc ngoạm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426333_8c6b4745d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426333_44f93e9e06_o.png",
+      "id_image": "dog_1049341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355632_302354b221_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355632_deb5423f47_o.png",
+      "id_image": "dog_421604"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426363_8c6b4745d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426363_d3d4d26318_o.png",
+      "id_image": "dog_877112"
+    }
+  ]
+}

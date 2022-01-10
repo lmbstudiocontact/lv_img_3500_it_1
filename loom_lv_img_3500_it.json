@@ -1,0 +1,55 @@
+{
+  "english": "loom",
+  "phat_am": "[lu:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khung cửi dệt vải"
+        },
+        {
+          "m_full_vn": "bóng lờ mờ"
+        },
+        {
+          "m_full_vn": "bóng to lù lù"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hiện ra lờ mờ (ở đằng xa, trong màn sương...)",
+          "list_en_vn": [
+            {
+              "full_en": "the mountain range dimly loomed in the thin veil of morning",
+              "full_vn": "dãy núi hiện ra lờ mờ trong màn sương mỏng của buổi ban mai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + large ) hiện ra lù lù, hiện ra to lớn",
+          "list_en_vn": [
+            {
+              "full_en": "the shadow of dealth loomed large",
+              "full_vn": "bóng thần chết hiện ra lù lù"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450748_436a757217_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450748_6119c91e49_o.png",
+      "id_image": "loom_2128771"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690999_62bfe54dff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690999_7b9b229e79_o.png",
+      "id_image": "loom_5939193"
+    }
+  ]
+}

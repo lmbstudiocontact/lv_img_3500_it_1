@@ -1,0 +1,81 @@
+{
+  "english": "eclipse",
+  "phat_am": "[i'klips]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự che khuất; thiên thực (nhật thực, nguyệt thực)",
+          "list_en_vn": [
+            {
+              "full_en": "solar eclipse",
+              "full_vn": "nhật thực"
+            },
+            {
+              "full_en": "lunar eclipse",
+              "full_vn": "nguyệt thực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "pha tối, đợt tối (đèn biển)"
+        },
+        {
+          "m_full_vn": "sự bị lu mờ, sự mất vẻ lộng lẫy; sự mất vẻ hào nhoáng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in eclipse",
+              "list_im": [
+                {
+                  "im_full_vn": "mất bộ lông sặc sỡ (chim)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "che, che khuất (mặt trời, mặt trăng...)"
+        },
+        {
+          "m_full_vn": "chặn (ánh sáng của đèn biển...)"
+        },
+        {
+          "m_full_vn": "làm lu mờ, át hẳn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686804_1fda056d71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686804_fd8bc1ef4d_o.png",
+      "id_image": "eclipse_1945978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446768_974080657a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446768_764d416977_o.png",
+      "id_image": "eclipse_2204365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686734_6b5f5454eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686734_a4406152d3_o.png",
+      "id_image": "eclipse_2254642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331866_c54af99189_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331866_8715f217e7_o.png",
+      "id_image": "eclipse_391538"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068490_980ed86681_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068490_fd131e5d1a_o.png",
+      "id_image": "eclipse_491267"
+    }
+  ]
+}

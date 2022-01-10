@@ -1,0 +1,199 @@
+{
+  "english": "horse",
+  "phat_am": "[hɔ:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngựa",
+          "list_en_vn": [
+            {
+              "full_en": "to take horse",
+              "full_vn": "đi ngựa, cưỡi ngựa"
+            },
+            {
+              "full_en": "to horse !",
+              "full_vn": "lên ngựa!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kỵ binh",
+          "list_en_vn": [
+            {
+              "full_en": "horse and foot",
+              "full_vn": "kỵ binh và bộ binh"
+            },
+            {
+              "full_en": "light horse",
+              "full_vn": "kỵ binh nhẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) ngựa gỗ ( (cũng) vaulting horse )"
+        },
+        {
+          "m_full_vn": "giá (có chân để phơi quần áo...)"
+        },
+        {
+          "m_full_vn": "(thần thoại,thần học) quỷ đầu ngựa đuôi cá"
+        },
+        {
+          "m_full_vn": "(động vật học) cá ngựa"
+        },
+        {
+          "m_full_vn": "(động vật học) con moóc"
+        },
+        {
+          "m_full_vn": "(hàng hải) dây thừng, dây chão"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) khối đá nằm ngang (trong mạch mỏ)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) (như) horse-power"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) bài dịch để quay cóp (của học sinh)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to back the wrong horse",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh cá con ngựa thua"
+                },
+                {
+                  "im_full_vn": "ủng hộ phe thua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "black (dark ) horse",
+              "list_im": [
+                {
+                  "im_full_vn": "con ngựa ít người biết đến trong cuộc đua"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) ứng cử viên ít người biết đến trong cuộc bầu cử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat (work ) like a horse",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn (làm) khoẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to flog a dead horse",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) flog"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mount (be on , get on , ride ) the high horse",
+              "list_im": [
+                {
+                  "im_full_vn": "vênh váo, làm bộ làm tịch, lên mặt ta đây"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put the cart before the horse",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) cart"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to swap (change ) horses in midstream",
+              "list_im": [
+                {
+                  "im_full_vn": "thay ngựa giữa dòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "that's a horse of another colour",
+              "list_im": [
+                {
+                  "im_full_vn": "đó là một vấn đề hoàn toàn khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drive a coach and horses through sth",
+              "list_im": [
+                {
+                  "im_full_vn": "xem thường điều gì mà không hề bị trừng phạt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from the horse's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "theo nguồn tin đáng tin cậy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hold your horse",
+              "list_im": [
+                {
+                  "im_full_vn": "bình tĩnh lại! đừng vội!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you can take a horse to water , but you can't make him drink",
+              "list_im": [
+                {
+                  "im_full_vn": "bạn có thể tạo cơ hội tốt cho người ta, nhưng họ vẫn có thể bỏ cơ hội ấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lock the stable door after the horse has bolted",
+              "list_im": [
+                {
+                  "im_full_vn": "mất trâu mới lo làm chuồng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look a gift horse in the mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "từ chối hoặc bài bác của biếu không"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a willing horse",
+              "list_im": [
+                {
+                  "im_full_vn": "người luôn vui vẻ nhận việc, mà không nề hà chi cả"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446478_46a20e027f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446478_bd5c7afef8_o.png",
+      "id_image": "horse_239262"
+    }
+  ]
+}

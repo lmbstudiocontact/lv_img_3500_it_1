@@ -1,0 +1,46 @@
+{
+  "english": "lotion",
+  "phat_am": "['lou∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuốc hoặc mỹ phẩm lỏng dùng cho da",
+          "list_en_vn": [
+            {
+              "full_en": "soothing lotions for insect bites",
+              "full_vn": "nước xoa làm dịu các vết côn trùng cắn"
+            },
+            {
+              "full_en": "a bottle of cleansing lotion for the face",
+              "full_vn": "một chai nước thơm tẩy rửa mặt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690049_5a6aa88c95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690049_6fc93417d9_o.png",
+      "id_image": "lotion_5507184"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690004_77ac4f7c67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690004_d22b74a076_o.png",
+      "id_image": "lotion_5662084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689949_85278d41dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689949_4ccd77bf35_o.png",
+      "id_image": "lotion_5731950"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334791_e8a744f4a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334791_ed615c5be9_o.png",
+      "id_image": "lotion_6075185"
+    }
+  ]
+}

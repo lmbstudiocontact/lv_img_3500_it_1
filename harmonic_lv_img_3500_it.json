@@ -1,0 +1,78 @@
+{
+  "english": "harmonic",
+  "phat_am": "[hɑ:'mɔnik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hài hoà, du dương"
+        },
+        {
+          "m_full_vn": "(toán học) điều hoà",
+          "list_en_vn": [
+            {
+              "full_en": "harmonic function",
+              "full_vn": "hàm điều hoà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) hoà âm",
+          "list_en_vn": [
+            {
+              "full_en": "harmonic interval",
+              "full_vn": "quãng hoà âm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý) hoạ ba; hoạ âm",
+          "list_en_vn": [
+            {
+              "full_en": "fundamental harmonic",
+              "full_vn": "hoạ ba cơ bản"
+            },
+            {
+              "full_en": "first harmonic",
+              "full_vn": "hoạ ba thứ nhất"
+            },
+            {
+              "full_en": "second harmonic",
+              "full_vn": "hoạ ba thứ hai"
+            },
+            {
+              "full_en": "odd harmonic",
+              "full_vn": "hoạ ba lẻ"
+            },
+            {
+              "full_en": "even harmonic",
+              "full_vn": "hoạ ba chẵn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) hàm điều hoà",
+          "list_en_vn": [
+            {
+              "full_en": "spherical harmonic",
+              "full_vn": "hàm điều hoà cầu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389147_a576cd6f06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389147_87f1d50bce_o.png",
+      "id_image": "harmonic_352273"
+    }
+  ]
+}

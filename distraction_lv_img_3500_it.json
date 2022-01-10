@@ -1,0 +1,45 @@
+{
+  "english": "distraction",
+  "phat_am": "[dis'træk∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự làm sao lãng, sự làm lãng đi, sự làm đứt quãng (mạch tư tưởng, công việc đang làm...); sự lãng trí, sự đãng trí; điều xao lãng"
+        },
+        {
+          "m_full_vn": "sự giải trí, sự tiêu khiển; trò giải trí, trò tiêu khiển"
+        },
+        {
+          "m_full_vn": "sự bối rối, sự rối trí"
+        },
+        {
+          "m_full_vn": "sự điên cuồng, sự mất trí, sự quẫn trí",
+          "list_en_vn": [
+            {
+              "full_en": "to love to distraction",
+              "full_vn": "yêu điên cuồng"
+            },
+            {
+              "full_en": "to be driven to distraction",
+              "full_vn": "phát điên, hoá cuồng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428983_124e425283_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428983_b0de649cde_o.png",
+      "id_image": "distracted_5965552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314041_4fa46f5062_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314041_f6b5345ed3_o.png",
+      "id_image": "distraction_708635"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "equality",
+  "phat_am": "[i:'kwɔliti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trạng thái bằng nhau; sự bình đẳng",
+          "list_en_vn": [
+            {
+              "full_en": "women are still struggling of true equality with men",
+              "full_vn": "giới phụ nữ vẫn tiếp tục đầu tranh cho sự bình đẳng thực sự với nam giới"
+            },
+            {
+              "full_en": "equality of opportunity",
+              "full_vn": "sự bình đẳng về cơ hội (có dịp được (xem) xét (như) nhau để nhận công việc, đề bạt...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) đẳng thức"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361207_045f3eb9c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361207_869b950e9c_o.png",
+      "id_image": "equality_325669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316826_f60ec3fc54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316826_a5e746d51f_o.png",
+      "id_image": "equality_3814171"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671549_2825814d34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671549_2623cd71db_o.png",
+      "id_image": "equality_734906"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316871_a032aa1733_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316871_7fc936d857_o.png",
+      "id_image": "equality_860465"
+    }
+  ]
+}

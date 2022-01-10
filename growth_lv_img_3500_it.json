@@ -1,0 +1,93 @@
+{
+  "english": "growth",
+  "phat_am": "[grouθ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quá trình) lớn lên; sự phát triển",
+          "list_en_vn": [
+            {
+              "full_en": "the rapid growth of plants , of hair , of hair , of the economy",
+              "full_vn": "sự sinh trưởng nhanh chóng của cây cối, sự mọc tóc nhanh, sự lạm phát tăng nhanh, sự tăng trưởng nhanh về kinh tế"
+            },
+            {
+              "full_en": "lack of water will stunt the plant's growth",
+              "full_vn": "thiếu nước khiến cho cây cối phát triển còi cọc"
+            },
+            {
+              "full_en": "a phenomenon of comparatively recent growth",
+              "full_vn": "một hiện tượng mãi đến gần đây mới phát triển"
+            },
+            {
+              "full_en": "a growth industry",
+              "full_vn": "một ngành công nghiệp phát triển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự gia tăng",
+          "list_en_vn": [
+            {
+              "full_en": "the recent growth in /of violent crime",
+              "full_vn": "sự gia tăng gần đây về tội ác bạo lực"
+            },
+            {
+              "full_en": "the government has decided to go for growth",
+              "full_vn": "chính phủ đã quyết định thực thi sự tăng trưởng"
+            },
+            {
+              "full_en": "Japan's growth rate",
+              "full_vn": "tốc độ tăng trưởng của Nhật Bản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật đang sinh trưởng hoặc đã trưởng thành",
+          "list_en_vn": [
+            {
+              "full_en": "a thick growth of weeds",
+              "full_vn": "khóm cỏ dại mọc dày"
+            },
+            {
+              "full_en": "a week's growth of beard",
+              "full_vn": "bộ râu để một tuần không cạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hình thành bất thường hoặc do bệnh tật trong cơ thể (khối u hoặc ung thư chẳng hạn)",
+          "list_en_vn": [
+            {
+              "full_en": "malignant growth",
+              "full_vn": "khối u ác tính"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674299_4a60422596_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674299_99c10835ab_o.png",
+      "id_image": "growth_164747"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319361_7eeeccd1f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319361_272f11527d_o.png",
+      "id_image": "growth_166906"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674234_bb6e842fe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674234_598921f7d1_o.png",
+      "id_image": "growth_296927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319301_eef9661741_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319301_e23d1185a0_o.png",
+      "id_image": "growth_751819"
+    }
+  ]
+}

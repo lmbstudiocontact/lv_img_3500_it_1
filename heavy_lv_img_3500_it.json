@@ -1,0 +1,267 @@
+{
+  "english": "heavy",
+  "phat_am": "['hevi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nặng, nặng nề ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "a heavy burden",
+              "full_vn": "gánh nặng"
+            },
+            {
+              "full_en": "a heavy task",
+              "full_vn": "công việc nặng nề"
+            },
+            {
+              "full_en": "a heavy wound",
+              "full_vn": "vết thương nặng"
+            },
+            {
+              "full_en": "a heavy sleep",
+              "full_vn": "giấc ngủ nặng nề"
+            },
+            {
+              "full_en": "a heavy drinker",
+              "full_vn": "người nghiện rượu nặng"
+            },
+            {
+              "full_en": "heavy losses",
+              "full_vn": "thiệt hại nặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + with ) chất nặng, chứa đầy, nặng trĩu",
+          "list_en_vn": [
+            {
+              "full_en": "cart heavy with goods",
+              "full_vn": "xe bò chất nặng hàng hoá"
+            },
+            {
+              "full_en": "air heavy with the scent of roses",
+              "full_vn": "không khí ngát hương hoa hồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nặng, khó tiêu (thức ăn)"
+        },
+        {
+          "m_full_vn": "(quân sự) nặng trọng",
+          "list_en_vn": [
+            {
+              "full_en": "heavy guns",
+              "full_vn": "trọng pháo, súng lớn"
+            },
+            {
+              "full_en": "heavy metal",
+              "full_vn": "kim loại nặng (chì. thuỷ ngân...); trọng pháo, súng lớn; (nghĩa bóng) địch thủ đáng gờm, địch thủ ghê gớm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhiều, bội, rậm rạp",
+          "list_en_vn": [
+            {
+              "full_en": "heavy crop",
+              "full_vn": "vụ mùa bội thu"
+            },
+            {
+              "full_en": "heavy foliage",
+              "full_vn": "cành lá rậm rạp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớn, to, dữ dội, kịch liệt",
+          "list_en_vn": [
+            {
+              "full_en": "heavy storm",
+              "full_vn": "bão lớn"
+            },
+            {
+              "full_en": "heavy rain",
+              "full_vn": "mưa to, mưa như trút nước"
+            },
+            {
+              "full_en": "heavy sea",
+              "full_vn": "biển động dữ dội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chắc, bì bì, không xốp, không nở (bột bánh...)"
+        },
+        {
+          "m_full_vn": "chán ngắt, buồn tẻ, không hấp dẫn (tác phẩm (văn học) (nghệ thuật))"
+        },
+        {
+          "m_full_vn": "âm u, u ám, ảm đạm",
+          "list_en_vn": [
+            {
+              "full_en": "heavy sky",
+              "full_vn": "bầu trời âm u"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lầy lội, khó đi (đường sá...)"
+        },
+        {
+          "m_full_vn": "tối dạ, chậm hiểu, đần độn (người)"
+        },
+        {
+          "m_full_vn": "trông nặng trình trịch, vụng về khó coi, thô"
+        },
+        {
+          "m_full_vn": "đau buồn, đau đớn, bi thảm, chán nản, thất vọng",
+          "list_en_vn": [
+            {
+              "full_en": "heavy news",
+              "full_vn": "tin buồn"
+            },
+            {
+              "full_en": "a heavy heart",
+              "full_vn": "lòng nặng trĩu đau buồn"
+            },
+            {
+              "full_en": "a heavy fate",
+              "full_vn": "số phận đáng buồn, số phận bi thảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buồn ngủ",
+          "list_en_vn": [
+            {
+              "full_en": "to be heavy with sleep",
+              "full_vn": "buồn ngủ rũ ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sân khấu) nghiêm nghị, khắc khổ",
+          "list_en_vn": [
+            {
+              "full_en": "to play the part of a heavy father",
+              "full_vn": "đóng vai một ông bố nghiêm nghị khắc khổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) đặc, khó bay hơi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be heavy on (in ) hand",
+              "list_im": [
+                {
+                  "im_full_vn": "khó cầm cương (ngựa)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) khó làm vui, khó làm cho khuây khoả (người)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "heavy going",
+              "list_im": [
+                {
+                  "im_full_vn": "khó khăn, chán ngắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a heavy hand",
+              "list_im": [
+                {
+                  "im_full_vn": "sự kiểm soát nghiêm ngặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make heavy weather of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho cái gì khó khăn hơn thực tế của chính nó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a heavy toll",
+              "list_im": [
+                {
+                  "im_full_vn": "gây thiệt hại nghiêm trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "heavy swell",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) người lên khung để tỏ vẻ ta đây quan trọng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "heavy oil",
+              "full_vn": "dầu đặc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "nặng, nặng nề",
+          "list_en_vn": [
+            {
+              "full_en": "to lie heavy on ...",
+              "full_vn": "đè nặng lên..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chậm chạp",
+          "list_en_vn": [
+            {
+              "full_en": "time hangs heavy",
+              "full_vn": "thời gian trôi đi chậm chạp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều heavies",
+      "list_m": [
+        {
+          "m_full_vn": "đội cận vệ Rồng"
+        },
+        {
+          "m_full_vn": "( số nhiều) ( the Heavies ) trọng pháo"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) võ sĩ hạng nặng, đồ vật hạng nặng; người nặng trên trung bình"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) vai nghiêm nghị khắc khổ (trên (sân khấu))"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454603_cd91811a37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454603_4d36fcbec8_o.png",
+      "id_image": "heavy_1684422"
+    }
+  ]
+}

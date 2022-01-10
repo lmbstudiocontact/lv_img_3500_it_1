@@ -1,0 +1,62 @@
+{
+  "english": "district",
+  "phat_am": "['distrikt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "địa hạt, khu vực, quận, huyện, khu"
+        },
+        {
+          "m_full_vn": "vùng, miền",
+          "list_en_vn": [
+            {
+              "full_en": "the lake district",
+              "full_vn": "vùng hồ (ở miền bắc nước Anh)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) khu vực bầu cử"
+        },
+        {
+          "m_full_vn": "(tôn giáo) giáo khu nhỏ"
+        }
+      ]
+    },
+    {
+      "type": "định ngữ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc địa hạt, thuộc quận, thuộc huyện, thuộc khu; thuộc giáo khu nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "district council",
+              "full_vn": "hội đồng quận"
+            },
+            {
+              "full_en": "a district visistor",
+              "full_vn": "bà phước của giáo khu nhỏ (chuyên đi thăm những gia đình nghèo, chăm lo việc từ thiện, cứu tế...)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chia thành địa hạt, chia thành khu vực, chia thành quận, chia thành huyện, chia thành khu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313646_74dc43cfc7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313646_976daeb19b_o.png",
+      "id_image": "district_2968355"
+    }
+  ]
+}

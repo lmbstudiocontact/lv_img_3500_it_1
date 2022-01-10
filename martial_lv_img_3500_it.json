@@ -1,0 +1,34 @@
+{
+  "english": "martial",
+  "phat_am": "['mɑ:∫l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) quân sự; (thuộc) chiến tranh"
+        },
+        {
+          "m_full_vn": "có vẻ quân nhân, thượng võ, võ dũng, hùng dũng",
+          "list_en_vn": [
+            {
+              "full_en": "martial appearance",
+              "full_vn": "vẻ hùng dũng"
+            },
+            {
+              "full_en": "martial spirit",
+              "full_vn": "tinh thần thượng võ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321876_5dfdcb9b90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321876_c9c39b31b9_o.png",
+      "id_image": "martial_2822365"
+    }
+  ]
+}

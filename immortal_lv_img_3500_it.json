@@ -1,0 +1,44 @@
+{
+  "english": "immortal",
+  "phat_am": "[i'mɔ:tl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bất tử, bất diệt, bất hủ, sống mãi",
+          "list_en_vn": [
+            {
+              "full_en": "an immortal poem",
+              "full_vn": "bài thơ bất hủ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người bất tử, nhà văn bất tử, nhà thơ bất tử"
+        },
+        {
+          "m_full_vn": "viện sĩ (viện hàn lâm khoa học Pháp)"
+        },
+        {
+          "m_full_vn": "( số nhiều) những vị thần bất tử"
+        },
+        {
+          "m_full_vn": "( số nhiều) (sử học) đội cận vệ hoàng gia ( Ba tư)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437343_a8d299244d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437343_a23ed07e25_o.png",
+      "id_image": "immortal_2453716"
+    }
+  ]
+}

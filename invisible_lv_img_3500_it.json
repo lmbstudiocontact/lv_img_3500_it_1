@@ -1,0 +1,60 @@
+{
+  "english": "invisible",
+  "phat_am": "[in'vizəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không thể trông thấy được, vô hình",
+          "list_en_vn": [
+            {
+              "full_en": "invisible to the naked eye",
+              "full_vn": "không thể nhìn thấy bằng mắt thường"
+            },
+            {
+              "full_en": "invisible ties",
+              "full_vn": "những mối ràng buộc vô hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không thể gặp được (ở một lúc nào đó)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật không nhìn thấy được, vật vô hình; người không nhìn thấy được, người vô hình"
+        },
+        {
+          "m_full_vn": "( the invisible ) thế giới vô hình"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453298_6254a4e9da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453298_85e47ea68e_o.png",
+      "id_image": "invisible_1850043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693504_c6d2a5edb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693504_6335a8817f_o.png",
+      "id_image": "invisible_2472333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338256_64cc6d2fb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338256_be962b25c7_o.png",
+      "id_image": "invisible_5039310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338211_023824d76c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338211_ee01dbbb32_o.png",
+      "id_image": "invisible_5884424"
+    }
+  ]
+}

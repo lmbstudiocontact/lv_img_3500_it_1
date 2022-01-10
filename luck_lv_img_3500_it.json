@@ -1,0 +1,184 @@
+{
+  "english": "luck",
+  "phat_am": "[lʌk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vận, sự may rủi",
+          "list_en_vn": [
+            {
+              "full_en": "good luck",
+              "full_vn": "vận may"
+            },
+            {
+              "full_en": "poor /hard /bad luck",
+              "full_vn": "vận rủi"
+            },
+            {
+              "full_en": "to try one's luck",
+              "full_vn": "xem vận mình có đỏ không, thử thời vận"
+            },
+            {
+              "full_en": "to be down on one's luck",
+              "full_vn": "gặp vận rủi, gặp cơn đen"
+            },
+            {
+              "full_en": "worse luck",
+              "full_vn": "rủi thay, lại càng bất hạnh thay"
+            },
+            {
+              "full_en": "hard luck !",
+              "full_vn": "thật không may!, không may thay!"
+            },
+            {
+              "full_en": "just my luck",
+              "full_vn": "thật là đúng như vận mình xưa nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vận may, vận đỏ",
+          "list_one_mean": [
+            {
+              "id_full_en": "beginner's luck",
+              "list_im": [
+                {
+                  "im_full_vn": "sự may mắn khi khởi sự làm việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the devil's own luck",
+              "list_im": [
+                {
+                  "im_full_vn": "xem devil"
+                }
+              ]
+            },
+            {
+              "id_full_en": "better luck next time",
+              "list_im": [
+                {
+                  "im_full_vn": "thua keo này, bày keo khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "good luck in your exams !",
+              "list_im": [
+                {
+                  "im_full_vn": "chúc anh may mắn trong kỳ thi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "(What ) bad /rotten luck !",
+              "list_im": [
+                {
+                  "im_full_vn": "(dùng để bày tỏ sự thông cảm)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's luck is in",
+              "list_im": [
+                {
+                  "im_full_vn": "gặp may"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the luck of the draw",
+              "list_im": [
+                {
+                  "im_full_vn": "số phận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the luck of the game",
+              "list_im": [
+                {
+                  "im_full_vn": "sự hên xui may rủi (trái với sự vận dụng trí tuệ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "no such luck",
+              "list_im": [
+                {
+                  "im_full_vn": "quả là vận đen!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to push one's luck",
+              "list_im": [
+                {
+                  "im_full_vn": "liều thử vận may"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take pot luck",
+              "list_im": [
+                {
+                  "im_full_vn": "có gì ăn nấy (không khách sáo)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be in luck ; to be in luck's way",
+              "full_vn": "gặp may"
+            },
+            {
+              "full_en": "I hope this charm will bring you luck",
+              "full_vn": "tôi hy vọng lá bùa này sẽ đem lại cho anh vận may"
+            },
+            {
+              "full_en": "I always carry one for luck",
+              "full_vn": "tôi luôn đeo một lá bùa để lấy hên"
+            },
+            {
+              "full_en": "I had the luck to find him at home",
+              "full_vn": "tôi may mắn tìm thấy hắn ở nhà"
+            },
+            {
+              "full_en": "any luck with the job ?",
+              "full_vn": "có may mắn gì với chỗ làm đó không?"
+            },
+            {
+              "full_en": "our luck has run out",
+              "full_vn": "vận may của chúng tôi hết rồi"
+            },
+            {
+              "full_en": "to have no luck ; to be out of luck",
+              "full_vn": "không may"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688379_5344ecc716_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688379_bf661254d6_o.png",
+      "id_image": "luck_1409022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688409_551cb3fa84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688409_548ea8b058_o.png",
+      "id_image": "luck_305496"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070165_2c340ecaf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070165_f66dbb7c02_o.png",
+      "id_image": "luck_3159017"
+    }
+  ]
+}

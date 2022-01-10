@@ -1,0 +1,48 @@
+{
+  "english": "headache",
+  "phat_am": "['hedeik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chứng nhức đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to suffer from headache (s )",
+              "full_vn": "bị nhức đầu"
+            },
+            {
+              "full_en": "to have a bad headache",
+              "full_vn": "nhức đầu lắm"
+            },
+            {
+              "full_en": "a headache pill",
+              "full_vn": "viên thuốc nhức đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) vấn đề hắc búa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457438_13bbef3c05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457438_939f5e6546_o.png",
+      "id_image": "headache_2834325"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342526_2110872648_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342526_59b23e618d_o.png",
+      "id_image": "headache_2860740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387662_260cf430cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387662_ed75c7e05a_o.png",
+      "id_image": "headache_286501"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "english": "green",
+  "phat_am": "[gri:n]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xanh lá cây, lục"
+        },
+        {
+          "m_full_vn": "xanh; tươi",
+          "list_en_vn": [
+            {
+              "full_en": "green fruit",
+              "full_vn": "quả xanh"
+            },
+            {
+              "full_en": "green timber",
+              "full_vn": "gỗ tươi"
+            },
+            {
+              "full_en": "green hide",
+              "full_vn": "da sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầy sức sống; thanh xuân",
+          "list_en_vn": [
+            {
+              "full_en": "green years",
+              "full_vn": "tuổi xanh, tuổi thanh xuân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chưa có kinh nghiệm, mới vào nghề; thơ ngây, cả tin",
+          "list_en_vn": [
+            {
+              "full_en": "a green hand",
+              "full_vn": "thợ mới vào nghề"
+            },
+            {
+              "full_en": "to be still green at one's job",
+              "full_vn": "mới làm việc còn bỡ ngỡ"
+            },
+            {
+              "full_en": "to be not so green as to believe something",
+              "full_vn": "không ngây thơ đến nỗi tin một điều gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tái xanh, tái ngắt (nước da)",
+          "list_en_vn": [
+            {
+              "full_en": "to look green",
+              "full_vn": "tái xanh, tái mét"
+            },
+            {
+              "full_en": "looking green with jealousy",
+              "full_vn": "tái đi vì ghen tức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ghen, ghen tức, ghen tị",
+          "list_en_vn": [
+            {
+              "full_en": "a green eye",
+              "full_vn": "sự ghen tị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "còn mới, chưa lành, chưa liền (vết thương)",
+          "list_en_vn": [
+            {
+              "full_en": "a green wound",
+              "full_vn": "vết thương còn mới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màu xanh lá cây, màu xanh lục"
+        },
+        {
+          "m_full_vn": "quần áo màu lục",
+          "list_en_vn": [
+            {
+              "full_en": "to be dressed in green",
+              "full_vn": "mặc quần áo màu lục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phẩm lục (để nhuộm)",
+          "list_en_vn": [
+            {
+              "full_en": "Paris green",
+              "full_vn": "phẩm lục Pa-ri"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cây cỏ"
+        },
+        {
+          "m_full_vn": "bãi cỏ xanh, thảm cỏ xanh"
+        },
+        {
+          "m_full_vn": "( số nhiều) rau"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tuổi xanh, tuổi thanh xuân; sức sống, sức cường tráng",
+          "list_en_vn": [
+            {
+              "full_en": "in the green",
+              "full_vn": "đang ở tuổi thanh xuân đầy nhựa sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẻ cả tin; vẻ ngây thơ non nớt",
+          "list_en_vn": [
+            {
+              "full_en": "do you see any green in my eye ?",
+              "full_vn": "anh trông tôi có vẻ gì ngây thơ non nớt không?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên xanh lá cây, hoá thành màu lục"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho xanh, nhuộm lục"
+        },
+        {
+          "m_full_vn": "(từ lóng) bịp, lừa bịp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367782_d0513087e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367782_0b9c558eab_o.png",
+      "id_image": "green_1140844"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059585_be1a884e82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059585_b268d43435_o.png",
+      "id_image": "green_1631388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322786_0e1e5ba10f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322786_bd4f8d9507_o.png",
+      "id_image": "green_3967369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437958_64d900b19e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437958_fdeee99a7b_o.png",
+      "id_image": "green_5614026"
+    }
+  ]
+}

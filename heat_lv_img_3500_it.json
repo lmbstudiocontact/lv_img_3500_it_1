@@ -1,0 +1,165 @@
+{
+  "english": "heat",
+  "phat_am": "[hi:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hơi nóng, sức nóng; sự nóng"
+        },
+        {
+          "m_full_vn": "(vật lý) nhiệt",
+          "list_en_vn": [
+            {
+              "full_en": "internal heat",
+              "full_vn": "nội nhiệt"
+            },
+            {
+              "full_en": "latent heat",
+              "full_vn": "ẩn nhiệt"
+            },
+            {
+              "full_en": "specific heat",
+              "full_vn": "tỷ nhiệt"
+            },
+            {
+              "full_en": "heat of evaporation",
+              "full_vn": "nhiệt bay hơi"
+            },
+            {
+              "full_en": "heat of fusion",
+              "full_vn": "nhiệt nóng chảy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nóng bức, sự nóng nực"
+        },
+        {
+          "m_full_vn": "trạng thái bừng bừng (của cơ thể); trạng thái viêm tấy"
+        },
+        {
+          "m_full_vn": "vị cay (ớt...)"
+        },
+        {
+          "m_full_vn": "sự nóng nảy, sự giận dữ",
+          "list_en_vn": [
+            {
+              "full_en": "to get into a state of fearful heat",
+              "full_vn": "nổi giận đùng đùng; nóng nảy đáng sợ"
+            },
+            {
+              "full_en": "in the heat of the moment",
+              "full_vn": "trong lúc giận dữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nồng nhiệt, sự hăng hái",
+          "list_en_vn": [
+            {
+              "full_en": "the heat of youth",
+              "full_vn": "sự sôi nổi của tuổi trẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về con vật cái của loài có vú) tình trạng kích thích về sinh dục và sẵn sàng chịu phối; tình trạng động đực",
+          "list_en_vn": [
+            {
+              "full_en": "on (in , at ) heat",
+              "full_vn": "động đực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cố gắng một mạch, sự làm một mạch",
+          "list_en_vn": [
+            {
+              "full_en": "at a heat",
+              "full_vn": "làm một mạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cuộc đấu, cuộc đua",
+          "list_en_vn": [
+            {
+              "full_en": "trial heats",
+              "full_vn": "cuộc đấu loại"
+            },
+            {
+              "full_en": "final heat",
+              "full_vn": "cuộc đấu chung kết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự nung"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) sự tăng cường thi hành luật pháp; sự tăng cường điều tra; sự thúc ép, sự cưỡng ép"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đốt nóng, nung nóng; làm nóng, làm bừng bừng",
+          "list_en_vn": [
+            {
+              "full_en": "to heat up some water",
+              "full_vn": "đun nước"
+            },
+            {
+              "full_en": "to heat oneself",
+              "full_vn": "làm cho người nóng bừng bừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nổi giận; làm nổi nóng"
+        },
+        {
+          "m_full_vn": "kích thích, kích động; làm sôi nổi lên"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) nung"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ( (thường) + up )",
+      "list_m": [
+        {
+          "m_full_vn": "nóng lên, trở nên nóng"
+        },
+        {
+          "m_full_vn": "nổi nóng, nổi giận"
+        },
+        {
+          "m_full_vn": "sôi nổi lên"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455048_1312ea95c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455048_0d344d0997_o.png",
+      "id_image": "heat_1870752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340171_476c984c11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340171_d3ce4c4e6d_o.png",
+      "id_image": "heat_3058010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077370_ccd08d5e63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077370_62ff35267b_o.png",
+      "id_image": "heat_6182875"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "fountain",
+  "phat_am": "['fauntin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "suối nước, nguồn sông"
+        },
+        {
+          "m_full_vn": "vòi nước, vòi phun (công viên)"
+        },
+        {
+          "m_full_vn": "máy nước"
+        },
+        {
+          "m_full_vn": "bình dầu (đèn dầu), ống mực (bút máy)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nguồn",
+          "list_en_vn": [
+            {
+              "full_en": "the fountain of truth",
+              "full_vn": "nguồn chân lý"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357687_c054ba4719_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357687_c36737017d_o.png",
+      "id_image": "fountain_1027994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050220_4447b6a0b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050220_1eb19265a2_o.png",
+      "id_image": "fountain_183962"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428503_8307e4179a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428503_c5a46b28f0_o.png",
+      "id_image": "fountain_224572"
+    }
+  ]
+}

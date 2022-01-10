@@ -1,0 +1,143 @@
+{
+  "english": "graduate",
+  "phat_am": "['grædʒueit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người có bằng cấp (nhất là bằng tốt nghiệp đại học tổng hợp hoặc đại học bách khoa)",
+          "list_en_vn": [
+            {
+              "full_en": "a university graduate",
+              "full_vn": "người tốt nghiệp đại học"
+            },
+            {
+              "full_en": "a graduate of Oxford, an Oxford graduate",
+              "full_vn": "người tốt nghiệp đại học Oxford"
+            },
+            {
+              "full_en": "a graduate in law /history",
+              "full_vn": "người có bằng cử nhân luật/sử học"
+            },
+            {
+              "full_en": "a law graduate",
+              "full_vn": "người tốt nghiệp về luật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người đã học xong một khoá tại một trường",
+          "list_one_mean": [
+            {
+              "id_full_en": "a graduate student",
+              "list_im": [
+                {
+                  "im_full_vn": "người đang học để lấy bằng cao học hoặc tiến sĩ; nghiên cứu sinh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a high-school graduate",
+              "full_vn": "người tốt nghiệp trung học"
+            },
+            {
+              "full_en": "a graduate nurse",
+              "full_vn": "nữ y tá đã tốt nghiệp trường lớp hẳn hòi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to graduate something in / into something ) đánh dấu cái gì thành từng phần hoặc đơn vị đo lường đều nhau; chia độ",
+          "list_en_vn": [
+            {
+              "full_en": "a thermometer graduated in Farenheit degrees",
+              "full_vn": "cái cặp sốt được chia theo độ Farenheit"
+            },
+            {
+              "full_en": "a ruler graduated in both inches and centimeters",
+              "full_vn": "thước chia độ theo cả insơ và xăngtimet"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to graduate somebody from something ) cấp chứng chỉ; cấp bằng tốt nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "to graduate the first 200 students from the Open University",
+              "full_vn": "cấp bằng tốt nghiệp cho 200 sinh viên đầu tiên của Viện đại học mở rộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chia cái gì thành từng phần",
+          "list_en_vn": [
+            {
+              "full_en": "in a graduated tax scheme , the more one earns , the more one pays",
+              "full_vn": "trong biểu thuế thang bậc, người càng kiếm được nhiều tiền càng nộp thuế nhiều"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to graduate in something at / from something ) hoàn tất một khoá học với một bằng cấp; tốt nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "to graduate in law at Oxford",
+              "full_vn": "tốt nghiệp về luật"
+            },
+            {
+              "full_en": "she graduated from Cambridge with a degree in law",
+              "full_vn": "cô ta tốt nghiệp Đại học Cambridge với bằng cử nhân luật"
+            },
+            {
+              "full_en": "to graduate from a vocational training school",
+              "full_vn": "tốt nghiệp một trường dạy nghề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to graduate from something to something ) tiến từ cái dễ lên cái khó",
+          "list_en_vn": [
+            {
+              "full_en": "high schools in this city graduate from typewriters to personal computers",
+              "full_vn": "các trường trung học trong thành phố này chuyển dần từ máy đánh chữ lên máy điện toán cá nhân"
+            },
+            {
+              "full_en": "these technicians attend an in-service class to graduate as official engineers",
+              "full_vn": "các kỹ thuật viên này theo học một lớp tại chức để lên kỹ sư chính thức"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326601_e9523ef726_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326601_6af9c788df_o.png",
+      "id_image": "graduate_3891495"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371277_9328e6ed7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371277_95bd214f7a_o.png",
+      "id_image": "graduate_4253205"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326536_a089acb6ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326536_e7def307bf_o.png",
+      "id_image": "graduate_6286681"
+    }
+  ]
+}

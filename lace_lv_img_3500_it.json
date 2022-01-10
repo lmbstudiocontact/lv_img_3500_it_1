@@ -1,0 +1,75 @@
+{
+  "english": "lace",
+  "phat_am": "[leis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dây buộc, dải buộc"
+        },
+        {
+          "m_full_vn": "ren, đăng-ten"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thắt, buộc",
+          "list_en_vn": [
+            {
+              "full_en": "to lace (up ) one's shoes",
+              "full_vn": "cột dây giày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viền, viền bằng ren, viền bằng đăng ten"
+        },
+        {
+          "m_full_vn": "pha thêm (rượu mạnh)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lace into sb",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh, quất"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "glass of milk laced with rhum",
+              "full_vn": "cốc sữa pha rượu rum"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060215_8dc4b53758_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060215_70dba9dafd_o.png",
+      "id_image": "lace_2818460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368412_0a25d8167b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368412_6033cfda8c_o.png",
+      "id_image": "lace_298185"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438538_2b23929ef3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438538_f1c9b2539f_o.png",
+      "id_image": "lace_354480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678649_fc546c6e60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678649_20966877d2_o.png",
+      "id_image": "lace_444967"
+    }
+  ]
+}

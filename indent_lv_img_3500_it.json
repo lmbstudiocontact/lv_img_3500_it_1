@@ -1,0 +1,104 @@
+{
+  "english": "indent",
+  "phat_am": "['indent]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vết lõm, khía răng cưa; vết mẻ"
+        },
+        {
+          "m_full_vn": "chỗ lõm, chỗ lún, chỗ lồi lõm (ở bờ biển)"
+        },
+        {
+          "m_full_vn": "chỗ thụt vào (ở đầu một dòng chữ)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm thành vết lõm, khắc khía răng cưa; làm mẻ"
+        },
+        {
+          "m_full_vn": "in lõm xuống, rập (đầu...)"
+        },
+        {
+          "m_full_vn": "(ngành in) sắp chữ thụt vào"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lõm xuống"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giao kèo (giữa chủ và thợ)"
+        },
+        {
+          "m_full_vn": "lệnh, sung công"
+        },
+        {
+          "m_full_vn": "đơn đặt hàng (của người nước ngoài)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bản sao (một văn kiện, một bản giao kèo)"
+        },
+        {
+          "m_full_vn": "chia (bản giao kèo chính và bản sao...) ra làm đôi theo đường răng cưa chữ chi (để sau này có thể giáp vào nhau làm bằng)"
+        },
+        {
+          "m_full_vn": "viết đơn đặt (hàng)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ra lệnh sung công",
+          "list_en_vn": [
+            {
+              "full_en": "to indent upon someone for something",
+              "full_vn": "ra lệnh sung công của ai cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "viết đơn đặt hàng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673174_24e46b6606_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673174_ae2baa9ac5_o.png",
+      "id_image": "indent_2844368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054990_d3913d1f44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054990_01bffd5f4d_o.png",
+      "id_image": "indent_930228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673194_02e16f75bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673194_222c88b242_o.png",
+      "id_image": "indent_930229"
+    }
+  ]
+}

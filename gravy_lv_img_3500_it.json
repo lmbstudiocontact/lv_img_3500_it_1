@@ -1,0 +1,40 @@
+{
+  "english": "gravy",
+  "phat_am": "['greivi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nước thịt (chảy ra trong khi và sau khi nấu); nước xốt",
+          "list_en_vn": [
+            {
+              "full_en": "gravy beef",
+              "full_vn": "thịt bò nấu lấy nước ngọt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) món lợi bất ngờ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368157_24ae38a15b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368157_de461bb7b9_o.png",
+      "id_image": "gravy_3730744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368197_2160c2a100_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368197_daeb7975d0_o.png",
+      "id_image": "gravy_447268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323191_5cd2888a0c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323191_349e44f422_o.png",
+      "id_image": "gravy_6118255"
+    }
+  ]
+}

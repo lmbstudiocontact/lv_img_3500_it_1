@@ -1,0 +1,138 @@
+{
+  "english": "floor",
+  "phat_am": "[flɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sàn (nhà, cầu...)"
+        },
+        {
+          "m_full_vn": "tầng (nhà)"
+        },
+        {
+          "m_full_vn": "đáy",
+          "list_en_vn": [
+            {
+              "full_en": "the ocean floor",
+              "full_vn": "đáy đại dương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phòng họp (quốc hội)"
+        },
+        {
+          "m_full_vn": "quyền phát biểu ý kiến (ở hội nghị))",
+          "list_en_vn": [
+            {
+              "full_en": "to give somebody the floor",
+              "full_vn": "để cho ai phát biểu ý kiến"
+            },
+            {
+              "full_en": "to take the floor",
+              "full_vn": "phát biểu ý kiến"
+            },
+            {
+              "full_en": "to hold the floor",
+              "full_vn": "giành quyền phát biểu, chiếm diễn đàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giá thấp nhất",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cross the floor of the House",
+              "list_im": [
+                {
+                  "im_full_vn": "vào đảng phái khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get in on the ground floor",
+              "list_im": [
+                {
+                  "im_full_vn": "tham gia đảng phái từ ngày đầu thành lập"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wipe the floor with someone",
+              "list_im": [
+                {
+                  "im_full_vn": "hạ ai đo ván"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to mop the floor with someone",
+              "list_im": [
+                {
+                  "im_full_vn": "Xem mop"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm sàn, lát sàn",
+          "list_en_vn": [
+            {
+              "full_en": "to floor a room with pine boards",
+              "full_vn": "lát sàn bằng ván gỗ thông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh (ai) ngã, cho (ai) đo ván"
+        },
+        {
+          "m_full_vn": "làm rối trí, làm bối rối",
+          "list_en_vn": [
+            {
+              "full_en": "the question floored him",
+              "full_vn": "câu hỏi làm anh ta rối trí không trả lời được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bảo (học sinh không thuộc bài) ngồi xuống"
+        },
+        {
+          "m_full_vn": "vượt qua một cách thắng lợi",
+          "list_en_vn": [
+            {
+              "full_en": "to floor the paper",
+              "full_vn": "làm được bài thi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675604_df0ea72cde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675604_a6df20ff75_o.png",
+      "id_image": "floor_1207148"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435748_1a5ac26edc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435748_9277fa8791_o.png",
+      "id_image": "floor_2014981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320531_f2bb2fa369_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320531_b36d1f64f2_o.png",
+      "id_image": "floor_4370458"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "english": "jet",
+  "phat_am": "[dʒet]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng huyền"
+        },
+        {
+          "m_full_vn": "đen nhánh, đen hạt huyền ( (cũng) jet black )"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "huyền",
+          "list_en_vn": [
+            {
+              "full_en": "as black as jet",
+              "full_vn": "đen nhánh, đen như hạt huyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "màu đen nhánh, màu đen như hạt huyền"
+        },
+        {
+          "m_full_vn": "tia (nước, máu, hơi...)"
+        },
+        {
+          "m_full_vn": "vòi (ống nước...)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) vòi phun, gích-lơ"
+        },
+        {
+          "m_full_vn": "(thông tục) máy bay phản lực"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi máy bay phản lực"
+        },
+        {
+          "m_full_vn": "phun ra thành tia, vọt ra thành tia"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449713_666719c91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449713_92b26bdf36_o.png",
+      "id_image": "jet_2090021"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334661_b0d575741d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334661_a032bc2b46_o.png",
+      "id_image": "jet_2614565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379667_d5502d0ab6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379667_b83d73b3b8_o.png",
+      "id_image": "jet_942346"
+    }
+  ]
+}

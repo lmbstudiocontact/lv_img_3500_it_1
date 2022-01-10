@@ -1,0 +1,176 @@
+{
+  "english": "lock",
+  "phat_am": "[lɔk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "món tóc, mớ tóc; mớ bông, mớ len"
+        },
+        {
+          "m_full_vn": "( số nhiều) mái tóc, tóc",
+          "list_en_vn": [
+            {
+              "full_en": "hoary locks",
+              "full_vn": "mái tóc bạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoá",
+          "list_en_vn": [
+            {
+              "full_en": "to keep under lock and key",
+              "full_vn": "cất vào tủ khoá lại; nhốt kỹ, giam giữ"
+            },
+            {
+              "full_en": "to pick a lock",
+              "full_vn": "mở khoá bằng móc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chốt (để giữ bánh xe, ghi...)"
+        },
+        {
+          "m_full_vn": "khoá nòng (súng)"
+        },
+        {
+          "m_full_vn": "miếng khoá, miếng ghì chặt (thế võ)"
+        },
+        {
+          "m_full_vn": "tình trạng ứ tắc; sự nghẽn (xe cộ); tình trạng bế tắc; tình trạng khó khăn, tình trạng nan giải, tình trạng lúng túng",
+          "list_en_vn": [
+            {
+              "full_en": "to come to a deadlock",
+              "full_vn": "lâm vào tình trạng bế tắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cửa cống",
+          "list_one_mean": [
+            {
+              "id_full_en": "lock , stock and barrel",
+              "list_im": [
+                {
+                  "im_full_vn": "toàn bộ, cả thảy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoá (cửa tủ...)"
+        },
+        {
+          "m_full_vn": "nhốt kỹ, giam giữ"
+        },
+        {
+          "m_full_vn": "bao bọc, bao quanh"
+        },
+        {
+          "m_full_vn": "chặn lại, đóng chốt"
+        },
+        {
+          "m_full_vn": "khoá chặt, ghì chặt (thế võ)"
+        },
+        {
+          "m_full_vn": "cho (tàu...) đi qua cửa cổng",
+          "list_en_vn": [
+            {
+              "full_en": "to lock up (down )",
+              "full_vn": "cho (tàu...) đi ngược (xuôi) qua cửa cổng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoá được",
+          "list_en_vn": [
+            {
+              "full_en": "this door won't lock",
+              "full_vn": "cửa này không khoá được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hãm lại; không chạy, không vận động được (máy móc)"
+        },
+        {
+          "m_full_vn": "đi qua cửa cổng (tàu...)"
+        },
+        {
+          "m_full_vn": "(quân sự) bước sát gót",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lock away",
+              "list_im": [
+                {
+                  "im_full_vn": "cất giữ cẩn thận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lock out",
+              "list_im": [
+                {
+                  "im_full_vn": "khoá cửa không cho vào"
+                },
+                {
+                  "im_full_vn": "đóng cửa nhà máy không cho công nhân vào làm để làm áp lực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lock up",
+              "list_im": [
+                {
+                  "im_full_vn": "cất đi, khoá lại cẩn thận"
+                },
+                {
+                  "im_full_vn": "giam giữ, nhốt kỹ; chặn đứng lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lock the stable door after the horse has been stolen",
+              "list_im": [
+                {
+                  "im_full_vn": "mất bò mới lo làm chuồng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382797_7e5f135874_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382797_664833db3b_o.png",
+      "id_image": "lock_184263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074805_20fb390a7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074805_49552ed584_o.png",
+      "id_image": "lock_526818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337741_45b12f2277_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337741_1b4d77146c_o.png",
+      "id_image": "lock_923793"
+    }
+  ]
+}

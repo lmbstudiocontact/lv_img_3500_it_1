@@ -1,0 +1,493 @@
+{
+  "english": "drop",
+  "phat_am": "[drɔp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giọt (nước, máu, thuốc...)",
+          "list_en_vn": [
+            {
+              "full_en": "rain drops ; tear drops",
+              "full_vn": "những giọt mưa; những giọt nước mắt"
+            },
+            {
+              "full_en": "drops of rain , dew , sweat , condensation",
+              "full_vn": "những giọt mưa, sương, mồ hôi, nước đọng"
+            },
+            {
+              "full_en": "to fall in drops",
+              "full_vn": "rơi nhỏ giọt"
+            },
+            {
+              "full_en": "to pour the oil in drops into the mixture",
+              "full_vn": "rót dầu từng giọt vào hỗn hợp"
+            },
+            {
+              "full_en": "drop by drop",
+              "full_vn": "từng giọt"
+            },
+            {
+              "full_en": "a drop in the ocean ; a drop in the bucket",
+              "full_vn": "(nghĩa bóng) giọt nước trong biển cả; hạt cát trong bãi sa mạc; muối bỏ biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuốc nước nhỏ từng giọt một vào tai, mắt hoặc mũi",
+          "list_en_vn": [
+            {
+              "full_en": "comfort drops",
+              "full_vn": "thuốc nước nhỏ giọt cho dễ chịu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một lượng nhỏ chất lỏng; hớp",
+          "list_en_vn": [
+            {
+              "full_en": "I like my tea with just a drop of milk",
+              "full_vn": "tôi thích uống trà có một chút xíu sữa"
+            },
+            {
+              "full_en": "he's had a drop too much",
+              "full_vn": "nó đã quá chén (đã say rượu)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật hình giọt nước (kẹo hoặc đồ trang trí treo)"
+        },
+        {
+          "m_full_vn": "khoảng cách dốc ngược hoặc dựng đứng",
+          "list_en_vn": [
+            {
+              "full_en": "there was a sheer drop of five hundred feet to the rocks below",
+              "full_vn": "từ đây xuống đến những tảng đá bên dưới có đến 500 phít dựng đứng"
+            },
+            {
+              "full_en": "a drop of ten metres",
+              "full_vn": "quãng rơi mười mét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hạ; sự giảm",
+          "list_en_vn": [
+            {
+              "full_en": "a drop in prices /temperatures",
+              "full_vn": "sự sụt giá/giảm nhiệt độ"
+            },
+            {
+              "full_en": "pressure drop",
+              "full_vn": "sự giảm áp suất"
+            },
+            {
+              "full_en": "drop of potential",
+              "full_vn": "sự sụt thế; độ sụt thế"
+            },
+            {
+              "full_en": "a drop in one's voice",
+              "full_vn": "sự hạ giọng"
+            },
+            {
+              "full_en": "a big drop in the number of people out of work",
+              "full_vn": "sự giảm hẳn số người không có việc làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sân khấu) màn hạ lúc nghỉ tạm ( (cũng) drop-curtain )"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) cú đá quả bóng đang bật ( (cũng) drop-kick )"
+        },
+        {
+          "m_full_vn": "(hàng không) sự thả dù (vũ khí, thức ăn, quân...); vật thả dù",
+          "list_en_vn": [
+            {
+              "full_en": "drops of supplies are being made to villages still cut off by the snow",
+              "full_vn": "đồ tiếp tế đang được thả xuống các làng bị cô lập vì tuyết"
+            },
+            {
+              "full_en": "at the drop of a hat",
+              "full_vn": "(nghĩa bóng) ngay lập tức, ngay tức khắc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rơi hoặc để cho cái gì rơi xuống",
+          "list_en_vn": [
+            {
+              "full_en": "to drop a letter in the letter-box",
+              "full_vn": "bỏ thư vào thùng thư"
+            },
+            {
+              "full_en": "to drop bombs",
+              "full_vn": "ném bom"
+            },
+            {
+              "full_en": "to drop the anchor",
+              "full_vn": "thả neo"
+            },
+            {
+              "full_en": "the bowl dropped and broke",
+              "full_vn": "cái bát rơi xuống và vỡ ra"
+            },
+            {
+              "full_en": "the climber slipped and dropped to his death",
+              "full_vn": "người leo núi trượt chân và rơi xuống chết"
+            },
+            {
+              "full_en": "don't drop that or it'll break !",
+              "full_vn": "đừng đánh rơi kẻo vỡ!"
+            },
+            {
+              "full_en": "she dropped to safety from the burning building",
+              "full_vn": "bà ấy nhảy ra khỏi toà nhà đang cháy rơi xuống an toàn"
+            },
+            {
+              "full_en": "medical supplies are being dropped to the stricken area",
+              "full_vn": "thuốc men tiếp tế đang được thả xuống khu vực lâm nạn"
+            },
+            {
+              "full_en": "drop the blanket down to me",
+              "full_vn": "ném cái chăn xuống cho tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(làm cho cái gì) yếu đi, thấp xuống hoặc ít đi",
+          "list_en_vn": [
+            {
+              "full_en": "the wind , temperature , water level has dropped considerably",
+              "full_vn": "gió, nhiệt độ, mực nước đã giảm hẳn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tạo nên một dốc ngược dựng đứng",
+          "list_en_vn": [
+            {
+              "full_en": "the cliff drops sharply (away ) (to the sea )",
+              "full_vn": "vách đá dựng đứng (xuống mặt biển)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to drop somebody off ) để cho ai ra khỏi xe ô tô",
+          "list_en_vn": [
+            {
+              "full_en": "could you drop me (off ) near the bank ?",
+              "full_vn": "anh cho tôi xuống gần ngân hàng được không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gửi (một bức thư....) cho ai",
+          "list_en_vn": [
+            {
+              "full_en": "to drop somebody a postcard",
+              "full_vn": "gửi bưu ảnh cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to drop somebody / something from something ) bỏ qua ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "she's been dropped from the team because of injury",
+              "full_vn": "cô ta bị đưa ra khỏi đội vì bị thương"
+            },
+            {
+              "full_en": "many dated expressions are being dropped from this dictionary",
+              "full_vn": "không ít thành ngữ lỗi thời đã bị loại ra khỏi quyển từ điển này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ rơi",
+          "list_en_vn": [
+            {
+              "full_en": "he's dropped most of his old friends - or they've dropped him !",
+              "full_vn": "nó bỏ rơi hầu hết bạn bè cũ - hay là họ đã bỏ rơi nó!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ (một thói quen...); ngưng làm hoặc thảo luận cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "drop everything and come here !",
+              "full_vn": "hãy bỏ hết mọi thứ, lại đây!"
+            },
+            {
+              "full_en": "Let's drop formalities : Call me A",
+              "full_vn": "Ta hãy bỏ hết các nghi thức : Cứ gọi tôi là A"
+            },
+            {
+              "full_en": "Can you drop the subject ? I'm very tired",
+              "full_vn": "Ông ngưng cái đề tài ấy được không? Tôi mệt lắm rồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mất (tiền) do đánh bạc; thua",
+          "list_en_vn": [
+            {
+              "full_en": "I hear they've dropped over ten thousand on the deal",
+              "full_vn": "Tôi nghe nói họ đã thua hơn mười ngàn trong ván bài ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gục xuống (vì kiệt sức)",
+          "list_en_vn": [
+            {
+              "full_en": "to drop with fatigue",
+              "full_vn": "mệt gục xuống"
+            },
+            {
+              "full_en": "to drop on one's knee",
+              "full_vn": "quỵ xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) tình cờ thốt ra, tình cờ nói ra",
+          "list_en_vn": [
+            {
+              "full_en": "the remark dropped from his mouth",
+              "full_vn": "lời nhận xét vô tình thốt ra từ cửa miệng anh ta, lời nhận xét anh ta vô tình thốt ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẻ (cừu)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to drop a hint to somebody ; to drop somebody a hint",
+              "list_im": [
+                {
+                  "im_full_vn": "gợi ý một cách gián tiếp hoặc tế nhị; nói bóng gió"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop across",
+              "list_im": [
+                {
+                  "im_full_vn": "tình cờ gặp, ngẫu nhiên gặp",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to drop across somebody",
+                      "full_vn": "ngẫu nhiên gặp ai, tình cờ gặp ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop by /in /over /round ; to drop in on somebody ; to drop into something",
+              "list_im": [
+                {
+                  "im_full_vn": "tạt vào thăm; nhân tiện đi qua ghé vào thăm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Drop round some time",
+                      "full_vn": "Hôm nào nhân tiện ghé vào chơi nhé"
+                    },
+                    {
+                      "full_en": "I thought I'd drop in on you while I was passing",
+                      "full_vn": "Tôi đang đi ngang qua chợt nghĩ ghé vào thăm anh"
+                    },
+                    {
+                      "full_en": "Sorry we're late - we dropped into a pub on the way",
+                      "full_vn": "Xin lỗi, chúng tôi đến muộn - chúng tôi đã tấp vào một quán rượutrên đường đi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop out (of something )",
+              "list_im": [
+                {
+                  "im_full_vn": "rút ra khỏi (một hoạt động, cuộc thi, đoàn thể...)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) rời khỏi trường học mà không học hết các lớp theo đúng chương trình quy định; bỏ học nửa chừng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she got a scholarship to Cambridge, but dropped out a year later",
+                      "full_vn": "cô ta được một học bổng ở Cambridge, nhưng một năm sau lại nghỉ ngang"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop a curtsey",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) curtsey"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop from sight",
+              "list_im": [
+                {
+                  "im_full_vn": "biến mất, mất hút"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop dead",
+              "list_im": [
+                {
+                  "im_full_vn": "chết đột ngột và bất ngờ chết bất đắc kỳ tử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "drop dead !",
+              "list_im": [
+                {
+                  "im_full_vn": "đừng quấy rầy tôi nữa!; đừng dí mũi vào chuyện đó nữa!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop names",
+              "list_im": [
+                {
+                  "im_full_vn": "loè thiên hạ bằng cách nói rằng mình quen toàn những nhân vật nổi tiếng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop like flies",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi rụng vô số kể, chết như rạ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop a brick /clanger",
+              "list_im": [
+                {
+                  "im_full_vn": "gây khó chịu cho ai mà chính mình cũng chẳng biết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop /dump something in somebody's lap",
+              "list_im": [
+                {
+                  "im_full_vn": "đổ thừa tại ai, đổ trách nhiệm cho ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop one's aitches",
+              "list_im": [
+                {
+                  "im_full_vn": "không phát âm chữ h ở những từ mà người có học thức thì phát âm được (không phát âm được chữ h trong trường hợp này coi (như) không phải là người có học thức)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop a stitch",
+              "list_im": [
+                {
+                  "im_full_vn": "(trong việc đan áo) bỏ mất một mũi đan"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's jaw drops",
+              "list_im": [
+                {
+                  "im_full_vn": "xem jaw"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let somebody /something drop",
+              "list_im": [
+                {
+                  "im_full_vn": "không nhắc đến ai/cái gì nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop back ; to drop behind",
+              "list_im": [
+                {
+                  "im_full_vn": "tụt lại đằng sau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the two lovers dropped back so as to be alone",
+                      "full_vn": "ahi người yêu nhau tụt lại đằng sau để được đi riêng"
+                    },
+                    {
+                      "full_en": "Britain is increasingly dropping behind her competitors in this field",
+                      "full_vn": "Nước Anh ngày càng tụt hậu so với các đối thủ của mình trong lĩnh vực này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop off",
+              "list_im": [
+                {
+                  "im_full_vn": "thiu thiu ngủ; ngủ lơ mơ"
+                },
+                {
+                  "im_full_vn": "trở nên ít hơn hoặc kém",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "traffic has dropped off since the by-pass opened",
+                      "full_vn": "lưu lượng giao thông đã giảm nhiều từ khi có con đường ngang"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452563_ff1ce3c553_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452563_5ecf02423f_o.png",
+      "id_image": "drop_1730590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337646_f57c68e98b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337646_32d65e67df_o.png",
+      "id_image": "drop_1730776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074750_95ed54911b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074750_ac947d36fb_o.png",
+      "id_image": "drop_242120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382607_1ca3581bd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382607_5a2521170c_o.png",
+      "id_image": "drop_4984708"
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "english": "hold",
+  "phat_am": "[hould]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoang (của tàu thủy)"
+        },
+        {
+          "m_full_vn": "sự cầm, sự nắm giữ, sự nắm chặt",
+          "list_en_vn": [
+            {
+              "full_en": "to take (get , keep ) hold of",
+              "full_vn": "nắm giữ, nắm chặt (cái gì)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự nắm được, sự hiểu thấu",
+          "list_en_vn": [
+            {
+              "full_en": "to get hold of a secret",
+              "full_vn": "nắm được điều bí mật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) ảnh hưởng",
+          "list_en_vn": [
+            {
+              "full_en": "to have a great hold on (over ) somebody",
+              "full_vn": "có ảnh hưởng (uy tín) lớn đối với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật để nắm lấy; vật đỡ; chỗ dựa"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đồn ải, thành luỹ, pháo đài"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự giam cầm"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nhà lao, nhà tù"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cầm, nắm, giữ, nắm giữ, giữ vững",
+          "list_en_vn": [
+            {
+              "full_en": "to hold a pen",
+              "full_vn": "cầm bút"
+            },
+            {
+              "full_en": "to hold an office",
+              "full_vn": "giữ một chức vụ"
+            },
+            {
+              "full_en": "to hold one's ground",
+              "full_vn": "giữ vững lập trường; (quân sự) giữ vững vị trí; giữ vững sức khoẻ không yếu đi (người ốm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ, ở (trong một tư thế nào đó)",
+          "list_en_vn": [
+            {
+              "full_en": "to hold oneself erect",
+              "full_vn": "đứng thẳng người"
+            },
+            {
+              "full_en": "to hold one's head",
+              "full_vn": "ngẩng cao đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chứa, chứa đựng",
+          "list_en_vn": [
+            {
+              "full_en": "this room holds one hundred people",
+              "full_vn": "phòng này chứa được một trăm người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) giam giữ (ai)"
+        },
+        {
+          "m_full_vn": "giữ, nén, nín, kìm lại",
+          "list_en_vn": [
+            {
+              "full_en": "to hold one's breath",
+              "full_vn": "nín hơi, nín thở"
+            },
+            {
+              "full_en": "to hold one's tongue",
+              "full_vn": "nín lặng; không nói gì"
+            },
+            {
+              "full_en": "hold your noise !",
+              "full_vn": "im đi!, đừng làm ầm lên thế!"
+            },
+            {
+              "full_en": "to hold one's hand",
+              "full_vn": "kìm tay lại (không ra tay trừng phạt đánh đập...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt phải giữ lời hứa",
+          "list_en_vn": [
+            {
+              "full_en": "to hold somebody in suspense",
+              "full_vn": "làm cho ai phải thấm đòn chờ đợi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "choán, xâm chiếm, thu hút, lôi cuốn",
+          "list_en_vn": [
+            {
+              "full_en": "to hold someone's attention",
+              "full_vn": "thu hút sự chú ý của ai"
+            },
+            {
+              "full_en": "to hold one's audience",
+              "full_vn": "lôi cuốn được thính giả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có ý nghĩ là, cho là, xem là, coi là; tin rằng",
+          "list_en_vn": [
+            {
+              "full_en": "to hold oneself responsible for",
+              "full_vn": "tự cho là mình có trách nhiệm về"
+            },
+            {
+              "full_en": "to hold strange opinions",
+              "full_vn": "có những ý kiến kỳ quặc"
+            },
+            {
+              "full_en": "to hold somebody in high esteem",
+              "full_vn": "kính mến ai, quý trọng ai"
+            },
+            {
+              "full_en": "to hold somebody in contempt",
+              "full_vn": "coi khinh ai"
+            },
+            {
+              "full_en": "to hold something cheap",
+              "full_vn": "coi rẻ cái gì, coi thường cái gì"
+            },
+            {
+              "full_en": "I hold it good",
+              "full_vn": "tôi cho cái đó là đúng (là nên làm)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + that ) quyết định là (toà án, quan toà...)"
+        },
+        {
+          "m_full_vn": "tổ chức, tiến hành",
+          "list_en_vn": [
+            {
+              "full_en": "to hold a meeting",
+              "full_vn": "tổ chức một cuộc mít tinh, họp mít tinh"
+            },
+            {
+              "full_en": "to hold negotiation",
+              "full_vn": "tiến hành đàm phán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nói, đúng (những lời lẽ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to hold insolent language",
+              "full_vn": "dùng những lời lẽ láo xược"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "theo, theo đuổi, tiếp tục đi theo",
+          "list_en_vn": [
+            {
+              "full_en": "to hold a North course",
+              "full_vn": "tiếp tục đi theo con đường về hướng bắc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thường) ( + to , by ) giữ vững, giữ chắc ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to hold to one's promise",
+              "full_vn": "giữ lời hứa"
+            },
+            {
+              "full_en": "to hold by one's principles",
+              "full_vn": "giữ vững nguyên tắc của mình"
+            },
+            {
+              "full_en": "will the anchor hold ?",
+              "full_vn": "liệu neo có chắc không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếp tục, kéo dài, còn mãi, cứ vẫn",
+          "list_en_vn": [
+            {
+              "full_en": "will this fine weather hold ?",
+              "full_vn": "liệu thời tiết này có kéo dài mãi không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có giá trị, có hiệu lực, có thể áp dụng ( (cũng) to hold good , to hold true )",
+          "list_en_vn": [
+            {
+              "full_en": "the rule holds in all case",
+              "full_vn": "điều lệ này có giá trị trong mọi trường hợp"
+            },
+            {
+              "full_en": "does this principle hold good ?",
+              "full_vn": "nguyên tắc còn có giá trị nữa không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) ( (thường) phủ định + with ) tán thành",
+          "list_en_vn": [
+            {
+              "full_en": "not to hold with a proposal",
+              "full_vn": "không tán thành một đề nghị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) hold ! đứng lại, dừng lại; đợi một tí!",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hold back",
+              "list_im": [
+                {
+                  "im_full_vn": "ngăn lại, giữ lại, nén lại, kìm lại"
+                },
+                {
+                  "im_full_vn": "giấu, giữ bí mật, giữ riêng (tin tức...)"
+                },
+                {
+                  "im_full_vn": "do dự, ngập ngừng"
+                },
+                {
+                  "im_full_vn": "( + from ) cố ngăn, cố nén"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold down",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt lệ thuộc, bắt phụ thuộc, bắt phục tùng; áp bức"
+                },
+                {
+                  "im_full_vn": "cúi (đầu)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) tiếp tục giữ, vẫn giữ, vẫn (ở trong hoàn cảnh nào...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to hold down an office",
+                      "full_vn": "vẫn giữ một chức vụ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold forth",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa ra, đặt ra, nêu ra (một đề nghị...)"
+                },
+                {
+                  "im_full_vn": "nói; hò hét diễn thuyết ( (thường) xấu)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to hold forth to the crowd",
+                      "full_vn": "hò hét diễn thuyết trước đám đông"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold in",
+              "list_im": [
+                {
+                  "im_full_vn": "nói chắc, dám chắc"
+                },
+                {
+                  "im_full_vn": "giam giữ"
+                },
+                {
+                  "im_full_vn": "nén lại, kìm lại, dằn lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold off",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ không cho lại gần; giữ cách xa"
+                },
+                {
+                  "im_full_vn": "chậm lại, nán lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold on",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm chặt, giữ chặt, bám chặt"
+                },
+                {
+                  "im_full_vn": "giữ máy không cắt (dây nói)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold out",
+              "list_im": [
+                {
+                  "im_full_vn": "giơ ra, đưa ra"
+                },
+                {
+                  "im_full_vn": "chịu đựng, kiên trì dai dẳng; không nhượng bộ, không đầu hàng (thành bị bao vây...)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) không cho, từ chối cho (cái gì phải cho)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold over",
+              "list_im": [
+                {
+                  "im_full_vn": "để chậm lại, đình lại, hoàn lại"
+                },
+                {
+                  "im_full_vn": "ở lại sau khi hết nhiệm kỳ; ở lại thêm nhiệm kỳ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold together",
+              "list_im": [
+                {
+                  "im_full_vn": "gắn lại với nhau, giữ lại với nhau"
+                },
+                {
+                  "im_full_vn": "gắn bó với nhau, đoàn kết với nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold up",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa lên, giơ lên"
+                },
+                {
+                  "im_full_vn": "đỡ, chống đỡ"
+                },
+                {
+                  "im_full_vn": "vẫn vững, vẫn duy trì"
+                },
+                {
+                  "im_full_vn": "vẫn đứng vững, không ngã (ngựa)"
+                },
+                {
+                  "im_full_vn": "nêu ra, phô ra, đưa ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be held up to derision",
+                      "full_vn": "bị đưa ra làm trò cười"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "chặn đứng (ô tô...) ăn cướp"
+                },
+                {
+                  "im_full_vn": "làm đình trệ, làm tắc nghẽn (giao thông).."
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold aloof",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) loof"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hold hard !",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng lại!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hold on !",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) ngừng!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold one's own",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) own"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold something over somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "luôn luôn giơ cái gì đe doạ ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold water",
+              "list_im": [
+                {
+                  "im_full_vn": "kín, không rò (thùng)"
+                },
+                {
+                  "im_full_vn": "đứng vững được (lập luận...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380357_a92b5df715_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380357_623bcff56a_o.png",
+      "id_image": "hold_2921750"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072195_104f4be943_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072195_a24976453b_o.png",
+      "id_image": "hold_3102614"
+    }
+  ]
+}

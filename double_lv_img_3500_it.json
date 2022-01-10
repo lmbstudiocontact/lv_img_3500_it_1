@@ -1,0 +1,337 @@
+{
+  "english": "double",
+  "phat_am": "['dʌbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "gấp hai lần, nhiều gấp hai lần, gấp đôi",
+          "list_en_vn": [
+            {
+              "full_en": "a double helping",
+              "full_vn": "phần thức ăn lấy gấp đôi"
+            },
+            {
+              "full_en": "two double whiskies",
+              "full_vn": "hai ly uytxki gấp đôi"
+            },
+            {
+              "full_en": "his income is double hers",
+              "full_vn": "thu nhập của ông ấy nhiều gấp đôi bà ấy"
+            },
+            {
+              "full_en": "he needs double the amount you provide",
+              "full_vn": "nó cần gấp đôi số lượng mà anh cung cấp"
+            },
+            {
+              "full_en": "he earns double what she does",
+              "full_vn": "anh ấy kiếm được gấp đôi chị ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có hai phần bằng nhau, làm bằng hai vật giống nhau",
+          "list_en_vn": [
+            {
+              "full_en": "look , double yellow lines - you musn't park here",
+              "full_vn": "nhìn kìa, hai vạch vàng - anh không được đỗ xe ở đây"
+            },
+            {
+              "full_en": "a double -page advertisement",
+              "full_vn": "tờ quảng cáo hai trang"
+            },
+            {
+              "full_en": "\"Book \" is spelt with a double o",
+              "full_vn": "Book (quyển sách) viết với hai chữ o"
+            },
+            {
+              "full_en": "a word with a double meaning",
+              "full_vn": "từ có hai nghĩa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được làm cho hai người hoặc hai vật",
+          "list_en_vn": [
+            {
+              "full_en": "a double bed /room /garage",
+              "full_vn": "giường/phòng/ga ra đôi"
+            },
+            {
+              "full_en": "a double wedding",
+              "full_vn": "đám cưới đôi (cho hai cặp vợ chồng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đôi, hai, kép",
+          "list_en_vn": [
+            {
+              "full_en": "a double note",
+              "full_vn": "(âm nhạc) nốt đôi"
+            },
+            {
+              "full_en": "double chin",
+              "full_vn": "cằm hai ngấn, cằm xị"
+            },
+            {
+              "full_en": "the double advantage of being easy and cheap",
+              "full_vn": "cái lợi kép, vừa dễ vừa rẻ"
+            },
+            {
+              "full_en": "to lead a double life",
+              "full_vn": "sống cuộc sống hai mặt (vừa là cảnh sát vừa là kẻ buôn ma túy chẳng hạn)"
+            },
+            {
+              "full_en": "to play a double game",
+              "full_vn": "(thể dục,thể thao) đấu một trận kép (quần vợt, bóng bàn); chơi nước đôi, chơi lá mặt lá trái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về hoa) có nhiều cánh hoa hơn số cánh hoa thông thường; kép",
+          "list_one_mean": [
+            {
+              "id_full_en": "in double harness",
+              "list_im": [
+                {
+                  "im_full_vn": "với một người cộng sự hoặc với chồng hoặc vợ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the brothers work in double harness",
+                      "full_vn": "anh em nhà ấy hợp sức nhau làm việc"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái gấp đôi, lượng gấp đôi",
+          "list_en_vn": [
+            {
+              "full_en": "he's paid double for the same job",
+              "full_vn": "cùng một công việc ấy, nhưng nó được trả lương gấp đôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cốc đựng lượng rượu gấp đôi bình thường"
+        },
+        {
+          "m_full_vn": "bản giống hệt, bản sao y, cái giống hệt cái khác; người giống hệt người khác",
+          "list_en_vn": [
+            {
+              "full_en": "she's the double of her mother at the same age",
+              "full_vn": "cô ta giống hệt bà mẹ ở cùng tuổi ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( doubles ) (thể dục,thể thao) trận đánh đôi (bóng bàn, quần vợt)",
+          "list_en_vn": [
+            {
+              "full_en": "mixed doubles",
+              "full_vn": "trận đánh đôi nam nữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the double ) (thể dục thể thao) hai giải giành được trong những cuộc thi đấu giống nhau",
+          "list_en_vn": [
+            {
+              "full_en": "she's going for the double this year , the Olympics and the World Championship",
+              "full_vn": "cô ta sẽ giành hai giải năm nay, giải Thế vận hội và giải vô địch thế giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) sự đặt tiền gấp đôi"
+        },
+        {
+          "m_full_vn": "(trò chơi ném phi tiêu) trúng vòng ngoài của bia, ghi điểm thắng gấp đôi"
+        },
+        {
+          "m_full_vn": "(sân khấu) người diễn thay một một diễn viên trong những cảnh nguy hiểm",
+          "list_one_mean": [
+            {
+              "id_full_en": "at the double ; on the double",
+              "list_im": [
+                {
+                  "im_full_vn": "rất nhanh, vội vã"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành hai hoặc thành hai phần",
+          "list_en_vn": [
+            {
+              "full_en": "to sleep double",
+              "full_vn": "ngủ đôi (hai người một giường)"
+            },
+            {
+              "full_en": "to ride double",
+              "full_vn": "cưỡi ngựa hai người (chung một ngựa)"
+            },
+            {
+              "full_en": "to see double",
+              "full_vn": "nhìn một thành hai"
+            },
+            {
+              "full_en": "to fold a blanket double",
+              "full_vn": "gấp đôi cái mền lại"
+            },
+            {
+              "full_en": "to pay double for something",
+              "full_vn": "trả gấp đôi giá phải trả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm gấp đôi, tăng gấp đôi, nhân gấp đôi",
+          "list_en_vn": [
+            {
+              "full_en": "to double someone's wages",
+              "full_vn": "tăng lương gấp đôi cho ai"
+            },
+            {
+              "full_en": "owing to your recommendation , his wages have doubled",
+              "full_vn": "nhờ sự tiến cử của anh, lương nó đã tăng gấp đôi"
+            },
+            {
+              "full_en": "if you double all the quantities in the recipe , it'll be enough for eight people",
+              "full_vn": "nếu anh tăng gấp đôi tất cả các số lượng trong thực đơn thì sẽ đủ cho tám người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to double something up / over / across / back ) uốn làm đôi; gập đôi",
+          "list_en_vn": [
+            {
+              "full_en": "to double up a sheet of paper",
+              "full_vn": "xếp tờ giấy làm đôi"
+            },
+            {
+              "full_en": "to double a blanket (over ) for extra warmth",
+              "full_vn": "gấp đôi chăn lại cho ấm thêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tạm thời dùng làm cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "when we have guests , the sofa doubles as an extra bed",
+              "full_vn": "khi có khách, cái xôpha được dùng làm giường phụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sân khấu); (điện ảnh) đóng (một vai thứ hai) cũng giỏi như vai kia",
+          "list_en_vn": [
+            {
+              "full_en": "his main part is the ghost , but he doubles as Fortinbras",
+              "full_vn": "vai chính của anh ta là vai hồn ma, nhưng anh đóng cả vai Fortinbras nữa"
+            },
+            {
+              "full_en": "to double parts",
+              "full_vn": "đóng hai vai trong cùng một vở, đóng hai vai trong cùng một phim"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chơi hoặc hát cùng một bản nhạc như (một nhạc cụ hoặc một giọng hát khác); hoà điệu",
+          "list_en_vn": [
+            {
+              "full_en": "in this passage , the violins double the sopranos",
+              "full_vn": "ở đoạn này, viôlông hoà theo bè soprano"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nắm chặt (nắm tay)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to double back",
+              "list_im": [
+                {
+                  "im_full_vn": "đột ngột quay theo hướng ngược lại; quay ngược lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to double somebody up",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ai gập người lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be doubled up with laughter /pain /anger",
+                      "full_vn": "gập người lại vì cười/đau/tức giận"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to double up with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "nhập bọn với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "We've only one room left : You'll have to double up with Peter",
+                      "full_vn": "chúng tôi chỉ còn lại một buồng : anh ngủ chung với Peter vậy"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to double one's fist",
+              "full_vn": "nắm chặt tay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423628_9b0c222a5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423628_283757aea7_o.png",
+      "id_image": "double_1088886"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308361_5ae14ec0a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308361_7772f53cb5_o.png",
+      "id_image": "double_4651071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423583_cf1be31128_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423583_eee30a95c4_o.png",
+      "id_image": "double_6436425"
+    }
+  ]
+}

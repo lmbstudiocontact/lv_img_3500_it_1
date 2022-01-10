@@ -1,0 +1,71 @@
+{
+  "english": "fuel",
+  "phat_am": "[fjuəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất đốt, nhiên liệu"
+        },
+        {
+          "m_full_vn": "cái khích động",
+          "list_one_mean": [
+            {
+              "id_full_en": "to add fuel to the flames (to the fire )",
+              "list_im": [
+                {
+                  "im_full_vn": "lửa cháy đổ thêm dầu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cung cấp chất đốt",
+          "list_en_vn": [
+            {
+              "full_en": "to fuel a ship",
+              "full_vn": "cung cấp chất đốt cho một chiếc tàu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lấy chất đốt (tàu...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080420_0b6cbfebf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080420_6926e7e3ce_o.png",
+      "id_image": "fuel_1486200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342906_9c25192d54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342906_cb64bf6081_o.png",
+      "id_image": "fuel_2321545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698254_e4923c882e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698254_5387d0df42_o.png",
+      "id_image": "fuel_439972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387962_bf68416f30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387962_820dbe9d60_o.png",
+      "id_image": "fuel_439974"
+    }
+  ]
+}

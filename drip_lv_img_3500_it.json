@@ -1,0 +1,79 @@
+{
+  "english": "drip",
+  "phat_am": "[drip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chảy nhỏ giọt, sự để nhỏ giọt"
+        },
+        {
+          "m_full_vn": "nước chảy nhỏ giọt"
+        },
+        {
+          "m_full_vn": "(kiến trúc) mái hắt"
+        },
+        {
+          "m_full_vn": "(từ lóng) người quấy rầy, người khó chịu"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chảy nhỏ giọt"
+        },
+        {
+          "m_full_vn": "( (thường) + with ) ướt sũng, ướt đẫm",
+          "list_en_vn": [
+            {
+              "full_en": "to be dripping wet",
+              "full_vn": "ướt sũng, ướt đẫm"
+            },
+            {
+              "full_en": "to drip with blood",
+              "full_vn": "đẫm máu, máu đầm đìa chảy thành giọt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "để chảy nhỏ giọt, làm nhỏ giọt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693794_ae4d040b44_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693794_1a97ded9fe_o.png",
+      "id_image": "drip_1111094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338621_44cf25097e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338621_a043747cc3_o.png",
+      "id_image": "drip_3360460"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383487_35f9bdb1e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383487_b544038026_o.png",
+      "id_image": "drip_3380341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338546_45b9f8777e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338546_213f94cc10_o.png",
+      "id_image": "drip_4417733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453463_50aa30a9f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453463_82bf2276dd_o.png",
+      "id_image": "drip_6316550"
+    }
+  ]
+}

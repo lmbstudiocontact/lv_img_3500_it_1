@@ -1,0 +1,77 @@
+{
+  "english": "graphic",
+  "phat_am": "[græfik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc các biểu tượng nhìn (chữ viết, biểu đồ, hình vẽ chẳng hạn); đồ hoạ",
+          "list_en_vn": [
+            {
+              "full_en": "a graphic artist",
+              "full_vn": "nghệ sĩ đồ hoạ"
+            },
+            {
+              "full_en": "graphic displays",
+              "full_vn": "triển lãm đồ hoạ"
+            },
+            {
+              "full_en": "the graphic arts",
+              "full_vn": "nghệ thuật đồ hoạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) trình bày/minh hoạ bằng đồ thị",
+          "list_en_vn": [
+            {
+              "full_en": "graphic algebra",
+              "full_vn": "đại số đồ thị"
+            },
+            {
+              "full_en": "graphic solution",
+              "full_vn": "phép giải đồ thị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sinh động",
+          "list_en_vn": [
+            {
+              "full_en": "a graphic account of the football match",
+              "full_vn": "bài tường thuật sinh động trận đấu bóng đá"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439793_772a171b59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439793_38713f3af3_o.png",
+      "id_image": "graphic_1567083"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369537_555e6cc17f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369537_988deaafdb_o.png",
+      "id_image": "graphic_2271598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324636_3c65d4675c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324636_77fbf82e6a_o.png",
+      "id_image": "graphic_2811186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679789_54a8a766ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679789_2830b94c05_o.png",
+      "id_image": "graphic_2898227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369452_79db7b2d30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369452_2bd6018e42_o.png",
+      "id_image": "graphic_6258724"
+    }
+  ]
+}

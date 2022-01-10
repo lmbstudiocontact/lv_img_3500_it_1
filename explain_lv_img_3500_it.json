@@ -1,0 +1,43 @@
+{
+  "english": "explain",
+  "phat_am": "[iks'plein]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giảng, giảng giải, giải nghĩa"
+        },
+        {
+          "m_full_vn": "giải thích, thanh minh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to explain away",
+              "list_im": [
+                {
+                  "im_full_vn": "thanh minh (lời nói bất nhã...)"
+                },
+                {
+                  "im_full_vn": "giải thích làm cho hết sợ (ma...)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to explain one's attitude",
+              "full_vn": "thanh minh về thái độ của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309596_215e28c2f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309596_e13789b870_o.png",
+      "id_image": "explain_5956443"
+    }
+  ]
+}

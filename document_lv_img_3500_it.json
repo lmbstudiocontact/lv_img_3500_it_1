@@ -1,0 +1,59 @@
+{
+  "english": "document",
+  "phat_am": "['dɔkjumənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "văn kiện; tài liệu, tư liệu",
+          "list_en_vn": [
+            {
+              "full_en": "the spy stole secret government documents",
+              "full_vn": "tên gián điệp đã đánh cắp tài liệu mật của chính phủ"
+            },
+            {
+              "full_en": "legal documents",
+              "full_vn": "những văn kiện pháp lý (chứng thư tài sản, chúc thư.... chẳng hạn)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chứng minh bằng tài liệu; dẫn chứng bằng tài liệu",
+          "list_en_vn": [
+            {
+              "full_en": "can you document your claim ?",
+              "full_vn": "anh có tài liệu chứng minh cho yêu sách của anh hay không?"
+            },
+            {
+              "full_en": "a badly /well documented report",
+              "full_vn": "bản báo cáo đủ/không đủ tài liệu dẫn chứng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426848_647a45d52f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426848_97b2bcd795_o.png",
+      "id_image": "document_167825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426798_16ee91eff3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426798_6df1cd1e25_o.png",
+      "id_image": "document_171000"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311946_82e7e583f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311946_ac95c41f3f_o.png",
+      "id_image": "document_741896"
+    }
+  ]
+}

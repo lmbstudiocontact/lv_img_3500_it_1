@@ -1,0 +1,32 @@
+{
+  "english": "insemination",
+  "phat_am": "[in,semi'nei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thụ tinh",
+          "list_en_vn": [
+            {
+              "full_en": "artificial insemination",
+              "full_vn": "sự thụ tinh nhân tạo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345586_16b1a2549e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345586_59db4e149d_o.png",
+      "id_image": "insemination_3830397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345536_9d6a75d3a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345536_ddb8d7fc05_o.png",
+      "id_image": "insemination_5448034"
+    }
+  ]
+}

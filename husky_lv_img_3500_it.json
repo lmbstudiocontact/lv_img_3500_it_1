@@ -1,0 +1,64 @@
+{
+  "english": "husky",
+  "phat_am": "['hʌski]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) vỏ; giống như vỏ; khô như vỏ, khô như trấu"
+        },
+        {
+          "m_full_vn": "có vỏ"
+        },
+        {
+          "m_full_vn": "(về người hoặc giọng nói) khô trong họng; nghe hơi khản tiếng; khàn khàn",
+          "list_en_vn": [
+            {
+              "full_en": "A husky voice",
+              "full_vn": "giọng nói khàn"
+            },
+            {
+              "full_en": "A husky cough",
+              "full_vn": "tiếng ho khan"
+            },
+            {
+              "full_en": "I'm still a bit husky after my recent cold",
+              "full_vn": "Tôi vẫn còn hơi khản tiếng sau trận cảm lạnh mới đây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) to khoẻ, vạm vỡ",
+          "list_en_vn": [
+            {
+              "full_en": "a husky fellow",
+              "full_vn": "một chàng trai vạm vỡ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chó Et-ki-mô"
+        },
+        {
+          "m_full_vn": "( Husky ) người Et-ki-mô"
+        },
+        {
+          "m_full_vn": "( Husky ) tiếng Et-ki-mô"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326476_81092cf562_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326476_cd6298822f_o.png",
+      "id_image": "husky_6236513"
+    }
+  ]
+}

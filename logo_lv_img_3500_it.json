@@ -1,0 +1,42 @@
+{
+  "english": "logo",
+  "phat_am": "['lougou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "biểu trưng",
+          "list_en_vn": [
+            {
+              "full_en": "the four-coloured triangle is the logo of our company",
+              "full_vn": "hình tam giác bốn màu là biểu trưng của công ty chúng tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381542_9898ff5bab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381542_b03cc115cc_o.png",
+      "id_image": "logo_2311656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451403_dec955967c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451403_dcd6d81892_o.png",
+      "id_image": "logo_3677245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073430_85cf45b9db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073430_359d6bc57c_o.png",
+      "id_image": "logo_5304754"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451348_812789249f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451348_db6c61c32e_o.png",
+      "id_image": "logo_5448415"
+    }
+  ]
+}

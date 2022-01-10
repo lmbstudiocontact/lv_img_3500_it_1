@@ -1,0 +1,95 @@
+{
+  "english": "gossip",
+  "phat_am": "['gɔsip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuyện ngồi lê đôi mách, chuyện tầm phào",
+          "list_en_vn": [
+            {
+              "full_en": "don't believe all the gossip you heard",
+              "full_vn": "đừng tin hết những chuyện tầm phào mà anh đã nghe được"
+            },
+            {
+              "full_en": "she's too fond of idle gossip",
+              "full_vn": "mụ ấy rất thích chuyện ngồi lê đôi mách"
+            },
+            {
+              "full_en": "it's common gossip that they're having an affair",
+              "full_vn": "mọi người bàn tán rằng họ có chuyện với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc viết những chuyện lượm lặt về con người và các sự kiện xã hội (trong thư từ hoặc báo chí chẳng hạn)",
+          "list_en_vn": [
+            {
+              "full_en": "the gossip column",
+              "full_vn": "mục lượm lặt của một tờ báo"
+            },
+            {
+              "full_en": "a gossip columnist /writer",
+              "full_vn": "người chuyên giữ/người viết mục lượm lặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đàm luận bao gồm cả những chuyện tầm phào",
+          "list_en_vn": [
+            {
+              "full_en": "to have a good gossip with one's friends , neighbors",
+              "full_vn": "tán gẫu với bạn bè, những người láng giềng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người thích chuyện tầm phào",
+          "list_en_vn": [
+            {
+              "full_en": "you're nothing but an old gossip !",
+              "full_vn": "anh đúng là kẻ ngồi lê đôi mách!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to gossip with somebody about something ) ngồi lê đôi mách, nói chuyện tầm phào; nói chuyện phiếm",
+          "list_en_vn": [
+            {
+              "full_en": "I can't stand here gossiping all day",
+              "full_vn": "tôi không thể đứng đây để nói chuyện tầm phào suốt ngày được"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064905_5a06ab3d28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064905_e739ff9f53_o.png",
+      "id_image": "gossip_1935529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443173_c57387aa98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443173_7edacb5da5_o.png",
+      "id_image": "gossip_2117442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064800_0f846f6e22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064800_2f1151ffeb_o.png",
+      "id_image": "gossip_4278020"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443068_9ca6be64ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443068_496bb98395_o.png",
+      "id_image": "gossip_4441440"
+    }
+  ]
+}

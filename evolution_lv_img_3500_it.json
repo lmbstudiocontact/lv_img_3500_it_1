@@ -1,0 +1,55 @@
+{
+  "english": "evolution",
+  "phat_am": "[,i:və'lu:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tiến triển (tình hình...)"
+        },
+        {
+          "m_full_vn": "sự tiến hoá, sự phát triển",
+          "list_en_vn": [
+            {
+              "full_en": "Theory of Evolution",
+              "full_vn": "thuyết tiến hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự mở ra, sự nở ra (nụ...)"
+        },
+        {
+          "m_full_vn": "sự phát ra (sức nóng, hơi...)"
+        },
+        {
+          "m_full_vn": "sự quay lượn (khi nhảy múa...)"
+        },
+        {
+          "m_full_vn": "(toán học) sự khai căn"
+        },
+        {
+          "m_full_vn": "(quân sự) sự thay đổi thế trận"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357197_0c24033872_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357197_f85783305a_o.png",
+      "id_image": "evolution_2586952"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049675_e5c9033f13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049675_44e16a0f84_o.png",
+      "id_image": "evolution_2597668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357132_f8c815ffd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357132_64bba5a020_o.png",
+      "id_image": "evolution_5660272"
+    }
+  ]
+}

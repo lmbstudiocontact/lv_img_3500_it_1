@@ -1,0 +1,39 @@
+{
+  "english": "loser",
+  "phat_am": "['lu:zə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người thua (cuộc, bạc); ngựa... (thua cuộc đua...)",
+          "list_en_vn": [
+            {
+              "full_en": "a good loser",
+              "full_vn": "người thua nhưng vẫn vui vẻ"
+            },
+            {
+              "full_en": "a born loser",
+              "full_vn": "người luôn luôn gặp bất hạnh trong cuộc đời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) người tồi, vật tồi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335281_1f80ba187f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335281_af3dda7f12_o.png",
+      "id_image": "loser_5234410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690419_5db5ba6fce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690419_9d4147f829_o.png",
+      "id_image": "loser_5605981"
+    }
+  ]
+}

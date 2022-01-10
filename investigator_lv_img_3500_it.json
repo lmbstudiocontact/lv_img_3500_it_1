@@ -1,0 +1,36 @@
+{
+  "english": "investigator",
+  "phat_am": "[in'vestigeitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người điều tra; điều tra viên",
+          "list_en_vn": [
+            {
+              "full_en": "accident investigators who find out the causes of air crashes",
+              "full_vn": "những người điều tra tai nạn đã tìm ra nguyên nhân cac vụ máy bay rơi"
+            },
+            {
+              "full_en": "insurance investigators",
+              "full_vn": "các nhân viên điều tra ngành bảo hiểm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453853_5da5ee2f77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453853_22827102d3_o.png",
+      "id_image": "investigator_2621887"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694024_58bbccc83a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694024_393c18e37c_o.png",
+      "id_image": "investigator_875290"
+    }
+  ]
+}

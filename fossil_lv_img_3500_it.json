@@ -1,0 +1,63 @@
+{
+  "english": "fossil",
+  "phat_am": "['fɔsl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoá đá, hoá thạch",
+          "list_en_vn": [
+            {
+              "full_en": "fossil bones",
+              "full_vn": "xương hoá thạch"
+            },
+            {
+              "full_en": "fossil fuel",
+              "full_vn": "nhiên liệu hình thành từ xác động vật bị phân hủy từ thời xa xưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cổ lỗ, lỗi thời, hủ lậu"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) chôn ở dưới đất; đào ở đất lên"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật hoá đá, hoá thạch"
+        },
+        {
+          "m_full_vn": "người cổ lỗ, người lỗi thời, người hủ lậu; vật cổ lỗ, vật lỗi thời"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358167_c768cbf946_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358167_067eaeb766_o.png",
+      "id_image": "fossil_1373373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358127_f1379ce1d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358127_82b974c120_o.png",
+      "id_image": "fossil_1373374"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668649_b013669152_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668649_faa7bf4217_o.png",
+      "id_image": "fossil_1373375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050475_4383bd9fcb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050475_055739ac3c_o.png",
+      "id_image": "fossil_1674561"
+    }
+  ]
+}

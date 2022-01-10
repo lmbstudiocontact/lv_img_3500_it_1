@@ -1,0 +1,85 @@
+{
+  "english": "envy",
+  "phat_am": "['envi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( envy of somebody ) ( envy at / of something ) sự thèm muốn, sự ghen tị, sự đố kỵ",
+          "list_en_vn": [
+            {
+              "full_en": "he couldn't conceal his envy of me /envy at my success",
+              "full_vn": "anh ta không giấu nổi sự ghen tị đối với tôi/lòng ghen tị đối với sự thành công của tôi"
+            },
+            {
+              "full_en": "his new car excites their envy",
+              "full_vn": "chiếc xe hơi mới của anh ta đã kích thích lòng ghen tị của họ"
+            },
+            {
+              "full_en": "they only said such unkind things about you out of envy",
+              "full_vn": "họ nói những điều không tốt về anh cũng chỉ vì ghen tị mà thôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the envy of somebody ) vật làm người ta thèm muốn; người làm người ta ghen tị; lý do làm người ta thèm muốn, lý do làm người ta ghen tị",
+          "list_en_vn": [
+            {
+              "full_en": "his strength is the envy of the school",
+              "full_vn": "sức khoẻ của anh ta là cái mà trong trường ai cũng thèm muốn"
+            },
+            {
+              "full_en": "her many talents were the envy of all her friends",
+              "full_vn": "tài năng nhiều mặt của ta là điều mà tất cả bạn bè của cô ta đều thèm muốn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thèm muốn, ghen tị, đố kỵ",
+          "list_en_vn": [
+            {
+              "full_en": "I've always envied your good luck",
+              "full_vn": "lúc nào tôi cũng thèm muốn vận may của anh"
+            },
+            {
+              "full_en": "I don't envy you at all",
+              "full_vn": "tôi không hề ganh với anh"
+            },
+            {
+              "full_en": "I don't envy him his money problems",
+              "full_vn": "tôi chẳng ghen tị anh ta về chuyện tiền nong"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053570_7a71d7bb03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053570_61335c4220_o.png",
+      "id_image": "envy_3362436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671819_5a6385e4af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671819_f4f8aacedc_o.png",
+      "id_image": "envy_6000894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432158_596ab818fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432158_7efbd3847d_o.png",
+      "id_image": "envy_6002668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361457_03778b5aff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361457_ccc557e032_o.png",
+      "id_image": "envy_708644"
+    }
+  ]
+}

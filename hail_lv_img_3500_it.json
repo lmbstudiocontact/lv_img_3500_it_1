@@ -1,0 +1,156 @@
+{
+  "english": "hail",
+  "phat_am": "[heil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mưa đá"
+        },
+        {
+          "m_full_vn": "loạt, tràng dồn dập; trận tới tấp",
+          "list_en_vn": [
+            {
+              "full_en": "a hail of questions",
+              "full_vn": "một loạt câu hỏi dồn dập"
+            },
+            {
+              "full_en": "a hail of bullets",
+              "full_vn": "một trận mưa đạn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mưa đá",
+          "list_en_vn": [
+            {
+              "full_en": "it is hailing",
+              "full_vn": "trời đang mưa đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to hail something down on somebody ) đổ dồn như mưa đá, trút xuống như mưa đá, giáng xuống như mưa đá",
+          "list_en_vn": [
+            {
+              "full_en": "stones hailed down on them",
+              "full_vn": "đá giáng tới tấp xuống đầu họ"
+            },
+            {
+              "full_en": "to hail down blows on somebody",
+              "full_vn": "đấm ai túi bụi"
+            },
+            {
+              "full_en": "they hailed curses down on us",
+              "full_vn": "họ chửi rủa chúng tôi tới tấp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lời gọi; lời réo",
+          "list_en_vn": [
+            {
+              "full_en": "within hail",
+              "full_vn": "gần gọi nghe thấy được"
+            },
+            {
+              "full_en": "out of hail",
+              "full_vn": "ở xa gọi không nghe thấy được"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gọi (người hoặc tàu) để thu hút sự chú ý",
+          "list_en_vn": [
+            {
+              "full_en": "within hailing distance",
+              "full_vn": "trong tầm gọi nghe được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ra hiệu cho (tắc xi...) dừng lại"
+        },
+        {
+          "m_full_vn": "( to hail somebody / something as something ) hoan hô, hoan nghênh",
+          "list_en_vn": [
+            {
+              "full_en": "the crowd hailed him as a hero",
+              "full_vn": "đám đông hoan hô ông ta như một vị anh hùng"
+            },
+            {
+              "full_en": "the novel was hailed as a masterpiece",
+              "full_vn": "cuốn tiểu thuyết được hoan nghênh như một kiệt tác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to hail from ...) tới (từ đâu)",
+          "list_en_vn": [
+            {
+              "full_en": "a ship hailing from Shanghai",
+              "full_vn": "một chuyến tàu từ Thượng Hải tới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "chào!",
+          "list_en_vn": [
+            {
+              "full_en": "Hail , Bill!",
+              "full_vn": "Chào Bill!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671279_33c989e18f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671279_0caf61d6dc_o.png",
+      "id_image": "hail_1098202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431473_af331c0771_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431473_8569e7a648_o.png",
+      "id_image": "hail_2581022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316531_39dcbbac5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316531_0cd8895da3_o.png",
+      "id_image": "hail_3436121"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052895_038b20f507_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052895_da37a6329c_o.png",
+      "id_image": "hail_3750428"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316496_0078948020_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316496_0b98e5ea44_o.png",
+      "id_image": "hail_6236375"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "english": "electronic",
+  "phat_am": "[,ilek'trɔnik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "được tạo ra hoặc hoạt động bởi dòng điện tử",
+          "list_en_vn": [
+            {
+              "full_en": "Electronic calculator",
+              "full_vn": "Máy tính điện tử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "liên quan đến một thiết bị điện tử",
+          "list_en_vn": [
+            {
+              "full_en": "Electronic mail",
+              "full_vn": "Thư tín điện tử"
+            },
+            {
+              "full_en": "Electronic mailbox",
+              "full_vn": "Thiết bị nhận và lưu thư tín điện tử; hộp thư điện tử"
+            },
+            {
+              "full_en": "This dictionary is available in electronic form",
+              "full_vn": "Cuốn từ điển này có cả ở dạng điện tử (nghĩa là trên máy vi tính)"
+            },
+            {
+              "full_en": "Electronic music",
+              "full_vn": "Âm nhạc điện tử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc về ngành điện tử; liên quan đến ngành điện tử"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325431_720763f537_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325431_11ede27823_o.png",
+      "id_image": "electronic_1198313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440418_7c0e3bc6aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440418_ae1e35b7eb_o.png",
+      "id_image": "electronic_1643810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325316_3eda5dcd48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325316_727bd43133_o.png",
+      "id_image": "electronic_1648802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370177_7e0acef36f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370177_c20d523122_o.png",
+      "id_image": "electronic_2761029"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325466_2eed9fc84f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325466_b0bd9832a2_o.png",
+      "id_image": "electronic_752623"
+    }
+  ]
+}

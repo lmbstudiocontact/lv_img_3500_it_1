@@ -1,0 +1,246 @@
+{
+  "english": "figure",
+  "phat_am": "['figə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình dáng con người; dáng vẻ",
+          "list_en_vn": [
+            {
+              "full_en": "to have a good figure",
+              "full_vn": "có thân hình thon thả"
+            },
+            {
+              "full_en": "she's a fine figure of a woman",
+              "full_vn": "bà ta là một phụ nữ có dáng đẹp"
+            },
+            {
+              "full_en": "I'm dieting to keep my figure",
+              "full_vn": "tôi ăn uống kiêng khem để giữ dáng"
+            },
+            {
+              "full_en": "I saw a figure approaching in the darkness",
+              "full_vn": "tôi thấy một bóng người đang tiến đến trong bóng đêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) hình"
+        },
+        {
+          "m_full_vn": "hình vẽ minh hoạ ( (viết tắt) fig ))",
+          "list_en_vn": [
+            {
+              "full_en": "the figure on page 22 shows a political map of Africa",
+              "full_vn": "hình vẽ trên trang 22 cho thấy bản đồ chính trị của châu Phi"
+            },
+            {
+              "full_en": "the central figure in the painting is the artist's daughter",
+              "full_vn": "hình ở giữa bức tranh là con gái nghệ sĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhân vật",
+          "list_en_vn": [
+            {
+              "full_en": "an important figure",
+              "full_vn": "nhân vật quan trọng"
+            },
+            {
+              "full_en": "he was once a leading figure in the community , but now he has become a figure of fun",
+              "full_vn": "ông ta từng là một nhân vật dẫn đầu trong công đồng, nhưng nay đã trở thành một kẻ lố lăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "con số",
+          "list_en_vn": [
+            {
+              "full_en": "write the figure '7' for me",
+              "full_vn": "viết cho tôi số ' 7 '"
+            },
+            {
+              "full_en": "single figures",
+              "full_vn": "những con số dưới mười, một con số"
+            },
+            {
+              "full_en": "double figures",
+              "full_vn": "những số gồm hai con số"
+            },
+            {
+              "full_en": "he's an income of six figures /a six-figure income",
+              "full_vn": "anh ta có một khoản thu nhập sáu con số ( 100000 pao trở lên)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số tiền, giá cả",
+          "list_en_vn": [
+            {
+              "full_en": "we bought the house at a high /low figure",
+              "full_vn": "chúng tôi mua căn nhà với giá đắt/rẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mẫu trang trí hoặc mọt loạt động tác",
+          "list_en_vn": [
+            {
+              "full_en": "the skater executed a perfect set of figures",
+              "full_vn": "người trượt băng biểu diễn một loạt động tác hoàn hảo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) số học; sự tính toán bằng con số",
+          "list_en_vn": [
+            {
+              "full_en": "to have a poor head for figures",
+              "full_vn": "rất dốt số học, rất dốt tính toán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) hình thái",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cut a fine / sorry figure",
+              "list_im": [
+                {
+                  "im_full_vn": "có dáng điệu thanh tú/u buồn...."
+                }
+              ]
+            },
+            {
+              "id_full_en": "facts and figures",
+              "list_im": [
+                {
+                  "im_full_vn": "xem fact"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put a figure on something",
+              "list_im": [
+                {
+                  "im_full_vn": "nêu giá hoặc nói cụ thể một con số cho cái gì đó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in round figures /numbers",
+              "list_im": [
+                {
+                  "im_full_vn": "xem round"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "suy nghĩ; tính toán",
+          "list_en_vn": [
+            {
+              "full_en": "it's what I figured",
+              "full_vn": "đó là điều tôi đã tính đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng với it hoặc that ) có lẽ đúng hoặc có thể hiểu được",
+          "list_en_vn": [
+            {
+              "full_en": "' John isn't here today' . 'That figures , he looked very unwell yesterday'",
+              "full_vn": "'Hôm nay John không có mặt ở đây'. 'Điều đó cũng dễ hiểu, hôm qua anh ấy có vẻ không khoẻ lắm'"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hiện ra hoặc được nhắc đến rõ ràng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to figure as",
+              "list_im": [
+                {
+                  "im_full_vn": "được coi như là; đóng vai trò của"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to figure on",
+              "list_im": [
+                {
+                  "im_full_vn": "trông đợi ở (cái gì)"
+                },
+                {
+                  "im_full_vn": "tính toán"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to figure out",
+              "list_im": [
+                {
+                  "im_full_vn": "tính toán"
+                },
+                {
+                  "im_full_vn": "hiểu, quan niệm"
+                },
+                {
+                  "im_full_vn": "đoán, tìm hiểu, luận ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to figure up",
+              "list_im": [
+                {
+                  "im_full_vn": "tổng cộng, tính số lượng (cái gì)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a character that figures in many of her novels",
+              "full_vn": "một nhân vật được nhắc đến trong nhiểutiêu thuyết của bà ta"
+            },
+            {
+              "full_en": "she figured conspicuously in the public debate on the issue",
+              "full_vn": "bà ta nổi bật hẳn trong cuộc tranh luận công khai về vấn đề đó"
+            },
+            {
+              "full_en": "Nguyen Van Troi figures in history",
+              "full_vn": "Nguyễn Văn Trỗi nay có tên trong lịch sử"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066900_4152356586_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066900_29b5e1e6f6_o.png",
+      "id_image": "figures_2714592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374752_75da500005_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374752_ea6a9f3edb_o.png",
+      "id_image": "figures_6366716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374812_e3c580725d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374812_b5e8c34285_o.png",
+      "id_image": "figure_1413097"
+    }
+  ]
+}

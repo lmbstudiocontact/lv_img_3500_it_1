@@ -1,0 +1,64 @@
+{
+  "english": "fraud",
+  "phat_am": "[frɔ:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự gian lận; sự gian trá; sự lừa lọc; sự lừa gạt",
+          "list_en_vn": [
+            {
+              "full_en": "to get money by fraud",
+              "full_vn": "kiếm tiền bằng cách lừa gạt"
+            },
+            {
+              "full_en": "to be found guilty of fraud",
+              "full_vn": "bị phát hiện phạm tội lừa đảo"
+            },
+            {
+              "full_en": "thousands of frauds are committed every year",
+              "full_vn": "hàng nghìn vụ lừa đảo xảy ra mỗi năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kẻ lừa gạt; kẻ gian lận",
+          "list_one_mean": [
+            {
+              "id_full_en": "a pious fraud",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) pious"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "This jezebel is a fraud - she has no medical qualifications at all",
+              "full_vn": "Mụ này là một kẻ lừa đảo - mụ chẳng có tí chuyên môn nào về y học cả"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313056_a92b74d32d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313056_32607bbfb8_o.png",
+      "id_image": "fraud_1671618"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313051_a44c34d085_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313051_13924b83b7_o.png",
+      "id_image": "fraud_2200881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427853_820acbfecb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427853_0239e87c5b_o.png",
+      "id_image": "fraud_2419600"
+    }
+  ]
+}

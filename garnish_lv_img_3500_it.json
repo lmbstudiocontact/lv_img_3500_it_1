@@ -1,0 +1,44 @@
+{
+  "english": "garnish",
+  "phat_am": "['gɑ:ni∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(như) garnishing"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nét hoa mỹ (văn)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bày biện hoa lá (lên món ăn)",
+          "list_en_vn": [
+            {
+              "full_en": "to garnish a fish dish with slices of lemon",
+              "full_vn": "bày biện những lát chanh lên đĩa cá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trang hoàng, tô điểm"
+        },
+        {
+          "m_full_vn": "(pháp lý) gọi đến hầu toà"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453513_724a986e26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453513_a015bb81d4_o.png",
+      "id_image": "garnish_1900796"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "immune",
+  "phat_am": "[i'mju:n]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "miễn khỏi, được miễn (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to be immune from draft",
+              "full_vn": "được miễn tòng quân"
+            },
+            {
+              "full_en": "to be immune from smallpox",
+              "full_vn": "khỏi bị mắc bệnh đậu mùa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) người được miễn dịch"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437318_6607383528_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437318_f426ae5279_o.png",
+      "id_image": "immune_5730167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322051_cbf6cf045e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322051_bb8c42c649_o.png",
+      "id_image": "immune_6181888"
+    }
+  ]
+}

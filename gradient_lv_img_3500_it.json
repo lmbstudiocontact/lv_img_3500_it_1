@@ -1,0 +1,54 @@
+{
+  "english": "gradient",
+  "phat_am": "['greidjənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dốc, đường dốc; độ dốc",
+          "list_en_vn": [
+            {
+              "full_en": "a steep gradient",
+              "full_vn": "đường dốc tuột"
+            },
+            {
+              "full_en": "speed on a gradient",
+              "full_vn": "tốc độ lên dốc ( ôtô)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) Građien",
+          "list_en_vn": [
+            {
+              "full_en": "temperature gradient",
+              "full_vn": "građien nhiệt độ"
+            },
+            {
+              "full_en": "pressure gradient",
+              "full_vn": "građien áp suất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063555_a76f8c189c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063555_7f4e3d0f17_o.png",
+      "id_image": "gradient_1151156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441758_16603128ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441758_70ce76950f_o.png",
+      "id_image": "gradient_165010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326676_8d1147fca6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326676_202aedfcf4_o.png",
+      "id_image": "gradient_593478"
+    }
+  ]
+}

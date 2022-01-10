@@ -1,0 +1,67 @@
+{
+  "english": "electric",
+  "phat_am": "[i'lektrik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tạo ra điện; do điện tạo ra; dùng để truyền điện; chạy bằng điện",
+          "list_en_vn": [
+            {
+              "full_en": "electric generator",
+              "full_vn": "máy phát điện"
+            },
+            {
+              "full_en": "an electric torch",
+              "full_vn": "đèn pin"
+            },
+            {
+              "full_en": "electric current",
+              "full_vn": "dòng điện"
+            },
+            {
+              "full_en": "electric plug",
+              "full_vn": "phích cắm điện"
+            },
+            {
+              "full_en": "quạt điện",
+              "full_vn": "electric fan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm náo động, làm sôi nổi",
+          "list_en_vn": [
+            {
+              "full_en": "an electric atmosphere",
+              "full_vn": "một bầu không khí sôi động"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326256_4559c2802f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326256_7e0866802b_o.png",
+      "id_image": "electric_169796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062950_c5d179fba3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062950_6bbc5ff0be_o.png",
+      "id_image": "electric_1737728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370927_0c7e513721_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370927_498135902d_o.png",
+      "id_image": "electric_2642447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063010_e0e852ca70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063010_5b53299ee9_o.png",
+      "id_image": "electric_306731"
+    }
+  ]
+}

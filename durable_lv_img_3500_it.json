@@ -1,0 +1,35 @@
+{
+  "english": "durable",
+  "phat_am": "['djuərəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bền, lâu bền",
+          "list_en_vn": [
+            {
+              "full_en": "durable friendship between two peoples",
+              "full_vn": "tình hữu nghị lâu bền giữa hai dân tộc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "hàng xài lâu bền"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449838_2998a929d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449838_041845f7ca_o.png",
+      "id_image": "durable_5830376"
+    }
+  ]
+}

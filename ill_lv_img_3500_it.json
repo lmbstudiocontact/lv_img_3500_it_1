@@ -1,0 +1,158 @@
+{
+  "english": "ill",
+  "phat_am": "[il]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không được khoẻ về thể xác hoặc tinh thần; ốm; đau yếu",
+          "list_en_vn": [
+            {
+              "full_en": "he's been ill for two weeks",
+              "full_vn": "nó bị ốm đạ hai tuần nay"
+            },
+            {
+              "full_en": "to be seriously ill",
+              "full_vn": "bị ốm nặng"
+            },
+            {
+              "full_en": "to fall ill ; to be taken ill",
+              "full_vn": "bị ốm"
+            },
+            {
+              "full_en": "to look ill",
+              "full_vn": "trông có vẻ ốm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xấu, tồi, kém; ác",
+          "list_en_vn": [
+            {
+              "full_en": "ill health",
+              "full_vn": "sức khoẻ kém"
+            },
+            {
+              "full_en": "ill fame",
+              "full_vn": "tiếng xấu"
+            },
+            {
+              "full_en": "ill management",
+              "full_vn": "sự quản lý (trông nom) kém"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không may, rủi",
+          "list_en_vn": [
+            {
+              "full_en": "ill fortune",
+              "full_vn": "vận rủi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) khó",
+          "list_one_mean": [
+            {
+              "id_full_en": "ill weeds grow apace",
+              "list_im": [
+                {
+                  "im_full_vn": "cái xấu lan nhanh, thói xấu dễ bắt chước"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it's an ill wind that blows nobody any good",
+              "list_im": [
+                {
+                  "im_full_vn": "trong cái xấu có cái tốt, trong cái dở có cái hay"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "ill to please",
+              "full_vn": "khó chiều"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ ( (từ Mỹ,nghĩa Mỹ) (cũng) illy )",
+      "list_m": [
+        {
+          "m_full_vn": "xấu, tồi, kém; sai; ác",
+          "list_en_vn": [
+            {
+              "full_en": "to behave ill",
+              "full_vn": "xử sự xấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khó chịu",
+          "list_en_vn": [
+            {
+              "full_en": "don't take it ill",
+              "full_vn": "đừng nên lấy cái đó làm khó chịu, đừng nên bực mình vì cái đó"
+            },
+            {
+              "full_en": "ill at ease",
+              "full_vn": "không thoải mái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không lợi, không may, rủi cho",
+          "list_en_vn": [
+            {
+              "full_en": "to go ill with someone",
+              "full_vn": "rủi cho ai, không lợi cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khó mà, hầu như, không thể",
+          "list_one_mean": [
+            {
+              "id_full_en": "to augure well /ill for sb /sth",
+              "list_im": [
+                {
+                  "im_full_vn": "là điềm tốt/xấu cho ai/cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I could ill afford it",
+              "full_vn": "tôi khó mà có thể cáng đáng nổi cái đó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều xấu, việc ác, điều hại"
+        },
+        {
+          "m_full_vn": "( số nhiều) những vụ rủi ro, những điều bất hạnh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323526_e80a0c29ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323526_ba58c10535_o.png",
+      "id_image": "ill_2341906"
+    }
+  ]
+}

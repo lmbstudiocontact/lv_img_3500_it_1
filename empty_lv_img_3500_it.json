@@ -1,0 +1,195 @@
+{
+  "english": "empty",
+  "phat_am": "['empti]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không có gì bên trong; rỗng; trống không",
+          "list_en_vn": [
+            {
+              "full_en": "an empty box",
+              "full_vn": "một hộp rỗng"
+            },
+            {
+              "full_en": "an empty lorry",
+              "full_vn": "xe tải trống không (không chở hàng)"
+            },
+            {
+              "full_en": "your glass is empty",
+              "full_vn": "cốc của anh chẳng có gì bên trong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không có ai ở bên trong",
+          "list_en_vn": [
+            {
+              "full_en": "an empty house /room /chair /bus",
+              "full_vn": "nhà/phòng/ghế/xe búyt trống không"
+            },
+            {
+              "full_en": "empty streets",
+              "full_vn": "các đường phố trống vắng"
+            },
+            {
+              "full_en": "the cinema was half empty",
+              "full_vn": "rạp chiếu bóng trống một nửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không có hoặc thiếu về (chất); không có ý nghĩa hoặc mục đích",
+          "list_en_vn": [
+            {
+              "full_en": "words empty of meaning",
+              "full_vn": "lời lẽ rỗng tuếch"
+            },
+            {
+              "full_en": "empty threats /words /promises /dreams",
+              "full_vn": "những lời đe doạ/lời nói/lời hứa/giấc mơ hão huyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đói",
+          "list_one_mean": [
+            {
+              "id_full_en": "the empty vessel makes the greatest sound",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) thùng rỗng kêu to"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on an empty stomach",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa ăn gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "It's not good to drink on an empty stomach",
+                      "full_vn": "uống rượu lúc chưa ăn gì là không tốt"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I feel jolly empty !",
+              "full_vn": "Tôi cảm thấy đói mèm!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "( empties ) vỏ không (thùng không, chai không, túi không...)",
+          "list_en_vn": [
+            {
+              "full_en": "Put your empties on the doorstep for the milkman",
+              "full_vn": "Đặt các chai không của anh lên bậc cửa cho người đưa sữa (đến lấy)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to empty something out ) ( to empty onto / into something ) làm cho (cái gì) trống rỗng; đổ; trút ra",
+          "list_en_vn": [
+            {
+              "full_en": "to empty one's glass into the sink",
+              "full_vn": "đổ nước ở cốc của mình vào chậu rửa bát"
+            },
+            {
+              "full_en": "to empty (out ) a drawer",
+              "full_vn": "trút hết cả ngăn kéo ra"
+            },
+            {
+              "full_en": "he emptied his pockets of their contents",
+              "full_vn": "anh ta trút hết các thứ trong túi mình ra"
+            },
+            {
+              "full_en": "this dreadful film soon emptied the cinema of people",
+              "full_vn": "bộ phim khủng khiếp này chẳng bao lâu đã làm cho rạp vắng tanh"
+            },
+            {
+              "full_en": "have you emptied (out ) the rubbish bin ?",
+              "full_vn": "anh đã đổ thùng rác chưa?"
+            },
+            {
+              "full_en": "she emptied the milk into the pan",
+              "full_vn": "cô ấy đổ hết sữa vào trong chảo"
+            },
+            {
+              "full_en": "we emptied the waste paper onto the floor",
+              "full_vn": "chúng tôi đổ hết giấy lộn ra sàn nhà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to empty from / out of something ) ( to empty into / onto something ) chảy hoặc đổ ra",
+          "list_en_vn": [
+            {
+              "full_en": "the water slowly emptied (from the cistern )",
+              "full_vn": "nước đã rò rỉ hết ra (khỏi chiếc thùng chứa nước)"
+            },
+            {
+              "full_en": "The Rhone empties into the Mediterranean",
+              "full_vn": "Sông Rhone đổ ra Địa Trung Hải"
+            },
+            {
+              "full_en": "The rubbish from the cart emptied onto the street",
+              "full_vn": "Rác rưởi từ chiếc xe bò rơi hết ra đường phố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to empty of somebody / something ) trở nên trống rỗng",
+          "list_en_vn": [
+            {
+              "full_en": "The streets soon emptied (of people ) when the rain started",
+              "full_vn": "đường phố mau vắng người khi mưa ào xuống"
+            },
+            {
+              "full_en": "the cistern empties in five minutes",
+              "full_vn": "thùng chứa đó chảy hết trong vòng năm phút"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435778_16c6df770f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435778_b4a88e5048_o.png",
+      "id_image": "empty_1793180"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057310_327df29022_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057310_d0f87b4008_o.png",
+      "id_image": "empty_2244677"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057270_7b6f30c2e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057270_cff879f272_o.png",
+      "id_image": "empty_2254800"
+    }
+  ]
+}

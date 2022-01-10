@@ -1,0 +1,37 @@
+{
+  "english": "inflatable",
+  "phat_am": "[in'fleitəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể bơm phồng, có thể thổi phồng",
+          "list_en_vn": [
+            {
+              "full_en": "inflatable toys",
+              "full_vn": "đồ chơi có thể bơm phồng lên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053315_1b2a7c6f6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053315_41f7a7eb3a_o.png",
+      "id_image": "inflatable_1861777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361192_04eabbbea2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361192_35cfca67f6_o.png",
+      "id_image": "inflatable_2240624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361217_872014a843_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361217_c96daca771_o.png",
+      "id_image": "inflatable_868386"
+    }
+  ]
+}

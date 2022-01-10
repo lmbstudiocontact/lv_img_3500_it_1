@@ -1,0 +1,96 @@
+{
+  "english": "gold",
+  "phat_am": "[gould]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vàng"
+        },
+        {
+          "m_full_vn": "tiền vàng"
+        },
+        {
+          "m_full_vn": "số tiền lớn; sự giàu có"
+        },
+        {
+          "m_full_vn": "màu vàng"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vàng, cái quý giá",
+          "list_one_mean": [
+            {
+              "id_full_en": "to strike gold /oil",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm ra điều tốt lành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be worth one's weight in gold",
+              "list_im": [
+                {
+                  "im_full_vn": "đáng đồng tiền bát gạo, thực sự hữu ích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "all that glitters is not gold",
+              "list_im": [
+                {
+                  "im_full_vn": "chớ thấy sáng láng mà ngỡ là vàng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a heart of gold",
+              "full_vn": "tấm lòng vàng"
+            },
+            {
+              "full_en": "a voice of gold",
+              "full_vn": "tiếng oanh vàng"
+            },
+            {
+              "full_en": "as good as gold",
+              "full_vn": "có phẩm hạnh đáng khen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng vàng",
+          "list_en_vn": [
+            {
+              "full_en": "gold coin",
+              "full_vn": "tiền vàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có màu vàng",
+          "list_en_vn": [
+            {
+              "full_en": "gold star",
+              "full_vn": "sao vàng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684334_65ab211943_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684334_f25a07db06_o.png",
+      "id_image": "gold_855382"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "listen",
+  "phat_am": "['lisn]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghe, lắng nghe",
+          "list_en_vn": [
+            {
+              "full_en": "listen to me !",
+              "full_vn": "hãy nghe tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghe theo, tuân theo, vâng lời",
+          "list_one_mean": [
+            {
+              "id_full_en": "to listen in",
+              "list_im": [
+                {
+                  "im_full_vn": "nghe đài"
+                },
+                {
+                  "im_full_vn": "nghe trộm điện thoại"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to listen to reason",
+              "full_vn": "nghe theo lẽ phải"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695294_9b2491be47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695294_81221f967d_o.png",
+      "id_image": "listen_2368580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077295_4cf2b774b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077295_8660c6abeb_o.png",
+      "id_image": "listen_2643572"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "infuse",
+  "phat_am": "[in'fju:z]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to infuse something into somebody / something ) ( to infuse somebody / something with something ) truyền cho ai/cái gì một đặc tính, tính chất",
+          "list_en_vn": [
+            {
+              "full_en": "to infuse new life , energy into the workers ; to infuse the workers with new life , energy",
+              "full_vn": "truyền sức sống mới, năng lực mới cho công nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngâm (trà hoặc dược thảo) vào nước nóng để chiết ra vị thơm hoặc các thành phần dùng để uống hoặc làm thuốc; pha (trà, thuốc)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(về chè hoặc dược thảo) ngấm",
+          "list_en_vn": [
+            {
+              "full_en": "let it infuse far another five minutes",
+              "full_vn": "để cho ngấm độ năm phút nữa"
+            },
+            {
+              "full_en": "don't drink the tea until it has finished infusing",
+              "full_vn": "trà chưa ngấm kỹ thì đừng uống"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360832_3886f98cf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360832_9ee3869987_o.png",
+      "id_image": "infuse_6215676"
+    }
+  ]
+}

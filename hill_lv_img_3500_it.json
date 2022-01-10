@@ -1,0 +1,93 @@
+{
+  "english": "hill",
+  "phat_am": "[hil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồi"
+        },
+        {
+          "m_full_vn": "cồn, gò, đống, đụn, mô đất, chỗ đất đùn lên (mối, kiến...)"
+        },
+        {
+          "m_full_vn": "( the Hills ) ( Anh-Ấn) vùng đồi núi nơi nghỉ an dưỡng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go down hill",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) go"
+                }
+              ]
+            },
+            {
+              "id_full_en": "up hill and down dale",
+              "list_im": [
+                {
+                  "im_full_vn": "lên dốc xuống đèo; khắp mọi nơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a hill of beans",
+              "list_im": [
+                {
+                  "im_full_vn": "vật ít giá trị"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as old as the hills",
+              "list_im": [
+                {
+                  "im_full_vn": "rất cũ, cổ xưa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đắp thành đồi"
+        },
+        {
+          "m_full_vn": "( (thường) + up ) vun đất (vào gốc cây)",
+          "list_en_vn": [
+            {
+              "full_en": "to hill up a plant",
+              "full_vn": "vun đất vào gốc cây"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336981_28e012d4db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336981_599740f068_o.png",
+      "id_image": "hill_2259688"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451928_4a373fc4f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451928_3b4b72aab8_o.png",
+      "id_image": "hill_307800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451908_72dd8be0f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451908_864f8b9d12_o.png",
+      "id_image": "hill_661971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692364_e844d64f63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692364_74ec97d997_o.png",
+      "id_image": "hill_721124"
+    }
+  ]
+}

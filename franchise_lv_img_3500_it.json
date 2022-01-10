@@ -1,0 +1,68 @@
+{
+  "english": "franchise",
+  "phat_am": "['frænt∫aiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quyền đi bầu; quyền bầu cử",
+          "list_en_vn": [
+            {
+              "full_en": "system of universal adult franchise",
+              "full_vn": "chế độ phổ thông đầu phiếu của những người trưởng thành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cho phép bán hàng hoá hoặc dịch vụ của một công ty ở một vùng nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "to grant / withdraw a franchise",
+              "full_vn": "cấp/rùt quyền kinh doanh"
+            },
+            {
+              "full_en": "to buy a fast-food /printing franchise",
+              "full_vn": "mua quyền kinh doanh thức ăn nhanh/in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cấp quyền kinh doanh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427923_7b11f5c78a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427923_83459cbb2f_o.png",
+      "id_image": "franchise_2345213"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357052_5ea5eafa03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357052_fae87ab9cc_o.png",
+      "id_image": "franchise_2631411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049560_3487e26ee6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049560_92a50a2579_o.png",
+      "id_image": "franchise_4148666"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313081_58de789407_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313081_7ea540d3ea_o.png",
+      "id_image": "franchise_6082850"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049585_d0f5d545fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049585_9fec6cd3fd_o.png",
+      "id_image": "franchise_649629"
+    }
+  ]
+}

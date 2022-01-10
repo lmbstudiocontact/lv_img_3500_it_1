@@ -1,0 +1,55 @@
+{
+  "english": "fever",
+  "phat_am": "['fi:və]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cơn sốt"
+        },
+        {
+          "m_full_vn": "bệnh sốt",
+          "list_en_vn": [
+            {
+              "full_en": "typhoid fever",
+              "full_vn": "sốt thương hàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự xúc động, sự bồn chồn",
+          "list_en_vn": [
+            {
+              "full_en": "to be in a fever of anxiety",
+              "full_vn": "bồn chồn lo lắng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm phát sốt"
+        },
+        {
+          "m_full_vn": "làm xúc động, làm bồn chồn; kích thích"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446138_0dd7b42194_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446138_093a5142b8_o.png",
+      "id_image": "fever_2328385"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067885_8238f9c220_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067885_da5bd6478a_o.png",
+      "id_image": "fever_3154453"
+    }
+  ]
+}

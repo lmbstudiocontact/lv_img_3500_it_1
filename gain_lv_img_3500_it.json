@@ -1,0 +1,189 @@
+{
+  "english": "gain",
+  "phat_am": "[gein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lợi, lời; lợi lộc; lợi ích",
+          "list_en_vn": [
+            {
+              "full_en": "love of gain",
+              "full_vn": "lòng tham lợi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) của thu nhập, của kiếm được; tiền lãi"
+        },
+        {
+          "m_full_vn": "sự tăng thêm",
+          "list_one_mean": [
+            {
+              "id_full_en": "ill-gotten gains never prosper",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) của phi nghĩa có giàu đâu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a gain to knowlegde",
+              "full_vn": "sự tăng thêm hiểu biết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thu được, lấy được, giành được, kiếm được",
+          "list_en_vn": [
+            {
+              "full_en": "to gain experience",
+              "full_vn": "thu được kinh nghiệm"
+            },
+            {
+              "full_en": "to gain someone's sympathy",
+              "full_vn": "giành được cảm tình của ai"
+            },
+            {
+              "full_en": "to gain one's living",
+              "full_vn": "kiếm sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đạt tới, tới",
+          "list_en_vn": [
+            {
+              "full_en": "to gain the top of a mountain",
+              "full_vn": "tới đỉnh núi"
+            },
+            {
+              "full_en": "swimmer gains the shore",
+              "full_vn": "người bơi tới bờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tăng tốc (tốc độ...); lên (cân...); nhanh (đồng hồ...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to gain on (upon )",
+              "list_im": [
+                {
+                  "im_full_vn": "lấn chiếm, lấn vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "sea gains on land",
+                      "full_vn": "biển lấn vào đất liền"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tiến sát, đuổi sát (ai, cái gì)"
+                },
+                {
+                  "im_full_vn": "tranh thủ được lòng (ai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to gain over",
+                      "full_vn": "tranh thủ được, giành được về phía mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gain credence",
+              "list_im": [
+                {
+                  "im_full_vn": "đáng tin cậy hơn nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry /gain one's point",
+              "list_im": [
+                {
+                  "im_full_vn": "thuyết phục người ta nghe mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gain ground",
+              "list_im": [
+                {
+                  "im_full_vn": "tiến tới, tiến bộ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gain sb's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai hứa hẹn lấy mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gain one's laurels",
+              "list_im": [
+                {
+                  "im_full_vn": "thành công mỹ mãn, công thành danh toại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gain time",
+              "list_im": [
+                {
+                  "im_full_vn": "trì hoãn, kéo dài thời gian"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gain the upper hand",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm thế thượng phong, thắng thế, chiếm ưu thế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "nothing venture , nothing gain",
+              "list_im": [
+                {
+                  "im_full_vn": "được ăn cả, ngã về không"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to gain weight",
+              "full_vn": "lên cân, béo ra"
+            },
+            {
+              "full_en": "watch gains five minutes",
+              "full_vn": "đồng hồ nhanh năm phút"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077880_e0cf19b1d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077880_4733c5c0ee_o.png",
+      "id_image": "gain_3553737"
+    }
+  ]
+}

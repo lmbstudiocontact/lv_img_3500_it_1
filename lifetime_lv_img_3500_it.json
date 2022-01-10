@@ -1,0 +1,58 @@
+{
+  "english": "lifetime",
+  "phat_am": "['laiftaim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoảng thời gian cuộc đời của ai hoặc sự tồn tại của cái gì; đời",
+          "list_en_vn": [
+            {
+              "full_en": "a lifetime of service",
+              "full_vn": "cả cuộc đời phục vụ"
+            },
+            {
+              "full_en": "in your lifetime , you must have seen many changes",
+              "full_vn": "trong cả cuộc đời anh, hẳn anh đã thấy nhiều thay đổi"
+            },
+            {
+              "full_en": "the chance of a lifetime",
+              "full_vn": "dịp/cơ hội đặc biệt hiếm có (cả đời mới có một lần)"
+            },
+            {
+              "full_en": "book now for the holiday of a lifetime !",
+              "full_vn": "hãy ghi tên ngay cho kỳ đi nghỉ đặc biệt!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "suốt đời",
+          "list_en_vn": [
+            {
+              "full_en": "a lifetime job",
+              "full_vn": "công việc làm suốt đời"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080305_5622a679c3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080305_8894833c30_o.png",
+      "id_image": "lifetime_2254867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080285_3aece88200_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080285_653116e636_o.png",
+      "id_image": "lifetime_2302785"
+    }
+  ]
+}

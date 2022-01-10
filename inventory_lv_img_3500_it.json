@@ -1,0 +1,72 @@
+{
+  "english": "inventory",
+  "phat_am": "[in'ventri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kiểm kê; bản kiểm kê; (từ Mỹ,nghĩa Mỹ) hàng hoá tồn kho (của một nhà buôn)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự tóm tắt; bản tóm tắt"
+        },
+        {
+          "m_full_vn": "bản kê tài nguyên; bản kê thú rừng... (ở một vùng...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiểm kê"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) tóm tắt"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đáng giá (theo kiểm kê)",
+          "list_en_vn": [
+            {
+              "full_en": "stocks inventorying at 2,000,000",
+              "full_vn": "kho hàng đáng giá 2 triệu đồng theo kiểm kê"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076845_4be843de49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076845_07f3c28af7_o.png",
+      "id_image": "inventory_1410024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454528_df7eb4f4d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454528_c8ac9b6202_o.png",
+      "id_image": "inventory_1580239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694804_ab4ecce529_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694804_4ff3d4b991_o.png",
+      "id_image": "inventory_2361687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384462_86e53aec06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384462_7f12069d79_o.png",
+      "id_image": "inventory_3985186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454423_680c1f6c24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454423_df3c5aa690_o.png",
+      "id_image": "inventory_5434458"
+    }
+  ]
+}

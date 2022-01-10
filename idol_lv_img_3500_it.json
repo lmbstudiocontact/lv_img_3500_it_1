@@ -1,0 +1,40 @@
+{
+  "english": "idol",
+  "phat_am": "['aidl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tượng thể hiện một vị thần và dùng để thờ cúng; tượng thần"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người được sùng bái; vật được tôn sùng; thần tượng",
+          "list_en_vn": [
+            {
+              "full_en": "As an only son , he is the idol of all his family",
+              "full_vn": "Nó là con trai duy nhất trong nhà, nên được cả nhà xem như thần tượng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368742_0aee1232f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368742_f387a059a1_o.png",
+      "id_image": "idol_1961037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368722_b9453e113f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368722_abee9f27ec_o.png",
+      "id_image": "idol_2267527"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368682_7ce8cbb0e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368682_fdde961562_o.png",
+      "id_image": "idol_4441519"
+    }
+  ]
+}

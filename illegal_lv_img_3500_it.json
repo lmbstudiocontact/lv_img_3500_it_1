@@ -1,0 +1,31 @@
+{
+  "english": "illegal",
+  "phat_am": "[i'li:gəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bất hợp pháp, trái luật",
+          "list_en_vn": [
+            {
+              "full_en": "an illegal marriage",
+              "full_vn": "một đám cưới không hợp pháp"
+            },
+            {
+              "full_en": "illegal business",
+              "full_vn": "việc kinh doanh bất hợp pháp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323486_469999ef41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323486_b95f9ca145_o.png",
+      "id_image": "illegal_4633952"
+    }
+  ]
+}

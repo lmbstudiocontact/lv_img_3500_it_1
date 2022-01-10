@@ -1,0 +1,48 @@
+{
+  "english": "insert",
+  "phat_am": "[in'sə:t]",
+  "list_type": [
+    {
+      "type": "danh từ, (từ Mỹ,nghĩa Mỹ)",
+      "list_m": [
+        {
+          "m_full_vn": "vật lồng vào (nhất là phần thêm vào quyển sách, tờ báo...)",
+          "list_en_vn": [
+            {
+              "full_en": "advertisement insert",
+              "full_vn": "phụ trương quảng cáo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lồng vào, gài vào, chèn vào"
+        },
+        {
+          "m_full_vn": "( + in , into ) cho (chữ, từ...) vào (tài liệu...); đăng (bài...) vào (báo...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345511_317bf32d3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345511_3469a9f790_o.png",
+      "id_image": "insert_1649614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345461_29dbf1f9f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345461_b21dd64e98_o.png",
+      "id_image": "insert_1827190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700589_7c5669b099_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700589_c1461faa1b_o.png",
+      "id_image": "insert_1827194"
+    }
+  ]
+}

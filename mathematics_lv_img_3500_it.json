@@ -1,0 +1,46 @@
+{
+  "english": "mathematics",
+  "phat_am": "[,mæθə'mætiks]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều dùng như số ít",
+      "list_m": [
+        {
+          "m_full_vn": "môn toán, toán học",
+          "list_en_vn": [
+            {
+              "full_en": "pure mathematics",
+              "full_vn": "toán học thuần tuý"
+            },
+            {
+              "full_en": "applied mathematics",
+              "full_vn": "toán học ứng dụng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674844_3a13cb836b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674844_53bb897b44_o.png",
+      "id_image": "mathematics_1284095"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674794_3341ed1598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674794_02c1aea0dd_o.png",
+      "id_image": "mathematics_1440980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056520_37521eac07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056520_b26c567a0e_o.png",
+      "id_image": "mathematics_170602"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364517_a578087a4c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364517_bcc31e1d33_o.png",
+      "id_image": "mathematics_6032181"
+    }
+  ]
+}

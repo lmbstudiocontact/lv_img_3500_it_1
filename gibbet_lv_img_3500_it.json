@@ -1,0 +1,55 @@
+{
+  "english": "gibbet",
+  "phat_am": "['dʒibit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giá treo cổ, giá phơi thây",
+          "list_en_vn": [
+            {
+              "full_en": "to die on the gibbet",
+              "full_vn": "chết treo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự treo cổ, sự chết treo"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cần trục"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "treo cổ"
+        },
+        {
+          "m_full_vn": "nêu lên để dè bỉu, nêu lên để bêu riếu",
+          "list_en_vn": [
+            {
+              "full_en": "to be gibbeted in the press",
+              "full_vn": "bị bêu riếu lên báo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688544_7d41725817_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688544_706df98c23_o.png",
+      "id_image": "gibbet_123620"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688514_4d07221045_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688514_4110e9cd2d_o.png",
+      "id_image": "gibbet_1399473"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "english": "jaw",
+  "phat_am": "[dʒɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hàm, quai hàm",
+          "list_en_vn": [
+            {
+              "full_en": "upper jaw",
+              "full_vn": "hàm trên"
+            },
+            {
+              "full_en": "lower jaw",
+              "full_vn": "hàm dưới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) mồm, miệng",
+          "list_en_vn": [
+            {
+              "full_en": "in the jaws of death",
+              "full_vn": "trong tay thần chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) lối vào hẹp (thung lũng, vịnh, eo biển...)"
+        },
+        {
+          "m_full_vn": "( số nhiều) (kỹ thuật) cái kẹp; má (kìm...), hàm ( êtô...)"
+        },
+        {
+          "m_full_vn": "(thông tục) sự lắm mồm, sự nhiều lời, sự ba hoa"
+        },
+        {
+          "m_full_vn": "sự răn dạy; sự chỉnh, sự \"lên lớp\" (nghĩa bóng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "hold your jaw !",
+              "list_im": [
+                {
+                  "im_full_vn": "thôi câm cái mồm đi, đừng ba hoa nữa; thôi đừng \"lên lớp\" nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's jaw drops",
+              "list_im": [
+                {
+                  "im_full_vn": "há hốc kinh ngạc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "pi jaw",
+              "full_vn": "(ngôn ngữ nhà trường), (từ lóng) sự chỉnh, sự \"lên lớp\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ (từ lóng)",
+      "list_m": [
+        {
+          "m_full_vn": "nói lải nhải, nói dài dòng chán ngắt"
+        },
+        {
+          "m_full_vn": "răn dạy, chỉnh, \"lên lớp\" (ai), thuyết cho (ai) một hồi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380552_4d8697eb3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380552_85e82c49db_o.png",
+      "id_image": "jaw_3465304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690659_2fbdf28263_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690659_55841266c7_o.png",
+      "id_image": "jaw_5737402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335426_baa96fa654_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335426_c85f7c526b_o.png",
+      "id_image": "jaw_6408745"
+    }
+  ]
+}

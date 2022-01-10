@@ -1,0 +1,301 @@
+{
+  "english": "fair",
+  "phat_am": "[feə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hội chợ, chợ phiên",
+          "list_one_mean": [
+            {
+              "id_full_en": "to come a day before (after ) the fair",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) day"
+                }
+              ]
+            },
+            {
+              "id_full_en": "vanity fair",
+              "list_im": [
+                {
+                  "im_full_vn": "hội chợ phù hoa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "phải, đúng, hợp lý, không thiên vị, công bằng, ngay thẳng, thẳng thắn, không gian lận",
+          "list_en_vn": [
+            {
+              "full_en": "a fair judge",
+              "full_vn": "quan toà công bằng"
+            },
+            {
+              "full_en": "by fair means",
+              "full_vn": "bằng phương tiện chính đáng; ngay thẳng, không gian lận"
+            },
+            {
+              "full_en": "fair play",
+              "full_vn": "lối chơi ngay thẳng (trong cuộc đấu); (nghĩa bóng) cách xử sự công bằng, cách xử sự ngay thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khá tốt, thuận lợi",
+          "list_en_vn": [
+            {
+              "full_en": "fair weather",
+              "full_vn": "thời tiết tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẹp",
+          "list_en_vn": [
+            {
+              "full_en": "the fair sex",
+              "full_vn": "phái đẹp, giới phụ nữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhiều, thừa thải, khá lớn",
+          "list_en_vn": [
+            {
+              "full_en": "a fair heritage",
+              "full_vn": "một di sản khá lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có vẻ đúng, có vẻ xuôi tai; khéo",
+          "list_en_vn": [
+            {
+              "full_en": "a fair argument",
+              "full_vn": "lý lẽ nghe có vẻ đúng"
+            },
+            {
+              "full_en": "fair words",
+              "full_vn": "những lời nói khéo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vàng hoe (tóc); trắng (da)",
+          "list_en_vn": [
+            {
+              "full_en": "fair hair",
+              "full_vn": "tóc vàng hoe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong sạch",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bid fair",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bid"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a fair field and no favour",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc giao tranh không bên nào ở thế lợi hơn bên nào; cuộc giao tranh với lực lượng cân bằng không ai chấp ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fair to middling",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) kha khá, tàm tạm (sức khoẻ...)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "fair water",
+              "full_vn": "nước trong"
+            },
+            {
+              "full_en": "fair fame",
+              "full_vn": "thanh danh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngay thẳng, thẳng thắn, không gian lận",
+          "list_en_vn": [
+            {
+              "full_en": "to play fair",
+              "full_vn": "chơi ngay thẳng, chơi không gian lận"
+            },
+            {
+              "full_en": "to fight fair",
+              "full_vn": "đánh đúng quy tắc, đánh đúng luật (quyền Anh...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng, trúng, tốt",
+          "list_en_vn": [
+            {
+              "full_en": "to fall fair",
+              "full_vn": "rơi trúng, rơi gọn, rơi tõm (vào...)"
+            },
+            {
+              "full_en": "to strike fair in the face",
+              "full_vn": "đánh trúng vào mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lịch sự, lễ phép",
+          "list_en_vn": [
+            {
+              "full_en": "to speak someone fair",
+              "full_vn": "nói năng lịch sự với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vào bản sạch",
+          "list_en_vn": [
+            {
+              "full_en": "to write out fair",
+              "full_vn": "chép vào bản sạch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên đẹp (thời tiết)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "viết vào bản sạch, viết lại cho sạch"
+        },
+        {
+          "m_full_vn": "ghép vào bằng mặt, ghép cho phẳng, ghép cho đều (những phiến gỗ đóng tàu...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "by fair means or foul",
+              "list_im": [
+                {
+                  "im_full_vn": "bằng mọi phương cách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by one's own fair hand",
+              "list_im": [
+                {
+                  "im_full_vn": "tự sức mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a fair crack of the whip",
+              "list_im": [
+                {
+                  "im_full_vn": "cơ hội may mắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a fair game",
+              "list_im": [
+                {
+                  "im_full_vn": "người hoặc vật bị xua đuổi hoặc trêu chọc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a fair question",
+              "list_im": [
+                {
+                  "im_full_vn": "câu hỏi tế nhị, khó trả lời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a fair shake",
+              "list_im": [
+                {
+                  "im_full_vn": "sự sắp xếp hợp tình hợp lý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have more than one's fair share of something",
+              "list_im": [
+                {
+                  "im_full_vn": "nhiều hơn dự kiến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in a fair way of business",
+              "list_im": [
+                {
+                  "im_full_vn": "thành công trên đường kinh doanh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692664_b60f274566_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692664_06e51eef84_o.png",
+      "id_image": "fair_1819827"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382337_622e06b770_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382337_1c177fcdc1_o.png",
+      "id_image": "fair_3260927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337406_729751a191_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337406_db5c9e1953_o.png",
+      "id_image": "fair_895538"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337391_e11b488bc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337391_858e6b1e99_o.png",
+      "id_image": "fair_950744"
+    }
+  ]
+}

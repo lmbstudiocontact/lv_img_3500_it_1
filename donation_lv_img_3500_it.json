@@ -1,0 +1,50 @@
+{
+  "english": "donation",
+  "phat_am": "[dou'nei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật tặng; vật cúng",
+          "list_en_vn": [
+            {
+              "full_en": "a donation to /for Amnesty International",
+              "full_vn": "một khoản tặng cho Tổ chức Ân xá quốc tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tặng; sự cúng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425238_c69ced4b4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425238_f1bf1f4aa5_o.png",
+      "id_image": "donation_1312479"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354302_3edd9cecca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354302_b876d4f68e_o.png",
+      "id_image": "donation_1312508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425153_9268f2aba5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425153_843c783388_o.png",
+      "id_image": "donation_1312510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425293_9261bfb690_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425293_0f03190758_o.png",
+      "id_image": "donation_328032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354347_79b02e36d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354347_a7aa146470_o.png",
+      "id_image": "donation_489116"
+    }
+  ]
+}

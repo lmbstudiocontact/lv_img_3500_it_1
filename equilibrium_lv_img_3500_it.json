@@ -1,0 +1,45 @@
+{
+  "english": "equilibrium",
+  "phat_am": "[,i:kwi'libriəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trạng thái cân bằng; thăng bằng",
+          "list_en_vn": [
+            {
+              "full_en": "this pair of scales is not in equilibrium",
+              "full_vn": "hia đĩa cân này không thăng bằng"
+            },
+            {
+              "full_en": "he can't maintain enough equilibrium to ride a bike",
+              "full_vn": "nó không giữ được đủ thăng bằng để lái xe mô tô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trạng thái thăng bằng về tâm trí, tình cảm",
+          "list_en_vn": [
+            {
+              "full_en": "she lost her usual equilibrium and shouted at him angrily",
+              "full_vn": "cô ấy mất tính bình tĩnh thường có và đã giận dữ quát lên với anh ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431423_0950c16511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431423_8b2e04d675_o.png",
+      "id_image": "equilibrium_1900222"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671149_182663ce53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671149_10c5c2cf89_o.png",
+      "id_image": "equilibrium_3163759"
+    }
+  ]
+}

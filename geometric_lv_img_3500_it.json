@@ -1,0 +1,37 @@
+{
+  "english": "geometric",
+  "phat_am": "[dʒiə'metrik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) hình học",
+          "list_en_vn": [
+            {
+              "full_en": "geometric progression",
+              "full_vn": "cấp số nhân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690139_63c87c634f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690139_c5b2bd6d1a_o.png",
+      "id_image": "geometric_2421974"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335011_6d0f0ce4a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335011_9d06ef7c84_o.png",
+      "id_image": "geometric_391266"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379977_304fe80235_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379977_d02a033bbe_o.png",
+      "id_image": "geometric_6006336"
+    }
+  ]
+}

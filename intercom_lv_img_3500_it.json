@@ -1,0 +1,45 @@
+{
+  "english": "intercom",
+  "phat_am": "['intəkɔm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hệ thống điện thoại nội bộ",
+          "list_en_vn": [
+            {
+              "full_en": "To call somebody on /over the intercom",
+              "full_vn": "Gọi điện thoại nội bộ cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng không) hệ thống liên lạc giữa người lái và người thả bom (trên máy bay ném bom)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079695_4f933807ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079695_4c3fd95c2e_o.png",
+      "id_image": "intercom_1744252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387217_9cafe1171b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387217_6139a39264_o.png",
+      "id_image": "intercom_2046617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387192_5b3910e517_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387192_b95f7b0604_o.png",
+      "id_image": "intercom_2357064"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387162_ba2ecdbc3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387162_6f42e58bbb_o.png",
+      "id_image": "intercom_6031104"
+    }
+  ]
+}

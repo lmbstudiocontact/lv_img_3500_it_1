@@ -1,0 +1,58 @@
+{
+  "english": "garland",
+  "phat_am": "['gɑ:lənd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vòng hoa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to win (carry away ) the garland",
+              "list_im": [
+                {
+                  "im_full_vn": "đắc thắng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trang trí bằng vòng hoa"
+        },
+        {
+          "m_full_vn": "đeo vòng hoa cho ai",
+          "list_en_vn": [
+            {
+              "full_en": "to garland laureate runners",
+              "full_vn": "đeo vòng hoa cho các cuarơ đoạt giải"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383732_05082cbb61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383732_74d1240b06_o.png",
+      "id_image": "garland_2653280"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453773_a1469731cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453773_9e458b5981_o.png",
+      "id_image": "garland_3949443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383647_ea9e720fa0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383647_453b7136ee_o.png",
+      "id_image": "garland_4534961"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "english": "freeze",
+  "phat_am": "[fri:z]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đông vì lạnh, sự giá lạnh; tình trạng đông vì lạnh"
+        },
+        {
+          "m_full_vn": "tiết đông giá"
+        },
+        {
+          "m_full_vn": "sự ổn định; sự hạn định (giá cả, tiền lương...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ froze , frozen",
+      "list_m": [
+        {
+          "m_full_vn": "đóng băng"
+        },
+        {
+          "m_full_vn": "đông lại (vì lạnh), lạnh cứng"
+        },
+        {
+          "m_full_vn": "thấy lạnh, thấy giá"
+        },
+        {
+          "m_full_vn": "thấy ớn lạnh, thấy ghê ghê (vì sợ)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đóng băng"
+        },
+        {
+          "m_full_vn": "làm đông, làm lạnh cứng",
+          "list_en_vn": [
+            {
+              "full_en": "to freeze someone to death",
+              "full_vn": "làm ai chết cóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ướp lạnh (thức ăn)"
+        },
+        {
+          "m_full_vn": "làm (ai) ớn lạnh"
+        },
+        {
+          "m_full_vn": "làm lạnh nhạt (tình cảm)"
+        },
+        {
+          "m_full_vn": "làm tê liệt (khả năng...)"
+        },
+        {
+          "m_full_vn": "ngăn cản, cản trở (sự thực hiện)"
+        },
+        {
+          "m_full_vn": "ổn định; hạn định (giá cả, tiền lương...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to freeze on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) nắm chặt lấy, giữ chặt lấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to freeze out",
+              "list_im": [
+                {
+                  "im_full_vn": "cho (ai) ra rìa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to freeze over",
+              "list_im": [
+                {
+                  "im_full_vn": "phủ đầy băng; bị phủ đầy băng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to freeze someone's blood",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ai sợ hết hồn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "frozen limit",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) mức chịu đựng cao nhất"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427633_e2e0b88d46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427633_212e78b378_o.png",
+      "id_image": "freeze_3426146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356812_feac5333a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356812_79f20eeabc_o.png",
+      "id_image": "freeze_4636008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667629_e16d332ed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667629_739c0b77b9_o.png",
+      "id_image": "freeze_4865928"
+    }
+  ]
+}

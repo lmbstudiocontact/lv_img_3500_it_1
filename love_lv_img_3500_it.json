@@ -1,0 +1,204 @@
+{
+  "english": "love",
+  "phat_am": "[lʌv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lòng yêu, tình thương",
+          "list_en_vn": [
+            {
+              "full_en": "love of one's country",
+              "full_vn": "lòng yêu nước"
+            },
+            {
+              "full_en": "a mother's love for her children",
+              "full_vn": "tình mẹ yêu con"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình yêu, mối tình, ái tình",
+          "list_en_vn": [
+            {
+              "full_en": "first love",
+              "full_vn": "mối tình đầu"
+            },
+            {
+              "full_en": "never trifle with love",
+              "full_vn": "không nên đùa bỡn với tình yêu"
+            },
+            {
+              "full_en": "to be in love with",
+              "full_vn": "yêu (ai)"
+            },
+            {
+              "full_en": "to fall in love with",
+              "full_vn": "đâm ra yêu (phải lòng) (ai)"
+            },
+            {
+              "full_en": "to make love to someone",
+              "full_vn": "tán tỉnh ai, tỏ tình với ai; ôm ấp hôn hít ai, ăn nằm với ai"
+            },
+            {
+              "full_en": "to marry for love",
+              "full_vn": "kết hôn vì tình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người yêu, người tình"
+        },
+        {
+          "m_full_vn": "thần ái tình"
+        },
+        {
+          "m_full_vn": "(thông tục) người đáng yêu; vật đáng yêu"
+        },
+        {
+          "m_full_vn": "(tôn giáo) tình thương của Thiên Chúa đối với loài người"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) điểm không, không (quần vợt)",
+          "list_one_mean": [
+            {
+              "id_full_en": "the love in a cottage",
+              "list_im": [
+                {
+                  "im_full_vn": "ái tình và nước lã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one can't get it for love or money",
+              "list_im": [
+                {
+                  "im_full_vn": "không có cách gì lấy được cái đó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play for love",
+              "list_im": [
+                {
+                  "im_full_vn": "chơi vì thích, không phải vì tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there is no love lost between them",
+              "list_im": [
+                {
+                  "im_full_vn": "chúng nó ghét nhau như đào đất đổ đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for the love of God",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy vì lòng nhân từ của Chúa!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send sb one's love",
+              "list_im": [
+                {
+                  "im_full_vn": "gửi ai lời chào thân ái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a labour of love",
+              "list_im": [
+                {
+                  "im_full_vn": "việc làm do đam mê (chứ không phải vì tiền)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the love of sb's life",
+              "list_im": [
+                {
+                  "im_full_vn": "người yêu quý nhất đời"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "love all",
+              "full_vn": "không không (hai bên cùng không được điểm nào)"
+            },
+            {
+              "full_en": "love forty",
+              "full_vn": "không bốn mươi"
+            },
+            {
+              "full_en": "a love set",
+              "full_vn": "một ván thua trắng (người thua không được điểm nào)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "yêu, thương, yêu mến",
+          "list_en_vn": [
+            {
+              "full_en": "to love one another",
+              "full_vn": "yêu nhau, thương nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thích, ưa thích",
+          "list_one_mean": [
+            {
+              "id_full_en": "love me , love my dog",
+              "list_im": [
+                {
+                  "im_full_vn": "yêu ai yêu cả đường đi, ghét ai ghét cả tông chi họ hàng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to love sports",
+              "full_vn": "thích thể thao"
+            },
+            {
+              "full_en": "to love music",
+              "full_vn": "thích âm nhạc"
+            },
+            {
+              "full_en": "he loves to be praised",
+              "full_vn": "nó thích được khen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "cưng (tiếng xưng hô đối với người mà mình mến)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378907_bd235ab77b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378907_ca8e548478_o.png",
+      "id_image": "love_708692"
+    }
+  ]
+}

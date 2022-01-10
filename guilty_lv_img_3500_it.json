@@ -1,0 +1,68 @@
+{
+  "english": "guilty",
+  "phat_am": "['gilti]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đã làm điều sai trái, đáng khiển trách",
+          "list_en_vn": [
+            {
+              "full_en": "to plead guilty (to a crime )",
+              "full_vn": "nhận là mình đã phạm tội; nhận tội"
+            },
+            {
+              "full_en": "a guilty person",
+              "full_vn": "một người phạm tội"
+            },
+            {
+              "full_en": "the guilty party",
+              "full_vn": "bên phạm tội"
+            },
+            {
+              "full_en": "a guilty act",
+              "full_vn": "hành vi tội lỗi"
+            },
+            {
+              "full_en": "a guilty conscience",
+              "full_vn": "lương tâm bị dằn vặt vì mặc cảm tội lỗi"
+            },
+            {
+              "full_en": "to look guilty",
+              "full_vn": "trông có vẻ như có lỗi"
+            },
+            {
+              "full_en": "I feel guilty about visiting her so rarely",
+              "full_vn": "tôi cảm thấy có lỗi vì đến thăm cô ấy quá ít"
+            },
+            {
+              "full_en": "the verdict of the jury was 'not guilty'",
+              "full_vn": "phán quyết của hội đồng xét xử là 'không có tội'"
+            },
+            {
+              "full_en": "to be found guilty of negligence",
+              "full_vn": "bị phát hiện là phạm tội cẩu thả"
+            },
+            {
+              "full_en": "to declare somebody not guilty",
+              "full_vn": "tuyên bố ai vô tội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362362_75e321dd78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362362_dc28cded37_o.png",
+      "id_image": "guilty_6000943"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317861_86954f4747_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317861_b235c9dc9b_o.png",
+      "id_image": "guilty_6002750"
+    }
+  ]
+}

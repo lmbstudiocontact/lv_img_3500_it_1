@@ -1,0 +1,110 @@
+{
+  "english": "mad",
+  "phat_am": "[mæd]",
+  "list_type": [
+    {
+      "type": "tính từ ( madder , maddest )",
+      "list_m": [
+        {
+          "m_full_vn": "điên, điên rồ, điên cuồng, mất trí",
+          "list_en_vn": [
+            {
+              "full_en": "to go mad",
+              "full_vn": "phát điên, hoá điên"
+            },
+            {
+              "full_en": "to drive someone mad",
+              "full_vn": "làm cho ai phát điên lên"
+            },
+            {
+              "full_en": "like mad",
+              "full_vn": "như điên, như cuồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) bực dọc, bực bội; tức điên ruột",
+          "list_en_vn": [
+            {
+              "full_en": "to be mad about (at ) missing the train",
+              "full_vn": "bực bội vì bị nhỡ xe lửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + about , after , for , on ) say mê điên dại, ham thích mãnh liệt",
+          "list_en_vn": [
+            {
+              "full_en": "to be mad on music",
+              "full_vn": "say mê âm nhạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vui chơi ầm ĩ"
+        },
+        {
+          "m_full_vn": "liều lĩnh",
+          "list_en_vn": [
+            {
+              "full_en": "mad venture",
+              "full_vn": "một hành vi liều lĩnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tức giận, giận dữ, nổi giận",
+          "list_en_vn": [
+            {
+              "full_en": "to get mad",
+              "full_vn": "nổi giận"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "như madden"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cơn giận dữ, cơn phẫn nộ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685709_027695f8de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685709_a33e30e3cf_o.png",
+      "id_image": "mad_2366540"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375272_78745c5bc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375272_e609b88889_o.png",
+      "id_image": "mad_4126695"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375242_ab32684c53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375242_927b0383d1_o.png",
+      "id_image": "mad_5747320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445493_e8fd66aafd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445493_7cb5d722ae_o.png",
+      "id_image": "mad_6066498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330426_c1287f6a41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330426_d66a227ddf_o.png",
+      "id_image": "mad_6300341"
+    }
+  ]
+}

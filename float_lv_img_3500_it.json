@@ -1,0 +1,145 @@
+{
+  "english": "float",
+  "phat_am": "[flout]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái phao; phao cứu đắm"
+        },
+        {
+          "m_full_vn": "bè (gỗ...); mảng trôi (băng, rong...)"
+        },
+        {
+          "m_full_vn": "bong bóng (cá)"
+        },
+        {
+          "m_full_vn": "xe ngựa (chở hàng nặng)"
+        },
+        {
+          "m_full_vn": "xe rước, xe diễu hành (không có mui để đặt các thứ lên mà rước khách, mà diễu hành)"
+        },
+        {
+          "m_full_vn": "(sân khấu) ( số nhiều) dãy đèn chiếu trước sân khấu"
+        },
+        {
+          "m_full_vn": "cánh (guồng, nước)"
+        },
+        {
+          "m_full_vn": "cái bay"
+        },
+        {
+          "m_full_vn": "cái giũa có đường khía một chiều"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) sự nổi",
+          "list_en_vn": [
+            {
+              "full_en": "on the float",
+              "full_vn": "nổi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nổi, trôi lềnh bềnh",
+          "list_en_vn": [
+            {
+              "full_en": "wood floats on water",
+              "full_vn": "gỗ nổi trên mặt nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lơ lửng",
+          "list_en_vn": [
+            {
+              "full_en": "dust floats in the air",
+              "full_vn": "bụi lơ lửng trong không khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đỡ cho nổi (nước)"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) bắt đầu, khởi công, khởi sự"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) lưu hành, lưu thông; sắp đến hạn trả"
+        },
+        {
+          "m_full_vn": "thoáng qua, phảng phất",
+          "list_en_vn": [
+            {
+              "full_en": "ideas float through mind",
+              "full_vn": "ý nghĩ thoáng qua trong trí óc"
+            },
+            {
+              "full_en": "visions float before the eyes",
+              "full_vn": "những ảo ảnh phảng phất trước mắt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thả trôi, làm nổi lên, đỡ nổi",
+          "list_en_vn": [
+            {
+              "full_en": "to float a raft of logs down a river",
+              "full_vn": "thả bè gỗ trôi sông"
+            },
+            {
+              "full_en": "to float a ship",
+              "full_vn": "làm nổi một chiếc tàu (mắc cạn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm ngập nước"
+        },
+        {
+          "m_full_vn": "truyền (tin đồn)"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) bắt đầu khởi công, khởi sự (kế hoạch, công trình...)"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) cổ động tuyên truyền cho",
+          "list_en_vn": [
+            {
+              "full_en": "to float a loan",
+              "full_vn": "cổ động tuyên truyền gọi người cho vay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436333_a4aff994f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436333_e66552a51d_o.png",
+      "id_image": "float_390806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057810_7cce6eb71c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057810_be23890073_o.png",
+      "id_image": "float_4861733"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365952_e05fcdfda5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365952_5fef925ddc_o.png",
+      "id_image": "float_499416"
+    }
+  ]
+}

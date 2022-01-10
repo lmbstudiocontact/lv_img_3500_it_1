@@ -1,0 +1,67 @@
+{
+  "english": "husband",
+  "phat_am": "['hʌzbənd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chồng"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) người quản lý, người trông nom (việc chi tiêu...)"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) người làm ruộng",
+          "list_one_mean": [
+            {
+              "id_full_en": "husband and wife",
+              "list_im": [
+                {
+                  "im_full_vn": "đôi vợ chồng; cặp vợ chồng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to live together as husband and wife",
+                      "full_vn": "sống với nhau như vợ chồng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dùng (cái gì) một cách dè xẻn và tiết kiệm; tiết kiệm",
+          "list_en_vn": [
+            {
+              "full_en": "to husband one's strength , resources",
+              "full_vn": "tiết kiệm sức khoẻ, tài nguyên của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681644_efd0e8aeef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681644_a627255810_o.png",
+      "id_image": "husband_1192072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371262_4f6177fa17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371262_f0fe4b7929_o.png",
+      "id_image": "husband_1320922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681554_c727d9f27c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681554_e0f5181e71_o.png",
+      "id_image": "husband_5526243"
+    }
+  ]
+}

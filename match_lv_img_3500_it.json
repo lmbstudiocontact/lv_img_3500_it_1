@@ -1,0 +1,149 @@
+{
+  "english": "match",
+  "phat_am": "[mæt∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "diêm"
+        },
+        {
+          "m_full_vn": "ngòi (châm súng hoả mai...)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc thi đấu",
+          "list_en_vn": [
+            {
+              "full_en": "a football /boxing match",
+              "full_vn": "một cuộc thi đấu bóng đá/quyền Anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "địch thủ, đối thủ; người ngang tài, người ngang sức",
+          "list_en_vn": [
+            {
+              "full_en": "to find /meet one's match in somebody",
+              "full_vn": "gặp ai xứng đáng là đối thủ"
+            },
+            {
+              "full_en": "I am no match for him in martial arts",
+              "full_vn": "về võ nghệ, tôi không phải là đối thủ của ông ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái xứng nhau, cái hợp nhau",
+          "list_en_vn": [
+            {
+              "full_en": "these two kinds of cloth are a good match",
+              "full_vn": "hai loại vải này rất hợp nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kết hôn; hôn nhân",
+          "list_en_vn": [
+            {
+              "full_en": "to make a match",
+              "full_vn": "tác thành một cuộc hôn nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đám (chỉ người định lấy làm vợ hay làm chồng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "a slanging match",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc đấu khẩu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she (he ) is a good match",
+              "full_vn": "cái đám ấy tốt đấy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đối chọi, địch được, sánh được",
+          "list_en_vn": [
+            {
+              "full_en": "worldly pleasures cannot match those joys",
+              "full_vn": "những thú trần tục không thể sánh được với những niềm vui này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho hợp, làm cho phù hợp",
+          "list_en_vn": [
+            {
+              "full_en": "they are well matched",
+              "full_vn": "hai người hợp nhau lắm, hai người rất tốt đôi; hai người thật là kỳ phùng địch thủ"
+            },
+            {
+              "full_en": "to match words with deeds",
+              "full_vn": "làm cho lời nói phù hợp với việc làm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xứng, hợp",
+          "list_en_vn": [
+            {
+              "full_en": "these two colours do not match",
+              "full_vn": "hai màu này không hợp nhau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675759_39fb825996_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675759_301fdfa844_o.png",
+      "id_image": "match_203975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320701_84f5414334_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320701_1ef5e96114_o.png",
+      "id_image": "match_2396342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365602_3259c36d9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365602_6849f78b2c_o.png",
+      "id_image": "match_3915683"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435833_ea70d13d8f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435833_377ac2c22e_o.png",
+      "id_image": "match_4412724"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057350_d9b83792e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057350_8035573b14_o.png",
+      "id_image": "match_5226382"
+    }
+  ]
+}

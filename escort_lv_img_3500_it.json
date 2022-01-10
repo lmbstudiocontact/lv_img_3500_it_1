@@ -1,0 +1,64 @@
+{
+  "english": "escort",
+  "phat_am": "[is'kɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hoặc nhóm người, tàu thủy, xe... đi theo ai/cái gì để bảo vệ hoặc vì lòng tôn kính; đội hộ tống; người hộ tống",
+          "list_en_vn": [
+            {
+              "full_en": "The Government provided an armed escort for the visiting Prime Minister",
+              "full_vn": "Chính phủ đã chuẩn bị một đội hộ tống có vũ trang cho Thủ tướng đến thăm"
+            },
+            {
+              "full_en": "The Queen's yacht had an escort of ten destroyers",
+              "full_vn": "Chiếc thuyền buồm của Nữ hoàng có mười tàu khu trục đi hộ tống"
+            },
+            {
+              "full_en": "The gold bullion was transported under police escort",
+              "full_vn": "Thỏi vàng được chuyển đi dưới sự hộ tống của cảnh sát"
+            },
+            {
+              "full_en": "Soldiers on escort duty",
+              "full_vn": "Những chiến sĩ làm nhiệm vụ hộ tống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người đàn ông đi theo một người khác giới trong các dịp họp mặt đặc biệt; người phò tá; vệ sĩ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to escort somebody to something ) đi theo ai để hộ tống",
+          "list_en_vn": [
+            {
+              "full_en": "A princess escorted by soldiers",
+              "full_vn": "Một vị quận công có lính hộ tống"
+            },
+            {
+              "full_en": "May I escort you to the ball ?",
+              "full_vn": "Tôi phó tá cô đến buổi khiêu vũ nhé?"
+            },
+            {
+              "full_en": "Her brother's friend escorted her home",
+              "full_vn": "Bạn của anh cô ta đã đưa cô ta về nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670134_e6bfd07912_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670134_9b66179062_o.png",
+      "id_image": "escort_4413363"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "lunch",
+  "phat_am": "[lʌnt∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bữa ăn vào giữa ngày; bữa trưa",
+          "list_en_vn": [
+            {
+              "full_en": "he's gone to /for lunch",
+              "full_vn": "anh ấy đã đi ăn trưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bữa ăn nhẹ vào bất cứ lúc nào",
+          "list_en_vn": [
+            {
+              "full_en": "we'll have a lunch after the meeting",
+              "full_vn": "chúng ta sẽ ăn nhẹ sau buổi họp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đãi ai ăn trưa; dọn bữa ăn trưa cho ai"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dùng bữa ăn trưa",
+          "list_en_vn": [
+            {
+              "full_en": "where do they usually lunch ?",
+              "full_vn": "họ thường ăn trưa ở đâu?"
+            },
+            {
+              "full_en": "we lunched (out ) on fried eggs",
+              "full_vn": "chúng tôi ăn trưa với trứng rán"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332446_fc08f91c9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332446_be2fd4d22b_o.png",
+      "id_image": "lunch_1058549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447483_549b1c2ee6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447483_f90fa299f6_o.png",
+      "id_image": "lunch_195815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069160_e6877ab9dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069160_c58d89b85b_o.png",
+      "id_image": "lunch_1985698"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069110_5c199df56c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069110_6cdb17b3db_o.png",
+      "id_image": "lunch_5483765"
+    }
+  ]
+}

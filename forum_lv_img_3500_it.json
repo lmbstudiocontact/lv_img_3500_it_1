@@ -1,0 +1,48 @@
+{
+  "english": "forum",
+  "phat_am": "['fɔ:rəm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "diễn đàn ( (nghĩa đen) & (nghĩa bóng))"
+        },
+        {
+          "m_full_vn": "toà án",
+          "list_en_vn": [
+            {
+              "full_en": "the forum of conscience",
+              "full_vn": "toà án lương tâm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) ( La mã) chợ, nơi công cộng; chỗ hội họp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668899_f491e4cd6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668899_d209049897_o.png",
+      "id_image": "forum_2482283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358337_2895dd0275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358337_66319e6d5f_o.png",
+      "id_image": "forum_4248528"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668834_5a1e1133aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668834_831d6fa354_o.png",
+      "id_image": "forum_4716345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314171_6d75fa7f2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314171_fb3831f30f_o.png",
+      "id_image": "forum_943605"
+    }
+  ]
+}

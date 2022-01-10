@@ -1,0 +1,82 @@
+{
+  "english": "map",
+  "phat_am": "[mæp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản đồ"
+        },
+        {
+          "m_full_vn": "(từ lóng) mặt"
+        },
+        {
+          "m_full_vn": "(vật lý) ánh xạ",
+          "list_one_mean": [
+            {
+              "id_full_en": "off the map",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) không quan trọng"
+                },
+                {
+                  "im_full_vn": "(thông tục) lỗi thời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the map",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) quan trọng có tiếng"
+                },
+                {
+                  "im_full_vn": "nóng hổi, có tính chất thời sự (vấn đề...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẽ lên bản đồ"
+        },
+        {
+          "m_full_vn": "sắp xếp, sắp đặt, vạch ra",
+          "list_en_vn": [
+            {
+              "full_en": "to map out one's time",
+              "full_vn": "sắp xếp thời gian"
+            },
+            {
+              "full_en": "to map out a strategy",
+              "full_vn": "vạch ra một chiến lược"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439288_21d42c39d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439288_110bf68dd0_o.png",
+      "id_image": "map_123642"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439243_b0f39af19b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439243_3f8f3d9cc8_o.png",
+      "id_image": "map_207320"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061055_2290219b5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061055_e90073908d_o.png",
+      "id_image": "map_683836"
+    }
+  ]
+}

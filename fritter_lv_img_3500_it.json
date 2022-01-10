@@ -1,0 +1,48 @@
+{
+  "english": "fritter",
+  "phat_am": "['fritə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "món rán"
+        },
+        {
+          "m_full_vn": "( số nhiều) (như) fenks"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phung phí (thì giờ, tiền của...)",
+          "list_en_vn": [
+            {
+              "full_en": "to fritter away one's time on useless things",
+              "full_vn": "lãng phí thì giờ vào những việc vô ích"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343886_12ebff0db5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343886_5a621e36f4_o.png",
+      "id_image": "fritter_205080"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388737_0a2d1afa4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388737_18904027d1_o.png",
+      "id_image": "fritter_205182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458523_83d3504896_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458523_51b80e342f_o.png",
+      "id_image": "fritter_454393"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "english": "lease",
+  "phat_am": "[li:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hợp đồng cho thuê (bất động sản)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to put out to lease",
+              "list_im": [
+                {
+                  "im_full_vn": "đem cho thuê"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on a lease",
+              "list_im": [
+                {
+                  "im_full_vn": "được cho thuê theo hợp đồng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take (have , get ) a new lease of life",
+              "list_im": [
+                {
+                  "im_full_vn": "lại hoạt động, lại vui sống (sau khi ốm nặng hay sau khi một việc lo buồn)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to take a house on a lease of several years",
+              "full_vn": "thuê một căn nhà có ký hợp đồng trong nhiều năm"
+            },
+            {
+              "full_en": "long lease",
+              "full_vn": "hợp đồng cho thuê dài hạn"
+            },
+            {
+              "full_en": "when does the lease expire ?",
+              "full_vn": "bao giờ hợp đồng thuê mãn hạn?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho thuê; thuê"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462718_ce57ed9e6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462718_d0e5ded91a_o.png",
+      "id_image": "lease_1965904"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347866_27a362bc84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347866_647e02c8cd_o.png",
+      "id_image": "lease_2558072"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392742_bd07457538_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392742_d3f465aebf_o.png",
+      "id_image": "lease_5235522"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347816_6cf7286341_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347816_2a2fa027b5_o.png",
+      "id_image": "lease_5235570"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702509_300a599e6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702509_9514c5034f_o.png",
+      "id_image": "lease_5235616"
+    }
+  ]
+}

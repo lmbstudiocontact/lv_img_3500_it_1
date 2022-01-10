@@ -1,0 +1,214 @@
+{
+  "english": "fear",
+  "phat_am": "[fiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sợ hãi; sự khiếp sợ",
+          "list_en_vn": [
+            {
+              "full_en": "unable to speak from fear",
+              "full_vn": "sợ đến nỗi không nói nên lời"
+            },
+            {
+              "full_en": "overcome by fear",
+              "full_vn": "sợ khiếp vía"
+            },
+            {
+              "full_en": "to feel /show no fear",
+              "full_vn": "chẳng sợ tí nào; không hề nao núng"
+            },
+            {
+              "full_en": "a fear of heights",
+              "full_vn": "sự sợ độ cao"
+            },
+            {
+              "full_en": "to overcome /dispel /allay somebody's fears",
+              "full_vn": "khắc phục/xua tan/làm vơi đi những nỗi lo sợ của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự kính sợ",
+          "list_one_mean": [
+            {
+              "id_full_en": "for fear of something /of doing something ; for fear (that )......",
+              "list_im": [
+                {
+                  "im_full_vn": "trong trường hợp; để đề phòng cai gì xảy ra; e rằng; sợ rằng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we spoke in whispers for fear of waking the baby /for fear (that ) we might wake the baby",
+                      "full_vn": "chúng tôi nói thì thầm sợ rằng có thể đánh thức đứa bé"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold no fears /terrors for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng làm cho ai sợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in fear and trembling",
+              "list_im": [
+                {
+                  "im_full_vn": "một cách e dè, một cách sợ hãi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they went to the teacher in fear and trembling to tell her that they'd broken a window",
+                      "full_vn": "chúng run sợ đến gặp cô giáo để nói cho cô biết rằng chúng đã làm vỡ kính cửa sổ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in fear of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "trong trạng thái sợ ai/cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in fear of one's life",
+              "list_im": [
+                {
+                  "im_full_vn": "lo sợ cho tính mạng của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "no fear",
+              "list_im": [
+                {
+                  "im_full_vn": "(để đáp lại một câu hỏi) chắc chắn là không"
+                }
+              ]
+            },
+            {
+              "id_full_en": "without fear or favour",
+              "list_im": [
+                {
+                  "im_full_vn": "không thiên vị"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there's no much fear of something",
+              "list_im": [
+                {
+                  "im_full_vn": "có khả năng điều gì sẽ không xảy ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there's no much fear of such accidents",
+                      "full_vn": "có khả năng những tai nạn như vậy sẽ không xảy ra"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the fear of God",
+              "full_vn": "sự kính sợ Chúa"
+            },
+            {
+              "full_en": "to put the fear of God into somebody",
+              "full_vn": "làm cho ai sợ hãi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sợ; lo ngại",
+          "list_en_vn": [
+            {
+              "full_en": "he fears nothing",
+              "full_vn": "hắn ta không sợ cái gì cả"
+            },
+            {
+              "full_en": "we fear the worst",
+              "full_vn": "chúng tôi sợ những điều xấu nhất sẽ xảy ra"
+            },
+            {
+              "full_en": "The plague was greatly feared in the Middle Ages",
+              "full_vn": "Thời Trung cổ, người ta rất sợ bệnh dịch hạch"
+            },
+            {
+              "full_en": "Never fear , everything will be all right",
+              "full_vn": "Đừng sợ, mọi việc rồi sẽ ổn thôi"
+            },
+            {
+              "full_en": "she feared to speak in his presence",
+              "full_vn": "cô ta sợ nói trước mặt anh ấy"
+            },
+            {
+              "full_en": "I fear (that ) he is going to die",
+              "full_vn": "tôi e rằng anh ấy sắp chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kính sợ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fear for somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "lo lắng hoặc băn khoăn về ai/cài gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I fear for her safety in this weather",
+                      "full_vn": "tôi lo cho sự an toàn của bà ta trong thời tiết này"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to fear God",
+              "full_vn": "kính sợ Chúa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070680_d0cdcf5921_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070680_3c79bc4135_o.png",
+      "id_image": "fear_2367133"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688774_8a83dfa598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688774_c3dd51b80d_o.png",
+      "id_image": "fear_4897333"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688879_6767bcc03c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688879_22d8bdb56b_o.png",
+      "id_image": "fear_708633"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378657_5dcdb43def_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378657_b6367d1879_o.png",
+      "id_image": "fear_817782"
+    }
+  ]
+}

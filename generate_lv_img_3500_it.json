@@ -1,0 +1,30 @@
+{
+  "english": "generate",
+  "phat_am": "['dʒenəreit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sinh, đẻ ra"
+        },
+        {
+          "m_full_vn": "phát, phát ra",
+          "list_en_vn": [
+            {
+              "full_en": "to generate electricity",
+              "full_vn": "phát điện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336341_4de6f9241f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336341_34ef0e3865_o.png",
+      "id_image": "generate_5391609"
+    }
+  ]
+}

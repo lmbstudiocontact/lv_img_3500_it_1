@@ -1,0 +1,147 @@
+{
+  "english": "horn",
+  "phat_am": "[hɔ:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sừng (trâu bò...); gạc hươu, nai...)"
+        },
+        {
+          "m_full_vn": "râu, anten (sâu bọ...), mào, lông (chim)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sừng (tượng trưng cho sự cắm sừng chồng)"
+        },
+        {
+          "m_full_vn": "chất sừng",
+          "list_en_vn": [
+            {
+              "full_en": "comb made of horn",
+              "full_vn": "lược làm bằng sừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồ dùng bằng sừng"
+        },
+        {
+          "m_full_vn": "tù và"
+        },
+        {
+          "m_full_vn": "thiết bị phát ra âm thanh báo hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "a car horn",
+              "full_vn": "còi xe ô tô"
+            },
+            {
+              "full_en": "to sound the horn to alert a cyclist",
+              "full_vn": "bấm còi để báo hiệu cho người đi xe đạp"
+            },
+            {
+              "full_en": "he's got a voice like a fog-horn",
+              "full_vn": "nó có giọng nói ồm ồm như còi báo hiệu sương mù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) kèn co"
+        },
+        {
+          "m_full_vn": "đe hai đầu nhọn"
+        },
+        {
+          "m_full_vn": "đầu nhọn trăng lưỡi liềm"
+        },
+        {
+          "m_full_vn": "mỏm (vịnh)"
+        },
+        {
+          "m_full_vn": "nhánh (sông)"
+        },
+        {
+          "m_full_vn": "cành (hoa...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "on the horns of a dilemma",
+              "list_im": [
+                {
+                  "im_full_vn": "tiến không được mà lùi chẳng xong, tiến thoái lưỡng nan"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to draw in one's horns",
+              "list_im": [
+                {
+                  "im_full_vn": "co vòi lại, bớt vênh váo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "horn of plenty",
+              "list_im": [
+                {
+                  "im_full_vn": "sừng dê kết hoa quả (tượng trưng cho sự phong phú)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the bull by the horns",
+              "list_im": [
+                {
+                  "im_full_vn": "xem bull"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm thành hình sừng, sửa thành hình sừng"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to horn in ) dính vào, can thiệp vào, xía vào (một hoạt động hấp dẫn)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068750_7babf1a6d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068750_0c00ac4393_o.png",
+      "id_image": "horn_280078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068690_44528258a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068690_8d1f82012d_o.png",
+      "id_image": "horn_4082400"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331951_a0906070e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331951_c63c7499e9_o.png",
+      "id_image": "horn_4330817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446938_44ed49d803_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446938_e567c4283c_o.png",
+      "id_image": "horn_6255117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687044_128638c173_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687044_73a138f102_o.png",
+      "id_image": "horn_788087"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "english": "factory",
+  "phat_am": "['fæktəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà máy, xí nghiệp, xưởng",
+          "list_en_vn": [
+            {
+              "full_en": "factory ship",
+              "full_vn": "tàu chế biến hải sản"
+            },
+            {
+              "full_en": "factory farm",
+              "full_vn": "xí nghiệp chăn nuôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sử học) đại lý ở nước ngoài (của một số hãng buôn))"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075015_888dc46483_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075015_5f42da47c8_o.png",
+      "id_image": "factory_224584"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693234_3494631f2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693234_43e42cc625_o.png",
+      "id_image": "factory_307132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074985_ff2c97e9de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074985_c1716d6e59_o.png",
+      "id_image": "factory_315251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452788_a8b264fa74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452788_2e881a6536_o.png",
+      "id_image": "factory_858270"
+    }
+  ]
+}

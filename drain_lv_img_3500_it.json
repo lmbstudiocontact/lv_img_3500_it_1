@@ -1,0 +1,99 @@
+{
+  "english": "drain",
+  "phat_am": "[drein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ống dẫn (nước...), cống, rãnh, mương, máng"
+        },
+        {
+          "m_full_vn": "(y học) ống dẫn lưu"
+        },
+        {
+          "m_full_vn": "sự rút hết, sự bòn rút hết, sự tiêu hao, sự làm kiệt quệ",
+          "list_en_vn": [
+            {
+              "full_en": "a drain on someone's purse",
+              "full_vn": "sự bòn rút tiền của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) hớp nhỏ (rượu)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + off , away ) rút, tháo, tiêu (nước); làm ráo nước (quần áo giặt, bát đĩa rửa)",
+          "list_en_vn": [
+            {
+              "full_en": "to drain off the water",
+              "full_vn": "tháo nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "uống cạn (nước, rượu)",
+          "list_en_vn": [
+            {
+              "full_en": "to drain dry ; to drain to the dregs",
+              "full_vn": "uống cạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) dẫn lưu"
+        },
+        {
+          "m_full_vn": "rút hết, bòn rút hết, tiêu hao, làm kiệt quệ",
+          "list_en_vn": [
+            {
+              "full_en": "to drain the wealth of a country",
+              "full_vn": "bòn rút hết của cải của một nước"
+            },
+            {
+              "full_en": "to drain someone of his property",
+              "full_vn": "lấy hết của cải của ai, bòn rút hết tài sản của ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + off , away ) chảy đi, thoát đi, tiêu đi (nước...)"
+        },
+        {
+          "m_full_vn": "ráo nước (quần áo giặt, bát đĩa rửa)"
+        },
+        {
+          "m_full_vn": "( + through ) chảy ròng ròng, chảy nhỏ giọt (qua...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306851_205f9038dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306851_cdb2bf85c8_o.png",
+      "id_image": "drain_2482638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351037_f70fcff304_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351037_32a9031309_o.png",
+      "id_image": "drain_4745355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043920_d74a974da2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043920_cc5cf7319b_o.png",
+      "id_image": "drain_525815"
+    }
+  ]
+}

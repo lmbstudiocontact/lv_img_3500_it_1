@@ -1,0 +1,47 @@
+{
+  "english": "irrational",
+  "phat_am": "[i'ræ∫ənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không hợp lý, phi lý",
+          "list_en_vn": [
+            {
+              "full_en": "the irrational division of labour",
+              "full_vn": "sự phân công lao động bất hợp lý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không có lý trí"
+        },
+        {
+          "m_full_vn": "(toán học) vô tỷ",
+          "list_en_vn": [
+            {
+              "full_en": "irrational function",
+              "full_vn": "hàm vô tỷ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) số vô tỷ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452383_088b7352b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452383_ba814eb09c_o.png",
+      "id_image": "irrational_4899594"
+    }
+  ]
+}

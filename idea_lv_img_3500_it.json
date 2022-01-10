@@ -1,0 +1,113 @@
+{
+  "english": "idea",
+  "phat_am": "[ai'diə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quan niệm, tư tưởng, ý tưởng, ý nghĩ, ý kiến",
+          "list_en_vn": [
+            {
+              "full_en": "a fixed idea",
+              "full_vn": "quan niệm cố định"
+            },
+            {
+              "full_en": "the young idea",
+              "full_vn": "lối nghĩ trẻ thơ, trí óc trẻ thơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý niệm, khái niệm, sự hiểu biết qua",
+          "list_en_vn": [
+            {
+              "full_en": "we hadn't the slightest idea of it",
+              "full_vn": "chúng tôi không có một ý niệm về cái đó, chúng tôi không biết một chút gì về điều đó"
+            },
+            {
+              "full_en": "to give an idea of something",
+              "full_vn": "cho một ý niệm về vấn đề gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hình dung, sự tưởng tượng; điều tưởng tượng",
+          "list_en_vn": [
+            {
+              "full_en": "I had no idea that you could do it",
+              "full_vn": "tôi không hình dung được anh có thể làm điều đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý định, kế hoạch hành động, ý đồ",
+          "list_en_vn": [
+            {
+              "full_en": "what's the big idea ?",
+              "full_vn": "(mỉa mai) cậu nuôi ý định điên rồ gì trong đầu thế?"
+            },
+            {
+              "full_en": "man of ideas",
+              "full_vn": "người lắm mưu nhiều kế, người có tài xoay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(triết học) mẫu mực lý tưởng (theo Pla-ton); ý niệm của lý trí (theo Căng); đối tượng trực tiếp của nhận thức (theo Đề-các-tơ, Lốc)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to buck one's ideas up",
+              "list_im": [
+                {
+                  "im_full_vn": "tỏ thái độ nghiêm túc hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get the idea",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm bắt vấn đề, hiểu được vấn đề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to have the first idea about sth",
+              "list_im": [
+                {
+                  "im_full_vn": "không có chút khái niệm nào về điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run away with the idea that ....",
+              "list_im": [
+                {
+                  "im_full_vn": "nghĩ vội rằng....., nghĩ sai lầm rằng......."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369562_9b20384c92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369562_a0bb8820f5_o.png",
+      "id_image": "idea_166375"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679889_fdfc2b10e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679889_74327d2d9c_o.png",
+      "id_image": "idea_287501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369517_da99442294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369517_b755777950_o.png",
+      "id_image": "idea_554796"
+    }
+  ]
+}

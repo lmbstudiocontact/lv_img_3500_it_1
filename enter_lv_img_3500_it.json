@@ -1,0 +1,160 @@
+{
+  "english": "enter",
+  "phat_am": "['entə]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi vào",
+          "list_en_vn": [
+            {
+              "full_en": "don't enter without knocking",
+              "full_vn": "đừng vào mà không gõ cửa"
+            },
+            {
+              "full_en": "the train entered the tunnel",
+              "full_vn": "xe lửa đi vào đường hầm"
+            },
+            {
+              "full_en": "where did the bullet enter the body ?",
+              "full_vn": "đạn vào người ở chỗ nào?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ra sân khấu",
+          "list_en_vn": [
+            {
+              "full_en": "Hamlet enters",
+              "full_vn": "Hamlet ra sân khấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trở thành thành viên của cái gì; gia nhập",
+          "list_en_vn": [
+            {
+              "full_en": "to enter a college /university",
+              "full_vn": "vào học trường cao đẳng/đại học"
+            },
+            {
+              "full_en": "to enter the Army /Navy /Air Force",
+              "full_vn": "gia nhập quân đội/hải quân/không quân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghi (tên, chi tiết...) vào sổ, máy tính; đăng ký; nhập",
+          "list_en_vn": [
+            {
+              "full_en": "to enter data in a computer",
+              "full_vn": "nhập dữ liệu vào máy tính"
+            },
+            {
+              "full_en": "I haven't entered your name and occupation yet",
+              "full_vn": "tôi chưa ghi tên và nghề nghiệp của bạn vào sổ"
+            },
+            {
+              "full_en": "all expenditure must be entered (up ) in the account book",
+              "full_vn": "tất cả phải được đưa vào sổ kế toán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa ra xem xét",
+          "list_one_mean": [
+            {
+              "id_full_en": "to enter into something",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu giải quyết cái gì"
+                },
+                {
+                  "im_full_vn": "tiến hành (cuộc nói chuyện, cuộc điều tra); thiết lập (quan hệ...); ký kết (hiệp nghị...)"
+                },
+                {
+                  "im_full_vn": "có khả năng nhận thức (ý nghĩ, tình cảm của ai)"
+                },
+                {
+                  "im_full_vn": "nằm trong (kế hoạch, sự tính toán)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "let's not enter into details at this stage",
+                      "full_vn": "ta chưa nên đi sâu vào chi tiết trong lúc này"
+                    },
+                    {
+                      "full_en": "to enter into negotiations with a business firm",
+                      "full_vn": "bắt đầu thương lượng với một công ty kinh doanh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to enter on (upon )",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu (một quá trình gì...); bắt đầu bàn về (một vấn đề...)"
+                },
+                {
+                  "im_full_vn": "(pháp lý) tiếp nhận, tiếp thu (tài sản)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he entered on his inheritance when he was 21",
+                      "full_vn": "nó bắt đầu tiếp nhận di sản năm 21 tuổi"
+                    },
+                    {
+                      "full_en": "to enter upon a new career",
+                      "full_vn": "bắt đầu một sự nghiệp mới"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to enter (somebody ) for something",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi tên (của mình hoặc người khác) tham gia thi đấu...; đăng ký",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've entered for the high jump",
+                      "full_vn": "tôi đã ghi tên vào môn nhảy cao"
+                    },
+                    {
+                      "full_en": "the teacher entered him for the examination",
+                      "full_vn": "thầy giáo đã ghi tên cho cậu ấy dự thi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to enter a plea of not guilty",
+              "full_vn": "đưa ra lời biện hộ vô tội"
+            },
+            {
+              "full_en": "to enter the lists against somebody",
+              "full_vn": "thách thức ai hoặc nhận lời thách thức của ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054985_856a4bf2a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054985_a01e5a2a62_o.png",
+      "id_image": "enter_5896973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362952_ba5a83eb43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362952_af9049502e_o.png",
+      "id_image": "enter_891372"
+    }
+  ]
+}

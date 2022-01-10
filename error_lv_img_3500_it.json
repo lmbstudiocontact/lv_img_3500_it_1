@@ -1,0 +1,95 @@
+{
+  "english": "error",
+  "phat_am": "['erə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sai lầm, sự sai sót, lỗi",
+          "list_en_vn": [
+            {
+              "full_en": "to make an error",
+              "full_vn": "phạm sai lầm"
+            },
+            {
+              "full_en": "spelling errors",
+              "full_vn": "lỗi chính tả"
+            },
+            {
+              "full_en": "a computer error",
+              "full_vn": "lỗi máy tính"
+            },
+            {
+              "full_en": "the letter was sent to you in error",
+              "full_vn": "bức thư bị gửi nhầm đến anh"
+            },
+            {
+              "full_en": "the accident was the result of human error",
+              "full_vn": "tại nạn xảy ra là do sai lầm của con người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sai số; độ sai lệch"
+        },
+        {
+          "m_full_vn": "(rađiô) sự mất thích ứng",
+          "list_one_mean": [
+            {
+              "id_full_en": "an error of judgement",
+              "list_im": [
+                {
+                  "im_full_vn": "sự đánh giá không đúng với thực tế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the error of one's ways",
+              "list_im": [
+                {
+                  "im_full_vn": "những mặt sai lầm trong lối sống cần phải chấn chỉnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "trial and error",
+              "list_im": [
+                {
+                  "im_full_vn": "xem trial"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052335_9d3df3b10b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052335_f7585f8b8c_o.png",
+      "id_image": "error_1583036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315841_357c7f6dc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315841_5f0feac303_o.png",
+      "id_image": "error_1780882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315816_1ac37eacec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315816_0bbcae91c4_o.png",
+      "id_image": "error_2825944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315786_dff56a6657_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315786_464d4119b8_o.png",
+      "id_image": "error_2867701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430633_ab50905ae7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430633_e1f8758a6a_o.png",
+      "id_image": "error_2879254"
+    }
+  ]
+}

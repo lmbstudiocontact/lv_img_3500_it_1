@@ -1,0 +1,207 @@
+{
+  "english": "hope",
+  "phat_am": "[houp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( hope of / for something ) ( hope of doing something / that ...) niềm hy vọng",
+          "list_en_vn": [
+            {
+              "full_en": "we pinned /anchored /set all our hopes on you",
+              "full_vn": "chúng tôi đặt hết hy vọng vào anh"
+            },
+            {
+              "full_en": "don't give up hope yet",
+              "full_vn": "đừng vội mất hy vọng"
+            },
+            {
+              "full_en": "she has (high ) hopes of winning",
+              "full_vn": "cô ta rất hy vọng (rất tin tưởng) vào việc giành chiến thắng"
+            },
+            {
+              "full_en": "there is not much hope that they are /hope of their being still alive",
+              "full_vn": "chẳng có mấy hy vọng là họ còn sống"
+            },
+            {
+              "full_en": "vague hopes",
+              "full_vn": "những hy vọng hão huyền"
+            },
+            {
+              "full_en": "to cherish a /the hope that he will recover",
+              "full_vn": "ôm ấp hy vọng rằng anh ấy sẽ bình phục"
+            },
+            {
+              "full_en": "a ray of hope",
+              "full_vn": "một tia hy vọng"
+            },
+            {
+              "full_en": "our hopes for fine weather were not disappointed",
+              "full_vn": "niềm hy vọng của chúng ta về thời tiết đẹp đã không đến nỗi bị hẫng"
+            },
+            {
+              "full_en": "to be past /beyond hope",
+              "full_vn": "không còn hy vọng gì nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguồn hy vọng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give up /resign all hope",
+              "list_im": [
+                {
+                  "im_full_vn": "từ bỏ mọi hy vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "while there is life there's is hope",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) while"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to build up /raise somebody's hopes",
+              "list_im": [
+                {
+                  "im_full_vn": "khuyến khích ai đó mong đợi vận may tốt đẹp hơn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "don't raise his hopes too much",
+                      "full_vn": "đừng thổi phồng hy vọng của anh ta lên quá nhiều"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dash /shatter somebody's hopes",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai thất vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a forlorn hope",
+              "list_im": [
+                {
+                  "im_full_vn": "hy vọng hão huyền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to have a hope in the hell",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng có cơ may nào cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a hope (of doing something )",
+              "list_im": [
+                {
+                  "im_full_vn": "có cơ hội thành công, hồi phục"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold out (some , not much , little , no ) hope (of something /that ......)",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa ra (một vài....) lý do để mong đợi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not a hope /some hope",
+              "list_im": [
+                {
+                  "im_full_vn": "không hy vọng gì được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the hope of something /that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "với niềm hy vọng cái gì/rằng...."
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he was their last hope",
+              "full_vn": "anh ấy là nguồn hy vọng cuối cùng của họ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hy vọng",
+          "list_en_vn": [
+            {
+              "full_en": "we haven't heard from him for weeks but we're still hoping for a letter",
+              "full_vn": "đã mấy tuần nay chúng tôi chẳng nhận được tin gì về anh ta, nhưng chúng tôi vẫn hy vọng sẽ nhận được thư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ước mong, trông mong",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hope against hope (that )......",
+              "list_im": [
+                {
+                  "im_full_vn": "hy vọng hão huyền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hope for the best",
+              "list_im": [
+                {
+                  "im_full_vn": "hy vọng có được kết quả mong muốn; mong được toại nguyện"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Will it rain tomorrow ? - I hope not /so",
+              "full_vn": "Liệu ngày mai trời có mưa hay không? - Tôi mong là không/có"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332346_e27321df6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332346_cacc43feb2_o.png",
+      "id_image": "hope_2858443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687284_9091e8b6a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687284_228dabf166_o.png",
+      "id_image": "hope_5110805"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377147_2b3796260a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377147_226db92272_o.png",
+      "id_image": "hope_708639"
+    }
+  ]
+}

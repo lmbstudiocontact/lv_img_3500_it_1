@@ -1,0 +1,65 @@
+{
+  "english": "funk",
+  "phat_am": "[fʌηk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) sự kinh sợ",
+          "list_en_vn": [
+            {
+              "full_en": "to be in a funk",
+              "full_vn": "kinh sợ"
+            },
+            {
+              "full_en": "a blue funk",
+              "full_vn": "sự khiếp sợ, sự kinh hãi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kẻ nhát gan"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) sợ, sợ hãi, hoảng sợ",
+          "list_en_vn": [
+            {
+              "full_en": "to funk at something",
+              "full_vn": "sợ làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lẩn tránh (vì sợ), chùn bước"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sợ, sợ hãi (cái gì, ai)"
+        },
+        {
+          "m_full_vn": "lẩn tránh, trốn tránh (vì sợ)"
+        },
+        {
+          "m_full_vn": "làm kinh sợ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079095_45660e18cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079095_e3a6f609ef_o.png",
+      "id_image": "funk_122861"
+    }
+  ]
+}

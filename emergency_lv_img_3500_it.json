@@ -1,0 +1,54 @@
+{
+  "english": "emergency",
+  "phat_am": "[i'mə:dʒensi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự khẩn cấp; tình trạng khẩn cấp",
+          "list_en_vn": [
+            {
+              "full_en": "You should only use this door in an emergency / in case of emergency",
+              "full_vn": "Anh chỉ nên sử dụng cửa này trong trường hợp khẩn cấp"
+            },
+            {
+              "full_en": "The government has declared a state of emergency",
+              "full_vn": "Chính phủ đã tuyên bố tình trạng khẩn cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như casualty 3"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437253_c632ef2dc8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437253_5ca7b0eb9f_o.png",
+      "id_image": "emergency_1558317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058780_05242d8a34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058780_722bef835e_o.png",
+      "id_image": "emergency_2456219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321996_a912a9c86f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321996_4e71048c3b_o.png",
+      "id_image": "emergency_4982401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366877_7e750b68d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366877_cf2f5b9e28_o.png",
+      "id_image": "emergency_6304580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677169_c501a5f4c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677169_9898313da5_o.png",
+      "id_image": "emergency_752624"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "english": "little",
+  "phat_am": "['litl]",
+  "list_type": [
+    {
+      "type": "tính từ, dạng so sánh và so sánh cao nhất là littler và littlest , nhưng smaller và smallest thông dụng hơn",
+      "list_m": [
+        {
+          "m_full_vn": "không lớn, nhỏ; con",
+          "list_en_vn": [
+            {
+              "full_en": "six little puppies",
+              "full_vn": "sáu con chó con"
+            },
+            {
+              "full_en": "a little movement of impatience",
+              "full_vn": "một cử chỉ nhỏ tỏ ra sốt ruột"
+            },
+            {
+              "full_en": "a little group of tourists",
+              "full_vn": "một nhóm du lịch ít người"
+            },
+            {
+              "full_en": "there's a little mark on your sleeve",
+              "full_vn": "có một vết nhỏ trên tay áo của anh"
+            },
+            {
+              "full_en": "a house with a little garden",
+              "full_vn": "một ngôi nhà có mảnh vườn nhỏ"
+            },
+            {
+              "full_en": "little holes to let air in",
+              "full_vn": "những lỗ nhỏ để không khí lọt vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngắn, ngắn ngủi",
+          "list_en_vn": [
+            {
+              "full_en": "you may have to wait a little while",
+              "full_vn": "có lẽ anh phải đợi một lúc"
+            },
+            {
+              "full_en": "it's only a little way now",
+              "full_vn": "bây giờ chỉ còn một đoạn đường ngắn nữa"
+            },
+            {
+              "full_en": "shall we go for a little walk ?",
+              "full_vn": "ta dạo chơi một lúc nhé?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sau nice , pretty , sweet , nasty .. để biểu thị cảm xúc về sự thân ái, vui mừng, khó chịu... của người nói)",
+          "list_en_vn": [
+            {
+              "full_en": "a nice little room",
+              "full_vn": "một căn phòng xinh xắn"
+            },
+            {
+              "full_en": "a sweet little child",
+              "full_vn": "một cậu bé dễ thương"
+            },
+            {
+              "full_en": "a funny little restaurant",
+              "full_vn": "một nhà hàng bé tí ngộ nghĩnh"
+            },
+            {
+              "full_en": "what a nasty little man !",
+              "full_vn": "một anh chàng khó chịu làm sao!"
+            },
+            {
+              "full_en": "a (dear ) little old lady helped me find my way",
+              "full_vn": "một bà già nho nhỏ (đáng mến) đã giúp tôi tìm đường đi"
+            },
+            {
+              "full_en": "there's a little shop on the corner that sells bread",
+              "full_vn": "có một cửa hiệu nho nhỏ bán bánh mì ở góc đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không quan trọng, không đáng kể",
+          "list_en_vn": [
+            {
+              "full_en": "a little mistake",
+              "full_vn": "một sai lầm không đáng kể"
+            },
+            {
+              "full_en": "we only had a little snack at lunchtime",
+              "full_vn": "chúng tôi chỉ ăn một tí qua loa vào buổi trưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ít tuổi",
+          "list_en_vn": [
+            {
+              "full_en": "I had curly hair when I was little",
+              "full_vn": "tóc tôi quăn lúc tôi còn bé"
+            },
+            {
+              "full_en": "my little brother is 18",
+              "full_vn": "em trai tôi 18 tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bé khi so với cái khác",
+          "list_en_vn": [
+            {
+              "full_en": "one's little finger",
+              "full_vn": "ngón tay út của mình"
+            },
+            {
+              "full_en": "the little hand of the clock",
+              "full_vn": "kim ngắn của đồng hồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhỏ nhen, nhỏ mọn, tầm thường, hẹp hòi, ti tiện",
+          "list_en_vn": [
+            {
+              "full_en": "little things amuse little minds",
+              "full_vn": "những kẻ tầm thường chỉ thích thú những chuyện tầm thường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng với danh từ không đếm được) một số ít của cái gì, không đủ, có ít",
+          "list_one_mean": [
+            {
+              "id_full_en": "big oaks from little acorns grow",
+              "list_im": [
+                {
+                  "im_full_vn": "xem oak"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in little",
+              "list_im": [
+                {
+                  "im_full_vn": "ở quy mô nhỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "little Mary",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) dạ dày"
+                }
+              ]
+            },
+            {
+              "id_full_en": "little Masters",
+              "list_im": [
+                {
+                  "im_full_vn": "trường phái các nhà khắc tranh Đức thế kỷ 16"
+                }
+              ]
+            },
+            {
+              "id_full_en": "big oaks from little acorns grow",
+              "list_im": [
+                {
+                  "im_full_vn": "cái sảy nảy cái ung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "little bird told me that .....",
+              "list_im": [
+                {
+                  "im_full_vn": "xem bird"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to twist sb round one's little finger",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt ai phải theo ý mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I have very little time for reading",
+              "full_vn": "tôi có rất ít thời giờ để đọc sách"
+            },
+            {
+              "full_en": "we had little rain all summer",
+              "full_vn": "suốt mùa hè chúng tôi có ít mưa"
+            },
+            {
+              "full_en": "there's little point in telling her now",
+              "full_vn": "có ít điều để nói với cô ta bây giờ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ (được dùng (như) một danh từ khi theo sau the )",
+      "list_m": [
+        {
+          "m_full_vn": "một lượng nhỏ, một chút",
+          "list_en_vn": [
+            {
+              "full_en": "little of the music was recognizable",
+              "full_vn": "chỉ có một phần nhỏ âm nhạc là có thể hiểu được"
+            },
+            {
+              "full_en": "I understood little of what he said",
+              "full_vn": "tôi hiểu được chút ít về điều anh ta nói"
+            },
+            {
+              "full_en": "we read a lot of poetry at school - I remember very little now",
+              "full_vn": "chúng tôi đọc nhiều thơ ở trường - bây giờ tôi còn nhớ rất ít"
+            },
+            {
+              "full_en": "the little that I've seen of his work is satisfactory",
+              "full_vn": "một ít công việc của ông ta mà tôi thấy được là rất đáng hài lòng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ít; không nhiều",
+          "list_one_mean": [
+            {
+              "id_full_en": "little by little",
+              "list_im": [
+                {
+                  "im_full_vn": "dần dần, từng bước, từng tí một",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "little by little the snow disappeared",
+                      "full_vn": "dần dần tuyết đã tan"
+                    },
+                    {
+                      "full_en": "his English is improving little by little",
+                      "full_vn": "tiếng Anh của anh ta đang dần dần khá lên"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "little or nothing",
+              "list_im": [
+                {
+                  "im_full_vn": "gần như không có gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she said little or nothing about her experience",
+                      "full_vn": "bà ta hầu như không nói gì về kinh nghiệm của mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make little of something",
+              "list_im": [
+                {
+                  "im_full_vn": "như to make light of something ; gần như không hiểu về cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "It's in Chinese - I can make little of it",
+                      "full_vn": "cái đó viết bằng tiếng Trung Quốc - tôi gần như không hiểu gì cả"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I like him little",
+              "full_vn": "tôi ít thích nó"
+            },
+            {
+              "full_en": "she left little more than an hour ago",
+              "full_vn": "cô ta ra đi cách đây hơn một giờ một chút"
+            },
+            {
+              "full_en": "I slept very little last night",
+              "full_vn": "đêm qua tôi ngủ rất ít"
+            },
+            {
+              "full_en": "little does he know what trouble he's in",
+              "full_vn": "anh ta không biết gì mấy về chuyện anh ta đang gặp rắc rối gì"
+            },
+            {
+              "full_en": "her husband is little known as a lexicographer",
+              "full_vn": "chồng cô ta ít được biết đến với tư cách là một nhà biên soạn từ điển, ít ai biết chồng cô ta là một nhà soạn từ điển"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( a little ) (dùng với danh từ không đếm được) một chút, một ít",
+          "list_en_vn": [
+            {
+              "full_en": "a little milk /sugar /tea",
+              "full_vn": "một tí sữa/đường/trà"
+            },
+            {
+              "full_en": "could you give a little more attention to spelling ?",
+              "full_vn": "anh có chú ý thêm tí nữa về chính tả được không?"
+            },
+            {
+              "full_en": "I need a little help to move these books",
+              "full_vn": "tôi nhờ anh giúp một tí để chuyển những quyển sách này đi"
+            },
+            {
+              "full_en": "it caused not a little confusion",
+              "full_vn": "điều đó đã gây không ít nhầm lẫn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "đại từ",
+      "list_m": [
+        {
+          "m_full_vn": "( a little ) một ít, một chút",
+          "list_one_mean": [
+            {
+              "id_full_en": "after /for a little",
+              "list_im": [
+                {
+                  "im_full_vn": "sau/trong một quãng đường hoặc thời gian ngắn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "there was a lot of food but I only ate a little",
+              "full_vn": "có nhiều thức ăn, nhưng tôi chỉ ăn một tí thôi"
+            },
+            {
+              "full_en": "if you've got any spare milk , could you give me a little ?",
+              "full_vn": "nếu anh còn sữa, anh cho tôi một ít được không?"
+            },
+            {
+              "full_en": "I've only read a little of the book",
+              "full_vn": "tôi chỉ mới đọc một ít trang trong quyển sách"
+            },
+            {
+              "full_en": "to know a little of everything",
+              "full_vn": "biết đủ thứ nhưng mỗi thứ chút ít thôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "( a little ) ở chừng mực nào đó; hơi",
+          "list_en_vn": [
+            {
+              "full_en": "she seemed a little afraid of going inside",
+              "full_vn": "dường như cô ta có phần sợ hãi khi bước vào bên trong"
+            },
+            {
+              "full_en": "these shoes are a little too big for me",
+              "full_vn": "đôi giày này hơi quá to đối với tôi"
+            },
+            {
+              "full_en": "after a three-week trip in Taiwan, I am a little disgusted with Chinese food",
+              "full_vn": "sau chuyến đi Đài Loan ba tuần, tôi hơi ngán thức ăn của Trung Hoa"
+            },
+            {
+              "full_en": "she was not a little worried about the expense",
+              "full_vn": "cô ta rất lo về chi phí"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339391_b9fc3bd229_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339391_d4698fe0f3_o.png",
+      "id_image": "little_4866835"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "english": "knowledge",
+  "phat_am": "['nɔlidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hiểu biết; sự am hiểu",
+          "list_en_vn": [
+            {
+              "full_en": "a baby has no knowledge of good and evil",
+              "full_vn": "một đứa bé chẳng biết gì về điều thiện và điều ác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiến thức; sự giỏi về một lĩnh vực nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "wide knowledge",
+              "full_vn": "kiến thức rộng"
+            },
+            {
+              "full_en": "I've only (a ) limited knowledge of computers",
+              "full_vn": "tôi chỉ có một kiến thức hạn chế về máy tính"
+            },
+            {
+              "full_en": "to have a good knowledge of English",
+              "full_vn": "giỏi tiếng Anh"
+            },
+            {
+              "full_en": "my knowledge of French is poor",
+              "full_vn": "tôi không giỏi tiếng Pháp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tri thức",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be common /public knowledge",
+              "list_im": [
+                {
+                  "im_full_vn": "được mọi người biết đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to somebody's knowledge",
+              "list_im": [
+                {
+                  "im_full_vn": "được ai biết đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it has come to our knowledge that you have been cheating the company",
+                      "full_vn": "chúng tôi được biết là anh đã lừa đảo công ty"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to one's knowledge",
+              "list_im": [
+                {
+                  "im_full_vn": "theo như người ta biết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to my knowledge , she's never been late before",
+                      "full_vn": "theo tôi biết thì từ trước đến nay cô ta chưa hề đi trễ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the best of one's belief /knowledge",
+              "list_im": [
+                {
+                  "im_full_vn": "xem best"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with /without somebody's knowledge",
+              "list_im": [
+                {
+                  "im_full_vn": "có/không cho ai biết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he sold the car without his wife's knowledge",
+                      "full_vn": "anh ta bán xe mà không cho vợ biết"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "all branches of knowledge",
+              "full_vn": "tất cả các ngành của tri thức"
+            },
+            {
+              "full_en": "the sum of human knowledge on this subject",
+              "full_vn": "toàn bộ tri thức của loài người về vấn đề này"
+            },
+            {
+              "full_en": "knowledge is power",
+              "full_vn": "tri thức là sức mạnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324876_80fc7cbb58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324876_8837453f77_o.png",
+      "id_image": "knowledge_2070946"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324916_52938335a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324916_bce306c63f_o.png",
+      "id_image": "knowledge_207314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680004_c7c6a8a95d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680004_04260dcb1d_o.png",
+      "id_image": "knowledge_2861728"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324781_37206170ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324781_d3eef7b227_o.png",
+      "id_image": "knowledge_3930428"
+    }
+  ]
+}

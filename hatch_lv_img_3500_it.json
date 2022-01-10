@@ -1,0 +1,119 @@
+{
+  "english": "hatch",
+  "phat_am": "[hæt∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cửa sập, cửa hầm (dưới sàn nhà); cửa hầm chứa hàng (của tàu thuỷ)",
+          "list_en_vn": [
+            {
+              "full_en": "under hatches",
+              "full_vn": "để dưới hầm tàu, giam trong hầm tàu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cửa cống, cửa đập nước"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự chết"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự đẩy vào cảnh tối tăm bần cùng"
+        },
+        {
+          "m_full_vn": "sự nở (trứng)"
+        },
+        {
+          "m_full_vn": "sự ấp trứng"
+        },
+        {
+          "m_full_vn": "ổ chim con mới nở"
+        },
+        {
+          "m_full_vn": "ổ trứng ấp",
+          "list_one_mean": [
+            {
+              "id_full_en": "hatches , catches , matches , dispatches",
+              "list_im": [
+                {
+                  "im_full_vn": "mục sinh tử giá thú (trên báo)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "down the hatch",
+              "list_im": [
+                {
+                  "im_full_vn": "(trước khi hớp một ngụm rượu) xuống cổ họng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm nở trứng"
+        },
+        {
+          "m_full_vn": "ấp (trứng)"
+        },
+        {
+          "m_full_vn": "ngấm ngầm bày đặt, ngấm ngầm dự định (âm mưu...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nở (trứng, gà con)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to count one's chickens before they are hatched",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) (xem) chicken"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nét chải, đường gạch bóng (trên hình vẽ)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tô nét chải, gạch đường bóng (trên hình vẽ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343406_c78278c5ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343406_542d2a2d85_o.png",
+      "id_image": "hatch_4146128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080885_9b55ccc098_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080885_1bf0528ddd_o.png",
+      "id_image": "hatch_505763"
+    }
+  ]
+}

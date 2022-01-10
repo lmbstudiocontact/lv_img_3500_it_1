@@ -1,0 +1,94 @@
+{
+  "english": "domestic",
+  "phat_am": "[də'mestik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trong nhà, trong gia đình",
+          "list_en_vn": [
+            {
+              "full_en": "domestic water /gas supplies",
+              "full_vn": "nguồn cung cấp nước/khí đốt trong nhà"
+            },
+            {
+              "full_en": "domestic help",
+              "full_vn": "người giúp việc trong nhà"
+            },
+            {
+              "full_en": "domestic bliss /unrest /upheavals",
+              "full_vn": "hạnh phúc gia đình/tình trạng bất an/những biến động trong gia đình"
+            },
+            {
+              "full_en": "domestic science",
+              "full_vn": "khoa nội trợ; khoa gia chánh"
+            },
+            {
+              "full_en": "she's very domestic",
+              "full_vn": "cô ấy rất đảm đang nội trợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về súc vật) nuôi ở trang trại hoặc làm cảnh (chứ không phải là hoang dã)"
+        },
+        {
+          "m_full_vn": "thuộc hoặc ở bên trong một nước; không phải của nước ngoài hoặc quốc tế; nội địa",
+          "list_en_vn": [
+            {
+              "full_en": "domestic trade",
+              "full_vn": "nội thương"
+            },
+            {
+              "full_en": "domestic production",
+              "full_vn": "nền sản xuất trong nước"
+            },
+            {
+              "full_en": "domestic flights",
+              "full_vn": "các chuyến bay trong nước, các chuyến bay nội địa/quốc nội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thích ở nhà, thích đời sống gia đình; chỉ quanh quẩn ở nhà"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đầy tớ trong nhà; người hầu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354882_38403b3c84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354882_73e220dfea_o.png",
+      "id_image": "domestic_261917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354832_0763719b5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354832_7fe9974fae_o.png",
+      "id_image": "domestic_261921"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310651_e2fbafc70f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310651_352a24fef6_o.png",
+      "id_image": "domestic_298182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047390_df61241288_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047390_374dac993e_o.png",
+      "id_image": "domestic_298186"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665769_594a98da17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665769_9393b7ab82_o.png",
+      "id_image": "domestic_3046246"
+    }
+  ]
+}

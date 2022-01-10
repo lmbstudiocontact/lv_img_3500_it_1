@@ -1,0 +1,59 @@
+{
+  "english": "loot",
+  "phat_am": "[lu:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) trung uý"
+        },
+        {
+          "m_full_vn": "của cướp được, bổng lộc phi pháp"
+        },
+        {
+          "m_full_vn": "của cải, tiền bạc"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự cướp bóc (một thành phố...)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cướp bóc, cướp phá",
+          "list_en_vn": [
+            {
+              "full_en": "to loot a city",
+              "full_vn": "cướp phá một thành phố"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690844_7bc0dd1a36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690844_b93c041f57_o.png",
+      "id_image": "loot_1377729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335596_b46f20250e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335596_9d66cfa992_o.png",
+      "id_image": "loot_1485070"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690764_fe5923f267_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690764_9fdd947538_o.png",
+      "id_image": "loot_2614332"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450528_66f39f9115_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450528_56c74b3697_o.png",
+      "id_image": "loot_2742168"
+    }
+  ]
+}

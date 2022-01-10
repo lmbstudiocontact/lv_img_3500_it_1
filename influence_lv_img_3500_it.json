@@ -1,0 +1,97 @@
+{
+  "english": "influence",
+  "phat_am": "['influəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( influence on somebody / something ) ảnh hưởng, tác dụng",
+          "list_en_vn": [
+            {
+              "full_en": "the influence of the moon (on the tides ), of the climate (on agricultural production )",
+              "full_vn": "ảnh hưởng của mặt trăng (đối với thủy triều), của khí hậu (đối với sản xuất (nông nghiệp))"
+            },
+            {
+              "full_en": "the influence of parents on their children",
+              "full_vn": "ảnh hưởng của cha mẹ đối với con cái"
+            },
+            {
+              "full_en": "to have a good /bad /beneficial /harmful /pernicious influence on somebody's behaviour /character",
+              "full_vn": "có ảnh hưởng tốt/xấu/có lợi/có hại/nguy hại đối với hạnh kiểm/tính cách của ai"
+            },
+            {
+              "full_en": "to exercise one's influence on someone",
+              "full_vn": "gây ảnh hưởng đối với ai, phát huy ảnh hưởng đối với ai"
+            },
+            {
+              "full_en": "to be under somebody's influence",
+              "full_vn": "chịu ảnh hưởng của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "uy thế, thế lực",
+          "list_en_vn": [
+            {
+              "full_en": "his parents no longer have any real influence over him",
+              "full_vn": "bố mẹ cậu ấy không còn uy thế thực sự nào đối với cậu ấy"
+            },
+            {
+              "full_en": "to use one's influence with somebody",
+              "full_vn": "sử dụng uy thế của mình đối với ai"
+            },
+            {
+              "full_en": "she has great influence with the manager and could no doubt help you",
+              "full_vn": "cô ấy rất có ảnh hưởng với ông giám đốc, nên chắc chắn sẽ giúp được anh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ảnh hưởng, chi phối, tác động",
+          "list_en_vn": [
+            {
+              "full_en": "bad weather influences the peddlers' business",
+              "full_vn": "thời tiết xấu ảnh hưởng đến việc làm ăn của những người bán hàng rong"
+            },
+            {
+              "full_en": "it's clear that her painting has been influenced by Picasso",
+              "full_vn": "rõ ràng là cách vẽ tranh của cô ấy đã chịu ảnh hưởng của Picasso"
+            },
+            {
+              "full_en": "what influenced them to steal this sum of money ?",
+              "full_vn": "điều gì đã khiến chúng ăn cắp số tiền này?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431853_a630ef8312_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431853_d2ff39850c_o.png",
+      "id_image": "influence_1622692"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431823_1935ae9e83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431823_6c5f02cbe7_o.png",
+      "id_image": "influence_3391572"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053240_beaedcd720_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053240_b9a1cf53b2_o.png",
+      "id_image": "influence_4412638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671489_71c0647511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671489_faf24c913a_o.png",
+      "id_image": "influence_4412696"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "english": "garbage",
+  "phat_am": "['gɑ:bidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lòng, ruột (thú...)"
+        },
+        {
+          "m_full_vn": "rác (nhà bếp)"
+        },
+        {
+          "m_full_vn": "văn chương sọt rác ( (cũng) literary garbage )"
+        },
+        {
+          "m_full_vn": "(tin học) dữ liệu vô nghĩa hoặc không thích hợp",
+          "list_en_vn": [
+            {
+              "full_en": "Garbage in , garbage out",
+              "full_vn": "Dữ liệu nhập vào sai thì kết quả xuất ra đương nhiên cũng sai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694364_841e36c784_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694364_d38be76f3c_o.png",
+      "id_image": "garbage_1066081"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694329_fc967696d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694329_af67c86f43_o.png",
+      "id_image": "garbage_3035034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694284_2f1fe634f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694284_845eba32fe_o.png",
+      "id_image": "garbage_3762017"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076255_efeec2847a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076255_2089ff4cac_o.png",
+      "id_image": "garbage_5207497"
+    }
+  ]
+}

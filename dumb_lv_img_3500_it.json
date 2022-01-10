@@ -1,0 +1,86 @@
+{
+  "english": "dumb",
+  "phat_am": "[dʌm]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "câm, không nói",
+          "list_en_vn": [
+            {
+              "full_en": "deaf and dumb",
+              "full_vn": "câm và điếc"
+            },
+            {
+              "full_en": "dumb show",
+              "full_vn": "tuồng câm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "câm, không kêu",
+          "list_en_vn": [
+            {
+              "full_en": "this piano has several dumb notes",
+              "full_vn": "chiếc đàn pianô này có nhiều nốt câm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không biết nói; không có tiếng nói (trong chính phủ...)",
+          "list_en_vn": [
+            {
+              "full_en": "dumb animals",
+              "full_vn": "những con vật không biết nói"
+            },
+            {
+              "full_en": "the dumb millions",
+              "full_vn": "hàng triệu người không có tiếng nói trong chính phủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lặng đi, không nói lên được",
+          "list_en_vn": [
+            {
+              "full_en": "to strike someone dumb",
+              "full_vn": "làm cho ai lặng đi (vì sợ hãi...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lầm lì, ít nói"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) ngu xuẩn, ngu ngốc, ngớ ngẩn"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) làm câm, làm câm lặng đi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335561_6ba10805d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335561_846e031e3d_o.png",
+      "id_image": "dumb_2317582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335526_3ff66398f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335526_e74b9dd169_o.png",
+      "id_image": "dumb_6313615"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072390_103ddc887b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072390_2f13f7ff89_o.png",
+      "id_image": "dumb_6314082"
+    }
+  ]
+}

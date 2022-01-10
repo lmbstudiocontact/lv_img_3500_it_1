@@ -1,0 +1,76 @@
+{
+  "english": "leader",
+  "phat_am": "['li:də]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hoặc vật dẫn đầu; người lãnh đạo; người chỉ huy; lãnh tụ",
+          "list_en_vn": [
+            {
+              "full_en": "the leader of an expedition ; the leader of a gang ; the leader of the Opposition",
+              "full_vn": "người lãnh đạo một cuộc thám hiểm; người cầm đầu một băng nhóm; lãnh tụ phe đối lập"
+            },
+            {
+              "full_en": "Leader of the House",
+              "full_vn": "đại diện của chính phủ tại nghị viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "luật sư chính (trong một vụ kiện)"
+        },
+        {
+          "m_full_vn": "bài báo chính, bài xã luận lớn"
+        },
+        {
+          "m_full_vn": "con ngựa đầu đàn, con ngựa dẫn đầu trong cỗ ngựa (buộc vào xe)"
+        },
+        {
+          "m_full_vn": "(ngành in) hàng dấu chấm (để dẫn người đọc sang cột hoặc trang khác)"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) mạch nhánh (dẫn đến mạch mỏ chính)"
+        },
+        {
+          "m_full_vn": "mầm chính (nhú lên mạnh nhất ở cành, ở thân cây)"
+        },
+        {
+          "m_full_vn": "dải để trống ở đầu một cuộn băng, cuộn phim... dùng để luồn vào máy; đoạn băng trắng"
+        },
+        {
+          "m_full_vn": "(rađiô) tin quan trọng nhất (trong bản tin cuối cùng)"
+        },
+        {
+          "m_full_vn": "(điện học) vật dẫn; dây dẫn"
+        },
+        {
+          "m_full_vn": "(âm nhạc) người kéo viôlông chính thứ nhất của một dàn nhạc (cũng) concert-master ; người lãnh xướng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672424_a78db9b0ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672424_2a626fc797_o.png",
+      "id_image": "leader_1441964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432823_6f4f73b967_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432823_77c2e54dac_o.png",
+      "id_image": "leader_3281359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362012_f2bc01c063_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362012_d0cbf4e32a_o.png",
+      "id_image": "leader_5542037"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362067_14a4112860_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362067_7b5583ebec_o.png",
+      "id_image": "leader_567505"
+    }
+  ]
+}

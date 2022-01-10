@@ -1,0 +1,57 @@
+{
+  "english": "identical",
+  "phat_am": "[ai'dentikəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đúng, chính",
+          "list_en_vn": [
+            {
+              "full_en": "the identical room where Lenin was born",
+              "full_vn": "đúng là căn phòng nơi Lênin chào đời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "y hệt nhau, giống hệt",
+          "list_en_vn": [
+            {
+              "full_en": "they bought two identical bicycles",
+              "full_vn": "họ mua hai chiếc xe đạp giống hệt nhau"
+            },
+            {
+              "full_en": "they're wearing identical clothes",
+              "full_vn": "họ mặc quần áo giống hệt nhau"
+            },
+            {
+              "full_en": "their clothes are identical",
+              "full_vn": "quần áo của họ giống hệt nhau"
+            },
+            {
+              "full_en": "my hat is identical to the one you borrow from your father",
+              "full_vn": "cái nón của tôi y hệt cái nón anh mượn của bố anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) đồng nhất",
+          "list_en_vn": [
+            {
+              "full_en": "identical proposition",
+              "full_vn": "mệnh đề đồng nhất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439553_6eeaed3162_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439553_b1088ce07d_o.png",
+      "id_image": "identical_1799804"
+    }
+  ]
+}

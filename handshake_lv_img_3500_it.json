@@ -1,0 +1,52 @@
+{
+  "english": "handshake",
+  "phat_am": "['hænd∫eik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái bắt tay",
+          "list_one_mean": [
+            {
+              "id_full_en": "a golden handshake",
+              "list_im": [
+                {
+                  "im_full_vn": "món tiền dành cho một quan chức nghỉ việc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a friendly handshake",
+              "full_vn": "cái bắt tay thân thiện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345606_f5520c9df3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345606_fea5c52ab6_o.png",
+      "id_image": "handshake_439282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345571_0c1fb0e355_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345571_f0affe3f15_o.png",
+      "id_image": "handshake_445296"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345541_c4635e6664_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345541_2db3cb68ce_o.png",
+      "id_image": "handshake_989004"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700664_7e962ceb83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700664_96382d9a15_o.png",
+      "id_image": "handshake_993715"
+    }
+  ]
+}

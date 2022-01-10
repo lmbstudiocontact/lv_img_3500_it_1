@@ -1,0 +1,81 @@
+{
+  "english": "guess",
+  "phat_am": "[ges]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đoán, sự ước chừng",
+          "list_en_vn": [
+            {
+              "full_en": "to make a guess",
+              "full_vn": "đoán"
+            },
+            {
+              "full_en": "it's anybody's guess",
+              "full_vn": "chỉ là sự phỏng đoán của mỗi người"
+            },
+            {
+              "full_en": "at a guess ; by guess",
+              "full_vn": "đoán chừng hú hoạ"
+            },
+            {
+              "full_en": "an educated guess",
+              "full_vn": "sự dự đoán theo kinh nghiệm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đoán, phỏng đoán, ước chừng",
+          "list_en_vn": [
+            {
+              "full_en": "can you guess my weight (how much I weigh , what my weight is )?",
+              "full_vn": "anh có đoán được tôi cân nặng bao nhiêu không?"
+            },
+            {
+              "full_en": "to guess right (wrong )",
+              "full_vn": "đoán đúng (sai)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) nghĩ, chắc rằng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to keep sb guessing",
+              "list_im": [
+                {
+                  "im_full_vn": "khiến ai phải lưỡng lự do dự"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I guess it's going to rain",
+              "full_vn": "tôi chắc rằng trời sắp mưa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055240_14cc391f4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055240_b17e889c4c_o.png",
+      "id_image": "guess_2598691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673414_999ea84689_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673414_3fb75baf36_o.png",
+      "id_image": "guess_4456781"
+    }
+  ]
+}

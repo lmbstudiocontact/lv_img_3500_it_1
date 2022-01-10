@@ -1,0 +1,137 @@
+{
+  "english": "gift",
+  "phat_am": "[gift]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quà tặng, quà biếu",
+          "list_en_vn": [
+            {
+              "full_en": "a birthday /Christmas /wedding gift",
+              "full_vn": "quà sinh nhật/Nô en/cưới"
+            },
+            {
+              "full_en": "New Year's gifts",
+              "full_vn": "quà đầu năm, quà lì xì"
+            },
+            {
+              "full_en": "a gift to charity",
+              "full_vn": "món quà từ thiện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( gift for something / doing something ) tài năng hoặc khả năng tự nhiên; năng khiếu",
+          "list_en_vn": [
+            {
+              "full_en": "I've always been able to learn languages easily ; it's a gift",
+              "full_vn": "Tôi xưa nay vẫn học ngoại ngữ dễ dàng; đó là năng khiếu"
+            },
+            {
+              "full_en": "he has many outstanding gifts",
+              "full_vn": "nó có nhiều năng khiếu nổi bật"
+            },
+            {
+              "full_en": "to have a gift for music",
+              "full_vn": "có khiếu về âm nhạc"
+            },
+            {
+              "full_en": "the gift of making friends quickly",
+              "full_vn": "tài kết bạn rất nhanh"
+            },
+            {
+              "full_en": "a gift for doing /saying the wrong thing",
+              "full_vn": "có tài làm bậy/nói bậy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "món hời (mua với giá rẻ không ngờ)",
+          "list_en_vn": [
+            {
+              "full_en": "at that price , it's an absolute gift !",
+              "full_vn": "mua với giá ấy thì chẳng khác nào cho không!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái rất dễ làm hoặc quá dễ làm",
+          "list_one_mean": [
+            {
+              "id_full_en": "a gift from the gods",
+              "list_im": [
+                {
+                  "im_full_vn": "của trời cho, lộc trời cho"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the gift of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "cái mà ai có quyền cho hoặc ban",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a post in the sovereign's gift",
+                      "full_vn": "chức vụ được nhà vua ban cho"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look a gift horse in the mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "chê của cho; chê của biếu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "their second goal was a real gift",
+              "full_vn": "bàn thứ hai của thật ngon ơ"
+            },
+            {
+              "full_en": "that exam question was an absolute gift",
+              "full_vn": "câu hỏi thi dễ ợt"
+            },
+            {
+              "full_en": "it was a gift of a question",
+              "full_vn": "thật là một câu hỏi ngon xơi"
+            },
+            {
+              "full_en": "a gift question",
+              "full_vn": "một câu hỏi dễ trả lời"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448533_d26bd110ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448533_2015b222c5_o.png",
+      "id_image": "gift_144894"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688429_3b5ac87534_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688429_15117be698_o.png",
+      "id_image": "gift_311050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448448_593fb8f3a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448448_bf4c70d25f_o.png",
+      "id_image": "gift_388377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688384_69927a3498_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688384_28ee119c15_o.png",
+      "id_image": "gift_534701"
+    }
+  ]
+}

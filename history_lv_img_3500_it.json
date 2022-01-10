@@ -1,0 +1,112 @@
+{
+  "english": "history",
+  "phat_am": "['histri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "môn lịch sử; khoa sử học",
+          "list_en_vn": [
+            {
+              "full_en": "a student of Vietnamese history",
+              "full_vn": "sinh viên về lịch sử Việt Nam"
+            },
+            {
+              "full_en": "a degree in history and geography",
+              "full_vn": "bằng cấp về môn lịch sử và địa lý"
+            },
+            {
+              "full_en": "my history teacher",
+              "full_vn": "thầy giáo dạy sử của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quá trình lịch sử; lịch sử",
+          "list_en_vn": [
+            {
+              "full_en": "Throughout history , men have waged war",
+              "full_vn": "Loài người đã gây ra chiến tranh trong suốt quá trình lịch sử"
+            },
+            {
+              "full_en": "A people with no sense of history",
+              "full_vn": "Một dân tộc không có ý nghĩa trong lịch sử"
+            },
+            {
+              "full_en": "Writing a new history of Europe",
+              "full_vn": "viết một quyển lịch sử mới về châu Âu"
+            },
+            {
+              "full_en": "Shakespeare's history plays",
+              "full_vn": "Kịch lịch sử của Shakespeare"
+            },
+            {
+              "full_en": "This house has a strange history",
+              "full_vn": "Ngôi nhà này có một lịch sử kỳ quặc"
+            },
+            {
+              "full_en": "somebody's medical history",
+              "full_vn": "bệnh sử của ai (bản ghi chép tình hình bệnh tật trước đây của người đó)"
+            },
+            {
+              "full_en": "There is a history of heart disease in my family",
+              "full_vn": "Gia đình tôi có tiền sử bệnh đau tim"
+            },
+            {
+              "full_en": "He has a history of violent crime",
+              "full_vn": "Hắn từng có tiền án về tội hành hung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự việc, sự kiện không còn thích hợp hoặc quan trọng nữa; chuyện cũ rích",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make /go down in history",
+              "list_im": [
+                {
+                  "im_full_vn": "được ghi vào lịch sử",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a discovery that made medical history",
+                      "full_vn": "một phát kiến được ghi vào lịch sử y học"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "They had an affair once , but that's ancient history now",
+              "full_vn": "Đã có lúc họ có chuyện tình ái với nhau, song bây giờ đó là chuyện cũ rồi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451003_81d8a7b9cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451003_b580f94eb4_o.png",
+      "id_image": "history_1373354"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691394_f3ec4c9258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691394_b011e3c858_o.png",
+      "id_image": "history_169112"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691334_11de3dd40b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691334_1412330c78_o.png",
+      "id_image": "history_4650548"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691299_37d2cf3235_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691299_29faa4b7cc_o.png",
+      "id_image": "history_6258994"
+    }
+  ]
+}

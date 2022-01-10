@@ -1,0 +1,38 @@
+{
+  "english": "grader",
+  "phat_am": "[greidə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máy san đất; máy ủi"
+        },
+        {
+          "m_full_vn": "máy tuyển chọn; máy phân hạng; máy phân loại"
+        },
+        {
+          "m_full_vn": "học sinh thuộc một cấp lớp nào đó trong trường tiểu học hoặc trung học",
+          "list_en_vn": [
+            {
+              "full_en": "tenth graders",
+              "full_vn": "các học sinh lớp 10"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326946_87c861e073_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326946_1968b939f0_o.png",
+      "id_image": "grader_2564107"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441933_4d4588619a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441933_697a6e09fa_o.png",
+      "id_image": "grader_2736960"
+    }
+  ]
+}

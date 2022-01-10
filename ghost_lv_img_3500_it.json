@@ -1,0 +1,124 @@
+{
+  "english": "ghost",
+  "phat_am": "[goust]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "linh hồn người chết hiện ra với người còn đang sống; ma",
+          "list_en_vn": [
+            {
+              "full_en": "the ghost of Lady Margaret is supposed to haunt this chapel",
+              "full_vn": "người ta cho rằng hồn ma của bà Margaret vẫn hiện về ngôi nhà thờ này"
+            },
+            {
+              "full_en": "I don't believe in ghosts",
+              "full_vn": "tôi không tin có ma"
+            },
+            {
+              "full_en": "he looked as if he had seen a ghost",
+              "full_vn": "trông nó có vẻ như vừa mới gặp ma"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( ghost of something ) nét thoáng; một chút",
+          "list_en_vn": [
+            {
+              "full_en": "the ghost of a smile played round her lips",
+              "full_vn": "một nụ cười thoáng hiện trên môi nàng"
+            },
+            {
+              "full_en": "you haven't a ghost of a chance",
+              "full_vn": "anh không có lấy một chút cơ may nào"
+            },
+            {
+              "full_en": "not the ghost of a doubt",
+              "full_vn": "không một chút nghi ngờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hình ảnh phụ mờ mờ trên màn ảnh truyền hình; bóng mờ chồng"
+        },
+        {
+          "m_full_vn": "như ghost-writer"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) linh hồn, hồn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to raise a ghost",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ma hiện lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay a ghost",
+              "list_im": [
+                {
+                  "im_full_vn": "xua đuổi tà ma"
+                },
+                {
+                  "im_full_vn": "cuối cùng khắc phục được một thất bại mà trước đó tưởng chừng như không khắc phục được; gỡ lại"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to give up the ghost",
+              "full_vn": "hồn lìa khỏi xác; chết; (nghĩa bóng) (nói về máy móc) không chịu hoạt động; chết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hiện ra, ám ảnh, lảng vảng như một bóng ma"
+        },
+        {
+          "m_full_vn": "( to ghost for somebody ) viết thuê cho ai",
+          "list_en_vn": [
+            {
+              "full_en": "he ghosts for a number of sports personalities who 'write' newspaper columns",
+              "full_vn": "nó viết thuê cho một số nhân vật trong giới thể thao vốn là những người vẫn 'viết bài' cho các mục báo"
+            },
+            {
+              "full_en": "her ghosted memories",
+              "full_vn": "những hồi ký mà bà ta thuê người viết hộ mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070660_ba77044725_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070660_d2679d079b_o.png",
+      "id_image": "ghost_1495936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448833_5c2af27a68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448833_02de275682_o.png",
+      "id_image": "ghost_203763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333696_76ac99b8f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333696_0488514fa7_o.png",
+      "id_image": "ghost_3473845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688849_ac3219de27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688849_5c0b82a43b_o.png",
+      "id_image": "ghost_774965"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "handicap",
+  "phat_am": "['hændikæp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc thi có chấp (để cho hai bên cân sức)"
+        },
+        {
+          "m_full_vn": "điều chấp (trong một cuộc thi)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự cản trở; điều bất lợi"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chấp (trong một cuộc thi)"
+        },
+        {
+          "m_full_vn": "gây cản trở, gây bất lợi",
+          "list_en_vn": [
+            {
+              "full_en": "to be handicapped by ill health",
+              "full_vn": "gặp trở ngại vì sức khoẻ không tốt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670239_586476d13b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670239_021d9763f1_o.png",
+      "id_image": "handicap_1467329"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052000_55dba5264b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052000_f0536d3d46_o.png",
+      "id_image": "handicap_1692717"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430448_e5d7fdc39d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430448_df3093c519_o.png",
+      "id_image": "handicap_354481"
+    }
+  ]
+}

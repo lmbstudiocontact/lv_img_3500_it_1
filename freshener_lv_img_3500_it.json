@@ -1,0 +1,37 @@
+{
+  "english": "freshener",
+  "phat_am": "['fre∫nə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất làm tươi mát",
+          "list_en_vn": [
+            {
+              "full_en": "air-freshener",
+              "full_vn": "chất làm thơm phòng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699624_6f27d98237_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699624_8f71c9b11c_o.png",
+      "id_image": "freshener_1333377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081940_91a1355dde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081940_d938ae1a18_o.png",
+      "id_image": "freshener_2444908"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389402_06bface8db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389402_ef43de3475_o.png",
+      "id_image": "freshener_4471659"
+    }
+  ]
+}

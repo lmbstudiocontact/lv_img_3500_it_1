@@ -1,0 +1,55 @@
+{
+  "english": "fortress",
+  "phat_am": "['fɔ:tris]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "pháo đài",
+          "list_en_vn": [
+            {
+              "full_en": "flying fortress",
+              "full_vn": "pháo đài bay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thơ ca) là pháo đài của; bảo vệ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669049_713c0304cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669049_735e9beaf4_o.png",
+      "id_image": "fortress_2069523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314426_70cfc320b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314426_8ce62257bd_o.png",
+      "id_image": "fortress_360018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358487_e1b68e8976_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358487_7be777b0da_o.png",
+      "id_image": "fortress_3949785"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669004_1778404409_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669004_e95f3a921e_o.png",
+      "id_image": "fortress_5763173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314391_1595755947_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314391_e9f834c04e_o.png",
+      "id_image": "fortress_746804"
+    }
+  ]
+}

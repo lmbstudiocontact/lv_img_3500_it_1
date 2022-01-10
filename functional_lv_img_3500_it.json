@@ -1,0 +1,65 @@
+{
+  "english": "functional",
+  "phat_am": "['fʌηk∫ənl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về hoặc có một vài chức năng",
+          "list_en_vn": [
+            {
+              "full_en": "a functional duty , title , office",
+              "full_vn": "công việc, chức danh, cơ quan chức năng"
+            },
+            {
+              "full_en": "a functional disorder",
+              "full_vn": "sự rối loạn chức năng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thiết thực; thực dụng",
+          "list_en_vn": [
+            {
+              "full_en": "functional furniture , clothing , architecture",
+              "full_vn": "đồ đạc, quần áo, kiến trúc thực dụng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đang làm việc; có thể làm việc",
+          "list_en_vn": [
+            {
+              "full_en": "is this machine functional ?",
+              "full_vn": "cái máy này có chạy hay không?"
+            },
+            {
+              "full_en": "I'm hardly functional if I don't get eight hours' sleep",
+              "full_vn": "Tôi thật khó làm việc được nếu không ngủ đủ 8 tiếng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) (thuộc) hàm, (thuộc) hàm số",
+          "list_en_vn": [
+            {
+              "full_en": "a functional equation",
+              "full_vn": "phương trình hàm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) (thuộc) chức"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080055_e5653be570_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080055_8b2647633c_o.png",
+      "id_image": "functional_4529349"
+    }
+  ]
+}

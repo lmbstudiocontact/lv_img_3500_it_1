@@ -1,0 +1,38 @@
+{
+  "english": "gull",
+  "phat_am": "[gʌl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) mòng biển"
+        },
+        {
+          "m_full_vn": "người ngờ nghệch, người cả tin"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lừa, lừa bịp",
+          "list_en_vn": [
+            {
+              "full_en": "to gull somebody out of his money",
+              "full_vn": "lừa tiền của ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317826_57b1b01aba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317826_cc90fb19ef_o.png",
+      "id_image": "gull_3338349"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "english": "equinox",
+  "phat_am": "['i:kwinɔks]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điểm phân",
+          "list_en_vn": [
+            {
+              "full_en": "vernal equinox",
+              "full_vn": "xuân phân"
+            },
+            {
+              "full_en": "autumnal equinox",
+              "full_vn": "thu phân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) điểm xuân phân; điểm thu phân"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316411_7d11e19a53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316411_5763014c81_o.png",
+      "id_image": "equinox_5570660"
+    }
+  ]
+}

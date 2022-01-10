@@ -1,0 +1,54 @@
+{
+  "english": "inflation",
+  "phat_am": "[in'flei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bơm phồng, sự thổi phồng; tình trạng được bơm phồng, tình trạng được thổi phồng"
+        },
+        {
+          "m_full_vn": "sự lạm phát",
+          "list_en_vn": [
+            {
+              "full_en": "galloping inflation",
+              "full_vn": "lạm phát nhảy vọt, lạm phát phi mã"
+            },
+            {
+              "full_en": "to control /curb inflation",
+              "full_vn": "kiểm soát/kiềm chế lạm phát"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053300_a6cc5cfc47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053300_5be0d37f8e_o.png",
+      "id_image": "inflation_1753681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361152_0500cb2922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361152_ce392d5e52_o.png",
+      "id_image": "inflation_2361928"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316876_72fa2c9ff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316876_ee2b25ba1e_o.png",
+      "id_image": "inflation_3310646"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431883_a00926e20c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431883_caa3140d9c_o.png",
+      "id_image": "inflation_5116485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053255_ef8736a68b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053255_31c0949106_o.png",
+      "id_image": "inflation_6203227"
+    }
+  ]
+}

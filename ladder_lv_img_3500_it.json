@@ -1,0 +1,54 @@
+{
+  "english": "ladder",
+  "phat_am": "['lædə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thang ( (nghĩa đen) & (nghĩa bóng))",
+          "list_one_mean": [
+            {
+              "id_full_en": "to kick down ladder",
+              "list_im": [
+                {
+                  "im_full_vn": "từ bỏ những người bạn đã giúp mình nên địa vị; từ bỏ nghề nghiệp đã giúp mình có địa vị"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "folding ladder",
+              "full_vn": "thang gập được, thang xếp"
+            },
+            {
+              "full_en": "the ladder of fame",
+              "full_vn": "thang danh vọng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nói về bít tất) có kẽ hở"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438373_1897876e79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438373_debe9a5973_o.png",
+      "id_image": "ladder_2666973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438328_6a8c5d12a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438328_a719ba4497_o.png",
+      "id_image": "ladder_5604327"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "english": "harmony",
+  "phat_am": "['hɑ:məni]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hài hoà, sự cân đối",
+          "list_en_vn": [
+            {
+              "full_en": "the harmony of colour in nature",
+              "full_vn": "sự hài hoà về màu sắc trong thiên nhiên"
+            },
+            {
+              "full_en": "the designer's aim is to produce a harmony of shape and texture",
+              "full_vn": "mục đích của người vẽ kiểu là tạo ra sự hài hoà về hình dáng và lớp mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phù hợp về tình cảm, quyền lợi, ý kiến; sự hoà thuận, sự hoà hợp",
+          "list_en_vn": [
+            {
+              "full_en": "working towards harmony in international affairs",
+              "full_vn": "hoạt động cho sự hoà hợp trong các vấn đề quốc tế"
+            },
+            {
+              "full_en": "to be in harmony with",
+              "full_vn": "hoà thuận với, hoà hợp với"
+            },
+            {
+              "full_en": "to be out of harmony with",
+              "full_vn": "không hoà thuận với, không hoà hợp với"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) sự hoà âm",
+          "list_one_mean": [
+            {
+              "id_full_en": "in harmony (with somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "hoà thuận; phù hợp",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to live together in perfect harmony",
+                      "full_vn": "sống với nhau rất hoà thuận"
+                    },
+                    {
+                      "full_en": "his tastes are in harmony with mine",
+                      "full_vn": "sở thích của anh ta phù hợp với sở thích của tôi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the two sang in harmony",
+              "full_vn": "hai người hát hoà âm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699294_8914b32443_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699294_2081642e33_o.png",
+      "id_image": "harmony_1783687"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699284_f1fcba7ef3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699284_69aa659dc3_o.png",
+      "id_image": "harmony_2102523"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389097_858552961a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389097_0050e2ca93_o.png",
+      "id_image": "harmony_2773071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458908_b579822d66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458908_b00b642506_o.png",
+      "id_image": "harmony_4601147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458893_00e9334fd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458893_ea7ab0441f_o.png",
+      "id_image": "harmony_5265801"
+    }
+  ]
+}

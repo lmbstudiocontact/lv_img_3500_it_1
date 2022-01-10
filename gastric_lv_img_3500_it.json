@@ -1,0 +1,41 @@
+{
+  "english": "gastric",
+  "phat_am": "['gæstrik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) dạ dày",
+          "list_en_vn": [
+            {
+              "full_en": "a gastric ulcer",
+              "full_vn": "loét dạ dày"
+            },
+            {
+              "full_en": "gastric juice",
+              "full_vn": "dịch vị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383152_45cc1dc440_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383152_8e98503ab4_o.png",
+      "id_image": "gastric_2451297"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338146_1e8bcc629d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338146_5f6bc4b285_o.png",
+      "id_image": "gastric_4201754"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453053_f734274ccb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453053_6b62bf5b74_o.png",
+      "id_image": "gastric_4694737"
+    }
+  ]
+}

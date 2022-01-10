@@ -1,0 +1,83 @@
+{
+  "english": "executive",
+  "phat_am": "[ig'zekjutiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "liên quan đến việc quản lý và thực hiện các kế hoạch, các quyết định...; chấp hành; quản trị",
+          "list_en_vn": [
+            {
+              "full_en": "executive duties",
+              "full_vn": "các nhiệm vụ quản trị"
+            },
+            {
+              "full_en": "to possess executive ability",
+              "full_vn": "có khả năng quản trị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có quyền thực hiện các quyết định, các đạo luật, các sắc lệnh...; hành pháp",
+          "list_en_vn": [
+            {
+              "full_en": "executive power /authority",
+              "full_vn": "quyền hành pháp"
+            },
+            {
+              "full_en": "executive body",
+              "full_vn": "cơ quan hành pháp"
+            },
+            {
+              "full_en": "executive committee of a political party",
+              "full_vn": "ban chấp hành của một chính đảng"
+            },
+            {
+              "full_en": "the executive branch of the Government",
+              "full_vn": "ngành hành pháp của chính phủ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( the executive ) ngành hành pháp của một chính phủ"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) uỷ viên ban chấp hành, uỷ viên ban quản trị (hãng kinh doanh, tổ chức...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426698_c1d5b678c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426698_ec482ae7c5_o.png",
+      "id_image": "executive_2111179"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355887_c6659129e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355887_0ac6743479_o.png",
+      "id_image": "executive_2910466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426608_d9bbcdca10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426608_a870334463_o.png",
+      "id_image": "executive_3603777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355847_6c01cc7724_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355847_a995127a81_o.png",
+      "id_image": "executive_5138170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311696_bb4f7031fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311696_ce687b9904_o.png",
+      "id_image": "executive_6078592"
+    }
+  ]
+}

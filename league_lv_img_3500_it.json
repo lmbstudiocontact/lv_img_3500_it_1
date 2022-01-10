@@ -1,0 +1,61 @@
+{
+  "english": "league",
+  "phat_am": "[li:g]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đơn vị chiều dài ngày xưa (khoảng 3 dặm Anh hoặc 4, 8 km); lý"
+        },
+        {
+          "m_full_vn": "nhóm người hoặc quốc gia liên kết nhau vì một mục đích nào đó; liên minh; liên hiệp; liên đoàn",
+          "list_en_vn": [
+            {
+              "full_en": "League of Nations",
+              "full_vn": "hội quốc liên"
+            },
+            {
+              "full_en": "football league",
+              "full_vn": "liên đoàn bóng đá"
+            },
+            {
+              "full_en": "to be in league with somebody",
+              "full_vn": "liên minh/liên kết với ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054005_d7699e46d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054005_e8896d6c21_o.png",
+      "id_image": "league_3708084"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361857_a215687f8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361857_7a2f9f6527_o.png",
+      "id_image": "league_5965804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053965_f3c647ab8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053965_df35994819_o.png",
+      "id_image": "league_5965845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053915_30b0dfcdac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053915_93591020a2_o.png",
+      "id_image": "league_5965855"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317456_cd7f0ba0d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317456_33d9844e35_o.png",
+      "id_image": "league_6110080"
+    }
+  ]
+}

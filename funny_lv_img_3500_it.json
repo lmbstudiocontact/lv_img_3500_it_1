@@ -1,0 +1,80 @@
+{
+  "english": "funny",
+  "phat_am": "['fʌni]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "buồn cười, ngồ ngộ, khôi hài"
+        },
+        {
+          "m_full_vn": "là lạ, khang khác",
+          "list_one_mean": [
+            {
+              "id_full_en": "funny business",
+              "list_im": [
+                {
+                  "im_full_vn": "điều không được chấp thuận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "funny ha-ha",
+              "list_im": [
+                {
+                  "im_full_vn": "buồn cười vì tếu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "funny peculiar",
+              "list_im": [
+                {
+                  "im_full_vn": "buồn cười vì quái đản"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "there's something funny about this affair",
+              "full_vn": "có một cái gì là lạ trong việc này"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, (từ Mỹ,nghĩa Mỹ)",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) lời nói buồn cười; câu chuyện khôi hài"
+        },
+        {
+          "m_full_vn": "( số nhiều) tập tranh khôi hài, tập tranh vui"
+        },
+        {
+          "m_full_vn": "thuyền một người chèo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456418_19fea73eb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456418_b19429537e_o.png",
+      "id_image": "funny_2173889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341551_3c54842338_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341551_a55d271782_o.png",
+      "id_image": "funny_2978195"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078980_e7c17afe39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078980_bc89a302f1_o.png",
+      "id_image": "funny_4138870"
+    }
+  ]
+}

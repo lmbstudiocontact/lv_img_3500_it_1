@@ -1,0 +1,436 @@
+{
+  "english": "down",
+  "phat_am": "[daun]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "xuống",
+          "list_en_vn": [
+            {
+              "full_en": "to go down",
+              "full_vn": "đi xuống"
+            },
+            {
+              "full_en": "to fall down",
+              "full_vn": "ngã xuống"
+            },
+            {
+              "full_en": "to throw down",
+              "full_vn": "ném xuống"
+            },
+            {
+              "full_en": "to look down",
+              "full_vn": "nhìn xuống"
+            },
+            {
+              "full_en": "food goes down",
+              "full_vn": "thức ăn trôi xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xuống, bỏ xuống, lặn xuống, ngã xuống, nằm xuống; ở dưới",
+          "list_en_vn": [
+            {
+              "full_en": "to be not down yet",
+              "full_vn": "chưa dậy, chưa ở buồng ngủ xuống"
+            },
+            {
+              "full_en": "the sun is down",
+              "full_vn": "mặt trời đã lặn"
+            },
+            {
+              "full_en": "the blinds are down",
+              "full_vn": "rèm cửa đã buông xuống"
+            },
+            {
+              "full_en": "the ship is down",
+              "full_vn": "tàu chìm nghỉm"
+            },
+            {
+              "full_en": "to be down with malaria",
+              "full_vn": "bị ốm liệt vì sốt rét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xuống cho đến, cho đến tận, xuôi theo",
+          "list_en_vn": [
+            {
+              "full_en": "to sail down with the wind",
+              "full_vn": "căng buồm xuôi theo chiều gió"
+            },
+            {
+              "full_en": "from the XVIIIth century down to the present time",
+              "full_vn": "từ thế kỷ 18 cho đến tận ngày nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hạ bớt, giảm bớt, dần",
+          "list_en_vn": [
+            {
+              "full_en": "to cut down prices",
+              "full_vn": "hạ giá"
+            },
+            {
+              "full_en": "to cool down",
+              "full_vn": "nguôi đi; bình tĩnh lại"
+            },
+            {
+              "full_en": "rice is down",
+              "full_vn": "giá gạo hạ, gạo hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở phía dưới, ở vùng dưới, xuôi về (ngụ ý xa nơi trung tâm, xa thành phố lớn; ở nơi trung tâm về...)",
+          "list_en_vn": [
+            {
+              "full_en": "to go down to the country",
+              "full_vn": "về miền quê"
+            },
+            {
+              "full_en": "to live somewhere down in Bacthai",
+              "full_vn": "ở đâu đây trên Bắc thái"
+            },
+            {
+              "full_en": "to go down to Brighton",
+              "full_vn": "về Brai-tơn (ở Luân-đôn về)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gục xuống, kiệt sức, ở thế cùng, cùng đường; im đi (ngụ ý trấn áp, bắt im, làm kiệt sức, dồn vào thế cùng...)",
+          "list_en_vn": [
+            {
+              "full_en": "to hunt down a deer",
+              "full_vn": "săn đuổi một con hươu đến cùng đường"
+            },
+            {
+              "full_en": "to run down a horse",
+              "full_vn": "bắt ngựa chạy kiệt sức"
+            },
+            {
+              "full_en": "the clock has run down",
+              "full_vn": "đồng hồ chết vì không lên dây cót"
+            },
+            {
+              "full_en": "to hiss down",
+              "full_vn": "la ó (huýt sáo) bắt (một diễn giả...) im"
+            },
+            {
+              "full_en": "to put down a rebellion",
+              "full_vn": "đàn áp một cuộc nổi loạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bằng tiền mặt",
+          "list_en_vn": [
+            {
+              "full_en": "to pay down",
+              "full_vn": "trả tiền mặt"
+            },
+            {
+              "full_en": "money (cash ) down",
+              "full_vn": "tiền mặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghi chép (trên giấy...)",
+          "list_en_vn": [
+            {
+              "full_en": "to have something down on one's notebook",
+              "full_vn": "ghi chép cái gì vào sổ tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xông vào, lăn xả vào, đánh đập",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be down at heels",
+              "list_im": [
+                {
+                  "im_full_vn": "vẹt gót (giày)"
+                },
+                {
+                  "im_full_vn": "đi giày vẹt gót, ăn mặc nhếch nhác (người)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be down in (at ) health",
+              "list_im": [
+                {
+                  "im_full_vn": "sức khoẻ giảm sút"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be down in the mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "ỉu xìu, chán nản, thất vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be down on one's luck",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) luck"
+                }
+              ]
+            },
+            {
+              "id_full_en": "down to the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that suits me down to the ground",
+                      "full_vn": "cái đó hoàn toàn thích hợp với tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "down with !",
+              "list_im": [
+                {
+                  "im_full_vn": "đả đảo!",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "down with imperialism !",
+                      "full_vn": "đả đảo chủ nghĩa đế quốc!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "down and out",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục,thể thao) gục không dậy được nữa, bị đo ván (quyền Anh)"
+                },
+                {
+                  "im_full_vn": "cùng đường, cùng kế, thất cơ lỡ vận; thua cháy túi (đánh bạc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "down on the nail",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay lập tức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "up and down",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) up"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be down upon somebody",
+              "full_vn": "lăn xả vào đánh ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "xuống, xuôi, xuôi dọc theo",
+          "list_en_vn": [
+            {
+              "full_en": "down the hill",
+              "full_vn": "xuống đồi"
+            },
+            {
+              "full_en": "down the river",
+              "full_vn": "xuôi dòng sông"
+            },
+            {
+              "full_en": "down the wind",
+              "full_vn": "xuôi gió"
+            },
+            {
+              "full_en": "to go down the road",
+              "full_vn": "đi xuôi dọc theo con đường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở phía thấp, ở dưới",
+          "list_one_mean": [
+            {
+              "id_full_en": "to let go down the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) vứt bỏ, bỏ đi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to live somewhere down the street",
+              "full_vn": "ở đâu đó dưới phố"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xuống, xuôi",
+          "list_en_vn": [
+            {
+              "full_en": "down leap",
+              "full_vn": "cái nhảy xuống"
+            },
+            {
+              "full_en": "down look",
+              "full_vn": "cái nhìn xuống"
+            },
+            {
+              "full_en": "down grade",
+              "full_vn": "(ngành đường sắt) dốc xuống; (nghĩa bóng) sự sút kém, sự tồi tệ"
+            },
+            {
+              "full_en": "down train",
+              "full_vn": "(ngành đường sắt) chuyến xe xuôi (từ Luân-đôn hoặc một thủ đô, một thành phố lớn đến)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chán nản, nản lòng, thất vọng"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thể dục,thể thao) kém điểm (đối phương)",
+          "list_en_vn": [
+            {
+              "full_en": "he is one down",
+              "full_vn": "anh ta kém một điểm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt xuống, hạ xuống, bỏ xuống"
+        },
+        {
+          "m_full_vn": "đánh gục, đánh ngã (ai); hạ, bắn rơi (máy bay)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to down a glass of wine",
+              "list_im": [
+                {
+                  "im_full_vn": "nốc một cốc rượu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to down tools",
+              "list_im": [
+                {
+                  "im_full_vn": "bãi công"
+                },
+                {
+                  "im_full_vn": "ngừng việc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( số nhiều) cảnh sa sút, vận xuống dốc",
+          "list_en_vn": [
+            {
+              "full_en": "ups and downs",
+              "full_vn": "sự ba chìm bảy nổi, sự thăng trầm của cuộc đời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) sự ghét (chỉ muốn nện cho một trận)",
+          "list_en_vn": [
+            {
+              "full_en": "to have a down on somebody",
+              "full_vn": "ghét ai chỉ muốn nện cho một trận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lông tơ chim (để nhồi gối...)"
+        },
+        {
+          "m_full_vn": "lông tơ (ở trái cây, ở má...)"
+        },
+        {
+          "m_full_vn": "vùng cao nguyên, vùng đồi"
+        },
+        {
+          "m_full_vn": "( số nhiều) vùng đồi trọc (có nhiều bãi cỏ chăn nuôi ở miền nam nước Anh)"
+        },
+        {
+          "m_full_vn": "cồn cát, đụn cát"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307696_3eb06a8765_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307696_cf7f16e9b6_o.png",
+      "id_image": "down_1303238"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044660_4576c9fbf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044660_8082db3672_o.png",
+      "id_image": "down_1441950"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808351772_1e47c23748_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808351772_60044486fc_o.png",
+      "id_image": "down_1725499"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044610_7524f2a9b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044610_317c6b8683_o.png",
+      "id_image": "down_4151471"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662869_03aa8cdf89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662869_43c7785b83_o.png",
+      "id_image": "down_4845873"
+    }
+  ]
+}

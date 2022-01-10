@@ -1,0 +1,47 @@
+{
+  "english": "lagoon",
+  "phat_am": "[lə'gu:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(địa lý,địa chất) phá",
+          "list_en_vn": [
+            {
+              "full_en": "Tam Giang lagoon",
+              "full_vn": "phá Tam Giang"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367717_841e2b6ceb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367717_909d276b69_o.png",
+      "id_image": "lagoon_1703641"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059325_293d97b2a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059325_a375baa206_o.png",
+      "id_image": "lake_2290348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437808_c3ce7ae94c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437808_1fbc69f57f_o.png",
+      "id_image": "lake_3105264"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322471_3948c1862e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322471_f133d443a7_o.png",
+      "id_image": "lake_3722763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437963_90a2ee38c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437963_a4f75d01c9_o.png",
+      "id_image": "lake_882885"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "english": "flight",
+  "phat_am": "[flait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bay; chuyến bay; đường bay",
+          "list_en_vn": [
+            {
+              "full_en": "history of manned space flight",
+              "full_vn": "lịch sử của việc con người bay vào vũ trụ"
+            },
+            {
+              "full_en": "the age of supersonic flight",
+              "full_vn": "thời đại của những chuyến bay siêu âm"
+            },
+            {
+              "full_en": "the bird had been shot down in flight",
+              "full_vn": "con chim bị bắn rơi khi đang bay"
+            },
+            {
+              "full_en": "the flight of an arrow , a dart , a missile",
+              "full_vn": "đường bay của mũi tên, phi tiêu, tên lửa"
+            },
+            {
+              "full_en": "a smooth , comfortable , bumpy flight",
+              "full_vn": "chuyến bay ôm, thoải mái, xóc"
+            },
+            {
+              "full_en": "all flights have been cancelled because of flogs",
+              "full_vn": "mọi chuyến bay đều bị hủy vì sương mù"
+            },
+            {
+              "full_en": "we travelled aboard the same flight",
+              "full_vn": "chúng tôi cùng đi trên một chuyến bay"
+            },
+            {
+              "full_en": "flight number BA 1234 will arrive in London at 16.50",
+              "full_vn": "chuyến bay số BA 1234 sẽ đến Luân Đôn lúc 16 giờ 50"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm các máy bay cùng hoạt động thành một đơn vị; phi đội",
+          "list_en_vn": [
+            {
+              "full_en": "an aircraft of the Queen's flight",
+              "full_vn": "máy bay thuộc phi đội của Nữ hoàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( flight of something ) đàn chim, bầy côn trùng... cùng bay; chùm mũi tên phóng ra",
+          "list_en_vn": [
+            {
+              "full_en": "a flight of geese",
+              "full_vn": "một đàn ngỗng bay"
+            },
+            {
+              "full_en": "a flight of arrows",
+              "full_vn": "một chùm tên bay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dãy bậc thang giữa hai tầng nhà hoặc hai đầu cầu thang",
+          "list_en_vn": [
+            {
+              "full_en": "there was no lift and we had to climb six flights of stairs",
+              "full_vn": "không có thang máy, nên chúng tôi phải leo sáu đợt cầu thang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chuyến đi ngắn (nhất là về thời gian)"
+        },
+        {
+          "m_full_vn": "( flight of something ) trường hợp về một cái gì rất sáng tạo, nhưng không thực tế",
+          "list_one_mean": [
+            {
+              "id_full_en": "a flight of fancy",
+              "list_im": [
+                {
+                  "im_full_vn": "ý nghĩ không thực tế; ý tưởng viễn vông"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the first /top flight",
+              "list_im": [
+                {
+                  "im_full_vn": "chiếm vị trí dẫn đầu; cái tốt nhất của thứ đó"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "wild flights of imagination",
+              "full_vn": "những điều tưởng tượng phiêu diêu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(trong môn cricket) tạo cho (quả bóng) một đường bay nào đó trong không gian lúc ném bóng để lừa người cầm gậy gạt bóng"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động hoặc trường hợp lẩn trốn hoặc bỏ chạy",
+          "list_one_mean": [
+            {
+              "id_full_en": "to put somebody to flight",
+              "list_im": [
+                {
+                  "im_full_vn": "buộc (ai) phải tháo chạy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the enemy was put to flight by the advancing army",
+                      "full_vn": "quân địch phải tháo chạy do đạo quân tràn tới"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take (to ) flight",
+              "list_im": [
+                {
+                  "im_full_vn": "lẩn trốn, bỏ chạy, tháo chạy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the gang took (to ) flight when they heard the police car",
+                      "full_vn": "bọn cướp tẩu thoát khi nghe thấy tiếng xe cảnh sát"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "many soldiers fell wounded in their flight from the defeat",
+              "full_vn": "nhiều binh lính bị thương trong lúc tháo chạy vì thất bại"
+            },
+            {
+              "full_en": "the flight of capital",
+              "full_vn": "sự tẩu tán vốn (gửi vốn ra nước ngoài trong cơn khủng hoảng (tài chính))"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058275_d6dc9f3973_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058275_ca84ec9809_o.png",
+      "id_image": "flight_3310773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366437_09c98a5d21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366437_fd85ba4da3_o.png",
+      "id_image": "flight_384038"
+    }
+  ]
+}

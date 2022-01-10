@@ -1,0 +1,37 @@
+{
+  "english": "fraternity",
+  "phat_am": "[frə'tə:niti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tình anh em"
+        },
+        {
+          "m_full_vn": "nhóm những người có cùng nghề nghiệp, tín ngưỡng; hội",
+          "list_en_vn": [
+            {
+              "full_en": "the medical /banking /teaching fraternity",
+              "full_vn": "hội những người làm nghề y/ngân hàng/giảng dạy"
+            },
+            {
+              "full_en": "the racing fraternity",
+              "full_vn": "hội điền kinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nhóm nam sinh viên với tư cách là một đoàn thể xã hội; hội nam sinh đại học"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667879_c70596e65d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667879_eba52eefae_o.png",
+      "id_image": "fraternity_2284947"
+    }
+  ]
+}

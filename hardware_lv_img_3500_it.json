@@ -1,0 +1,43 @@
+{
+  "english": "hardware",
+  "phat_am": "['hɑ:dweə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dụng cụ và đồ dùng trong nhà (chảo, đinh, khoá, đồ sắt chẳng hạn); đồ ngũ kim"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) (từ lóng) máy móc hoặc vũ khí hạng nặng",
+          "list_en_vn": [
+            {
+              "full_en": "military hardware",
+              "full_vn": "vũ khí quân dụng hạng nặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) phần cứng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344411_ce0b30e3d4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344411_70273a979b_o.png",
+      "id_image": "hardware_1813840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344376_6a71b270ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344376_d026fd2b65_o.png",
+      "id_image": "hardware_6401592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081895_96d843dfdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081895_95f5f7d661_o.png",
+      "id_image": "hardware_675600"
+    }
+  ]
+}

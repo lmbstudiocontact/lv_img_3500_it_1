@@ -1,0 +1,78 @@
+{
+  "english": "edit",
+  "phat_am": "['edit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chuẩn bị (một bài viết, (thường) là của người khác) để xuất bản; biên tập",
+          "list_en_vn": [
+            {
+              "full_en": "To edit a Shakespearre play for use in schools",
+              "full_vn": "Biên tập một vở kịch của Shakespeare để dùng trong nhà trường"
+            },
+            {
+              "full_en": "To edit a book of poetry",
+              "full_vn": "Biên tập một tập thơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sắp xếp (dữ liệu) cho việc lập trình máy tính"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm chủ bút (ở một tờ báo...); chủ biên",
+          "list_one_mean": [
+            {
+              "id_full_en": "To edit something out of something",
+              "list_im": [
+                {
+                  "im_full_vn": "Lược bỏ (từ, cụm từ... không cần thiết)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "They must have edited bits of the interview out",
+                      "full_vn": "Hẳn họ đã lược bỏ mấy chỗ trong cuộc phỏng vấn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066830_43283d6350_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066830_105bf36fa1_o.png",
+      "id_image": "edit_2419268"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374717_5eee7653c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374717_5ddefaaa36_o.png",
+      "id_image": "edit_2491509"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066895_25ed63e68e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066895_515a6ba998_o.png",
+      "id_image": "edit_269074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444993_1c907a4eb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444993_31c2a0d847_o.png",
+      "id_image": "edit_2912868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444958_2305a97fea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444958_fcf64b022d_o.png",
+      "id_image": "edit_2991636"
+    }
+  ]
+}

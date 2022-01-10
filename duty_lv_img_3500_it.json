@@ -1,0 +1,84 @@
+{
+  "english": "duty",
+  "phat_am": "['dju:ti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bổn phận, nhiệm vụ, trách nhiệm",
+          "list_en_vn": [
+            {
+              "full_en": "to do one's duty",
+              "full_vn": "làm nhiệm vụ, làm bổn phận"
+            },
+            {
+              "full_en": "It's not something I enjoy . I do it purely out of sense of duty",
+              "full_vn": "Chẳng có gì thích thú cả. Tôi làm việc này chỉ vì ý thức trách nhiệm mà thôi"
+            },
+            {
+              "full_en": "I'll have to go , I'm afraid - duty calls",
+              "full_vn": "Tôi e rằng tôi sẽ phải ra đi - đó là tiếng gọi của nghĩa vụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phận sự hoặc công việc mà ai phải hoàn thành",
+          "list_en_vn": [
+            {
+              "full_en": "to take up one's duties",
+              "full_vn": "bắt đầu đảm nhiệm công việc, bắt đầu nhận chức vụ"
+            },
+            {
+              "full_en": "I'm doing night duty this week",
+              "full_vn": "tôi đang làm phận sự trực đêm tuần này"
+            },
+            {
+              "full_en": "on /off duty",
+              "full_vn": "đang bận/rối trong công việc thường lệ; đến phiên/hết phiên"
+            },
+            {
+              "full_en": "I arrive at the hospital at 8 o'clock , but I don't go on duty until nine",
+              "full_vn": "tôi đến bệnh viện lúc 8 giờ, nhưng tới chín giờ mới đến phiên trực"
+            },
+            {
+              "full_en": "to do duty for something",
+              "full_vn": "thay thế cho cái gì; có tác dụng như cái gì"
+            },
+            {
+              "full_en": "an old wooden box does duty for a table",
+              "full_vn": "cái hòm gỗ cũ dùng tạm làm cái bàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuế đánh vào hàng hoá nào đó (nhất là hàng nhập khẩu)",
+          "list_en_vn": [
+            {
+              "full_en": "goods liable to duty",
+              "full_vn": "hàng hoá phải đóng thuế"
+            },
+            {
+              "full_en": "import duties",
+              "full_vn": "thuế nhập khẩu"
+            },
+            {
+              "full_en": "customs duties",
+              "full_vn": "thuế hải quan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) công suất"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378927_750db46fe7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378927_eae3bb553e_o.png",
+      "id_image": "duty_353635"
+    }
+  ]
+}

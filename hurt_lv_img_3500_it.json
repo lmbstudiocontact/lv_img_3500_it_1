@@ -1,0 +1,100 @@
+{
+  "english": "hurt",
+  "phat_am": "[hə:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vết thương, chỗ bị đau"
+        },
+        {
+          "m_full_vn": "điều hại, tai hại"
+        },
+        {
+          "m_full_vn": "sự chạm đến, sự xúc phạm, sự làm tổn thương",
+          "list_en_vn": [
+            {
+              "full_en": "a hurt to someone's reputation",
+              "full_vn": "điều xúc phạm đến thanh danh của ai"
+            },
+            {
+              "full_en": "a hurt to someone's pride",
+              "full_vn": "điều chạm đến lòng tự ái của ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bị thương, làm đau",
+          "list_en_vn": [
+            {
+              "full_en": "to hurt one's arm",
+              "full_vn": "làm đau cánh tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gây tác hại, gây thiệt hại, làm hư, làm hỏng",
+          "list_en_vn": [
+            {
+              "full_en": "rain has hurt the crop",
+              "full_vn": "mưa gây thiệt hại cho mùa màng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chạm, xúc phạm, làm tổn thương",
+          "list_en_vn": [
+            {
+              "full_en": "to hurt someone's pride",
+              "full_vn": "làm chạm lòng tự ái của ai"
+            },
+            {
+              "full_en": "to hurt someone's reputation",
+              "full_vn": "xúc phạm đến thanh danh của ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thông tục) đau, bị đau",
+          "list_en_vn": [
+            {
+              "full_en": "does your hand hurt ?",
+              "full_vn": "tay anh có đau không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) bị tổn hại, bị tổn thương; bị xúc phạm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441698_747b0e5db4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441698_1b792de0bb_o.png",
+      "id_image": "hurt_214241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063550_b0d6148897_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063550_cd5d5a5035_o.png",
+      "id_image": "hurt_3362282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441598_7e757544f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441598_3e022cc055_o.png",
+      "id_image": "hurt_3561448"
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "english": "like",
+  "phat_am": "[laik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "giống nhau, như nhau",
+          "list_en_vn": [
+            {
+              "full_en": "they're not twins , but they're very like",
+              "full_vn": "chúng không phải là anh em sinh đôi, nhưng rất giống nhau"
+            },
+            {
+              "full_en": "like causes tend produce like results",
+              "full_vn": "những nguyên nhân như nhau có khuynh hướng đem lại những kết quả như nhau"
+            },
+            {
+              "full_en": "mice , rats and like creatures",
+              "full_vn": "chuột nhà, chuột đồng và những con vật tương tự"
+            },
+            {
+              "full_en": "as like as two peas /as peas in a pod",
+              "full_vn": "giống nhau như hai giọt nước; giống nhau như đúc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "như, giống như",
+          "list_en_vn": [
+            {
+              "full_en": "what's he like ?",
+              "full_vn": "anh ta là người như thế nào? anh ta là hạng người như thế nào?"
+            },
+            {
+              "full_en": "what's the weather like ?",
+              "full_vn": "thời tiết như thế nào?"
+            },
+            {
+              "full_en": "he rides a white horse like mine",
+              "full_vn": "hắn cưỡi một con ngựa trắng như ngựa của tôi"
+            },
+            {
+              "full_en": "don't talk like that",
+              "full_vn": "đừng nói như vậy"
+            },
+            {
+              "full_en": "it looks like rain",
+              "full_vn": "có vẻ như trời muốn mưa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thực đúng là đặc tính của...",
+          "list_en_vn": [
+            {
+              "full_en": "it's just like the Vietnamese to thirst for learning",
+              "full_vn": "hiếu học thực đúng đặc tính người Việt Nam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gần, khoảng độ",
+          "list_en_vn": [
+            {
+              "full_en": "something like 100d",
+              "full_vn": "khoảng độ 100 đồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chẳng hạn như...",
+          "list_one_mean": [
+            {
+              "id_full_en": "like father , like son",
+              "list_im": [
+                {
+                  "im_full_vn": "cha nào con nấy, hổ phụ sinh hổ tử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like master , like man",
+              "list_im": [
+                {
+                  "im_full_vn": "thầy nào tớ nấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel like doing sth",
+              "list_im": [
+                {
+                  "im_full_vn": "có hứng thú làm việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a shot",
+              "list_im": [
+                {
+                  "im_full_vn": "không ngần ngại, sẵn lòng; bất chấp hậu quả"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "we shall read the trustworthy reviews , like Saigon Times and Vietnam Courier",
+              "full_vn": "chúng ta sẽ đọc những tạp chí đáng tin cậy, chẳng hạn như Saigon Times và Vietnam Courier"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "( as ) like as not ; most / very like , like enough rất có thể",
+          "list_en_vn": [
+            {
+              "full_en": "It'll rain this afternoon , as like as not",
+              "full_vn": "Có khả năng là chiều nay sẽ mưa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "liên từ",
+      "list_m": [
+        {
+          "m_full_vn": "theo cung cách như",
+          "list_en_vn": [
+            {
+              "full_en": "I cannot do it like you did",
+              "full_vn": "tôi không thể làm cái đó như anh làm"
+            },
+            {
+              "full_en": "no one sings the blues like she did",
+              "full_vn": "không ai hát những bài nhạc \" blu\" như cô ta"
+            },
+            {
+              "full_en": "don't think you can learn grammatical rules like you learn multiplication tables",
+              "full_vn": "đừng nghĩ rằng anh có thể học quy tắc văn phạm như là học bảng cửu chương"
+            },
+            {
+              "full_en": "don't beat your wife like you beat the thief last night",
+              "full_vn": "anh đừng đánh vợ như đánh tên trộm đêm qua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ, nghĩa Mỹ) như thể",
+          "list_en_vn": [
+            {
+              "full_en": "she acts like she owns the place",
+              "full_vn": "cô ta hành động như thể cô ta là chủ nhân nơi đó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người thuộc loại như; vật thuộc loại như",
+          "list_one_mean": [
+            {
+              "id_full_en": "like cures like",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy độc trị độc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to return like for like",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy ơn trả ơn, lấy oán trả oán"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "have you ever seen the like of it ?",
+              "full_vn": "có bao giờ anh trông thấy cái giống như cái đó không?"
+            },
+            {
+              "full_en": "music , painting and the like",
+              "full_vn": "âm nhạc, hội hoạ và những môn thuộc loại đó"
+            },
+            {
+              "full_en": "the likes of me",
+              "full_vn": "(thông tục) những kẻ hèn như tôi"
+            },
+            {
+              "full_en": "the likes of you",
+              "full_vn": "(thông tục) những bậc cao sang như anh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái thích",
+          "list_en_vn": [
+            {
+              "full_en": "likes and dislikes",
+              "full_vn": "những cái thích và những cái không thích"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thích ưa, chuộng, yêu",
+          "list_en_vn": [
+            {
+              "full_en": "do you like fish ?",
+              "full_vn": "anh có thích cá không?"
+            },
+            {
+              "full_en": "I like his cheek",
+              "full_vn": "(mỉa mai) tôi mới thích thái độ láo xược của hắn làm sao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( would like , should like ) muốn, ước mong",
+          "list_en_vn": [
+            {
+              "full_en": "I should like a cup of tea",
+              "full_vn": "tôi muốn có một tách chè"
+            },
+            {
+              "full_en": "parents would like their children to be successful in life",
+              "full_vn": "bố mẹ muốn cho con cái thành công ở đời"
+            },
+            {
+              "full_en": "I'd like to know (see )",
+              "full_vn": "thử cho tôi biết (xem) nào!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thích hợp, hợp với (thể trạng, sức khoẻ...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to like the look of sb",
+              "list_im": [
+                {
+                  "im_full_vn": "có thiện cảm với ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "wine does not like me",
+              "full_vn": "rượu vang không hợp với thể trạng của tôi, tôi không chịu đựng được rượu vang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thích, muốn",
+          "list_one_mean": [
+            {
+              "id_full_en": "if you like",
+              "list_im": [
+                {
+                  "im_full_vn": "tùy anh, nếu anh muốn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "you may do as you like",
+              "full_vn": "anh có thể làm theo như ý thích"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387062_2289dddb2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387062_8efd8969f0_o.png",
+      "id_image": "like_241827"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079385_5bbc5d6263_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079385_710e079ea5_o.png",
+      "id_image": "like_4149768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341996_e2545a2cbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341996_da9d78dd1d_o.png",
+      "id_image": "like_951435"
+    }
+  ]
+}

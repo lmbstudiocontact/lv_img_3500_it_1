@@ -1,0 +1,96 @@
+{
+  "english": "initiative",
+  "phat_am": "[i'ni∫ətiv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động nhằm giải quyết một khó khăn; sáng kiến",
+          "list_en_vn": [
+            {
+              "full_en": "It is hoped that the government's initiative will bring the strike to an end",
+              "full_vn": "Hy vọng rằng sáng kiến của chính phủ sẽ chấm dứt được cuộc bãi công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "óc sáng kiến",
+          "list_en_vn": [
+            {
+              "full_en": "a man who lacks the initiative to be a leader",
+              "full_vn": "một người không có óc sáng kiến để làm người lãnh đạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "năng lực hoặc quyền hành động; thế chủ động",
+          "list_en_vn": [
+            {
+              "full_en": "The initiative has passed to us",
+              "full_vn": "Thế chủ động đã thuộc về ta"
+            },
+            {
+              "full_en": "Because of the general's indecisiveness , our armies have lost the initiative to the enemy",
+              "full_vn": "Do sự do dự của vị tướng, quân đội ta đã để quyền chủ độngrơi vào tay quân địch"
+            },
+            {
+              "full_en": "to hold the initiative",
+              "full_vn": "nắm thế chủ động"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyền cho phép thường dân đề xướng luật lệ mới (ở Thụy Sĩ)",
+          "list_one_mean": [
+            {
+              "id_full_en": "on one's own initiative",
+              "list_im": [
+                {
+                  "im_full_vn": "chủ động, tự mình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "In the absence of my commanding officer , I acted on my own initiative",
+                      "full_vn": "Trong khi người chỉ huy của tôi vắng mặt, tôi đã tự mình hành động"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the initiative",
+              "list_im": [
+                {
+                  "im_full_vn": "dẫn đầu, làm đầu tàu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "It's up to this country to take the initiative in banning nuclear weapons",
+                      "full_vn": "Nước này cần phải đi đầu trong việc ngăn cấm vũ khí hạt nhân"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392212_0b89420d79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392212_7ccd027d71_o.png",
+      "id_image": "initiative_1055358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702049_77d209a8f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702049_8509b326bb_o.png",
+      "id_image": "initiative_1838330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084625_d5b11c1aa4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084625_28fe05cc8e_o.png",
+      "id_image": "initiative_3317703"
+    }
+  ]
+}

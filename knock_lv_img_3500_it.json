@@ -1,0 +1,357 @@
+{
+  "english": "knock",
+  "phat_am": "[nɔk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cú đánh, cú va chạm",
+          "list_en_vn": [
+            {
+              "full_en": "a knock on the head",
+              "full_vn": "cú đánh vào đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiếng gõ (cửa)",
+          "list_en_vn": [
+            {
+              "full_en": "a knock at the door",
+              "full_vn": "tiếng gõ cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) lời phê bình kịch liệt, lời chỉ trích gay gắt"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) tiếng nổ lọc xọc (máy bị rơ hoặc hỏng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to get the knock",
+              "list_im": [
+                {
+                  "im_full_vn": "bị thất bại, bị đánh bại"
+                },
+                {
+                  "im_full_vn": "(sân khấu) bị khán giả chê"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the knock",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) bị sa sút, bị nghèo khổ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đập, đánh, va đụng",
+          "list_en_vn": [
+            {
+              "full_en": "to knock somebody on the head",
+              "full_vn": "đập vào đầu ai"
+            },
+            {
+              "full_en": "to knock something to pieces",
+              "full_vn": "đập vụn cái gì"
+            },
+            {
+              "full_en": "to knock one's head against something",
+              "full_vn": "đụng đầu vào cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) làm choáng người, gây ấn tượng sâu sắc, làm ngạc nhiên hết sức"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) phê bình kịch liệt, chỉ trích gay gắt"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gõ",
+          "list_en_vn": [
+            {
+              "full_en": "to knock at the door",
+              "full_vn": "gõ cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) kêu lọc xọc, nổ lọc xọc (máy bị rơ hoặc hỏng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to knock about (...)",
+              "list_im": [
+                {
+                  "im_full_vn": "có cuộc sống không ổn định, luôn dịch chuyển và sống ở nhiều nơi; lang thang nay đây mai đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to spend a few years knocking about (in ) Europe",
+                      "full_vn": "sống vài năm nay đây mai đó ở châu Âu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock against",
+              "list_im": [
+                {
+                  "im_full_vn": "va phải, đụng phải"
+                },
+                {
+                  "im_full_vn": "tình cờ, chạm trán, tình cờ gặp (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock back",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) uống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock down",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh ngã, húc ngã; phá đổ (nhà...); bắn rơi (máy bay...)"
+                },
+                {
+                  "im_full_vn": "đánh quỵ; hạ (uy thế của ai...)"
+                },
+                {
+                  "im_full_vn": "gõ búa xuống bàn ra hiệu quyết định bán (bán đấu giá)"
+                },
+                {
+                  "im_full_vn": "(thông tục) yêu cầu (ai hát một bài...)"
+                },
+                {
+                  "im_full_vn": "dỡ (máy...) thành từng bộ phận nhỏ (cho gọn khi chuyên chở)"
+                },
+                {
+                  "im_full_vn": "(thông tục) hạ (giá...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock off",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh bật đi, đánh văng đi, đánh tung lên"
+                },
+                {
+                  "im_full_vn": "nghỉ, ngừng (việc); ngừng làm việc"
+                },
+                {
+                  "im_full_vn": "giải quyết nhanh, làm mau, làm vội",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to knock off business",
+                      "full_vn": "giải quyết nhanh công việc"
+                    },
+                    {
+                      "full_en": "to knock off some verses",
+                      "full_vn": "làm mau mấy câu thơ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "rút bớt, bớt đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to knock off a sum from the bill",
+                      "full_vn": "bớt một số tiền lớn ở hoá đơn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ lóng) ăn cắp, chôm"
+                },
+                {
+                  "im_full_vn": "(từ lóng) chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock out",
+              "list_im": [
+                {
+                  "im_full_vn": "gõ (tẩu) cho tàn thuốc bật ra"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) đánh nốc ao, hạ đo ván (quyền Anh)"
+                },
+                {
+                  "im_full_vn": "đánh gục, đánh bại (kẻ địch)"
+                },
+                {
+                  "im_full_vn": "(thông tục) làm vội (một kế hoạch...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock together",
+              "list_im": [
+                {
+                  "im_full_vn": "tập hợp vội vàng, vơ váo vào với nhau; ghép vội vào với nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock under",
+              "list_im": [
+                {
+                  "im_full_vn": "đầu hàng, hàng phục, chịu khuất phục, chịu thua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock up",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh bay lên, đánh tốc lên"
+                },
+                {
+                  "im_full_vn": "gõ cửa đánh thức (ai) dậy"
+                },
+                {
+                  "im_full_vn": "làm vội vàng, giải quyết vội vàng, thu xếp vội vàng (việc gì)"
+                },
+                {
+                  "im_full_vn": "làm kiệt sức, làm mệt lử; kiệt sức, mệt lử"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) làm cho có mang"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) ghi nhanh, thắng nhanh (điểm)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock the bottom out of something , to knock something into a cocked hat",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) làm thất bại, làm hỏng (kế hoạch...); chặn đứng (một âm mưu...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock somebody's head off",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) thắng ai một cách dễ dàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock somebody into the middle of next week",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh ai ngã lăn quay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock somebody off his pins",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai choáng người, làm cho ai điếng người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock their heads together",
+              "list_im": [
+                {
+                  "im_full_vn": "va chạm nhau kịch liệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "knock it off !",
+              "list_im": [
+                {
+                  "im_full_vn": "im đi! câm mồm!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock sb off his perch",
+              "list_im": [
+                {
+                  "im_full_vn": "chứng tỏ ai không còn nổi bật về cái gì nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock sb sideways",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh bật ra rìa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock spots off sb /sth",
+              "list_im": [
+                {
+                  "im_full_vn": "trội hơn ai/ cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to knock the stuffing out of sb",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh gục, đánh quỵ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "knock them in the aisles",
+              "list_im": [
+                {
+                  "im_full_vn": "(về một buổi trình diễn) rất thành công, gặt hái thành công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you could have knocked me down with a feather",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi sửng sốt quá đỗi!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061885_1fa397d94b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061885_7c3d17227d_o.png",
+      "id_image": "knock_4223167"
+    }
+  ]
+}

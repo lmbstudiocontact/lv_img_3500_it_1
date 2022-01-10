@@ -1,0 +1,101 @@
+{
+  "english": "elder",
+  "phat_am": "['eldə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(về người; nhất là hai thành viên có quan hệ gần gũi trong gia đình) nhiều tuổi hơn; lớn hơn",
+          "list_en_vn": [
+            {
+              "full_en": "my elder brother",
+              "full_vn": "anh tôi"
+            },
+            {
+              "full_en": "her elder daughter",
+              "full_vn": "con gái lớn của bà ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the elder ) (không có danh từ đi sát theo sau để nói đến một danh từ đứng trước hoặc sau đó) người lớn hơn",
+          "list_en_vn": [
+            {
+              "full_en": "he's the elder of my two brothers",
+              "full_vn": "anh ấy là anh lớn trong hai anh tôi"
+            },
+            {
+              "full_en": "There go my two sons . Can you guess which is the elder ?",
+              "full_vn": "Kia là hai con trai tôi. Ông có đoán được đứa nào là đứa lớn hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the elder ) (dùng trước hay sau tên của một người để phân biệt với một người khác cùng tên)",
+          "list_en_vn": [
+            {
+              "full_en": "Pitt the elder (the elder Pitt)",
+              "full_vn": "thằng Pitt lớn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người nhiều tuổi hơn",
+          "list_en_vn": [
+            {
+              "full_en": "he's her elder by several years",
+              "full_vn": "anh ta lớn hơn cô ấy vài tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( elders ) người cao tuổi hơn hoặc có quyền cao hơn",
+          "list_en_vn": [
+            {
+              "full_en": "the village elders",
+              "full_vn": "các già làng (người cao tuổi và được kính trọng trong làng)"
+            },
+            {
+              "full_en": "traditions were passed on by the elders of the tribe",
+              "full_vn": "các truyền thống được các bô lão trong bộ lạc truyền lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người có chức vụ trong giáo hội Trưởng lão"
+        },
+        {
+          "m_full_vn": "(thực vật học) cây cơm cháy",
+          "list_one_mean": [
+            {
+              "id_full_en": "one's (elders and ) betters",
+              "list_im": [
+                {
+                  "im_full_vn": "xem better"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681869_bd23d32b76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681869_21eea69a7c_o.png",
+      "id_image": "elder_3770861"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371457_66db731dd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371457_d924da5772_o.png",
+      "id_image": "elder_3891416"
+    }
+  ]
+}

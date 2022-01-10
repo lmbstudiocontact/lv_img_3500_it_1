@@ -1,0 +1,40 @@
+{
+  "english": "downward",
+  "phat_am": "['daunwəd]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hướng về phía cái gì thấp hơn; đi xuống; trở xuống",
+          "list_en_vn": [
+            {
+              "full_en": "a downward trend in prices",
+              "full_vn": "chiều hướng giá cả giảm"
+            },
+            {
+              "full_en": "a downward movement /slope",
+              "full_vn": "chuyển động /dốc xuống"
+            },
+            {
+              "full_en": "on the downward path",
+              "full_vn": "(nghĩa bóng) sa sút, xuống dốc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662619_ba64dd74de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662619_249ba0db1d_o.png",
+      "id_image": "downward_2647562"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307351_7c8382681c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307351_55c0a555e1_o.png",
+      "id_image": "downward_959116"
+    }
+  ]
+}

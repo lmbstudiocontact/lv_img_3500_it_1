@@ -1,0 +1,121 @@
+{
+  "english": "intimate",
+  "phat_am": "['intimit]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thân mật, mật thiết, thân tình",
+          "list_en_vn": [
+            {
+              "full_en": "intimate friends",
+              "full_vn": "những người bạn thân"
+            },
+            {
+              "full_en": "an intimate friendship",
+              "full_vn": "một tình bạn thân thiết"
+            },
+            {
+              "full_en": "we'd been intimate for some time",
+              "full_vn": "chúng tôi đã có lúc rất thân nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có quan hệ tình dục (nhất là ngoài phạm vi hôn nhân)",
+          "list_en_vn": [
+            {
+              "full_en": "she was accused of being intimate with several men",
+              "full_vn": "cô ấy bị buộc tội có quan hệ tình dục với một số người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thể hoặc nhằm khuyến khích các quan hệ gần gũi (nhất là quan hệ tình dục), điển hình là những nơi yên tĩnh, kín đáo",
+          "list_en_vn": [
+            {
+              "full_en": "an intimate restaurant /atmosphere",
+              "full_vn": "nhà hàng kín đáo/ không khí ấm cúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "riêng tư",
+          "list_en_vn": [
+            {
+              "full_en": "to tell a friend the intimate details of one's life",
+              "full_vn": "kể cho bạn nghe những chuyện riêng tư của đời mình"
+            },
+            {
+              "full_en": "an intimate diary",
+              "full_vn": "cuốn nhật ký cá nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về kiến thức) cụ thể và có được do nghiên cứu sâu sắc hoặc qua kinh nghiệm lâu đời",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be /get on intimate terms with sb",
+              "list_im": [
+                {
+                  "im_full_vn": "biết ai rất rõ và thân thiết"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "an intimate knowledge of African religions",
+              "full_vn": "kiến thức sâu sắc về các tôn giáo ở châu Phi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người bạn thân",
+          "list_en_vn": [
+            {
+              "full_en": "Sir Reginald, known to his intimates as ' Porky'",
+              "full_vn": "Ngài Reginald, được những người bạn thân gọi bằng cái tên 'Porky'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "báo cho biết, cho biết một cách kín đáo hoặc gián tiếp",
+          "list_en_vn": [
+            {
+              "full_en": "he intimated his wishes with a slight nod of his head",
+              "full_vn": "anh ấy thể hiện ý muốn của mình bằng cái gật đầu nhẹ"
+            },
+            {
+              "full_en": "she has intimated to us that she no longer wishes to be considered for the post",
+              "full_vn": "cô ấy tâm sự (với chúng tôi) rằng cô ấy chẳng muốn được xét vào chức vụ đó nữa"
+            },
+            {
+              "full_en": "the judge has not intimated (to the jury ) whether they will be allowed to reach a majority verdict",
+              "full_vn": "ông thẩm phán chưa báo cho hội đồng xét xử biết liệu họ có được phép lấy phán quyết đa số hay không"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455243_cf5fe0556a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455243_ed7c54ba86_o.png",
+      "id_image": "intimate_2170231"
+    }
+  ]
+}

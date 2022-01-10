@@ -1,0 +1,59 @@
+{
+  "english": "luxury",
+  "phat_am": "['lʌk∫əri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xa xỉ, sự xa hoa",
+          "list_en_vn": [
+            {
+              "full_en": "a life of luxury",
+              "full_vn": "đời sống xa hoa"
+            },
+            {
+              "full_en": "to live in [the lap of ] luxury",
+              "full_vn": "sống trong cảnh xa hoa"
+            },
+            {
+              "full_en": "a luxury flat /hotel",
+              "full_vn": "căn hộ/khách sạn sang trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật đắt giá và thích thú nhưng không cần thiết; hàng xa xỉ; xa xỉ phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "caviar , champagne and other luxuries",
+              "full_vn": "trứng cá hồi, rượu sâm banh và những hàng xa xỉ khác"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446948_414a0aa306_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446948_93b5af97b1_o.png",
+      "id_image": "luxury_4952989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376642_ce241c6ba7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376642_a1d9757729_o.png",
+      "id_image": "luxury_4954412"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686884_b9c1a50401_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686884_b03ce4883c_o.png",
+      "id_image": "luxury_4954436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686839_f77fdc3d6d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686839_dd29058a3f_o.png",
+      "id_image": "luxury_4954442"
+    }
+  ]
+}

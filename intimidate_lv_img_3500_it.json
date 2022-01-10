@@ -1,0 +1,27 @@
+{
+  "english": "intimidate",
+  "phat_am": "[in'timideit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hăm doạ, đe doạ, doạ dẫm",
+          "list_en_vn": [
+            {
+              "full_en": "to intimidate a suspect into confessing his crime",
+              "full_vn": "doạ dẫm kẻ bị tình nghi để y phải nhận tội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385262_db3ba05754_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385262_bf2572472f_o.png",
+      "id_image": "intimidate_4576621"
+    }
+  ]
+}

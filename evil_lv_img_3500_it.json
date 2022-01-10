@@ -1,0 +1,171 @@
+{
+  "english": "evil",
+  "phat_am": "['i:vl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xấu về mặt đạo đức; xấu xa",
+          "list_en_vn": [
+            {
+              "full_en": "of evil repute",
+              "full_vn": "có tiếng xấu"
+            },
+            {
+              "full_en": "she has an evil tongue",
+              "full_vn": "cô ta là người ác khẩu"
+            },
+            {
+              "full_en": "an evil man",
+              "full_vn": "một người tồi tệ"
+            },
+            {
+              "full_en": "evil thoughts",
+              "full_vn": "những ý nghĩ đen tối"
+            },
+            {
+              "full_en": "to give somebody the evil eye",
+              "full_vn": "nhìn ai một cách hãm tài, nhìn ai một cách độc địa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rất khó chịu hoặc có hại",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Evil One",
+              "list_im": [
+                {
+                  "im_full_vn": "con quỷ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the evil day /hour",
+              "list_im": [
+                {
+                  "im_full_vn": "thời gian sẽ xảy ra cái điều mà mình không thích",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I know I need to go to the dentist but I've been putting off the evil day as long as possible",
+                      "full_vn": "tôi biết mình cần phải đến nha sĩ, nhưng tôi đang hoãn cái ngày khó chịu ấy càng lâu càng tốt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall on evil days",
+              "list_im": [
+                {
+                  "im_full_vn": "gặp rủi ro, gặp xui xẻo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "good /evil genius",
+              "list_im": [
+                {
+                  "im_full_vn": "xem genius"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "an evil smell",
+              "full_vn": "mùi hôi tanh tởm lợm"
+            },
+            {
+              "full_en": "an evil temper",
+              "full_vn": "tính tình độc ác"
+            },
+            {
+              "full_en": "evil weather",
+              "full_vn": "thời tiết khắc nghiệt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều sai trái, việc xấu hoặc điều ác",
+          "list_en_vn": [
+            {
+              "full_en": "the spirit of evil in man",
+              "full_vn": "cái ác trong con người"
+            },
+            {
+              "full_en": "to return good for evil",
+              "full_vn": "lấy ân trả oán"
+            },
+            {
+              "full_en": "to speak no evil",
+              "full_vn": "không nói điều xấu"
+            },
+            {
+              "full_en": "to choose the less of two evils",
+              "full_vn": "giữa hai cái hại chọn cái ít hại hơn"
+            },
+            {
+              "full_en": "you cannot pretend there's no evil in the world",
+              "full_vn": "anh không thể lấy cớ rằng trên đời này không có điều xấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tai ương, tai hoạ, thảm hoạ",
+          "list_one_mean": [
+            {
+              "id_full_en": "necessary evil",
+              "list_im": [
+                {
+                  "im_full_vn": "điều không muốn nhưng phải chấp nhận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the lesser of two evils",
+              "list_im": [
+                {
+                  "im_full_vn": "xem lesser"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "war , famine and flood are terrible evils",
+              "full_vn": "chiến tranh, nạn đói và nạn lụt là những thảm hoạ khủng khiếp"
+            },
+            {
+              "full_en": "the evils of drink",
+              "full_vn": "những tai hoạ của nạn nghiện rượu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313301_d41afa3a3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313301_488a98bf11_o.png",
+      "id_image": "evil_2463616"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357282_cde43f1ed2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357282_0bfd7b6b9f_o.png",
+      "id_image": "evil_5252764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809428058_3189e31752_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809428058_6fe936a892_o.png",
+      "id_image": "evil_5252782"
+    }
+  ]
+}

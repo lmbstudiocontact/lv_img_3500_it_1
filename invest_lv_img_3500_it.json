@@ -1,0 +1,97 @@
+{
+  "english": "invest",
+  "phat_am": "[in'vest]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to invest something in something / with somebody ) dùng (tiền) mua cổ phần, tài sản để kiếm lãi hoặc mang lại lợi tức; đầu tư",
+          "list_en_vn": [
+            {
+              "full_en": "to invest one's money in a business enterprise",
+              "full_vn": "đầu tư (tiền của mình) vào một hãng kinh doanh"
+            },
+            {
+              "full_en": "to invest (money ) with a firm",
+              "full_vn": "đầu tư (tiền) vào một công ty"
+            },
+            {
+              "full_en": "more and more American companies are eager to invest in Vietnam",
+              "full_vn": "ngày càng có nhiều công ty Mỹ muốn đầu tư vào Việt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to invest something in something / doing something ) dành (thời gian, nỗ lực...) cho một nhiệm vụ nào đó (nhất là theo cách cam kết hoặc sự quên mình)",
+          "list_en_vn": [
+            {
+              "full_en": "to invest one's time in learning French",
+              "full_vn": "đầu tư thời giờ vào việc học tiếng Pháp"
+            },
+            {
+              "full_en": "to invest all one's efforts in passing an exam",
+              "full_vn": "dành tất cả nỗ lực của mình cho việc thi đỗ"
+            },
+            {
+              "full_en": "she's invested a lot of emotional energy in that business",
+              "full_vn": "cô ấy đã dành nhiều tâm lực cho việc kinh doanh đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to invest somebody with something / as something ) phong cấp bậc, chức vụ hoặc trao quyền cho ai",
+          "list_en_vn": [
+            {
+              "full_en": "The governor has been invested with full authority to act",
+              "full_vn": "Ông thống đốc đã được trao toàn quyền hành động"
+            },
+            {
+              "full_en": "Prince Charles was invested as Prince of Wales in 1969",
+              "full_vn": "Hoàng tử Charles được phong làm Hoàng tử xứ Wales năm 1969"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to invest somebody / something with something ) làm cho ai/cái gì có một phẩm chất nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "The crimes committed there invested the place with an air of mystery and gloom",
+              "full_vn": "Những tội ác xảy ra ở đó đã khiến nơi đó có vẻ bí ẩn và u ám"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) bao vây, phong toả (một thành phố...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454248_3ef77c039e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454248_744a62f083_o.png",
+      "id_image": "invest_1987379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076590_6033367032_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076590_d86837b165_o.png",
+      "id_image": "invest_393787"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694544_cb9b12c3d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694544_1d648711fd_o.png",
+      "id_image": "invest_421712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339296_23d5373fd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339296_80697f240d_o.png",
+      "id_image": "invest_4465682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384302_8e36737462_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384302_2f5db8d0b3_o.png",
+      "id_image": "invest_648420"
+    }
+  ]
+}

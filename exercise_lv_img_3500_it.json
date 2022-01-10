@@ -1,0 +1,184 @@
+{
+  "english": "exercise",
+  "phat_am": "['eksəsaiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự sử dụng hoặc áp dụng (có hiệu quả)",
+          "list_en_vn": [
+            {
+              "full_en": "the exercise of patience is essential in diplomatic negotiations",
+              "full_vn": "vận dụng lòng kiên nhẫn là điều chủ yếu trong các cuộc thương lượng ngoại giao"
+            },
+            {
+              "full_en": "the exercise of one's civil rights",
+              "full_vn": "sự hành sử quyền công dân của mình"
+            },
+            {
+              "full_en": "his stories showed considerable exercise of the imagination",
+              "full_vn": "những câu chuyện của anh ta biểu lộ sự vận dụng trí tưởng tượng rất nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sử dụng hoặc rèn luyện (tinh thần hoặc đặc biệt là cơ thể) thông qua nỗ lực hoặc hành động; sự tập luyện",
+          "list_en_vn": [
+            {
+              "full_en": "to do exercise , to take exercise",
+              "full_vn": "tập thể dục"
+            },
+            {
+              "full_en": "the doctor advised him to take more exercise",
+              "full_vn": "bác sĩ khuyên anh ta nên tập luyện nhiều hơn nữa"
+            },
+            {
+              "full_en": "jogging is a healthy form of exercise",
+              "full_vn": "chạy là một hình thức tập luyện có lợi cho sức khoẻ"
+            },
+            {
+              "full_en": "doing crosswords gives the mind some exercise",
+              "full_vn": "giải ô chữ là rèn luyện trí óc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bài tập",
+          "list_en_vn": [
+            {
+              "full_en": "vocal /gymnastic /keep-fit /deep-breathing exercises",
+              "full_vn": "những bài tập về giọng (hát) /thể dục/giữ gìn sức khoẻ/thở sâu"
+            },
+            {
+              "full_en": "exercises for the piano /flute /harp",
+              "full_vn": "bài tập pianô/sáo/đàn hạc"
+            },
+            {
+              "full_en": "the teacher set her class a mathematics exercise for homework",
+              "full_vn": "cô giáo cho lớp một bài tập toán về nhà làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) hàng loạt động tác hoặc thao tác rèn luyện quân sự...",
+          "list_en_vn": [
+            {
+              "full_en": "military exercises",
+              "full_vn": "các cuộc diễn tập quân sự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) ( số nhiều) lễ (ở trường học...)",
+          "list_en_vn": [
+            {
+              "full_en": "graduation exercises",
+              "full_vn": "lễ trao bằng tốt nghiệp"
+            },
+            {
+              "full_en": "opening exercises",
+              "full_vn": "lễ khai mạc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sử dụng; hành sử",
+          "list_en_vn": [
+            {
+              "full_en": "to exercise patience /tolerance /power /control",
+              "full_vn": "sử dụng tính kiên nhẫn/lòng khoan dung/quyền lực/sự kiểm soát"
+            },
+            {
+              "full_en": "to exercise one's rights as a citizen",
+              "full_vn": "hành sử quyền công dân của mình"
+            },
+            {
+              "full_en": "teachers exercise authority over their pupils",
+              "full_vn": "thầy giáo sử dụng quyền lực đối với học trò"
+            },
+            {
+              "full_en": "to exercise one's own right",
+              "full_vn": "hành sử quyền của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tập luyện, rèn luyện",
+          "list_en_vn": [
+            {
+              "full_en": "to exercise the memory",
+              "full_vn": "rèn luyện trí nhớ"
+            },
+            {
+              "full_en": "to exercise oneself",
+              "full_vn": "tập luyện, rèn luyện"
+            },
+            {
+              "full_en": "horses get fat and lazy if they are not exercised",
+              "full_vn": "ngựa đâm ra béo và lười nếu không được tập luyện"
+            },
+            {
+              "full_en": "swimming exercises the whole body",
+              "full_vn": "bơi lội rèn luyện cơ thể toàn diện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quấy rầy, làm phiền khổ; làm băn khoăn, làm lo âu",
+          "list_en_vn": [
+            {
+              "full_en": "he was much exercised over it",
+              "full_vn": "anh ta rất phiền khổ vì điều đó; anh ta rất băn khoăn lo lắng về điều đó"
+            },
+            {
+              "full_en": "this problem is exercising our minds very much at the moment",
+              "full_vn": "vấn đề này làm tôi băn khoăn rất nhiều trong lúc này"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thực hiện một số kiểu rèn luyện cơ thể; tập thể dục",
+          "list_en_vn": [
+            {
+              "full_en": "he exercises twice a day",
+              "full_vn": "nó tập thể dục hai lần mỗi ngày"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355712_29787547fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355712_afeea0f1f8_o.png",
+      "id_image": "exercise_2159431"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666509_1921da707c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666509_5073a44186_o.png",
+      "id_image": "exercise_3776047"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355647_056218a9d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355647_1dae2aba89_o.png",
+      "id_image": "exercise_6193200"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426483_04a3757388_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426483_1b875455a1_o.png",
+      "id_image": "exercise_755258"
+    }
+  ]
+}

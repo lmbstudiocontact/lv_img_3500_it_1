@@ -1,0 +1,58 @@
+{
+  "english": "implement",
+  "phat_am": "['implimənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ dùng (đồ đạc quần áo...), dụng cụ, công cụ; phương tiện",
+          "list_en_vn": [
+            {
+              "full_en": "kitchen implements",
+              "full_vn": "dụng cụ làm bếp"
+            },
+            {
+              "full_en": "the army is an implement of proletarian power",
+              "full_vn": "quân đội là một công cụ của chính quyền vô sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Ê-cốt) (pháp lý) sự thi hành, sự thực hiện đầy đủ (giao kèo...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thi hành, thực hiện đầy đủ (giao kèo, khế ước...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) cung cấp dụng cụ"
+        },
+        {
+          "m_full_vn": "bổ sung"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321156_98f0a13cba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321156_4e476d4938_o.png",
+      "id_image": "implement_2654586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366057_69769bfddd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366057_8fd152eea4_o.png",
+      "id_image": "implement_4133499"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366017_42551dfcf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366017_d0a5a30f7d_o.png",
+      "id_image": "implement_5361228"
+    }
+  ]
+}

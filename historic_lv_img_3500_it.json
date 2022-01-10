@@ -1,0 +1,35 @@
+{
+  "english": "historic",
+  "phat_am": "[his'tɔrik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nổi tiếng hoặc quan trọng trong lịch sử",
+          "list_en_vn": [
+            {
+              "full_en": "the historic spot on which the first pilgrims landed in America",
+              "full_vn": "địa điểm lịch sử nơi những người thanh giáo đầu tiên đổ bộ lên châu Mỹ"
+            },
+            {
+              "full_en": "this is a historic occasion",
+              "full_vn": "đây là một dịp quan trọng trong lịch sử"
+            },
+            {
+              "full_en": "historic times",
+              "full_vn": "thời đại lịch sử (có sử sách chép lại)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336271_26268ebe64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336271_f8064b9b37_o.png",
+      "id_image": "historic_5234385"
+    }
+  ]
+}

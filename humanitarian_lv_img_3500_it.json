@@ -1,0 +1,45 @@
+{
+  "english": "humanitarian",
+  "phat_am": "[hju:,mæni'teəriən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhân đạo",
+          "list_en_vn": [
+            {
+              "full_en": "humanitarian aid from charity organizations",
+              "full_vn": "viện trợ nhân đạo của các tổ chức từ thiện"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người theo chủ nghĩa nhân đạo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064860_0586e5193f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064860_5ab41f2e5a_o.png",
+      "id_image": "humanitarian_1378696"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328071_5cc0669e62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328071_8c16c35e50_o.png",
+      "id_image": "humanitarian_2871600"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372792_84aaa14bfd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372792_f10d25a18b_o.png",
+      "id_image": "humanitarian_5102260"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "english": "drill",
+  "phat_am": "[dril]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) máy khoan",
+          "list_en_vn": [
+            {
+              "full_en": "a dentist's drill",
+              "full_vn": "máy khoan của nha sĩ"
+            },
+            {
+              "full_en": "a pneumatic drill",
+              "full_vn": "máy khoan hơi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoan",
+          "list_en_vn": [
+            {
+              "full_en": "to drill for oil",
+              "full_vn": "khoan tìm dầu lửa"
+            },
+            {
+              "full_en": "they're drilling a new tunnel under the Thames",
+              "full_vn": "người ta đang khoan một đường hầm mới dưới sông Thames"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) sự tập luyện",
+          "list_en_vn": [
+            {
+              "full_en": "new recruits have three hours of drill a day",
+              "full_vn": "tân binh có ba giờ luyện tập quân sự mỗi ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) kỷ luật chặt chẽ; sự rèn luyện thường xuyên",
+          "list_en_vn": [
+            {
+              "full_en": "regular drill to establish good habits",
+              "full_vn": "rèn luyện thường xuyên để tạo ra những thói quen tốt"
+            },
+            {
+              "full_en": "lifeboat drill",
+              "full_vn": "kỷ luật sử dụng xuồng cứu đắm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bài tập; cuộc thực tập",
+          "list_en_vn": [
+            {
+              "full_en": "pronunciation drills",
+              "full_vn": "những bài tập phát âm"
+            },
+            {
+              "full_en": "there'll be a fire-drill this morning",
+              "full_vn": "sáng nay sẽ có một cuộc thực tập chữa cháy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the drill ) thủ tục để làm điều gì",
+          "list_en_vn": [
+            {
+              "full_en": "what's the drill for claiming expenses ?",
+              "full_vn": "thế nào là thủ tục đòi thanh toán phí tổn?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rèn luyện; luyện tập",
+          "list_en_vn": [
+            {
+              "full_en": "to drill in grammar",
+              "full_vn": "rèn luyện về môn ngữ pháp"
+            },
+            {
+              "full_en": "to drill troops",
+              "full_vn": "tập luyện cho quân đội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "luống (để gieo hạt)"
+        },
+        {
+          "m_full_vn": "máy gieo và lấp hạt"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gieo (hạt) thành hàng; trồng thành luống"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) khỉ mặt xanh"
+        },
+        {
+          "m_full_vn": "vải thô"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421408_8b25f39a4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421408_2df9772b89_o.png",
+      "id_image": "drill_2276241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350382_94cf142c48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350382_b25b453b22_o.png",
+      "id_image": "drill_2722269"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661624_2123e800c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661624_5c2d387083_o.png",
+      "id_image": "drill_2739007"
+    }
+  ]
+}

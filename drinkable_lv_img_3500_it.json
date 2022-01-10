@@ -1,0 +1,31 @@
+{
+  "english": "drinkable",
+  "phat_am": "['driηkəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể uống được",
+          "list_en_vn": [
+            {
+              "full_en": "is this water drinkable ?",
+              "full_vn": "nước này uống được hay không?"
+            },
+            {
+              "full_en": "a drinkable wine",
+              "full_vn": "rượu vang uống được (dễ chịu, nhưng không ngon lắm)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383832_7336bd4d63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383832_2770e30337_o.png",
+      "id_image": "drinkable_523346"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "english": "iron",
+  "phat_am": "['aiən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắt"
+        },
+        {
+          "m_full_vn": "chất sắt (thuốc bổ)"
+        },
+        {
+          "m_full_vn": "đồ sắt, đồ dùng bằng sắt"
+        },
+        {
+          "m_full_vn": "bàn là, bàn ủi"
+        },
+        {
+          "m_full_vn": "( số nhiều) xiềng, bàn đạp (ngựa); cái giá (để nắn chân vẹo...)",
+          "list_en_vn": [
+            {
+              "full_en": "to be in irons",
+              "full_vn": "bị khoá tay; bị xiềng xích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) súng lục",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have many irons in the fire",
+              "list_im": [
+                {
+                  "im_full_vn": "có nhiều việc trong một lúc"
+                },
+                {
+                  "im_full_vn": "có nhiều mưu lắm kế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "strike while the iron is hot",
+              "list_im": [
+                {
+                  "im_full_vn": "không để lỡ mất cơ hội, không để ngày mai việc gì có thể làm hôm nay"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng sắt"
+        },
+        {
+          "m_full_vn": "cứng cỏi, sắt đá",
+          "list_one_mean": [
+            {
+              "id_full_en": "an iron fist in a velvet glove",
+              "list_im": [
+                {
+                  "im_full_vn": "quả đấm sắt bọc nhung (nghĩa bóng)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "an iron will",
+              "full_vn": "ý chí sắt đá"
+            },
+            {
+              "full_en": "an iron constitution",
+              "full_vn": "thể chất rắn chắc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tra sắt vào; bọc sắt"
+        },
+        {
+          "m_full_vn": "xiềng xích"
+        },
+        {
+          "m_full_vn": "là ủi (quần áo...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to iron out",
+              "list_im": [
+                {
+                  "im_full_vn": "giải quyết (khó khăn, vấn đề...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074780_0e6efaa219_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074780_b57590d8a5_o.png",
+      "id_image": "iron_1432475"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382702_3b0daf7002_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382702_7d33688b13_o.png",
+      "id_image": "iron_2570076"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "english": "home",
+  "phat_am": "[houm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà, chỗ ở",
+          "list_en_vn": [
+            {
+              "full_en": "to have neither hearth nor home",
+              "full_vn": "không cửa không nhà"
+            },
+            {
+              "full_en": "to be at home",
+              "full_vn": "ở nhà"
+            },
+            {
+              "full_en": "not at home",
+              "full_vn": "không có nhà; không tiếp khách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhà, gia đình, tổ ấm",
+          "list_en_vn": [
+            {
+              "full_en": "there's no place like home",
+              "full_vn": "không đâu bằng ở nhà mình"
+            },
+            {
+              "full_en": "make yourself at home",
+              "full_vn": "xin anh cứ tự nhiên như ở nhà"
+            },
+            {
+              "full_en": "the pleasures of home",
+              "full_vn": "thú vui gia đình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quê hương, tổ quốc, nơi chôn nhau cắt rún, nước nhà",
+          "list_en_vn": [
+            {
+              "full_en": "an exile from home",
+              "full_vn": "một người bị đày xa quê hương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ sinh sống (sinh vật)"
+        },
+        {
+          "m_full_vn": "nhà (hộ sinh...), viện (cứu tế, dưỡng lão...), trại (mồ côi...)",
+          "list_en_vn": [
+            {
+              "full_en": "convalescent home",
+              "full_vn": "trại điều dưỡng"
+            },
+            {
+              "full_en": "orphan's home",
+              "full_vn": "trại mồ côi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đích (của một số trò chơi)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be (feel ) quite at home",
+              "list_im": [
+                {
+                  "im_full_vn": "cảm thấy hết sức thoải mái tự nhiên như ở nhà; không cảm thấy bị lạc lõng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be at home in a subject",
+              "list_im": [
+                {
+                  "im_full_vn": "thành thạo (thông thạo, quen thuộc, biết rõ) một vấn đề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a home from home",
+              "list_im": [
+                {
+                  "im_full_vn": "một nơi mình cảm thấy ấm cúng như gia đình mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "home is home , be it ever so homely",
+              "list_im": [
+                {
+                  "im_full_vn": "ta về ta tắm ao ta, dù trong dù đục ao nhà vẫn hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's last (long ) home",
+              "list_im": [
+                {
+                  "im_full_vn": "nấm mồ, nơi an nghỉ cuối cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "charity begins at home",
+              "list_im": [
+                {
+                  "im_full_vn": "trước khi thương người, hãy thương lấy người nhà mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat sb out of house and home",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn đến nỗi ai phải sạt nghiệp vì mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "an Englishman's home is his castle",
+              "list_im": [
+                {
+                  "im_full_vn": "đối với người Anh, không đâu tự do thoải mái bằng nhà của họ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a home bird",
+              "list_im": [
+                {
+                  "im_full_vn": "người thích ở trong nhà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's spiritual home",
+              "list_im": [
+                {
+                  "im_full_vn": "chốn thiêng liêng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "when he's at home",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng để nhấn mạnh câu hỏi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "who are they when they're at home ?",
+                      "full_vn": "họ là ai kia chứ?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come home to roost",
+              "list_im": [
+                {
+                  "im_full_vn": "(về lời nói) tác động với chính người nói ra những lời đó; tự vả vào miệng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về hoặc liên quan đến nhà mình",
+          "list_en_vn": [
+            {
+              "full_en": "a happy home life",
+              "full_vn": "một cuộc sống gia đình hạnh phúc"
+            },
+            {
+              "full_en": "home comforts",
+              "full_vn": "những tiện nghi trong nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được làm hoặc sàn xuất tại nhà",
+          "list_en_vn": [
+            {
+              "full_en": "home cooking",
+              "full_vn": "nấu ăn tại nhà"
+            },
+            {
+              "full_en": "home movies",
+              "full_vn": "phim gia đình (để trong gia đình (xem) thôi)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong nước (không phải ngoại nhập); nội địa",
+          "list_en_vn": [
+            {
+              "full_en": "home news",
+              "full_vn": "tin trong nước"
+            },
+            {
+              "full_en": "home industries",
+              "full_vn": "các ngành kỹ nghệ nội địa"
+            },
+            {
+              "full_en": "the home market",
+              "full_vn": "thị trường nội địa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục thể thao) chơi ở hoặc liên quan tới sân nhà",
+          "list_en_vn": [
+            {
+              "full_en": "a home match , win , defeat",
+              "full_vn": "trận đấu, thắng, thua trên sân nhà"
+            },
+            {
+              "full_en": "home team",
+              "full_vn": "đội nhà (khác với các đội ở các nơi khác đến)"
+            },
+            {
+              "full_en": "the Home Office",
+              "full_vn": "cơ quan chính phủ Anh chuyên giải quyết các việc luật pháp, trật tự, di dân... ở England và Wales; Bộ nội vụ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở tại nhà mình, ở tại nước mình",
+          "list_one_mean": [
+            {
+              "id_full_en": "nothing to write home about",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng có gì đáng nói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring home the bacon",
+              "list_im": [
+                {
+                  "im_full_vn": "thành công mỹ mãn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring sth home to sb",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp ai hiểu rõ điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come home to sb",
+              "list_im": [
+                {
+                  "im_full_vn": "là sự thật mà ai không thể phủ nhận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come home to roost",
+              "list_im": [
+                {
+                  "im_full_vn": "tự vả vào mồm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drive sth home to sb",
+              "list_im": [
+                {
+                  "im_full_vn": "nhấn mạnh điều gì cho ai hiểu rõ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit home",
+              "list_im": [
+                {
+                  "im_full_vn": "trúng đích, thấu cáy, chạm nọc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be home and dry",
+              "list_im": [
+                {
+                  "im_full_vn": "êm xuôi, xuôi chèo mát mái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to invalid sb home",
+              "list_im": [
+                {
+                  "im_full_vn": "cho ai về nghỉ vì sức khoẻ yếu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to press home sth",
+              "list_im": [
+                {
+                  "im_full_vn": "đạt được điều gì bằng lòng quyết tâm"
+                },
+                {
+                  "im_full_vn": "đặt cái gì vào đúng vị trí của nó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "till the cows come home",
+              "list_im": [
+                {
+                  "im_full_vn": "mãi miết, dài dài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "help her till the cows come home: some day , you will be disappointed in her",
+                      "full_vn": "cứ mãi giúp cô ta, rồi một ngày nào đó, anh sẽ thất vọng về cô ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "when one's ship comes home",
+              "list_im": [
+                {
+                  "im_full_vn": "khi người ta thành đạt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to come home",
+              "full_vn": "đi về nhà"
+            },
+            {
+              "full_en": "to send sb home",
+              "full_vn": "đưa ai về nhà, cho ai hồi hương"
+            },
+            {
+              "full_en": "to stay home",
+              "full_vn": "ở nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689584_7f77006f9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689584_b8b798f5f1_o.png",
+      "id_image": "home_169108"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071445_94d6ffd9bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071445_a9b739bc95_o.png",
+      "id_image": "home_437497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689504_869bae055e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689504_a5681e5fd7_o.png",
+      "id_image": "home_538235"
+    }
+  ]
+}

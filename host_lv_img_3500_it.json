@@ -1,0 +1,133 @@
+{
+  "english": "host",
+  "phat_am": "[houst]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người tiếp đón và chiêu đãi một hoặc nhiều khách; chủ nhà",
+          "list_en_vn": [
+            {
+              "full_en": "I was away , so my son acted as host",
+              "full_vn": "Tôi đi vắng, nên con trai tôi làm chủ tiệc thay tôi"
+            },
+            {
+              "full_en": "the host nation",
+              "full_vn": "nước chủ nhà (nước tổ chức một hội nghị, một giải thể thao...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chủ nhà trọ"
+        },
+        {
+          "m_full_vn": "phát thanh viên vô tuyến truyền hình"
+        },
+        {
+          "m_full_vn": "(sinh vật học) động vật hoặc thực vật mà vật ký sinh sống bám vào",
+          "list_one_mean": [
+            {
+              "id_full_en": "to reckon without one's host",
+              "list_im": [
+                {
+                  "im_full_vn": "quên không tính đến khó khăn; quên không tính đến sự phản đối"
+                },
+                {
+                  "im_full_vn": "đặt kế hoạch mà không trao đổi với những nhân vật hữu quan chủ yếu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play host to sb",
+              "list_im": [
+                {
+                  "im_full_vn": "đón tiếp ai, nghinh tiếp ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the Host",
+              "list_im": [
+                {
+                  "im_full_vn": "(tôn giáo) bánh thánh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "host organisms",
+              "full_vn": "các sinh vật ký sinh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số đông, loạt (người, sự việc, đồ vật), đám đông",
+          "list_en_vn": [
+            {
+              "full_en": "a host of people",
+              "full_vn": "đám đông"
+            },
+            {
+              "full_en": "a host of difficulties",
+              "full_vn": "một loạt khó khăn"
+            },
+            {
+              "full_en": "he is a host in himself",
+              "full_vn": "mình anh ấy bằng cả một đám đông (có thể làm việc bằng năm bằng mười người gộp lại)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) đạo quân"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dẫn (chương trình), đăng cai tổ chức (hội nghị, cuộc tranh tài thể thao...)",
+          "list_en_vn": [
+            {
+              "full_en": "which nation is hosting the Games this year ?",
+              "full_vn": "nước nào sẽ đăng cai tổ chức hội thi thể thao năm nay?"
+            },
+            {
+              "full_en": "hosting our show this evening is the lovely Gloria Monroe",
+              "full_vn": "dẫn chương trình biểu diễn đêm nay là Gloria Monroe đáng yêu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375352_d022a2c0e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375352_8f8e62db38_o.png",
+      "id_image": "host_2162279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330621_00a85a37b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330621_c2d76f0a25_o.png",
+      "id_image": "host_4799517"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067400_f94b1a6620_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067400_6aa68e927e_o.png",
+      "id_image": "host_6036772"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685769_b72745230c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685769_010320a963_o.png",
+      "id_image": "host_860259"
+    }
+  ]
+}

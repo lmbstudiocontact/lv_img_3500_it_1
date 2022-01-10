@@ -1,0 +1,53 @@
+{
+  "english": "inflate",
+  "phat_am": "[in'fleit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to inflate something with something ) thổi phồng; bơm phồng",
+          "list_en_vn": [
+            {
+              "full_en": "a fully inflated tyre",
+              "full_vn": "săm bơm căng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) bơm phồng; làm cho ai tự mãn",
+          "list_en_vn": [
+            {
+              "full_en": "flattery that would inflate the most modest person's ego",
+              "full_vn": "sự xu nịnh có thể bơm phồng cái tôi của một con người khiêm tốn nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kinh tế) tăng thêm lượng tiền lưu hành khiến cho giá cả tăng vọt; gây lạm phát"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phồng lên; phình ra",
+          "list_en_vn": [
+            {
+              "full_en": "With a supply of compressed air , the large balloon inflated in a matter of seconds",
+              "full_vn": "Đưa khí nén vào, quả khí cầu lớn phình ra trong chốc lát"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361177_05fd8a0aff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361177_c9356e8efc_o.png",
+      "id_image": "inflate_4637035"
+    }
+  ]
+}

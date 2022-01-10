@@ -1,0 +1,113 @@
+{
+  "english": "junior",
+  "phat_am": "['dʒu:njə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( junior to somebody ) thấp hơn ai về địa vị hoặc cấp bậc",
+          "list_en_vn": [
+            {
+              "full_en": "A junior clerk in an office",
+              "full_vn": "một thư ký cấp dưới trong văn phòng"
+            },
+            {
+              "full_en": "A junior colleague",
+              "full_vn": "một đồng nghiệp cấp dưới"
+            },
+            {
+              "full_en": "He's several years junior to Mrs Cooper",
+              "full_vn": "Nó kém bà Cooper mấy tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(viết tắt) Jnr , Jr , Jun (dùng sau một tên người để chỉ một người con trai cùng tên với bố anh ta hoặc người trẻ tuổi hơn trong hai người trùng tên với nhau trong trường học.....)",
+          "list_en_vn": [
+            {
+              "full_en": "John Brown Junior",
+              "full_vn": "Giôn Brao con"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc hoặc dành cho trẻ em tuổi từ 7 đến 11",
+          "list_one_mean": [
+            {
+              "id_full_en": "junior college",
+              "list_im": [
+                {
+                  "im_full_vn": "trường đào tạo hai năm đầu của một chương trình đại học bốn năm; trường cao đẳng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "junior high school",
+              "list_im": [
+                {
+                  "im_full_vn": "trường trung học dạy các lớp 6, 7, 8 và 9"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Junior school",
+              "full_vn": "trường phổ thông cấp 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người ít tuổi hơn",
+          "list_en_vn": [
+            {
+              "full_en": "he is three years my junior ; he is my junior by three years",
+              "full_vn": "anh ấy kém tôi ba tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người ít thâm niên hơn; người có cấp bậc thấp; người cấp dưới"
+        },
+        {
+          "m_full_vn": "trẻ em đi học ở trường dành cho trẻ từ 7 đến 11 tuổi"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sinh viên năm thứ ba của một khoá học bốn năm tại trường cao đẳng hoặc đại học"
+        },
+        {
+          "m_full_vn": "cách nói với con trai trong gia đình",
+          "list_en_vn": [
+            {
+              "full_en": "Come here , junior !",
+              "full_vn": "Lại đây, con!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685454_37faf175db_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685454_42dcff1346_o.png",
+      "id_image": "junior_6413819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328061_aa4cd0c27e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328061_dbd8b270a7_o.png",
+      "id_image": "kid_5333174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372937_ec55b19a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372937_1456b08860_o.png",
+      "id_image": "kid_616027"
+    }
+  ]
+}

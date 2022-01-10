@@ -1,0 +1,32 @@
+{
+  "english": "investor",
+  "phat_am": "[in'vestə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đầu tư",
+          "list_en_vn": [
+            {
+              "full_en": "Vietnam is ready to welcome the foreign investors with open arms",
+              "full_vn": "Việt Nam sẵn sàng mở rộng vòng tay chào đón các nhà đầu tư nước ngoài"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383392_e6fd6c9c1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383392_dfed619f6f_o.png",
+      "id_image": "investor_2590552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693624_8e40c3db00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693624_8d74130b48_o.png",
+      "id_image": "investor_3310664"
+    }
+  ]
+}

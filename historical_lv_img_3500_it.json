@@ -1,0 +1,77 @@
+{
+  "english": "historical",
+  "phat_am": "[his'tɔrikəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có liên quan đến sự kiện của quá khứ",
+          "list_en_vn": [
+            {
+              "full_en": "Historical studies",
+              "full_vn": "công trình nghiên cứu về lịch sử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dựa trên sự nghiên cứu lịch sử",
+          "list_en_vn": [
+            {
+              "full_en": "We have no historical evidence for it",
+              "full_vn": "Chúng tôi không có bằng chứng lịch sử về điều đó"
+            },
+            {
+              "full_en": "It's a historical fact",
+              "full_vn": "Đó là một sự kiện lịch sử"
+            },
+            {
+              "full_en": "historical materialism",
+              "full_vn": "chủ nghĩa duy vật lịch sử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thật trong lịch sử (chứ không phải huyền thoại hoặc hư cấu)",
+          "list_en_vn": [
+            {
+              "full_en": "historical events /people",
+              "full_vn": "sự kiện/con người lịch sử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về sách, phim....) bàn đến những sự kiện có thật trong lịch sử",
+          "list_en_vn": [
+            {
+              "full_en": "a historical novel",
+              "full_vn": "tiểu thuyết lịch sử"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691594_9ee5a3a5e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691594_411103259a_o.png",
+      "id_image": "historical_3500475"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336211_e74933788f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336211_64b85ec0b1_o.png",
+      "id_image": "historical_5234329"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381157_50b8f90493_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381157_1b41cab260_o.png",
+      "id_image": "historical_5234387"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073065_c2cbc021a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073065_da85e7b85f_o.png",
+      "id_image": "historical_5234418"
+    }
+  ]
+}

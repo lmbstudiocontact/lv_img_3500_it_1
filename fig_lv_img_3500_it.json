@@ -1,0 +1,87 @@
+{
+  "english": "fig",
+  "phat_am": "[fig]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) quả sung; quả vả"
+        },
+        {
+          "m_full_vn": "(thực vật học) cây sung; cây vả ( (cũng) fig tree )"
+        },
+        {
+          "m_full_vn": "vật vô giá trị; một tí, một chút",
+          "list_one_mean": [
+            {
+              "id_full_en": "I don't care a fig",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) care"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "his opinion is not worth a fig",
+              "full_vn": "ý kiến của hắn chẳng có một chút giá trị nào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quần áo, y phục; trang bị",
+          "list_en_vn": [
+            {
+              "full_en": "in full fig",
+              "full_vn": "ăn mặc chỉnh tề; trang bị đầy đủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng sức khoẻ",
+          "list_en_vn": [
+            {
+              "full_en": "in good fig",
+              "full_vn": "sung sức"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "to fig out ( up ) a horse làm ngựa hăng lên"
+        },
+        {
+          "m_full_vn": "to fig out someone cho ai ăn mặc diện"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685589_75ebe5a02d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685589_935cd73058_o.png",
+      "id_image": "fig_1135471"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375212_e402654fda_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375212_4d7e6447ed_o.png",
+      "id_image": "fig_1411016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330436_80da48f2f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330436_71d7b971bc_o.png",
+      "id_image": "fig_2077152"
+    }
+  ]
+}

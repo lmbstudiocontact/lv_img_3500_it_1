@@ -1,0 +1,61 @@
+{
+  "english": "hostage",
+  "phat_am": "['hɔstidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con tin",
+          "list_one_mean": [
+            {
+              "id_full_en": "hostage to fortune",
+              "list_im": [
+                {
+                  "im_full_vn": "người hoặc vật mà mình có được và rồi có thể đau khổ nếu bị mất đi (nhất là vợ chồng con cái); con tin định mệnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take /hold somebody hostage",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt/giữ ai làm con tin",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the gunman is holding two children hostage in the building",
+                      "full_vn": "tên cướp có súng đang giữ hai đứa trẻ làm con tin trong toà nhà đó"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the hijackers kept the pilot on board the plane as (a ) hostage",
+              "full_vn": "bọn không tặc bắt người phi công trên phi cơ làm con tin"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330501_5afdb8eebf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330501_e2342b0e23_o.png",
+      "id_image": "hostage_2302416"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375207_5465728cc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375207_49c013ea78_o.png",
+      "id_image": "hostage_3604881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067290_bbeedf4e06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067290_b7ea43eea8_o.png",
+      "id_image": "hostage_4321593"
+    }
+  ]
+}

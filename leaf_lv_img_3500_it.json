@@ -1,0 +1,92 @@
+{
+  "english": "leaf",
+  "phat_am": "[li:vz]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều leaves",
+      "list_m": [
+        {
+          "m_full_vn": "lá cây; lá (vàng, bạc...)",
+          "list_en_vn": [
+            {
+              "full_en": "to be in leaf ; to come into leaf",
+              "full_vn": "ra lá, mọc lá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tờ (giấy)"
+        },
+        {
+          "m_full_vn": "tấm đôi (tấm ván ở mặt bàn có thể bỏ đi hoặc lắp vào chỗ cho bàn to thêm)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take a leaf out of someone's book",
+              "list_im": [
+                {
+                  "im_full_vn": "noi gương ai, bắt chước ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn over a new leaf",
+              "list_im": [
+                {
+                  "im_full_vn": "thay đổi cách sống để trở thành người tốt hơn; cải tà quy chính"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shake like a leaf",
+              "list_im": [
+                {
+                  "im_full_vn": "run bần bật, run toát mồ hôi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trổ lá, ra lá",
+          "list_one_mean": [
+            {
+              "id_full_en": "to leaf through sth",
+              "list_im": [
+                {
+                  "im_full_vn": "đọc lướt qua"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361922_74dc81c82a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361922_852dcbb632_o.png",
+      "id_image": "leaf_169819"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317596_37fc531d06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317596_421a92d12d_o.png",
+      "id_image": "leaf_263930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432693_8e7066c15b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432693_549551f064_o.png",
+      "id_image": "leaf_692063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317561_dbbf8a4d1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317561_4dfa43004d_o.png",
+      "id_image": "leaf_921825"
+    }
+  ]
+}

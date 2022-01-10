@@ -1,0 +1,51 @@
+{
+  "english": "expression",
+  "phat_am": "[iks'pre∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vắt, sự ép, sự bóp"
+        },
+        {
+          "m_full_vn": "sự biểu lộ (tình cảm...), sự diễn cảm; sự biểu hiện (nghệ thuật)..; sự diễn đạt (ý nghĩ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to read with expression",
+              "full_vn": "đọc diễn cảm"
+            },
+            {
+              "full_en": "to give expression to one's feelings",
+              "full_vn": "biểu lộ tình cảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nét, vẻ (mặt...); giọng (nói...)"
+        },
+        {
+          "m_full_vn": "thành ngữ, từ ngữ"
+        },
+        {
+          "m_full_vn": "(toán học) biểu thức"
+        },
+        {
+          "m_full_vn": "(y học) sự ấn (cho thai ra)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341121_7d4e0e1d7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341121_c17ce79994_o.png",
+      "id_image": "expression_2529667"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455893_cabefd8ac1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455893_23a39cff9b_o.png",
+      "id_image": "expression_5760113"
+    }
+  ]
+}

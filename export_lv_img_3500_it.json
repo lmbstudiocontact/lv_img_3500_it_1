@@ -1,0 +1,56 @@
+{
+  "english": "export",
+  "phat_am": "['ekspɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hàng xuất khẩu; ( số nhiều) khối lượng hàng xuất khẩu"
+        },
+        {
+          "m_full_vn": "sự xuất khẩu"
+        },
+        {
+          "m_full_vn": "( định ngữ) xuất khẩu",
+          "list_en_vn": [
+            {
+              "full_en": "export duty",
+              "full_vn": "thuế xuất khẩu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xuất khẩu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078845_5a0d454149_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078845_063c6b9605_o.png",
+      "id_image": "export_1656448"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078820_1cde276621_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078820_88288641ef_o.png",
+      "id_image": "export_1900227"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696599_ae97577455_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696599_ca75d3e478_o.png",
+      "id_image": "export_3490152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078760_025ec22bc3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078760_d0131886ec_o.png",
+      "id_image": "export_6203207"
+    }
+  ]
+}

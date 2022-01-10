@@ -1,0 +1,46 @@
+{
+  "english": "legend",
+  "phat_am": "['ledʒənd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "truyện cổ tích, truyền thuyết"
+        },
+        {
+          "m_full_vn": "chữ khắc (trên đồng tiền, trên huy chương)"
+        },
+        {
+          "m_full_vn": "huyền thoại",
+          "list_en_vn": [
+            {
+              "full_en": "a living legend",
+              "full_vn": "người có danh tiếng lẫy lừng ngay khi còn sống, huyền thoại sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời ghi chú, câu chú giải (trên tranh ảnh minh hoạ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701354_e891e3c98e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701354_8fb7544e4e_o.png",
+      "id_image": "legend_2178114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346481_36e3f065e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346481_0d3b11298f_o.png",
+      "id_image": "legend_5234407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346436_80e9865744_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346436_be488a8563_o.png",
+      "id_image": "legend_5234409"
+    }
+  ]
+}

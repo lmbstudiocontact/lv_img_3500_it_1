@@ -1,0 +1,31 @@
+{
+  "english": "frustum",
+  "phat_am": "['frʌstəm]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều frusta , frustums",
+      "list_m": [
+        {
+          "m_full_vn": "hình cụt",
+          "list_en_vn": [
+            {
+              "full_en": "frustum of a cone",
+              "full_vn": "hình nón cụt"
+            },
+            {
+              "full_en": "frustum of a pyramind",
+              "full_vn": "chóp cụt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343151_18937596b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343151_8a9e13e03d_o.png",
+      "id_image": "frustum_5853975"
+    }
+  ]
+}

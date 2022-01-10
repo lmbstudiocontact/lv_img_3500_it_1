@@ -1,0 +1,31 @@
+{
+  "english": "interrogate",
+  "phat_am": "[in'terəgeit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to interrogate somebody about something ) hỏi một cách hùng hổ hoặc cặn kẽ trong một thời gian dài; thẩm vấn; cật vấn",
+          "list_en_vn": [
+            {
+              "full_en": "to interrogate a prisoner of war",
+              "full_vn": "tra hỏi một tù binh"
+            },
+            {
+              "full_en": "he refuses to be interrogated about his friends",
+              "full_vn": "anh ta từ chối việc gặng hỏi về bạn bè của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696529_e430fda6d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696529_96f706ee7f_o.png",
+      "id_image": "interrogate_3317249"
+    }
+  ]
+}

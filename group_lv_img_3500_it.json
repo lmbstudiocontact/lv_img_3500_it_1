@@ -1,0 +1,81 @@
+{
+  "english": "group",
+  "phat_am": "[gru:p]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhóm",
+          "list_en_vn": [
+            {
+              "full_en": "to learn in groups",
+              "full_vn": "học nhóm"
+            },
+            {
+              "full_en": "to form a group",
+              "full_vn": "họp lại thành nhóm"
+            },
+            {
+              "full_en": "atomic group",
+              "full_vn": "(vật lý) nhóm nguyên tử"
+            },
+            {
+              "full_en": "group of algebras",
+              "full_vn": "(toán học) nhóm các đại số"
+            },
+            {
+              "full_en": "blood group",
+              "full_vn": "(y học) nhóm máu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) nhóm, gốc"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hợp thành nhóm; tập hợp lại",
+          "list_en_vn": [
+            {
+              "full_en": "soldiers group (themselves ) round the blockhouse , in order to receive new orders",
+              "full_vn": "các binh sĩ tập hợp lại chung quanh lô cốt để nhận lệnh mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phân loại, phân loại, phân hạng, phân phối theo nhóm"
+        },
+        {
+          "m_full_vn": "(nghệ thuật) tạo nên sự hoà hợp màu sắc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056795_c7fd3247a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056795_3904dcf115_o.png",
+      "id_image": "group_1055430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056750_95dd635a7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056750_decd3d6077_o.png",
+      "id_image": "group_1158426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435188_f20e01f39e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435188_8073f1c0d7_o.png",
+      "id_image": "group_1300018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365027_086cbaff95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365027_49d37c4e86_o.png",
+      "id_image": "group_860469"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "english": "hire",
+  "phat_am": "['haiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thuê; sự cho thuê",
+          "list_en_vn": [
+            {
+              "full_en": "to have the hire of a car for a week",
+              "full_vn": "thuê xe hơi trong một tuần"
+            },
+            {
+              "full_en": "bicycles for hire",
+              "full_vn": "xe đạp cho thuê"
+            },
+            {
+              "full_en": "to pay for the hire of a hall",
+              "full_vn": "trả tiền thuê phòng họp"
+            },
+            {
+              "full_en": "this suit is on hire",
+              "full_vn": "bộ quần áo này để cho thuê"
+            },
+            {
+              "full_en": "a car hire firm",
+              "full_vn": "hãng cho thuê xe hơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền thuê",
+          "list_one_mean": [
+            {
+              "id_full_en": "to ply for hire",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về xe tắc xi hoặc ghe...) đậu một chỗ hoặc đi loanh quanh để đón khách"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to work for hire",
+              "full_vn": "làm thuê lấy tiền"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to hire something / somebody from somebody ) thuê mướn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hire something out to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "cho thuê",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we hire out our vans by the day",
+                      "full_vn": "chúng tôi cho thuê xe tải theo ngày (tiền thuê tính theo ngày)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to hire a bicycle /hall /wedding-dress",
+              "full_vn": "thuê xe đạp/phòng họp/áo cưới"
+            },
+            {
+              "full_en": "hired assassin",
+              "full_vn": "kẻ được thuê để giết người; kẻ giết mướn"
+            },
+            {
+              "full_en": "hired car",
+              "full_vn": "xe thuê"
+            },
+            {
+              "full_en": "to hire a dozen men to dig a ditch",
+              "full_vn": "mướn mười hai người để đào mương"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336701_0d6effdfa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336701_1e280d4e94_o.png",
+      "id_image": "hire_1924518"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381672_419be6c566_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381672_f9661eb264_o.png",
+      "id_image": "hire_3014277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691959_016dcc0e9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691959_e8b0192835_o.png",
+      "id_image": "hire_4091272"
+    }
+  ]
+}

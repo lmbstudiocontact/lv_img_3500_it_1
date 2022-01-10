@@ -1,0 +1,52 @@
+{
+  "english": "instinct",
+  "phat_am": "['instiηkt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( instinct for something / doing something ) ( instinct to do something ) khuynh hướng bẩm sinh tự nhiên cư xử theo một cách nào đó mà không cần lý luận hoặc dạy dỗ; bản năng",
+          "list_en_vn": [
+            {
+              "full_en": "birds learn to fly by instinct",
+              "full_vn": "chim biết bay theo bản năng"
+            },
+            {
+              "full_en": "birds have the instinct to learn to fly",
+              "full_vn": "chim có bản năng biết bay"
+            },
+            {
+              "full_en": "when I saw the flames , I acted on instinct and threw a blanket over them",
+              "full_vn": "khi nhìn thấy ngọn lửa, tôi đã hành động theo bản năng và ném chiếc chăn trùm lên ngọn lửa"
+            },
+            {
+              "full_en": "instinct for survival",
+              "full_vn": "bản năng sinh tồn"
+            },
+            {
+              "full_en": "the sight of the helpless little boy aroused her maternal instinct",
+              "full_vn": "cảnh cậu bé lang thang làm trỗi dậy bản năng người mẹ trong cô ta"
+            },
+            {
+              "full_en": "to have an instinct for doing or saying the wrong thing",
+              "full_vn": "có thiên hướng làm bậy hoặc nói bậy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459183_bf939200b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459183_378474b106_o.png",
+      "id_image": "instinct_188972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699469_f68daafdae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699469_333021571a_o.png",
+      "id_image": "instinct_189010"
+    }
+  ]
+}

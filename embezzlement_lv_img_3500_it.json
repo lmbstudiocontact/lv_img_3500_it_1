@@ -1,0 +1,36 @@
+{
+  "english": "embezzlement",
+  "phat_am": "[im'bezlmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự biển thủ, sự tham ô",
+          "list_en_vn": [
+            {
+              "full_en": "petty embezzlement",
+              "full_vn": "biển thủ lặt vặt"
+            },
+            {
+              "full_en": "he was found guilty of embezzlement",
+              "full_vn": "anh ta phạm tội thụt két"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438093_0a64381050_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438093_fe89097a89_o.png",
+      "id_image": "embezzlement_2473052"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438068_51cd76da07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438068_92710bc23c_o.png",
+      "id_image": "embezzlement_2631552"
+    }
+  ]
+}

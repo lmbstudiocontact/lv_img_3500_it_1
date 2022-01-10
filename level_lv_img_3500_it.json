@@ -1,0 +1,283 @@
+{
+  "english": "level",
+  "phat_am": "['levl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường hoặc mặt phẳng song song với đường chân trời khi muốn nói đến độ cao của nó mức, mực; mặt",
+          "list_en_vn": [
+            {
+              "full_en": "1000 metres above sea-level",
+              "full_vn": "1000 m so với mặt biển"
+            },
+            {
+              "full_en": "the controls are at eye-level",
+              "full_vn": "bộ điều chỉnh ở ngang tầm mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mức độ; (nghĩa bóng) trình độ, vị trí, cấp",
+          "list_en_vn": [
+            {
+              "full_en": "the level of alcohol in the blood",
+              "full_vn": "độ cồn trong máu"
+            },
+            {
+              "full_en": "levels of unemployment vary from region to region",
+              "full_vn": "mức độ thất nghiệp thay đổi theo từng vùng"
+            },
+            {
+              "full_en": "I could use threats too , but I refuse to sink to your level",
+              "full_vn": "Đe doạ thì cũng được, nhưng tôi không muốn hạ mình như anh"
+            },
+            {
+              "full_en": "discussions at Cabinet level",
+              "full_vn": "các cuộc thảo luận ở cấp nội các"
+            },
+            {
+              "full_en": "education level",
+              "full_vn": "trình độ học vấn"
+            },
+            {
+              "full_en": "on a level with somebody",
+              "full_vn": "cùng một trình độ với ai; ngang hàng với ai"
+            },
+            {
+              "full_en": "technically , both players are on a level",
+              "full_vn": "về phương diện kỹ thuật, cả hai đấu thủ có trình độ như nhau"
+            },
+            {
+              "full_en": "the water rose until it was on a level with the river banks",
+              "full_vn": "nước dâng lên cho đến ngang mặt bờ sông"
+            },
+            {
+              "full_en": "to rise to a higher level",
+              "full_vn": "tiến lên một trình độ cao hơn"
+            },
+            {
+              "full_en": "to establish diplomatic relations at ambassadorial level",
+              "full_vn": "thiết lập quan hệ ngoại giao ở cấp đại sứ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như spirit-level",
+          "list_one_mean": [
+            {
+              "id_full_en": "on the level",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) thật thà, có thể tin được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "are you sure this deal is on the level ?",
+                      "full_vn": "anh có chắc là vụ giao dịch này có thể tin được hay không?"
+                    },
+                    {
+                      "full_en": "I'd like to help , but I can't - on the level !",
+                      "full_vn": "tôi cũng muốn giúp đỡ nhưng không thể được, thật thà mà nói"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find one's own level",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm được địa vị xứng đáng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do one's best level",
+              "list_im": [
+                {
+                  "im_full_vn": "cố gắng hết sức mình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có bề mặt nằm ngang; phẳng; không dốc",
+          "list_en_vn": [
+            {
+              "full_en": "to find level ground for the picnic table",
+              "full_vn": "tìm chỗ đất bằng phẳng để đặt bàn ăn trong buổi đi chơi ngoài trời"
+            },
+            {
+              "full_en": "to add one level tablespoon of sugar",
+              "full_vn": "cho thêm một thìa đường gạt ngang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cân bằng đều, ngang bằng; ngang tài ngang sức",
+          "list_en_vn": [
+            {
+              "full_en": "the two pictures are not quite level - that one is higher than the other",
+              "full_vn": "hai bức tranh treo không thật ngang nhau - bức này cao hơn bức kia"
+            },
+            {
+              "full_en": "France took an early lead but Wales drew level before half-time",
+              "full_vn": "Đội Pháp dẫn trước, nhưng đội Wales đã san bẳngti số trước lúc nghỉ giải lao"
+            },
+            {
+              "full_en": "a very level race",
+              "full_vn": "một cuộc chạy đua ngang tài ngang sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về giọng nói, cái nhìn..) đều đều, không thay đổi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have a level head",
+              "list_im": [
+                {
+                  "im_full_vn": "bình tĩnh, điềm đạm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "level pegging",
+              "list_im": [
+                {
+                  "im_full_vn": "sự tiến bộ đồng đều như nhau"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a level stare",
+              "full_vn": "cái nhìn chằm chằm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho cái gì ngang nhau, bằng nhau hoặc đồng nhất; san bằng",
+          "list_en_vn": [
+            {
+              "full_en": "she needs to win this point to level the score",
+              "full_vn": "cô ta cần phải thắng điểm này để san bằng tỉ số"
+            },
+            {
+              "full_en": "to level the ground",
+              "full_vn": "san bằng mặt đất"
+            },
+            {
+              "full_en": "to level social differences",
+              "full_vn": "san bằng những cách biệt xã hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phá sập, phá đổ, san bằng",
+          "list_en_vn": [
+            {
+              "full_en": "a town levelled by an earthquake",
+              "full_vn": "một thành phố bị trận động đất san bằng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chĩa, nhắm (súng, lời buộc tội, lời đả kích...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to level something down /up",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho (mặt phẳng, tỉ số, thu nhập...) bằng cách hạ cái cao xuống/nâng cái thấp lên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "marks at the lower end need to be levelled",
+                      "full_vn": "những dấu ở đầu thấp hơn cần được nâng lên cho bằng nhau"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to level off /out",
+              "list_im": [
+                {
+                  "im_full_vn": "(về máy bay) bay là là; (về giá cả) khựng lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "house prices show no sign of levelling off",
+                      "full_vn": "giá nhà không có dấu hiệu gì khựng lại"
+                    },
+                    {
+                      "full_en": "share values have levelled off after yesterday's steep rise",
+                      "full_vn": "giá cổ phần chựng lại sau khi tăng vọt ngày hôm qua"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to level with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "thẳng thắn trao đổi ý kiến với ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to level a gun at somebody's head",
+              "full_vn": "chĩa súng vào đầu ai"
+            },
+            {
+              "full_en": "to level criticism at (against ) somebody",
+              "full_vn": "chĩa lời phê bình vào ai, nhắm ai mà phê bình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389657_a2fcc951da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389657_0ccc6f4603_o.png",
+      "id_image": "level_1146851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344681_41ab490561_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344681_a678fe7e4d_o.png",
+      "id_image": "level_2014983"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389597_7de92c11c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389597_63c97ca498_o.png",
+      "id_image": "level_2823975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344636_8cce22b70d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344636_45c46cb337_o.png",
+      "id_image": "level_5391524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082240_5d8225bbf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082240_c7766807a4_o.png",
+      "id_image": "level_706017"
+    }
+  ]
+}

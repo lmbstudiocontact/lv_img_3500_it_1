@@ -1,0 +1,76 @@
+{
+  "english": "frown",
+  "phat_am": "[fraun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẻ mặt nghiêm trang, giận dữ, lo lắng... tạo nên những nếp nhăn trên trán, biểu hiện sự không hài lòng; sự nghiêm nghị; sự cau mày; vẻ tư lự; vẻ khó chịu",
+          "list_en_vn": [
+            {
+              "full_en": "she looked up with a worried frown",
+              "full_vn": "cô ta ngước nhìn lên với một nét cau mày lo lắng"
+            },
+            {
+              "full_en": "I noticed a slight frown of disapproval on his face",
+              "full_vn": "Tôi thấy mặt ông ta thoáng cau mày có vẻ không tán thành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khắc nghiệt",
+          "list_en_vn": [
+            {
+              "full_en": "the frowns of fortune",
+              "full_vn": "những sự khắc nghiệt của số mệnh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to frown at somebody / something ) cau mày, nhăn mặt",
+          "list_en_vn": [
+            {
+              "full_en": "What's wrong ? Why are you frowning ?",
+              "full_vn": "Có chuyện gì không ổn vậy? Sao anh lại cau mày?"
+            },
+            {
+              "full_en": "She frowned at the noise coming from her workroom",
+              "full_vn": "Cô ta cau mày khi có tiếng huyên náo từ trong phòng làm việc của cô ta vọng ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to frown on / upon something ) không bằng lòng, không đồng ý, không tán thành",
+          "list_en_vn": [
+            {
+              "full_en": "My parents always frown on late nights out",
+              "full_vn": "Bố mẹ tôi lúc nào cũng không bằng lòng tôi đi chơi đến khuya"
+            },
+            {
+              "full_en": "Gambling is frowned upon by some church authorities",
+              "full_vn": "Một số chức sắc nhà thờ phản đối trò cờ bạc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343466_6787c1da8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343466_6d1e0e574b_o.png",
+      "id_image": "frown_3508358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388392_818b6f0960_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388392_ea3198aae3_o.png",
+      "id_image": "frown_4795870"
+    }
+  ]
+}

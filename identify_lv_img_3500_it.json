@@ -1,0 +1,67 @@
+{
+  "english": "identify",
+  "phat_am": "[ai'dentifai]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to identify somebody / something as somebody / something ) nhận ra, nhận biết, nhận dạng",
+          "list_en_vn": [
+            {
+              "full_en": "can you identify your umbrella among this lot ?",
+              "full_vn": "ông có nhận ra được cái ô của ông trong đống này không?"
+            },
+            {
+              "full_en": "she identified the man as her attacker",
+              "full_vn": "cô ta nhận ra người đó là kẻ đã tấn công mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to identify something with something ) coi cái gì như là giống hệt cái gì; đặt hai cái gì ngang hàng nhau; đồng nhất hoá, coi như nhau",
+          "list_en_vn": [
+            {
+              "full_en": "one cannot identify happiness with health",
+              "full_vn": "không thể đồng nhất hạnh phúc với sự giàu có được"
+            },
+            {
+              "full_en": "to identify oneself with somebody /something",
+              "full_vn": "ủng hộ ai/cái gì; gắn bó chặt chẽ với ai/cái gì"
+            },
+            {
+              "full_en": "to identify oneself with a party",
+              "full_vn": "gắn bó chặt chẽ với một đảng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to identify with somebody ) tự xem mình như là cùng chia sẻ các đặc điểm hoặc vận may rủi của ai; lấy ai làm mẫu; đồng cảm với ai",
+          "list_en_vn": [
+            {
+              "full_en": "to identify with the hero of the novel",
+              "full_vn": "đồng cảm với nhân vật chính trong cuốn tiểu thuyết"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061080_e90073908d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061080_c6f2066b32_o.png",
+      "id_image": "identify_2311649"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439198_8ca6108a5c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439198_7a566628f4_o.png",
+      "id_image": "identify_4633917"
+    }
+  ]
+}

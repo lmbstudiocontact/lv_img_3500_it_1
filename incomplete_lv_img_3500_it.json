@@ -1,0 +1,27 @@
+{
+  "english": "incomplete",
+  "phat_am": "[,inkəm'pli:t]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không có tất cả các bộ phận của nó; không đầy đủ",
+          "list_en_vn": [
+            {
+              "full_en": "an incomplete set of results",
+              "full_vn": "một tập hợp không đầy đủ các kết quả"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673699_3554b7eb82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673699_f5027beb40_o.png",
+      "id_image": "incomplete_5387073"
+    }
+  ]
+}

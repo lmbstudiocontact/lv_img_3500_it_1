@@ -1,0 +1,62 @@
+{
+  "english": "macro",
+  "phat_am": "['mækrou]",
+  "list_type": [
+    {
+      "type": "tiền tố",
+      "list_m": [
+        {
+          "m_full_vn": "to, lớn",
+          "list_en_vn": [
+            {
+              "full_en": "macromolecule",
+              "full_vn": "phân tử lớn"
+            },
+            {
+              "full_en": "macrocephalic",
+              "full_vn": "to đầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vĩ mô",
+          "list_en_vn": [
+            {
+              "full_en": "macrocosm",
+              "full_vn": "thế giới vĩ mô"
+            },
+            {
+              "full_en": "macroeconomics",
+              "full_vn": "kinh tế vĩ mô"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tin học) một lệnh riêng lẻ bằng ngôn ngữ lập trình mà kết quả là một chuỗi lệnh bằng ngôn ngữ máy tính; ma-crô"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445638_c935439f4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445638_6b8d32d665_o.png",
+      "id_image": "macro_5982674"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375357_aa07042f14_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375357_653975774b_o.png",
+      "id_image": "macro_6315825"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375417_f3540a7a9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375417_babcc55c4f_o.png",
+      "id_image": "macro_948490"
+    }
+  ]
+}

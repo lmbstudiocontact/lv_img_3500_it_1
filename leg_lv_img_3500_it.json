@@ -1,0 +1,274 @@
+{
+  "english": "leg",
+  "phat_am": "[leg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chân, cẳng (người, thú...)"
+        },
+        {
+          "m_full_vn": "chân (bàn ghế...)"
+        },
+        {
+          "m_full_vn": "ống (quần, giày...)"
+        },
+        {
+          "m_full_vn": "nhánh com-pa"
+        },
+        {
+          "m_full_vn": "cạnh bên (của tam giác)"
+        },
+        {
+          "m_full_vn": "đoạn (đường đi); chặng; giai đoạn",
+          "list_en_vn": [
+            {
+              "full_en": "the first leg of a flight",
+              "full_vn": "chặng đầu trong chuyến bay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) ván (trong một hiệp đấu)"
+        },
+        {
+          "m_full_vn": "(từ lóng) kẻ lừa đảo",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be all legs",
+              "list_im": [
+                {
+                  "im_full_vn": "cao lêu đêu, chỉ thấy chân với cẳng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on one's last legs",
+              "list_im": [
+                {
+                  "im_full_vn": "kiệt sức, sắp chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to feel one's legs",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) feel"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get on one's legs",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) get"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give someone a leg up",
+              "list_im": [
+                {
+                  "im_full_vn": "đỡ ai leo lên, đỡ ai trèo lên"
+                },
+                {
+                  "im_full_vn": "giúp đỡ ai vượt qua lúc khó khăn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the legs of someone",
+              "list_im": [
+                {
+                  "im_full_vn": "đi (chạy) nhanh hơn ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's legs",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) keep"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a leg",
+              "list_im": [
+                {
+                  "im_full_vn": "cúi đầu chào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to have a leg to stand on",
+              "list_im": [
+                {
+                  "im_full_vn": "không có lý lẽ gì để bào chữa cho thuyết của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull someone's leg",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) trêu chòng ai, giễu cợt ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have hollow legs",
+              "list_im": [
+                {
+                  "im_full_vn": "rất ngon miệng, rất khoái khẩu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as fast as one's leg can carry one",
+              "list_im": [
+                {
+                  "im_full_vn": "nhanh bằng hết sức của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on one's legs",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng"
+                },
+                {
+                  "im_full_vn": "đi đứng được (sau một cơn bệnh liệt giừơng liệt chiếu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's tail between one's legs",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy thục mạng, chạy cúp đuôi, thất bại ê chề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "leg before wicket",
+              "list_im": [
+                {
+                  "im_full_vn": "(bóng đá) bị phạt do dùng chân cản bóng vào khung thành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shake a leg",
+              "list_im": [
+                {
+                  "im_full_vn": "khẩn trương làm việc"
+                },
+                {
+                  "im_full_vn": "nhảy, khiêu vũ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to talk the hind legs off a donkey",
+              "list_im": [
+                {
+                  "im_full_vn": "nói thao thao bất tuyệt, nói huyên thuyên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's best leg foremost",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) best"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run someone off his legs",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt ai làm việc mệt nhoài, bắt ai làm việc liên miên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show a leg",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) ra khỏi giường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand on one's own legs",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng bằng đôi chân của mình, độc lập tự chủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk someone off his legs",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt ai đi đi rạc cả chân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk one's legs off",
+              "list_im": [
+                {
+                  "im_full_vn": "đi đến rạc cả chân, đi đến nỗi mệt lả"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đẩy (thuyền) bằng chân (qua sông đào, trong đường hầm)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "to leg it đi mau, chạy mau"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346781_299d0664c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346781_b89b899588_o.png",
+      "id_image": "leg_3824897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701599_e988f6d4ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701599_6c46fe46bf_o.png",
+      "id_image": "leg_4760725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701569_f8433f74ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701569_a0eee1c65f_o.png",
+      "id_image": "leg_5793590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346686_d53ccd781d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346686_2beede5bfb_o.png",
+      "id_image": "leg_6147262"
+    }
+  ]
+}

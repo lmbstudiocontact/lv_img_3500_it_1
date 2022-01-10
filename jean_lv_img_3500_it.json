@@ -1,0 +1,30 @@
+{
+  "english": "jean",
+  "phat_am": "[dʒi:nz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vải bông dày, mặc khi không cần trịnh trọng, nghi thức"
+        },
+        {
+          "m_full_vn": "( số nhiều) quần bằng vải bông dày, mặc khi không cần trịnh trọng, nghi thức; quần gin",
+          "list_en_vn": [
+            {
+              "full_en": "She was wearing a pair of tight blue jeans",
+              "full_vn": "Cô ta mặc quần \"gin\" màu lam bó sát người"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072105_7a07a784f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072105_9759fd49ec_o.png",
+      "id_image": "jean_592794"
+    }
+  ]
+}

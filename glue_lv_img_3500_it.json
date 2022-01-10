@@ -1,0 +1,50 @@
+{
+  "english": "glue",
+  "phat_am": "[glu:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "keo hồ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gắn lại, dán bằng keo, dán bằng hồ",
+          "list_en_vn": [
+            {
+              "full_en": "to have one's eyes glued to sth",
+              "full_vn": "mắt cứ dán vào cái gì, dõi mắt nhìn theo cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375322_2490858530_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375322_a89b58a09b_o.png",
+      "id_image": "glue_164351"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375302_670e26718e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375302_65f6ba5b7c_o.png",
+      "id_image": "glue_1806611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685654_dcbf22ea9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685654_5f102c8c52_o.png",
+      "id_image": "glue_4869769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375247_1a25ce3575_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375247_fbc9d0c199_o.png",
+      "id_image": "glue_5483656"
+    }
+  ]
+}

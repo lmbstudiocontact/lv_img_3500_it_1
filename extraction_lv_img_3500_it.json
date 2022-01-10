@@ -1,0 +1,78 @@
+{
+  "english": "extraction",
+  "phat_am": "[iks'træk∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trích (sách); sự chép (một đoạn trong sách)"
+        },
+        {
+          "m_full_vn": "sự nhổ (răng...)"
+        },
+        {
+          "m_full_vn": "sự bòn rút, sự moi"
+        },
+        {
+          "m_full_vn": "sự hút, sự bóp, sự nặn"
+        },
+        {
+          "m_full_vn": "sự rút ra (nguyên tắc), sự thích thú"
+        },
+        {
+          "m_full_vn": "(toán học) phép khai (căn)"
+        },
+        {
+          "m_full_vn": "(hoá học) sự chiết"
+        },
+        {
+          "m_full_vn": "dòng giống, nguồn gốc",
+          "list_one_mean": [
+            {
+              "id_full_en": "extraction rate",
+              "list_im": [
+                {
+                  "im_full_vn": "tỷ lê xay bột (giữa trọng lượng bột xay được và gạo đưa xay)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to be of Chinese extraction",
+              "full_vn": "nguồn gốc Trung-hoa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455108_d7bce97fff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455108_c341da4d5a_o.png",
+      "id_image": "extraction_1338980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340191_6803f3e3f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340191_ca9d35ba59_o.png",
+      "id_image": "extraction_1386879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340166_6915ab29bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340166_b0d1f645a9_o.png",
+      "id_image": "extraction_1486196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340136_6c12fec146_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340136_4e8d006dbb_o.png",
+      "id_image": "extraction_6315470"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695369_b8592747b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695369_235fe1d146_o.png",
+      "id_image": "extraction_6348266"
+    }
+  ]
+}

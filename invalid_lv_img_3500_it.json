@@ -1,0 +1,91 @@
+{
+  "english": "invalid",
+  "phat_am": "[in'vælid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người bệnh tật, người tàn tật, người tàn phế"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tàn tật, tàn phế",
+          "list_en_vn": [
+            {
+              "full_en": "her invalid father is pitiable",
+              "full_vn": "người cha tàn tật của cô ta thật đáng thương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho người bệnh tật, cho người tàn tật, cho người tàn phế; (thuộc) người bệnh tật, (thuộc) người tàn tật, (thuộc) người tàn phế",
+          "list_en_vn": [
+            {
+              "full_en": "an invalid home",
+              "full_vn": "nơi an dưỡng cho những người tàn tật"
+            },
+            {
+              "full_en": "an invalid chair",
+              "full_vn": "xe lăn của người tàn tật"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho giải ngũ (phục viên) vì lý do sức khoẻ kém (cũng) to invalid somebody home"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không có hiệu lực",
+          "list_en_vn": [
+            {
+              "full_en": "your driving license is invalid , because it is out of date",
+              "full_vn": "bằng lái xe của anh không có hiệu lực, vì đã quá hạn"
+            },
+            {
+              "full_en": "to declare a marriage invalid",
+              "full_vn": "tuyên bố một cuộc hôn nhân vô hiệu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) không có căn cứ",
+          "list_en_vn": [
+            {
+              "full_en": "invalid arguments",
+              "full_vn": "những lý lẽ không có căn cứ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) vô hiệu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339936_933c7031dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339936_e8cc3c9aee_o.png",
+      "id_image": "invalid_4470627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077080_ef5a9fa8c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077080_59bda8bb5a_o.png",
+      "id_image": "invalid_5978900"
+    }
+  ]
+}

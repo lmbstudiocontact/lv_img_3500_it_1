@@ -1,0 +1,69 @@
+{
+  "english": "jockey",
+  "phat_am": "['dʒɔki]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cưỡi ngựa đua, dô kề",
+          "list_one_mean": [
+            {
+              "id_full_en": "Jockey Club",
+              "list_im": [
+                {
+                  "im_full_vn": "hội đua ngựa (ở Anh, nắm các cuộc đua ngựa)"
+                },
+                {
+                  "im_full_vn": "người hầu, người dưới"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cưỡi ngựa đua, làm dô kề"
+        },
+        {
+          "m_full_vn": "lừa bịp, lừa phỉnh, dùng mánh khoé để dành thắng lợi",
+          "list_en_vn": [
+            {
+              "full_en": "to jockey someone out of something",
+              "full_vn": "lừa bịp ai lấy cái gì"
+            },
+            {
+              "full_en": "to jockey someone into doing something",
+              "full_vn": "lừa phỉnh ai làm gì"
+            },
+            {
+              "full_en": "to jockey for position",
+              "full_vn": "dùng mẹo khôn khéo để giành ưu thế (trong cuộc đua thuyền...); giành lấy lợi về mình một cách không chính đáng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448408_a2c311f0aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448408_2e7e61b151_o.png",
+      "id_image": "jockey_1192998"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688279_fa02e6cbf4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688279_63183b1704_o.png",
+      "id_image": "jockey_2112181"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688374_98513e817f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688374_0815887e61_o.png",
+      "id_image": "jockey_406199"
+    }
+  ]
+}

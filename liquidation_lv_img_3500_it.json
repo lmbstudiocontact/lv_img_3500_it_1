@@ -1,0 +1,46 @@
+{
+  "english": "liquidation",
+  "phat_am": "[,likwi'dei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thanh toán (nợ...)"
+        },
+        {
+          "m_full_vn": "sự đóng cửa (công ty); sự thanh toán mọi khoản để thôi kinh doanh",
+          "list_en_vn": [
+            {
+              "full_en": "to go into liquidation",
+              "full_vn": "(nói về công ty) thanh toán mọi khoản để thôi kinh doanh; vỡ nợ, phá sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bán chạy, sự bán tống (hàng hoá còn tồn lại)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự trừ khử; sự thủ tiêu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077725_a96bfe7b91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077725_6ae00ea393_o.png",
+      "id_image": "liquidation_5966410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340356_bf7b3cb1df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340356_7002b80d83_o.png",
+      "id_image": "liquidation_6257390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077685_b475752233_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077685_a50e791bbe_o.png",
+      "id_image": "liquidation_6257433"
+    }
+  ]
+}

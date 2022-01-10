@@ -1,0 +1,57 @@
+{
+  "english": "gown",
+  "phat_am": "[gaun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(sử học) áo tôga ( La-mã xưa)"
+        },
+        {
+          "m_full_vn": "áo dài (của phụ nữ, mặc trong những dịp đặc biệt...)",
+          "list_en_vn": [
+            {
+              "full_en": "an evening gown",
+              "full_vn": "áo dài mặc buổi tối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "áo choàng (của giáo sư đại học, quan toà...)"
+        },
+        {
+          "m_full_vn": "giáo sư và học sinh trường đại học Ôc-phớt và Căm-brít (đối lại với dân hàng phố)",
+          "list_en_vn": [
+            {
+              "full_en": "town and gown",
+              "full_vn": "dân thường hàng phố và những giáo sư và học sinh trường đại học Ôc-phớt và Căm-brit"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682714_746f775e69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682714_04f3ab28fb_o.png",
+      "id_image": "gown_1694767"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372252_6efc10c8b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372252_f9c7f48bb9_o.png",
+      "id_image": "gown_3124984"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327501_66de29a3c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327501_6e91597d85_o.png",
+      "id_image": "gown_4284317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372152_e1daa78511_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372152_efa3809b6a_o.png",
+      "id_image": "gown_4305246"
+    }
+  ]
+}

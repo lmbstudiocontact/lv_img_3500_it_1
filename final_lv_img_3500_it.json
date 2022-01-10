@@ -1,0 +1,105 @@
+{
+  "english": "final",
+  "phat_am": "['fainl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuối cùng",
+          "list_en_vn": [
+            {
+              "full_en": "final victory",
+              "full_vn": "thắng lợi cuối cùng"
+            },
+            {
+              "full_en": "the final chapter of a book",
+              "full_vn": "chương cuối của cuốn sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyết định, dứt khoát, không thay đổi được nữa",
+          "list_en_vn": [
+            {
+              "full_en": "the judge's ruling is final",
+              "full_vn": "sự quyết định của quan toà là chung cuộc (không thay đổi được nữa)"
+            },
+            {
+              "full_en": "I'm not coming , and that's final",
+              "full_vn": "tôi sẽ không đến, và đó là điều dứt khoát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(triết học); (ngôn ngữ học) (thuộc) mục đích",
+          "list_one_mean": [
+            {
+              "id_full_en": "the last /final straw",
+              "list_im": [
+                {
+                  "im_full_vn": "sự kiện sau cùng trong một chuỗi sự kiện, và làm cho tình huống xấu thêm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "final cause",
+              "full_vn": "mục đích, cứu cánh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thể thao) cuộc đấu chung kết; trận chung kết",
+          "list_en_vn": [
+            {
+              "full_en": "the tennis finals",
+              "full_vn": "các cuộc đấu chung kết quần vợt"
+            },
+            {
+              "full_en": "the Cup Final",
+              "full_vn": "trận chung kết cúp vô địch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kỳ thi ra trường, kỳ thi tốt nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "to sit /take one's finals",
+              "full_vn": "đi/dự thi tốt nghiệp"
+            },
+            {
+              "full_en": "the law final (s )",
+              "full_vn": "kỳ thi tốt nghiệp luật học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) đợt báo phát hành cuối cùng trong ngày"
+        },
+        {
+          "m_full_vn": "(âm nhạc) âm gốc (trong một bản nhạc)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373287_5c012e8c8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373287_3c067feb2c_o.png",
+      "id_image": "final_2867349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328486_2d718927b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328486_86da80f11c_o.png",
+      "id_image": "final_6225061"
+    }
+  ]
+}

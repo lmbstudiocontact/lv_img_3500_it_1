@@ -1,0 +1,92 @@
+{
+  "english": "extension",
+  "phat_am": "[iks'ten∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự duỗi thẳng ra (chân, tay hoặc ngón tay)",
+          "list_en_vn": [
+            {
+              "full_en": "extension of an injured arm",
+              "full_vn": "sự duỗi thẳng một cánh tay bị thương"
+            },
+            {
+              "full_en": "the leg is now at full extension",
+              "full_vn": "chân bây giờ duổi thẳng hết rồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự gia hạn; sự mở rộng",
+          "list_en_vn": [
+            {
+              "full_en": "extension of a business co-operation contract",
+              "full_vn": "sự gia hạn một hợp đồng hợp tác kinh doanh"
+            },
+            {
+              "full_en": "to get an extension (of time )",
+              "full_vn": "được gia hạn (về thời gian)"
+            },
+            {
+              "full_en": "he's got an extension to finish making his first film",
+              "full_vn": "anh ấy được gia hạn để làm xong bộ phim đầu tiên của anh ấy"
+            },
+            {
+              "full_en": "extension of general knowledge",
+              "full_vn": "sự mở rộng kiến thức tổng quát"
+            },
+            {
+              "full_en": "the extension of the garden will take several weeks",
+              "full_vn": "việc mở rộng khu vườn sẽ mất nhiều tuần lễ"
+            },
+            {
+              "full_en": "an extension to a factory",
+              "full_vn": "phần mở rộng thêm cho xưởng máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự dành cho",
+          "list_en_vn": [
+            {
+              "full_en": "the extension of a warm welcome",
+              "full_vn": "sự dành cho một cuộc tiếp đón nồng nhiệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện thoại) đường dây điện thoại đi từ máy điện thoại chính hoặc từ tổng đài tới một văn phòng kháctrong một toà nhà lớn; số của đường dây điện thoại ấy; máy nhánh",
+          "list_en_vn": [
+            {
+              "full_en": "there are extensions in every office",
+              "full_vn": "văn phòng nào cũng các máy điện thoại nhánh"
+            },
+            {
+              "full_en": "'Extension 15, please'",
+              "full_vn": "cho tôi xin máy nhánh số 15"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078060_f4997ff27f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078060_6dc3fcf598_o.png",
+      "id_image": "extension_4370965"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385637_f9bbb79a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385637_02de2ebaff_o.png",
+      "id_image": "extension_5613361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455608_21db5c3a2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455608_a633f4b75a_o.png",
+      "id_image": "extension_649819"
+    }
+  ]
+}

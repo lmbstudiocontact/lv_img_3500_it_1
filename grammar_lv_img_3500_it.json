@@ -1,0 +1,61 @@
+{
+  "english": "grammar",
+  "phat_am": "['græmə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) ngữ pháp; văn phạm",
+          "list_en_vn": [
+            {
+              "full_en": "a good understanding of English grammar",
+              "full_vn": "sự hiểu biết tường tận ngữ pháp tiếng Anh"
+            },
+            {
+              "full_en": "the rules of French grammar",
+              "full_vn": "các quy tắc văn phạm tiếng Pháp"
+            },
+            {
+              "full_en": "to use bad grammar",
+              "full_vn": "dùng sai ngữ pháp"
+            },
+            {
+              "full_en": "is that grammar ?",
+              "full_vn": "vậy là có đúng ngữ pháp hay không?"
+            },
+            {
+              "full_en": "transformational grammar",
+              "full_vn": "ngữ pháp cải biến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sách ngữ pháp; sách văn phạm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680969_409ebf32cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680969_9389b8e20f_o.png",
+      "id_image": "grammar_1058530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370557_1852d76cb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370557_4122ae4617_o.png",
+      "id_image": "grammar_4806129"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325751_15f025a517_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325751_d144c3d8ce_o.png",
+      "id_image": "grammar_5387392"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325701_e011de0dce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325701_180f12af38_o.png",
+      "id_image": "grammar_6091150"
+    }
+  ]
+}

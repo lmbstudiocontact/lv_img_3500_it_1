@@ -1,0 +1,131 @@
+{
+  "english": "evidence",
+  "phat_am": "['evidəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( evidence to do something / that ..) (pháp lý) chứng cớ; bằng chứng",
+          "list_en_vn": [
+            {
+              "full_en": "there wasn't enough evidence to prove him guilty",
+              "full_vn": "không có đủ bằng chứng để chứng tỏ là nó có tội (không đủ chứng cớ buộc tội nó)"
+            },
+            {
+              "full_en": "have you any evidence to support this account ?",
+              "full_vn": "anh có bằng chứng nào ủng hộ bản báo cáo này hay không?"
+            },
+            {
+              "full_en": "her statement to the Customs will be used in evidence against her",
+              "full_vn": "lời khai của cô ta với cơ quan hải quan sẽ được dùng làm bằng chứng chống lại cô ta"
+            },
+            {
+              "full_en": "to produce evidence",
+              "full_vn": "cung cấp chứng cớ; đưa bằng chứng ra"
+            },
+            {
+              "full_en": "to submit a photograph in evidence /as legal evidence",
+              "full_vn": "đưa một bức ảnh ra làm bằng chứng"
+            },
+            {
+              "full_en": "not a bit /piece /scrap /shred of evidence",
+              "full_vn": "không có được chút/mảnh/mẩu/tí bằng chứng nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dấu hiệu; vết tích",
+          "list_one_mean": [
+            {
+              "id_full_en": "(to be ) in evidence",
+              "list_im": [
+                {
+                  "im_full_vn": "dễ được nhận ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he's the sort of man who likes to be very much in evidence at important meetings",
+                      "full_vn": "ông ta là hạng người thích nổi trội trong các cuộc họp quan trọng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the evidence of something",
+              "list_im": [
+                {
+                  "im_full_vn": "căn cứ vào cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "on the evidence of his exam results , it is likely he will win a scholarship",
+                      "full_vn": "cứ theo kết quả thi của nó thì có khả năng nó sẽ được cấp học bổng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn State's evidence",
+              "list_im": [
+                {
+                  "im_full_vn": "tố cáo những kẻ đồng loã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to weigh the evidence",
+              "list_im": [
+                {
+                  "im_full_vn": "xem xét chứng cứ; cân nhắc chứng cứ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the warehouse bore evidence of a dogfight",
+              "full_vn": "nhà kho còn lưu vết tích của một cuộc ấu đả dữ dội (vết tích của một cuộc ấu đả dữ dội vẫn còn lưu lại trong nhà kho)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chứng tỏ; chứng minh",
+          "list_en_vn": [
+            {
+              "full_en": "his answer evidenced a guilty conscience",
+              "full_vn": "câu trả lời của nó đã chứng tỏ một lương tâm tội lỗi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313386_95c929dc5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313386_dd74e01d4a_o.png",
+      "id_image": "evidence_2034524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049890_d2f9fc3b9b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049890_0d9721ddb4_o.png",
+      "id_image": "evidence_2322927"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357347_fb173ffe23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357347_e5b43f84b7_o.png",
+      "id_image": "evidence_2399410"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668209_18029b347b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668209_c837a621ec_o.png",
+      "id_image": "evidence_533968"
+    }
+  ]
+}

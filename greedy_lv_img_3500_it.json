@@ -1,0 +1,52 @@
+{
+  "english": "greedy",
+  "phat_am": "['gri:di]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( greedy for something ) đầy tham lam hoặc ham muốn",
+          "list_en_vn": [
+            {
+              "full_en": "a greedy little boy",
+              "full_vn": "một cậu bé háu ăn"
+            },
+            {
+              "full_en": "not hungry , just greedy",
+              "full_vn": "không đói mà chỉ tham ăn"
+            },
+            {
+              "full_en": "looking at the cakes with greedy eyes",
+              "full_vn": "nhìn chiếc bánh với cặp mắt thèm thuồng"
+            },
+            {
+              "full_en": "greedy for honours",
+              "full_vn": "hám danh"
+            },
+            {
+              "full_en": "greedy for power",
+              "full_vn": "ham quyền lực"
+            },
+            {
+              "full_en": "greedy for information",
+              "full_vn": "thèm có thông tin"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678089_e5b77edc81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678089_46b5775d4e_o.png",
+      "id_image": "greedy_2188612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059645_7d12570fce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059645_ae66bebe4a_o.png",
+      "id_image": "greedy_5507677"
+    }
+  ]
+}

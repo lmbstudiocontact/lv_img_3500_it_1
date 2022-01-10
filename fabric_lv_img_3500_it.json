@@ -1,0 +1,61 @@
+{
+  "english": "fabric",
+  "phat_am": "['fæbrik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "công trình xây dựng"
+        },
+        {
+          "m_full_vn": "giàn khung, kết cấu, cơ cấu ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "the whole fabric of society",
+              "full_vn": "toàn bộ cơ cấu xã hội"
+            },
+            {
+              "full_en": "the fabric of arguments",
+              "full_vn": "kết cấu của lý lẽ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vải ( (thường) textile fabric )",
+          "list_en_vn": [
+            {
+              "full_en": "silk and woollen fabrics",
+              "full_vn": "hàng tơ lụa và len dạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt, thớ (vải)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075920_841b377d66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075920_caaacd71c9_o.png",
+      "id_image": "fabric_3930525"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383722_99bd6ba450_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383722_e41df52570_o.png",
+      "id_image": "fabric_5857060"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076010_aa0145a823_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076010_184b388580_o.png",
+      "id_image": "fabric_737881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383817_e5654c395a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383817_2bb5c54e3b_o.png",
+      "id_image": "fabric_737886"
+    }
+  ]
+}

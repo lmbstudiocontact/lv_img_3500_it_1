@@ -1,0 +1,95 @@
+{
+  "english": "hunger",
+  "phat_am": "['hʌηgə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đói, tình trạng đói",
+          "list_en_vn": [
+            {
+              "full_en": "to die of hunger",
+              "full_vn": "chết đói"
+            },
+            {
+              "full_en": "to suffer hunger",
+              "full_vn": "bị đói"
+            },
+            {
+              "full_en": "to feel hunger",
+              "full_vn": "cảm thấy đói"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự ham muốn mãnh liệt, sự khao khát, sự ước mong tha thiết",
+          "list_en_vn": [
+            {
+              "full_en": "a hunger for learning",
+              "full_vn": "sự ham học"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đói, cảm thấy đói"
+        },
+        {
+          "m_full_vn": "( + for , after ) ham muốn mãnh liệt khát khao, ước mong tha thiết (cái gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to hunger for news",
+              "full_vn": "khát khao tin tức"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho đói, bắt nhịn đói",
+          "list_en_vn": [
+            {
+              "full_en": "to hunger someone out of some place",
+              "full_vn": "bắt ai nhịn đói để phải ra khỏi nơi nào"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064400_c7bf907d67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064400_1af65a6ee5_o.png",
+      "id_image": "hunger_4799053"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064360_91635d8150_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064360_4c325fb1bf_o.png",
+      "id_image": "hunger_5017485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442678_7d0116f0ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442678_3dbc01acb7_o.png",
+      "id_image": "hunger_6000814"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372292_7cf1091e54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372292_7f589be47e_o.png",
+      "id_image": "hunger_6002532"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064425_880d330e7f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064425_d7c59a38d9_o.png",
+      "id_image": "hunger_708678"
+    }
+  ]
+}

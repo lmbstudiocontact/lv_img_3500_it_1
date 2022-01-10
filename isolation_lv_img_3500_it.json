@@ -1,0 +1,52 @@
+{
+  "english": "isolation",
+  "phat_am": "[,aisə'lei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cô lập hoặc cách ly; tình trạng bị cô lập hoặc bị cách ly",
+          "list_one_mean": [
+            {
+              "id_full_en": "in isolation",
+              "list_im": [
+                {
+                  "im_full_vn": "một cách riêng biệt; một mình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to examine each piece of evidence in isolation",
+                      "full_vn": "xem xét riêng từng chứng cớ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692464_ab4d01601b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692464_8e9ddc4d1e_o.png",
+      "id_image": "isolation_2726423"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451938_e4024cd551_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451938_564f2c9c01_o.png",
+      "id_image": "isolation_2756678"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337026_5d0dce67e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337026_64ff4bf1c9_o.png",
+      "id_image": "isolation_3590621"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692349_9f0ea0741e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692349_8e6c093318_o.png",
+      "id_image": "isolation_4310431"
+    }
+  ]
+}

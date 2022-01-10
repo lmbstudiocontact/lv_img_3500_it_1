@@ -1,0 +1,130 @@
+{
+  "english": "extreme",
+  "phat_am": "[iks'tri:m]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cách xa hết mức (nhất là với trung tâm hoặc khi bắt đầu); rất xa",
+          "list_en_vn": [
+            {
+              "full_en": "in the extreme north of a country",
+              "full_vn": "ở miền cực bắc của đất nước"
+            },
+            {
+              "full_en": "in extreme old age",
+              "full_vn": "ở tuổi rất già"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vô cùng, tột bực, cùng cực, cực độ",
+          "list_en_vn": [
+            {
+              "full_en": "extreme poverty",
+              "full_vn": "cảnh nghèo cùng cực"
+            },
+            {
+              "full_en": "to show extreme patience , kindness , gentleness",
+              "full_vn": "bày tỏ sự kiên nhẫn, lòng tốt, thái độ dịu dàng tột độ"
+            },
+            {
+              "full_en": "the extreme penalty in some countries is the death penalty",
+              "full_vn": "hình phạt cao nhất của luật pháp ở một số nước là tử hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về người và ý kiến của họ) quá khích; cực đoan",
+          "list_en_vn": [
+            {
+              "full_en": "extreme views",
+              "full_vn": "quan điểm quá khích"
+            },
+            {
+              "full_en": "a supporter of the extreme left /right",
+              "full_vn": "người ủng hộ phe cực tả/cực hữu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) cuối cùng",
+          "list_en_vn": [
+            {
+              "full_en": "extreme unction",
+              "full_vn": "lễ xức dầu cuối cùng (trước khi chết)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tình cảm, hoàn cảnh rất xa nhau hoặc rất khác nhau; thái cực",
+          "list_en_vn": [
+            {
+              "full_en": "the extreme of misery and bliss",
+              "full_vn": "những thái cực của sự nghèo khổ và hạnh phúc"
+            },
+            {
+              "full_en": "love and hate are extreme of passion",
+              "full_vn": "yêu và ghét là hai thái cực của sự đam mê"
+            },
+            {
+              "full_en": "he was once terribly shy , but now he's gone to the opposite extreme",
+              "full_vn": "có một thời nó hết sức nhút nhát, nhưng giờ thì nó ngược lại hẳn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mức độ lớn nhất hoặc cao nhất; một trong hai đầu của bất cứ cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go to extremes",
+              "list_im": [
+                {
+                  "im_full_vn": "hành động một cách cực đoan"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the extreme",
+              "list_im": [
+                {
+                  "im_full_vn": "ở mức độ cao nhất; cực kỳ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this is inconvenient in the extreme",
+                      "full_vn": "cái này cực kỳ bất tiện"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he couldn't tolerate the extremes of heat in the desert",
+              "full_vn": "nó không chịu nổi những cơn nóng cực độ của sa mạc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695059_6aef443ec7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695059_0c3f068537_o.png",
+      "id_image": "extreme_2503406"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339926_e6d417bffc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339926_82e7e4257b_o.png",
+      "id_image": "extreme_805531"
+    }
+  ]
+}

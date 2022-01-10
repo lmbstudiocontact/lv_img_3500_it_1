@@ -1,0 +1,80 @@
+{
+  "english": "juice",
+  "phat_am": "[dʒu:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nước ép (của quả, thịt, rau)",
+          "list_en_vn": [
+            {
+              "full_en": "the juice of an orange",
+              "full_vn": "nước cam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dịch",
+          "list_en_vn": [
+            {
+              "full_en": "gastric juice",
+              "full_vn": "dịch vị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) phần tinh hoa, phần tinh tuý (của cái gì)"
+        },
+        {
+          "m_full_vn": "(từ lóng) xăng, dầu; điện",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stew in one's own juice",
+              "list_im": [
+                {
+                  "im_full_vn": "gánh chịu hậu quả do chính mình gây ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) ép (quả, thịt, rau...) lấy nước",
+          "list_one_mean": [
+            {
+              "id_full_en": "to juice up",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) làm hoạt động lên, làm hăng hái lên, làm phấn khởi lên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686124_db2980e8c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686124_7a1ec02c33_o.png",
+      "id_image": "juice_499631"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446018_43c92c4cbd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446018_4fa385c80a_o.png",
+      "id_image": "juice_525512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445968_e73090b8af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445968_f3fbcf4928_o.png",
+      "id_image": "juice_883322"
+    }
+  ]
+}

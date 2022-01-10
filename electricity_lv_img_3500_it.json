@@ -1,0 +1,57 @@
+{
+  "english": "electricity",
+  "phat_am": "[i,lek'trisiti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điện, điện lực",
+          "list_en_vn": [
+            {
+              "full_en": "static electricity",
+              "full_vn": "tĩnh điện"
+            },
+            {
+              "full_en": "magnetic electricity",
+              "full_vn": "điện từ"
+            },
+            {
+              "full_en": "positive electricity",
+              "full_vn": "điện dương"
+            },
+            {
+              "full_en": "negative electricity",
+              "full_vn": "điện âm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điện học"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680854_0dce4aca40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680854_62d137c15a_o.png",
+      "id_image": "electricity_4152134"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440703_b985b7d1b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440703_84c78bcc0c_o.png",
+      "id_image": "electricity_4647082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680759_f69bba5812_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680759_8a4730128a_o.png",
+      "id_image": "electricity_5375252"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370432_2ac5fc7504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370432_b6085d202c_o.png",
+      "id_image": "electricity_5613478"
+    }
+  ]
+}

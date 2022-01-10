@@ -1,0 +1,65 @@
+{
+  "english": "engine",
+  "phat_am": "['endʒin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máy, động cơ"
+        },
+        {
+          "m_full_vn": "đầu máy (xe lửa)"
+        },
+        {
+          "m_full_vn": "dụng cụ chiến tranh",
+          "list_en_vn": [
+            {
+              "full_en": "engines of war",
+              "full_vn": "dụng cụ chiến tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dụng cụ, phương tiện",
+          "list_en_vn": [
+            {
+              "full_en": "to use every available engine to gain one's end",
+              "full_vn": "sử dụng mọi phương tiện sẵn có để đạt mục đích của mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lắp máy vào, gắn động cơ vào"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674349_7888fb260f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674349_42389c4977_o.png",
+      "id_image": "engine_1643498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674304_5bbd2569f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674304_4a60422596_o.png",
+      "id_image": "engine_3211840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674429_7d8cf556e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674429_6215449790_o.png",
+      "id_image": "engine_998313"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319471_1e81ae323d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319471_6451be391f_o.png",
+      "id_image": "engine_998316"
+    }
+  ]
+}

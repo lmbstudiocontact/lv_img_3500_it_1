@@ -1,0 +1,53 @@
+{
+  "english": "instruction",
+  "phat_am": "[in'strʌk∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự dạy"
+        },
+        {
+          "m_full_vn": "kiến thức truyền cho, tài liệu cung cấp cho"
+        },
+        {
+          "m_full_vn": "( số nhiều) chỉ thị, lời chỉ dẫn",
+          "list_en_vn": [
+            {
+              "full_en": "incontestably , there are many valuable instructions in this user's guide",
+              "full_vn": "không thể chối cãi rằng có nhiều lời hướng dẫn quý giá trong quyển sách hướng dẫn này"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699379_bdf0f8df56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699379_8ca2935595_o.png",
+      "id_image": "instructions_1245762"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458993_fac3a0f642_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458993_466f93ca22_o.png",
+      "id_image": "instructions_2544231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699319_4c0c62959f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699319_2f49cd6433_o.png",
+      "id_image": "instructions_4627956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459118_d978e19b6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459118_84b90b78f7_o.png",
+      "id_image": "instruction_3468362"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459078_7cbf1c7533_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459078_6b9e11c5f4_o.png",
+      "id_image": "instruction_4834019"
+    }
+  ]
+}

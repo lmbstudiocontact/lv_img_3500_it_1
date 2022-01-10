@@ -1,0 +1,58 @@
+{
+  "english": "inner",
+  "phat_am": "['inə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở trong nước, nội bộ"
+        },
+        {
+          "m_full_vn": "thân nhất, thân cận"
+        },
+        {
+          "m_full_vn": "(thuộc) tinh thần; bên trong",
+          "list_en_vn": [
+            {
+              "full_en": "inner life",
+              "full_vn": "cuộc sống bên trong, cuộc sống tinh thần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong thâm tâm, thầm kín",
+          "list_en_vn": [
+            {
+              "full_en": "inner emotion",
+              "full_vn": "mối xúc cảm thầm kín"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bên trong"
+        },
+        {
+          "m_full_vn": "vòng sát điểm đen (của bia); phát bắn trúng vòng sát điểm đen (của bia)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461238_0b2c3e8320_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461238_ff4abddedc_o.png",
+      "id_image": "inner_1994777"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461193_14f85eab1a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461193_cbb80ed43f_o.png",
+      "id_image": "inner_2244686"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "english": "firecracker",
+  "phat_am": "['faiə,krækə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "pháo (để đốt)",
+          "list_en_vn": [
+            {
+              "full_en": "this year , it is forbidden to set off firecrackers",
+              "full_vn": "năm nay cấm đốt pháo"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326416_e0c9407735_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326416_cf842fa38c_o.png",
+      "id_image": "firecracker_3702990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681544_515c916b29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681544_e2ae9621d1_o.png",
+      "id_image": "firecracker_688033"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326451_1240b8885c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326451_4ea035b3b0_o.png",
+      "id_image": "firecracker_980224"
+    }
+  ]
+}

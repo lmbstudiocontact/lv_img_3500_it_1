@@ -1,0 +1,162 @@
+{
+  "english": "fat",
+  "phat_am": "[fæt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "được vỗ béo (để giết thịt)"
+        },
+        {
+          "m_full_vn": "béo, mập, béo phì, mũm mĩm"
+        },
+        {
+          "m_full_vn": "béo, đậm nét (chữ in)"
+        },
+        {
+          "m_full_vn": "béo, có dầu, có mỡ"
+        },
+        {
+          "m_full_vn": "béo (than)"
+        },
+        {
+          "m_full_vn": "dính, nhờn (chất đất...)"
+        },
+        {
+          "m_full_vn": "màu mỡ, tốt",
+          "list_en_vn": [
+            {
+              "full_en": "fat lands",
+              "full_vn": "đất màu mỡ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "béo bở, có lợi, có lãi",
+          "list_en_vn": [
+            {
+              "full_en": "a fat job",
+              "full_vn": "việc làm béo bở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầy ắp",
+          "list_en_vn": [
+            {
+              "full_en": "a fat purse",
+              "full_vn": "túi tiền đầy ắp, túi tiền dầy cộm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chậm chạp, trì độn",
+          "list_one_mean": [
+            {
+              "id_full_en": "a fat chance",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) sự đen đủi, sự không may chút nào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he's a fat chance",
+                      "full_vn": "số hắn ta đen đủi quá, hắn ta chẳng may mắn chút nào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a fat lot",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) nhiều gớm ( (ý mỉa mai)), rất ít, cóc khô",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a fat lot of good it did you",
+                      "full_vn": "tưởng bở lắm đấy à"
+                    },
+                    {
+                      "full_en": "a fat lot you know about it",
+                      "full_vn": "cậu thì biết cóc khô gì về chuyện ấy"
+                    },
+                    {
+                      "full_en": "a fat lot I care",
+                      "full_vn": "tớ cóc cần"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mỡ, chất béo"
+        },
+        {
+          "m_full_vn": "(hoá học) glyxêrit"
+        },
+        {
+          "m_full_vn": "(sân khấu) vai thích hợp",
+          "list_one_mean": [
+            {
+              "id_full_en": "to chew the fat",
+              "list_im": [
+                {
+                  "im_full_vn": "cằn nhằn, lẽ sự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the fat is in the fire",
+              "list_im": [
+                {
+                  "im_full_vn": "sắp có chuyện gay cấn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live on the fat of the land",
+              "list_im": [
+                {
+                  "im_full_vn": "ngồi mát ăn bát vàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kill the fatted calf",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn mừng nhân dịp nào đó"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334876_d52c398cde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334876_38532b72c5_o.png",
+      "id_image": "fat_2376394"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071845_684eb464cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071845_b025e1817a_o.png",
+      "id_image": "fat_2843563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071790_3a594bc1f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071790_e4969ec332_o.png",
+      "id_image": "fat_3703381"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "english": "insolvent",
+  "phat_am": "[in'sɔlvənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không trả được nợ; vỡ nợ"
+        },
+        {
+          "m_full_vn": "về những người không trả được nợ",
+          "list_en_vn": [
+            {
+              "full_en": "insolvent laws",
+              "full_vn": "luật lệ về những người không trả được nợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không đủ để trả hết nợ",
+          "list_en_vn": [
+            {
+              "full_en": "insolvent inheritance",
+              "full_vn": "của thừa kế không đủ để trả hết nợ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082470_146a38b232_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082470_8243d16c9c_o.png",
+      "id_image": "insolvent_2719761"
+    }
+  ]
+}

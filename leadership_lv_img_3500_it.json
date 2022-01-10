@@ -1,0 +1,80 @@
+{
+  "english": "leadership",
+  "phat_am": "['li:də∫ip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cương vị lãnh đạo; sự lãnh đạo",
+          "list_en_vn": [
+            {
+              "full_en": "the responsibilities of leadership",
+              "full_vn": "những trách nhiệm trong cương vị lãnh đạo"
+            },
+            {
+              "full_en": "fortunately , he ascended to the leadership of the party last year",
+              "full_vn": "may mà năm ngoái ông ta đạt được cương vị lãnh đạo đảng"
+            },
+            {
+              "full_en": "under the leadership of the Communist Party",
+              "full_vn": "dưới sự lãnh đạo của đảng Cộng sản"
+            },
+            {
+              "full_en": "a leadership crisis",
+              "full_vn": "cuộc khủng hoảng về vấn đề lãnh đạo"
+            },
+            {
+              "full_en": "leadership potential",
+              "full_vn": "tiềm năng lãnh đạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khả năng lãnh đạo; đức tính của người lãnh đạo",
+          "list_en_vn": [
+            {
+              "full_en": "try to show leadership in this term in office !",
+              "full_vn": "hãy chứng tỏ khả năng lãnh đạo trong nhiệm kỳ này!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ phận lãnh đạo, tập thể lãnh đạo",
+          "list_en_vn": [
+            {
+              "full_en": "calling for firm action by the union leadership",
+              "full_vn": "sự kêu gọi những người lãnh đạo hành động kiên quyết"
+            },
+            {
+              "full_en": "the meeting between the President and the leadership of the nation's political parties is scheduled early next week",
+              "full_vn": "theo kế hoạch đã định, đầu tuần tới sẽ có cuộc gặp gỡ giữa Tổng thống và giới lãnh đạo các chính đảng trên toàn quốc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362007_4ab046313c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362007_42061c2fec_o.png",
+      "id_image": "leadership_166910"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432783_c016b776bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432783_fff8d7603d_o.png",
+      "id_image": "leadership_3310143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361977_579d17d4aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361977_6b0412bf38_o.png",
+      "id_image": "leadership_3449352"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054135_f14cd3761a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054135_6c6e48b318_o.png",
+      "id_image": "leadership_3449356"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "english": "invite",
+  "phat_am": "['invait]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to invite somebody to / for something ) yêu cầu ai đến nơi nào hoặc làm cái gì một cách thân mật; mời",
+          "list_en_vn": [
+            {
+              "full_en": "Are you coming to the party ? - No , I haven't been invited",
+              "full_vn": "Anh có đến dự tiệc không? - Không, tôi đâu có được mời"
+            },
+            {
+              "full_en": "to invite somebody for /to dinner /to have dinner",
+              "full_vn": "mời ai dùng bữa tối"
+            },
+            {
+              "full_en": "to invite somebody home /to one's house",
+              "full_vn": "mới ai đến nhà chơi"
+            },
+            {
+              "full_en": "to invite somebody to a party /to come to a party",
+              "full_vn": "mời ai đến dự tiệc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yêu cầu một cách chính thức ai đến nơi nào hoặc làm cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "candidates will be invited for interview early next month",
+              "full_vn": "các ứng viên sẽ được mời đến phỏng vấn vào đầu tháng tới"
+            },
+            {
+              "full_en": "I've been invited to give a talk at the conference",
+              "full_vn": "tôi đã được mời đến nói chuyện tại hội nghị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to invite something from somebody ) đề nghị (bình luận, gợi ý...)",
+          "list_en_vn": [
+            {
+              "full_en": "after his speech , he invited questions and comments from the audience",
+              "full_vn": "sau bài phát biểu, ông ta đề nghị (mời) người nghe đặt câu hỏi và bình luận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành động có thể gây ra (cái gì tồi tệ) mà thường là không có ý định như vậy",
+          "list_en_vn": [
+            {
+              "full_en": "leaving your car unlocked is just inviting trouble !",
+              "full_vn": "để xe ô tô không khoá thì chỉ tổ đem lại phiến toái!"
+            },
+            {
+              "full_en": "behaviour that is sure to invite criticism , hostility , ridicule",
+              "full_vn": "lối cư xử chắc chắn đem lại sự chỉ trích, sự thù địch, sự lố bịch"
+            },
+            {
+              "full_en": "carelessness invites accidents",
+              "full_vn": "sự cẩu thả thường đem lại tai nạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lôi cuốn, cám dỗ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to invite somebody along",
+              "list_im": [
+                {
+                  "im_full_vn": "mời ai cùng đi với mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to invite somebody away",
+              "list_im": [
+                {
+                  "im_full_vn": "mời ai đi xa với mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to invite somebody back",
+              "list_im": [
+                {
+                  "im_full_vn": "đề nghị ai trở về nhà cùng với mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to invite somebody down",
+              "list_im": [
+                {
+                  "im_full_vn": "mời ai đến thăm một nơi xa, nhất là vùng nông thôn hoặc ven biển"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to invite somebody in",
+              "list_im": [
+                {
+                  "im_full_vn": "mời ai vào (nhà, phòng...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to invite somebody out",
+              "list_im": [
+                {
+                  "im_full_vn": "mời ai ra ngoài với mình (để tán tỉnh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to invite somebody over /round",
+              "list_im": [
+                {
+                  "im_full_vn": "mời ai tới thăm nhà mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to invite somebody up",
+              "list_im": [
+                {
+                  "im_full_vn": "mời ai lên lầu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Cover the jam ! It's sure to invite the gasps",
+              "full_vn": "Đậy mứt lại! Để vậy là khêu gợi lũ ong đến đấy!"
+            },
+            {
+              "full_en": "leaving the windows open is inviting the thieves to enter",
+              "full_vn": "để ngỏ cửa sổ là mời trộm vào nhà"
+            },
+            {
+              "full_en": "a scenery which invites a painter's brush",
+              "full_vn": "một cảnh gây hứng cho người nghệ sĩ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giấy mời"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693349_d338de6190_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693349_2a077aea04_o.png",
+      "id_image": "invite_2488415"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338036_bacee62118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338036_bfdf96d329_o.png",
+      "id_image": "invite_5766413"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "irrigation",
+  "phat_am": "[,iri'gei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tưới (đất, ruộng); sự tưới cho tươi tốt; tình trạng được tưới",
+          "list_en_vn": [
+            {
+              "full_en": "irrigation canal",
+              "full_vn": "kênh tưới tiêu, kênh dẫn thủy nhập điền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) sự rửa (vết thương)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452343_508678bd06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452343_e7c93d1d6a_o.png",
+      "id_image": "irrigation_2194854"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337501_5eb40c2fc5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337501_fa472f2cb7_o.png",
+      "id_image": "irrigation_3319242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692744_54c8edd156_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692744_44ce19511b_o.png",
+      "id_image": "irrigation_4496347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452243_500a0f81f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452243_58cbd630f3_o.png",
+      "id_image": "irrigation_5999125"
+    }
+  ]
+}

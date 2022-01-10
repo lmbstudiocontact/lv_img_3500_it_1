@@ -1,0 +1,171 @@
+{
+  "english": "fetch",
+  "phat_am": "[fet∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hồn ma, vong hồn"
+        },
+        {
+          "m_full_vn": "mánh khoé; mưu mẹo"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) sự gắng sức",
+          "list_en_vn": [
+            {
+              "full_en": "to take a fetch",
+              "full_vn": "gắng sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) lộ trình định sẵn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cast a fetch",
+              "list_im": [
+                {
+                  "im_full_vn": "cài bẫy, đặt bẫy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tìm về, đem về",
+          "list_en_vn": [
+            {
+              "full_en": "to /go and/ fetch a doctor",
+              "full_vn": "tìm bác sĩ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm chảy máu, làm trào ra",
+          "list_en_vn": [
+            {
+              "full_en": "to fetch blood",
+              "full_vn": "làm chảy máu ra"
+            },
+            {
+              "full_en": "to fetch tears",
+              "full_vn": "làm trào nước mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bán được",
+          "list_en_vn": [
+            {
+              "full_en": "to fetch a hundred pounds",
+              "full_vn": "bán được 100 đồng bảng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm xúc động"
+        },
+        {
+          "m_full_vn": "làm vui thích; mua vui (cho ai)"
+        },
+        {
+          "m_full_vn": "làm bực mình, làm phát cáu"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) quyến rũ, làm mê hoặc, làm say mê"
+        },
+        {
+          "m_full_vn": "thở ra",
+          "list_en_vn": [
+            {
+              "full_en": "to fetch a sigh",
+              "full_vn": "thở dài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lấy (hơi)"
+        },
+        {
+          "m_full_vn": "đấm thụi, thoi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fetch away",
+              "list_im": [
+                {
+                  "im_full_vn": "thoát khỏi (sự ràng buộc); thoát ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fetch down",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) to bring down ( (xem) bring )"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fetch out",
+              "list_im": [
+                {
+                  "im_full_vn": "cho thấy rõ, bóc trần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fetch up",
+              "list_im": [
+                {
+                  "im_full_vn": "nôn, mửa"
+                },
+                {
+                  "im_full_vn": "dừng lại"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) làm xong"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fetch a compass",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) compass"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fetch and carry for someone",
+              "list_im": [
+                {
+                  "im_full_vn": "làm tay sai cho ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to fetch someone a blow",
+              "full_vn": "thụi ai một quả"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446183_9bc1105bb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446183_2b700367f1_o.png",
+      "id_image": "fetch_6401089"
+    }
+  ]
+}

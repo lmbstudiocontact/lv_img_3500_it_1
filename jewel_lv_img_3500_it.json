@@ -1,0 +1,71 @@
+{
+  "english": "jewel",
+  "phat_am": "['dʒu:əl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đá quý (kim cương hoặc hồng ngọc)"
+        },
+        {
+          "m_full_vn": "đồ trang sức có gắn đá quý"
+        },
+        {
+          "m_full_vn": "đá quý nhỏ hoặc mảnh thủy tinh đặc biệt (dùng trong máy đồng hồ hoặc la bàn); chân kính",
+          "list_en_vn": [
+            {
+              "full_en": "a watch with 17 jewels",
+              "full_vn": "đồng hồ 17 chân kính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người đáng quý; vật quý",
+          "list_en_vn": [
+            {
+              "full_en": "he's always saying his wife is a real jewel",
+              "full_vn": "lúc nào anh ấy cũng nói vợ anh ấy thực sự là một của quý"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nạm ngọc; nạm đá quý"
+        },
+        {
+          "m_full_vn": "trang sức bằng châu báu"
+        },
+        {
+          "m_full_vn": "lắp chân kính (vào đồng hồ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071605_0a7f086b86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071605_ab2b9e1e94_o.png",
+      "id_image": "jewel_1426202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689699_cbf8262786_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689699_882b35a3d8_o.png",
+      "id_image": "jewel_4463274"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689624_8b6311b71e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689624_e55255d169_o.png",
+      "id_image": "jewel_4648041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689599_a5102801c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689599_dc85963456_o.png",
+      "id_image": "jewel_6395668"
+    }
+  ]
+}

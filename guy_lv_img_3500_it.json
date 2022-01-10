@@ -1,0 +1,69 @@
+{
+  "english": "guy",
+  "phat_am": "[gai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bù nhìn; ngáo ộp"
+        },
+        {
+          "m_full_vn": "người ăn mặc kỳ quái"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) anh chàng, gã",
+          "list_en_vn": [
+            {
+              "full_en": "who's that guy ?",
+              "full_vn": "anh chàng ấy là ai thế?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) sự chuồn",
+          "list_en_vn": [
+            {
+              "full_en": "to do a guy",
+              "full_vn": "đánh bài chuồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) lời nói đùa, lời pha trò; lời nói giễu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bêu hình nộm (của ai)"
+        },
+        {
+          "m_full_vn": "chế giễu (ai)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ lóng) chuồn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361662_940a542866_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361662_1fbd0c2194_o.png",
+      "id_image": "guy_4600989"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672024_da90fd8782_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672024_b57469227c_o.png",
+      "id_image": "guy_4968145"
+    }
+  ]
+}

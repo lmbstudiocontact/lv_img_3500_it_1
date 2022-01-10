@@ -1,0 +1,365 @@
+{
+  "english": "lead",
+  "phat_am": "[li:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chì"
+        },
+        {
+          "m_full_vn": "(hàng hải) dây dọi dò sâu, máy dò sâu",
+          "list_en_vn": [
+            {
+              "full_en": "to cast (heave ) the lead",
+              "full_vn": "ném dây dọi xuống nước để đo chiều sâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) thanh cỡ"
+        },
+        {
+          "m_full_vn": "than chì (dùng làm bút chì)"
+        },
+        {
+          "m_full_vn": "( số nhiều) tấm chì lợp nhà; mái lợp tấm chì"
+        },
+        {
+          "m_full_vn": "đạn chì",
+          "list_one_mean": [
+            {
+              "id_full_en": "to swing the lead",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) cáo ốm, giả vờ ốm để trốn việc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "buộc chì; đổ chì; bọc chì; lợp chì"
+        },
+        {
+          "m_full_vn": "(ngành in) đặt thành cỡ"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lãnh đạo; sự hướng dẫn, sự chỉ dẫn; sự dẫn đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to take the lead",
+              "full_vn": "hướng dẫn, giữ vai trò lãnh đạo"
+            },
+            {
+              "full_en": "to take the lead in something",
+              "full_vn": "dẫn đầu trong việc gì"
+            },
+            {
+              "full_en": "to follow the lead",
+              "full_vn": "theo sự hướng dẫn, theo sự lãnh đạp"
+            },
+            {
+              "full_en": "to give someone a lead",
+              "full_vn": "làm trước để hướng dẫn động viên ai làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vị trí đứng đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to have the lead in a race",
+              "full_vn": "dẫn đầu trong một cuộc chạy đua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sân khấu) vai chính; người đóng vai chính"
+        },
+        {
+          "m_full_vn": "dây dắt (chó)"
+        },
+        {
+          "m_full_vn": "(đánh bài) quyền đánh đầu tiên"
+        },
+        {
+          "m_full_vn": "máng dẫn nước (đến cối xay lúa)"
+        },
+        {
+          "m_full_vn": "(điện học) dây dẫn chính"
+        },
+        {
+          "m_full_vn": "(điện học) sự sớm (pha)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) bước (răng ren)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lãnh đạo, lãnh đạo bằng thuyết phục; dẫn đường, hướng dẫn, dẫn dắt",
+          "list_en_vn": [
+            {
+              "full_en": "to lead a horse",
+              "full_vn": "dắt một con ngựa"
+            },
+            {
+              "full_en": "to lead the way",
+              "full_vn": "dẫn đường"
+            },
+            {
+              "full_en": "easier led than driven",
+              "full_vn": "dễ lãnh đạo bằng cách thuyết phục hơn là thúc ép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ huy, đứng đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to lead an army",
+              "full_vn": "chỉ huy một đạo quân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa đến, dẫn đến",
+          "list_en_vn": [
+            {
+              "full_en": "good command leads to victory",
+              "full_vn": "sự chỉ huy giỏi dẫn đến thắng lợi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trải qua, kéo dài (cuộc sống...)",
+          "list_en_vn": [
+            {
+              "full_en": "to lead a quiet life",
+              "full_vn": "sống một cuộc sống êm đềm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho, khiến cho",
+          "list_en_vn": [
+            {
+              "full_en": "these facts lead me to ...",
+              "full_vn": "những sự việc đó khiến tôi..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) đánh trước tiên",
+          "list_en_vn": [
+            {
+              "full_en": "to lead a trump",
+              "full_vn": "đánh quân bài chủ trước tiên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hướng (ai) trả lời theo ý muốn bằng những câu hỏi khôn ngoan"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỉ huy, dẫn đường, hướng dẫn"
+        },
+        {
+          "m_full_vn": "(đánh bài) đánh đầu tiên",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lead aside from",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa đi trệch",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "nothing can lead him aside from the path of duty",
+                      "full_vn": "không gì có thể đưa anh ta đi trệch con đường trách nhiệm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead astray",
+              "list_im": [
+                {
+                  "im_full_vn": "dẫn lạc đường; đưa vào con đường lầm lạc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead away",
+              "list_im": [
+                {
+                  "im_full_vn": "khiến cho đi theo một cách không suy nghĩ; dẫn đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead into",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa vào, dẫn vào, dẫn đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead off",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu (câu chuyện, cuộc khiêu vũ...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead on",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa đến, dẫn đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead up to",
+              "list_im": [
+                {
+                  "im_full_vn": "hướng câu chuyện về (một vấn đề)"
+                },
+                {
+                  "im_full_vn": "chuẩn bị cho (một cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead nowhere",
+              "list_im": [
+                {
+                  "im_full_vn": "không đưa đến đâu, không đem lại kết quả gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead someone by the nose",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt ai phải làm theo ý mình; hoàn toàn điều khiển ai; xỏ mũi ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead someone a dog's life",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt/khiến ai sống khổ như chó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead someone a (merry ) dance",
+              "list_im": [
+                {
+                  "im_full_vn": "gây cho ai rất nhiều phiền phức (nhất là bắt người đó đi hết nơi này đến nơi khác); làm tình làm tội ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead the dance",
+              "list_im": [
+                {
+                  "im_full_vn": "mở đầu vũ hội"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) đi đầu, đi tiên phong"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead the van",
+              "list_im": [
+                {
+                  "im_full_vn": "đi đầu, đi tiên phong"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead a woman to the altar",
+              "list_im": [
+                {
+                  "im_full_vn": "làm lễ cưới ai, cưới ai làm vợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead sb up the garden path",
+              "list_im": [
+                {
+                  "im_full_vn": "lừa gạt ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "all roads lead to Rome",
+              "list_im": [
+                {
+                  "im_full_vn": "đường nào cũng về La Mã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the blind leading the blind",
+              "list_im": [
+                {
+                  "im_full_vn": "thằng mù lại dắt thằng mù"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054260_d7f1f9a4f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054260_f309782eb1_o.png",
+      "id_image": "lead_2472092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362137_26c5322ccc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362137_d37663eb9a_o.png",
+      "id_image": "lead_2720763"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432863_3942468b10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432863_095677a6a9_o.png",
+      "id_image": "lead_2720810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362102_6fa8ed79b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362102_cb85abb6e8_o.png",
+      "id_image": "lead_4497121"
+    }
+  ]
+}

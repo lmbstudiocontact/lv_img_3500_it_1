@@ -1,0 +1,471 @@
+{
+  "english": "light",
+  "phat_am": "[lait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ánh sáng, ánh sáng mặt trời, ánh sáng ban ngày",
+          "list_en_vn": [
+            {
+              "full_en": "to stand in somebody's light",
+              "full_vn": "đứng lấp bóng ai; (nghĩa bóng) làm hại ai, cản trở ai làm việc gì"
+            },
+            {
+              "full_en": "in the light of these facts",
+              "full_vn": "dưới ánh sáng của những sự việc này"
+            },
+            {
+              "full_en": "to see the light",
+              "full_vn": "nhìn thấy ánh sáng mặt trời; (nghĩa bóng) sinh ra đời"
+            },
+            {
+              "full_en": "to bring sth to light",
+              "full_vn": "(nghĩa bóng) đưa ra ánh sáng, làm sáng tỏ"
+            },
+            {
+              "full_en": "to come to light",
+              "full_vn": "ra ánh sáng, lộ ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguồn ánh sáng, đèn đuốc",
+          "list_en_vn": [
+            {
+              "full_en": "traffic lights",
+              "full_vn": "đèn tín hiệu giao thông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lửa, tia lửa; diêm, đóm",
+          "list_en_vn": [
+            {
+              "full_en": "to strike a light",
+              "full_vn": "bật lửa, đánh diêm"
+            },
+            {
+              "full_en": "give me a light , please",
+              "full_vn": "làm ơn cho tôi xin tí lửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) sự hiểu biết, trí thức, trí tuệ, chân lý",
+          "list_en_vn": [
+            {
+              "full_en": "to do something according to one's lights",
+              "full_vn": "làm gì theo sự hiểu biết của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trạng thái, phương diện, quan niệm",
+          "list_en_vn": [
+            {
+              "full_en": "in a good light",
+              "full_vn": "ở chỗ có nhiều ánh sáng, ở chỗ rõ nhất (dễ trông thấy nhất); với quan niệm đúng, với cách hiểu đúng (một vấn đề)"
+            },
+            {
+              "full_en": "to place something in a good light",
+              "full_vn": "trình bày cái gì một cách tốt đẹp"
+            },
+            {
+              "full_en": "in a wrong light",
+              "full_vn": "quan niệm sai, hiểu sai"
+            },
+            {
+              "full_en": "the thing now appears in a new light",
+              "full_vn": "sự việc bây giờ biểu hiện ra dưới một trạng thái mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự soi sáng, sự làm sáng tỏ; ( số nhiều) những sự kiện làm sáng tỏ, những phát minh làm sáng tỏ"
+        },
+        {
+          "m_full_vn": "(tôn giáo) ánh sáng của thượng đế"
+        },
+        {
+          "m_full_vn": "sinh khí, sự tinh anh; ánh mắt; (thơ ca) sự nhìn"
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ lóng) đôi mắt"
+        },
+        {
+          "m_full_vn": "( số nhiều) phổi súc vật (cừu, lợn...) (dùng làm thức ăn cho chó, mèo...)"
+        },
+        {
+          "m_full_vn": "cửa, lỗ sáng",
+          "list_en_vn": [
+            {
+              "full_en": "men of light and leading",
+              "full_vn": "những người có uy tín và thế lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) khả năng",
+          "list_en_vn": [
+            {
+              "full_en": "according to one's lights",
+              "full_vn": "tuỳ theo khả năng của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghệ thuật) chỗ sáng trong bức tranh",
+          "list_one_mean": [
+            {
+              "id_full_en": "at first light",
+              "list_im": [
+                {
+                  "im_full_vn": "lúc bình minh, lúc rạng đông"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give sb the green light",
+              "list_im": [
+                {
+                  "im_full_vn": "cho phép ai hành động, bật đèn xanh cho ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get the green light",
+              "list_im": [
+                {
+                  "im_full_vn": "được bật đèn xanh, được phép hành động"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go out like a light",
+              "list_im": [
+                {
+                  "im_full_vn": "ngủ thiếp đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hide one's light under a bushel",
+              "list_im": [
+                {
+                  "im_full_vn": "không muốn phô trương tài nghệ cho thiên hạ biết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to jump the lights",
+              "list_im": [
+                {
+                  "im_full_vn": "vượt đèn đỏ, bất chấp luật lệ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the light at the end of the tunnel",
+              "list_im": [
+                {
+                  "im_full_vn": "niềm may mắn sau một chuỗi bất hạnh, ánh sáng cuối đường hầm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "all sweetness and light",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) sự nhã nhặn và biết phải quấy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ lit , lighted",
+      "list_m": [
+        {
+          "m_full_vn": "đốt, thắp, châm, nhóm",
+          "list_en_vn": [
+            {
+              "full_en": "to light a fire",
+              "full_vn": "nhóm lửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "soi sáng, chiếu sáng"
+        },
+        {
+          "m_full_vn": "( (thường) + up ) làm cho rạng lên, làm cho sáng ngời lên (nét mặt, khoé mắt)",
+          "list_en_vn": [
+            {
+              "full_en": "the news of the victory lighted up their eyes",
+              "full_vn": "tin chiến thắng làm cho mắt họ ngời lên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + up ) lên đèn, thắp đèn",
+          "list_en_vn": [
+            {
+              "full_en": "it is time to light up",
+              "full_vn": "đã đến giờ lên đèn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thắp, đốt, bắt lửa, bén lửa",
+          "list_en_vn": [
+            {
+              "full_en": "this lamp does not light well",
+              "full_vn": "cái đèn này khó thắp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) + up ) sáng ngời, tươi lên",
+          "list_one_mean": [
+            {
+              "id_full_en": "to light into",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tấn công"
+                },
+                {
+                  "im_full_vn": "mắng mỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to light out",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) thình lình bỏ đi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "face lights up",
+              "full_vn": "nét mặt tươi hẳn lên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhẹ, nhẹ nhàng",
+          "list_en_vn": [
+            {
+              "full_en": "as light as a feather",
+              "full_vn": "nhẹ như một cái lông"
+            },
+            {
+              "full_en": "light food",
+              "full_vn": "thức ăn nhẹ"
+            },
+            {
+              "full_en": "light sleep",
+              "full_vn": "giấc ngủ nhẹ nhàng"
+            },
+            {
+              "full_en": "a light sleeper",
+              "full_vn": "người tỉnh ngủ"
+            },
+            {
+              "full_en": "a light task",
+              "full_vn": "công việc nhẹ"
+            },
+            {
+              "full_en": "a light punishment",
+              "full_vn": "sự trừng phạt nhẹ"
+            },
+            {
+              "full_en": "light wine",
+              "full_vn": "rượu vang nhẹ"
+            },
+            {
+              "full_en": "light ship",
+              "full_vn": "tàu đã dỡ hàng"
+            },
+            {
+              "full_en": "light marching order",
+              "full_vn": "lệnh hành quân mang nhẹ"
+            },
+            {
+              "full_en": "light cavalry",
+              "full_vn": "kỵ binh vũ trang nhẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về màu sắc) nhạt",
+          "list_en_vn": [
+            {
+              "full_en": "a light blue shirt",
+              "full_vn": "áo sơ mi màu xanh nhạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhanh nhẹn",
+          "list_en_vn": [
+            {
+              "full_en": "to be light of foot",
+              "full_vn": "bước đi nhanh nhẹn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhẹ nhàng, thanh thoát, dịu dàng, thư thái",
+          "list_en_vn": [
+            {
+              "full_en": "light touch",
+              "full_vn": "cái vuốt nhẹ nhàng"
+            },
+            {
+              "full_en": "with a light hand",
+              "full_vn": "nhẹ tay; khôn khéo"
+            },
+            {
+              "full_en": "with a light heart",
+              "full_vn": "lòng thư thái, lòng băn khoăn lo âu gì"
+            },
+            {
+              "full_en": "light music",
+              "full_vn": "nhạc nhẹ"
+            },
+            {
+              "full_en": "light comedy",
+              "full_vn": "kịch cười nhẹ nhàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khinh suất, nông nổi, nhẹ dạ, bộp chộp; lăng nhăng; lẳng lơ, đĩ thoã",
+          "list_en_vn": [
+            {
+              "full_en": "a light woman",
+              "full_vn": "người đàn bà lẳng lơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầm thường, không quan trọng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make light of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "xem thường, không chú ý đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have light fingers",
+              "list_im": [
+                {
+                  "im_full_vn": "có tài xoay vặt, khéo chôm chĩa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "light relief",
+              "list_im": [
+                {
+                  "im_full_vn": "lời nói hoặc hành động làm giảm bớt sự căng thẳng trong một buổi họp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make light work of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "làm sơ sài, làm qua loa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "many hands make light work",
+              "list_im": [
+                {
+                  "im_full_vn": "nhiều người chung sức chung lòng thì dễ thành công"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a light talk",
+              "full_vn": "chuyện tầm phào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhẹ, nhẹ nhàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "light come , light go",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) come"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sleep light",
+              "list_im": [
+                {
+                  "im_full_vn": "ngủ không say, ngủ dễ tỉnh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to tread light on the grass",
+              "full_vn": "giẫm nhẹ lên cỏ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387602_72ccc426b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387602_2f878e2468_o.png",
+      "id_image": "light_3102361"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457348_28a1f45396_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457348_864bc4c749_o.png",
+      "id_image": "light_3562935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342601_9ff482c069_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342601_a785767f31_o.png",
+      "id_image": "light_546020"
+    }
+  ]
+}

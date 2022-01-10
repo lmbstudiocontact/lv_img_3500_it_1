@@ -1,0 +1,57 @@
+{
+  "english": "equipment",
+  "phat_am": "[i'kwipmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trang bị"
+        },
+        {
+          "m_full_vn": "đồ trang bị, thiết bị, dụng cụ, đồ dùng cần thiết (cho một cuộc đi, cho một nhà máy...)",
+          "list_en_vn": [
+            {
+              "full_en": "electrical equipment",
+              "full_vn": "thiết bị điện"
+            },
+            {
+              "full_en": "control equipment",
+              "full_vn": "thiết bị điều khiển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) những phương tiện vận tải (khác với các loại tài sản khác trong ngành vận tải)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431248_cda246a03c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431248_c0601e1dd7_o.png",
+      "id_image": "equipment_2201243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316341_6eaf6acc08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316341_17ac850b55_o.png",
+      "id_image": "equipment_2219008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670959_db8b80611b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670959_16b6fe7f1f_o.png",
+      "id_image": "equipment_2738943"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316296_7e00c3e20d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316296_30db197671_o.png",
+      "id_image": "equipment_3043476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360492_824cbaf439_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360492_33457b893d_o.png",
+      "id_image": "equipment_4597340"
+    }
+  ]
+}

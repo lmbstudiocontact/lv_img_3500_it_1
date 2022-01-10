@@ -1,0 +1,46 @@
+{
+  "english": "grateful",
+  "phat_am": "['greitful]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "biết ơn",
+          "list_en_vn": [
+            {
+              "full_en": "to be grateful to somebody for something",
+              "full_vn": "biết ơn ai về cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dễ chịu, khoan khoái",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be grateful for small mercies",
+              "list_im": [
+                {
+                  "im_full_vn": "được an ủi bằng cái ít tệ hại hơn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a grateful shade",
+              "full_vn": "bóng mát dễ chịu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679069_5369702771_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679069_4dbf2342f6_o.png",
+      "id_image": "grateful_4245665"
+    }
+  ]
+}

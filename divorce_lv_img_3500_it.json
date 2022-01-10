@@ -1,0 +1,90 @@
+{
+  "english": "divorce",
+  "phat_am": "[di'vɔ:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( divorce from somebody ) sự ly dị; sự ly hôn",
+          "list_en_vn": [
+            {
+              "full_en": "to ask /sue for a divorce from somebody",
+              "full_vn": "xin ly dị ai"
+            },
+            {
+              "full_en": "grounds for divorce",
+              "full_vn": "các căn cứ cho sự ly hôn"
+            },
+            {
+              "full_en": "to get /obtain a divorce from somebody",
+              "full_vn": "được ly dị ai"
+            },
+            {
+              "full_en": "to start divorce proceedings",
+              "full_vn": "bắt đầu thủ tục xin ly hôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự tách biệt",
+          "list_en_vn": [
+            {
+              "full_en": "the divorce between religion and science",
+              "full_vn": "sự tách biệt giữa tôn giáo và khoa học"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết thúc hợp pháp cuộc hôn nhân của mình (với ai); ly hôn; ly dị",
+          "list_en_vn": [
+            {
+              "full_en": "they're divorcing each other /getting divorced",
+              "full_vn": "họ đang ly dị nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tách ai/cái gì một cách sai lầm",
+          "list_en_vn": [
+            {
+              "full_en": "to divorce one thing from another",
+              "full_vn": "tách một vật này ra khỏi vật khác"
+            },
+            {
+              "full_en": "you can't divorce science from ethical questions",
+              "full_vn": "anh không thể tách khoa học ra khỏi vấn đề đạo đức"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312556_13c449c8cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312556_4989befd08_o.png",
+      "id_image": "divorce_1612932"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312531_28fcd06bca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312531_b643a3ed09_o.png",
+      "id_image": "divorce_4215289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049155_324157f4a0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049155_2c2501ea87_o.png",
+      "id_image": "divorce_538223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312471_018415c3c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312471_d4311a1ecd_o.png",
+      "id_image": "divorce_6333351"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "english": "fool",
+  "phat_am": "[fu:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "món hoa quả nấu (trộn với sữa kem...)"
+        },
+        {
+          "m_full_vn": "người khờ dại, người ngu xuẩn, người xuẩn ngốc"
+        },
+        {
+          "m_full_vn": "người làm trò hề, anh hề"
+        },
+        {
+          "m_full_vn": "người bị lừa phỉnh",
+          "list_one_mean": [
+            {
+              "id_full_en": "a fool and his money are soon parted",
+              "list_im": [
+                {
+                  "im_full_vn": "người ngu thì dễ bị lừa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go on a fool's errand",
+              "list_im": [
+                {
+                  "im_full_vn": "được giao làm một việc hoài công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live in a fool's paradise",
+              "list_im": [
+                {
+                  "im_full_vn": "sống cuộc sống hạnh phúc nhưng chẳng có tương lai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to suffer fools gladly",
+              "list_im": [
+                {
+                  "im_full_vn": "không chịu nổi những trò ngu xuẩn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be a fool for one's pains",
+              "list_im": [
+                {
+                  "im_full_vn": "làm điều gì đó mà không hề nhận được lời khen hoặc lời cám ơn; làm đầy tớ không công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be a fool to ...",
+              "list_im": [
+                {
+                  "im_full_vn": "không ra cái thớ gì khi đem so sánh với..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be no (nobody's ) fool",
+              "list_im": [
+                {
+                  "im_full_vn": "không phải là ngốc, không phải là ngu dại; khôn ngoan láu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fool's bolt is soon shot",
+              "list_im": [
+                {
+                  "im_full_vn": "sắp hết lý sự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a fool of oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "xử sự như một thằng ngốc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a fool of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh lừa ai"
+                },
+                {
+                  "im_full_vn": "làm cho ai hoá thành một thằng xuẩn ngốc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "man is fool or physician at thirty",
+              "list_im": [
+                {
+                  "im_full_vn": "người khôn ngoan không cần bác sĩ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "no fool like an old fool",
+              "list_im": [
+                {
+                  "im_full_vn": "già còn chơi trống bổi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play the fool",
+              "list_im": [
+                {
+                  "im_full_vn": "làm trò hề"
+                },
+                {
+                  "im_full_vn": "lầm to"
+                },
+                {
+                  "im_full_vn": "làm trò vớ vẩn, làm trò ngố"
+                }
+              ]
+            },
+            {
+              "id_full_en": "April fool",
+              "list_im": [
+                {
+                  "im_full_vn": "ngày 1 tháng 4, ngày nói dối"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục), (như) foolish"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lừa gạt, lừa phỉnh, đánh lừa (ai)",
+          "list_en_vn": [
+            {
+              "full_en": "to fool somebody into doing something",
+              "full_vn": "phỉnh ai làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lừa (tiền)"
+        },
+        {
+          "m_full_vn": "( + away ) lãng phí (một cách ngu dại) (tiền, thời gian)",
+          "list_en_vn": [
+            {
+              "full_en": "to fool time away",
+              "full_vn": "lãng phí thời gian (một cách ngu dại)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ( (thường) + about , (từ Mỹ,nghĩa Mỹ) + around )",
+      "list_m": [
+        {
+          "m_full_vn": "làm những chuyện ngớ ngẩn ngu dại; vớ vẩn, lãng phí thời gian"
+        },
+        {
+          "m_full_vn": "làm trò hề, làm trò ngố"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đùa cợt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317186_cfbbec2805_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317186_f55c98402a_o.png",
+      "id_image": "fool_1128972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053565_f2de6ba840_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053565_dd9ce2aba3_o.png",
+      "id_image": "fool_1747649"
+    }
+  ]
+}

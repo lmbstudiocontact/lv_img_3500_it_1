@@ -1,0 +1,44 @@
+{
+  "english": "lorry",
+  "phat_am": "['lɔri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "xe tải",
+          "list_en_vn": [
+            {
+              "full_en": "an army lorry",
+              "full_vn": "xe tải của quân đội"
+            },
+            {
+              "full_en": "a lorry driver",
+              "full_vn": "tài xế xe tải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành đường sắt) toa chở hàng (không có mui)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450388_b903eefeed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450388_b1f92bdc66_o.png",
+      "id_image": "lorry_1949284"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335381_63b6a7d6bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335381_cc775a5ba8_o.png",
+      "id_image": "lorry_2739001"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690649_6dbacc9692_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690649_21929e5fea_o.png",
+      "id_image": "lorry_605661"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "english": "lucky",
+  "phat_am": "['lʌki]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đem lại sự may mắn hoặc do sự may mắn đem lại; gặp may, hên, đỏ",
+          "list_en_vn": [
+            {
+              "full_en": "You're very lucky to be alive after that accident !",
+              "full_vn": "Rất may là anh còn sống sót sau tai nạn đó!"
+            },
+            {
+              "full_en": "It's lucky she is still here",
+              "full_vn": "May mà bà ấy vẫn còn ở đây"
+            },
+            {
+              "full_en": "a lucky charm",
+              "full_vn": "bùa may mắn"
+            },
+            {
+              "full_en": "a lucky break",
+              "full_vn": "một dịp may"
+            },
+            {
+              "full_en": "seven is my lucky number",
+              "full_vn": "số bảy là số hên của tôi"
+            },
+            {
+              "full_en": "it's my lucky day",
+              "full_vn": "hôm nay là ngày hên của tôi"
+            },
+            {
+              "full_en": "lucky beggar !; lucky bargee !",
+              "full_vn": "(thông tục) thằng cha vận đỏ thật!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "may mà đúng, may mà được",
+          "list_one_mean": [
+            {
+              "id_full_en": "to thank one's lucky stars",
+              "list_im": [
+                {
+                  "im_full_vn": "cảm thấy mình may mắn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you should be so lucky",
+              "list_im": [
+                {
+                  "im_full_vn": "có thể điều mong ước của anh sẽ không thành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike (it ) lucky",
+              "list_im": [
+                {
+                  "im_full_vn": "gặp may"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a lucky guess",
+              "full_vn": "một câu đoán may mà đúng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378112_42c7e33373_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378112_7e8f9009d0_o.png",
+      "id_image": "lucky_1775628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378087_899ac42b01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378087_134cbc78d1_o.png",
+      "id_image": "lucky_3004082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070055_4e1bdfe37c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070055_94f7b9b911_o.png",
+      "id_image": "lucky_4617318"
+    }
+  ]
+}

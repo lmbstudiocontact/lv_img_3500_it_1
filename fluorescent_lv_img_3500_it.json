@@ -1,0 +1,36 @@
+{
+  "english": "fluorescent",
+  "phat_am": "[fluə'resnt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý) huỳnh quang",
+          "list_en_vn": [
+            {
+              "full_en": "a fluorescent lamp",
+              "full_vn": "đèn huỳnh quang"
+            },
+            {
+              "full_en": "fluorescent light",
+              "full_vn": "ánh sáng huỳnh quang"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055935_1afa0be8b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055935_68eb7dfb3b_o.png",
+      "id_image": "fluorescent_2605857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364022_3cbf2b463e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364022_a1d42ec891_o.png",
+      "id_image": "fluorescent_2624137"
+    }
+  ]
+}

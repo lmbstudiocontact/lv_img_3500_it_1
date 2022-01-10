@@ -1,0 +1,48 @@
+{
+  "english": "extractor",
+  "phat_am": "[iks'træktə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chiết; người nhổ (răng), người cắt (cục chai ở chân)"
+        },
+        {
+          "m_full_vn": "kìm nhổ"
+        },
+        {
+          "m_full_vn": "máy ép, vắt, chiết",
+          "list_en_vn": [
+            {
+              "full_en": "extractor fan",
+              "full_vn": "quạt thông gió"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454903_fcfa9741ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454903_6b4486e790_o.png",
+      "id_image": "extractor_1347818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077270_1028680d60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077270_41f5d024ba_o.png",
+      "id_image": "extractor_1619238"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339996_52916e40bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339996_882cc9beb2_o.png",
+      "id_image": "extractor_3063469"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077315_777d14c839_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077315_8392b51fb8_o.png",
+      "id_image": "extractor_456670"
+    }
+  ]
+}

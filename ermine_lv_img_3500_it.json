@@ -1,0 +1,45 @@
+{
+  "english": "ermine",
+  "phat_am": "['ə:min]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) chồn ecmin"
+        },
+        {
+          "m_full_vn": "da lông chồn ecmin (dùng làm áo...)"
+        },
+        {
+          "m_full_vn": "(thông tục) chức quan toà",
+          "list_en_vn": [
+            {
+              "full_en": "to rise to ermine",
+              "full_vn": "được bổ nhiệm làm quan toà"
+            },
+            {
+              "full_en": "a dispute between silk and ermine",
+              "full_vn": "sự tranh cãi giữa luật sư và quan toà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thơ ca) sự trong trắng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052405_69906a1c74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052405_7189e9fa88_o.png",
+      "id_image": "ermine_185707"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315921_56732ec94d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315921_9b6c3c2bcf_o.png",
+      "id_image": "ermine_371903"
+    }
+  ]
+}

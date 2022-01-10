@@ -1,0 +1,303 @@
+{
+  "english": "house",
+  "phat_am": "[haus]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhà ở, căn nhà, toà nhà"
+        },
+        {
+          "m_full_vn": "nhà, chuồng",
+          "list_en_vn": [
+            {
+              "full_en": "the house of God",
+              "full_vn": "nhà thờ"
+            },
+            {
+              "full_en": "house of detention",
+              "full_vn": "nhà tù, nhà giam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quán trọ, quán rượu, tiệm (rượu...)"
+        },
+        {
+          "m_full_vn": "(chính trị) viện (trong quốc hội)",
+          "list_en_vn": [
+            {
+              "full_en": "the House of Lords",
+              "full_vn": "thượng nghị viện (ở Anh)"
+            },
+            {
+              "full_en": "the House of Commons",
+              "full_vn": "hạ nghị viện (ở Anh)"
+            },
+            {
+              "full_en": "House of Representatives",
+              "full_vn": "hạ nghị viện ( Mỹ)"
+            },
+            {
+              "full_en": "the House of Parliament",
+              "full_vn": "quốc hội, nghị viện"
+            },
+            {
+              "full_en": "to make a House",
+              "full_vn": "đảm bảo triệu tập đủ số đại biểu hạ nghị viện (quốc hội Anh) để có thể quyết định một vấn đề gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rạp hát, nhà hát, người xem, khán giả; buổi biểu diễn (ở nhà hát)",
+          "list_en_vn": [
+            {
+              "full_en": "appreciative house",
+              "full_vn": "người xem biết thưởng thức"
+            },
+            {
+              "full_en": "the first house starts at 8",
+              "full_vn": "buổi biểu diễn thứ nhất bắt đầu vào lúc 8 giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoàn thể tôn giáo; trụ sở của đoàn thể tôn giáo; tu viện"
+        },
+        {
+          "m_full_vn": "hãng buôn"
+        },
+        {
+          "m_full_vn": "( the House ) (thông tục) thị trường chứng khoán Luân-đôn"
+        },
+        {
+          "m_full_vn": "nhà tế bần"
+        },
+        {
+          "m_full_vn": "ký túc xá; toàn thể học sinh trong ký túc xá"
+        },
+        {
+          "m_full_vn": "gia đình, dòng họ; triều đại",
+          "list_en_vn": [
+            {
+              "full_en": "the House of Windsor",
+              "full_vn": "Hoàng gia Anh"
+            },
+            {
+              "full_en": "the House of Stuart",
+              "full_vn": "đồng xtua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự), (từ lóng) xổ số nội bộ"
+        },
+        {
+          "m_full_vn": "( định ngữ) nuôi ở trong nhà (động vật)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be turned out of house and home",
+              "list_im": [
+                {
+                  "im_full_vn": "bị đuổi ra vỉa hè sống lang thang không cửa không nhà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring down the house",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bring"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clean house",
+              "list_im": [
+                {
+                  "im_full_vn": "quét tước thu dọn nhà cửa"
+                },
+                {
+                  "im_full_vn": "giũ sạch những điều khó chịu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a drink on the house",
+              "list_im": [
+                {
+                  "im_full_vn": "chầu rượu do chủ quán thết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep house",
+              "list_im": [
+                {
+                  "im_full_vn": "quản lý việc nhà, tề gia nội trợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep open house",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) keep"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep the house",
+              "list_im": [
+                {
+                  "im_full_vn": "phải ở nhà không bước chân ra cửa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "house of call , house of cards",
+              "list_im": [
+                {
+                  "im_full_vn": "trò chơi xếp nhà (của trẻ con)"
+                },
+                {
+                  "im_full_vn": "kế hoạch bấp bênh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "house of ill fame",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) fame"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a house on fire",
+              "list_im": [
+                {
+                  "im_full_vn": "rất nhanh, mạnh mẽ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set (put ) one's house in order",
+              "list_im": [
+                {
+                  "im_full_vn": "thu dọn nhà cửa"
+                },
+                {
+                  "im_full_vn": "thu xếp công việc đâu vào đó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat sb out of house and home",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn đến nỗi ai phải sạt nghiệp vì mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a half-way house",
+              "list_im": [
+                {
+                  "im_full_vn": "nhà trọ giữa đường, thái độ thoả hiệp (nghĩa bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "master in one's own house",
+              "list_im": [
+                {
+                  "im_full_vn": "tự định đoạt công việc của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not a dry eye in the house",
+              "list_im": [
+                {
+                  "im_full_vn": "ai cũng xúc động, không ai bình thản được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set up house together",
+              "list_im": [
+                {
+                  "im_full_vn": "sống với nhau như vợ chồng; trở thành vợ chồng của nhau; lập gia đình với nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as safe as houses",
+              "list_im": [
+                {
+                  "im_full_vn": "rất an toàn, an toàn vô cùng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đón tiếp (ai) ở nhà; cho ở, cho trọ, chứa (ai...) trong nhà"
+        },
+        {
+          "m_full_vn": "cất vào kho; lùa (súc vật) vào chuồng",
+          "list_en_vn": [
+            {
+              "full_en": "to house the corn",
+              "full_vn": "cất thóc lúa vào kho"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cung cấp nhà ở cho"
+        },
+        {
+          "m_full_vn": "(hàng hải) đặt (súng đại bác...) vào vị trí chắc chắn"
+        },
+        {
+          "m_full_vn": "(hàng hải) hạ (cột buồm)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) lắp vào ổ mộng (đồ mộc)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở, trú"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684539_d2191bd11a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684539_94063a0422_o.png",
+      "id_image": "house_123619"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066295_942e775430_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066295_e7238a0b57_o.png",
+      "id_image": "house_243265"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329506_e52da3bf06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329506_a6231a100c_o.png",
+      "id_image": "house_288566"
+    }
+  ]
+}

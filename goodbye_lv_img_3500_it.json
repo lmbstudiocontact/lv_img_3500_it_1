@@ -1,0 +1,54 @@
+{
+  "english": "goodbye",
+  "phat_am": "[gud'bai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lời chào tạm biệt, lời chào từ biệt",
+          "list_en_vn": [
+            {
+              "full_en": "to say goodbye to somebody",
+              "full_vn": "chào từ biệt ai, chia tay ai"
+            },
+            {
+              "full_en": "to bid someone goodbye",
+              "full_vn": "tạm biệt ai, từ biệt ai"
+            },
+            {
+              "full_en": "to kiss sth goodbye",
+              "full_vn": "không rớ tới, giã biệt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thán từ",
+      "list_m": [
+        {
+          "m_full_vn": "tạm biệt",
+          "list_en_vn": [
+            {
+              "full_en": "goodbye to the holidays",
+              "full_vn": "tạm biệt những ngày hè! thôi thế là hết những ngày hè!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373382_d848be87eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373382_45b6bb93c7_o.png",
+      "id_image": "goodbye_1058505"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065375_2eb4097e8a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065375_e6744c274f_o.png",
+      "id_image": "goodbye_3159051"
+    }
+  ]
+}

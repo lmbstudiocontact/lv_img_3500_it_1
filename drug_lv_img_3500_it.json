@@ -1,0 +1,85 @@
+{
+  "english": "drug",
+  "phat_am": "[drʌg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất dùng làm thuốc hoặc dùng trong thuốc; thuốc",
+          "list_en_vn": [
+            {
+              "full_en": "a pain-killing drug",
+              "full_vn": "thuốc giảm đau"
+            },
+            {
+              "full_en": "the doctor has put me on drugs",
+              "full_vn": "bác sĩ chỉ định tôi phải uống thuốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chất ảnh hưởng đến hệ thần kinh, nhất là chất tạo ra thói quen ( côcain hoặc hêrôin chẳng hạn); ma tuý; thuốc ngủ",
+          "list_one_mean": [
+            {
+              "id_full_en": "a drug on the market",
+              "list_im": [
+                {
+                  "im_full_vn": "hàng tồn đọng vì không ai mua; hàng ế"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to take /use drugs",
+              "full_vn": "sử dụng ma túy"
+            },
+            {
+              "full_en": "to be on drugs",
+              "full_vn": "nghiện ma túy"
+            },
+            {
+              "full_en": "to peddle drugs",
+              "full_vn": "buôn ma túy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "pha thuốc ngủ, ma túy vào (thức ăn, đồ uống...)"
+        },
+        {
+          "m_full_vn": "cho uống thuốc ngủ, đánh thuốc tê mê, cho hít chất ma túy",
+          "list_en_vn": [
+            {
+              "full_en": "in a drugged stupor",
+              "full_vn": "đờ đẫn vì thuốc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692209_9e1df29913_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692209_3f4f4b5514_o.png",
+      "id_image": "drug_2843761"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692164_f93eb6230d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692164_4448539324_o.png",
+      "id_image": "drug_2861164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692249_29dbd630df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692249_1a8c92c5ed_o.png",
+      "id_image": "drug_452700"
+    }
+  ]
+}

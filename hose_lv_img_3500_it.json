@@ -1,0 +1,51 @@
+{
+  "english": "hose",
+  "phat_am": "[houz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bít tất dài"
+        },
+        {
+          "m_full_vn": "( số nhiều) ống vòi",
+          "list_en_vn": [
+            {
+              "full_en": "rubber hoses",
+              "full_vn": "ống cao su"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lắp ống, lắp vòi"
+        },
+        {
+          "m_full_vn": "tưới nước bằng vòi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331146_935dbc5c7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331146_b718f4e795_o.png",
+      "id_image": "hose_256878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375712_3a99453e45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375712_d2bf9631ea_o.png",
+      "id_image": "hose_2674349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375742_aa869036df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375742_841c8481e0_o.png",
+      "id_image": "hose_356989"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "english": "elementary",
+  "phat_am": "[,eli'mentəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc hoặc ở giai đoạn đầu (của một khoá học); cơ sở; sơ cấp",
+          "list_en_vn": [
+            {
+              "full_en": "an elementary class",
+              "full_vn": "lớp sơ cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơ bản, sơ đẳng",
+          "list_en_vn": [
+            {
+              "full_en": "elementary mathematics",
+              "full_vn": "toán học cơ bản"
+            },
+            {
+              "full_en": "elementary knowledge",
+              "full_vn": "kiến thức cơ bản, kiến thức sơ đẳng"
+            },
+            {
+              "full_en": "theory on elementary particles",
+              "full_vn": "lý thuyết về hạt cơ bản"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439698_0a81b54919_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439698_23386be658_o.png",
+      "id_image": "elementary_957197"
+    }
+  ]
+}

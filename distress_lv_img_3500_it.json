@@ -1,0 +1,68 @@
+{
+  "english": "distress",
+  "phat_am": "[dis'tres]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nỗi đau buồn, nỗi đau khổ, nỗi đau đớn",
+          "list_en_vn": [
+            {
+              "full_en": "her death was a great distress to all the family",
+              "full_vn": "cái chết của cô ta là nỗi đau buồn vô hạn cho cả gia đình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảnh khốn cùng, cảnh túng quẫn, cảnh gieo neo",
+          "list_en_vn": [
+            {
+              "full_en": "the government acted quickly to relieve the widespread distress caused by the earthquake",
+              "full_vn": "chính phủ hành động nhanh chóng để giảm bớt nỗi khốn khổ do trận động đất gây nên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tai hoạ, cảnh hiểm nghèo, cảnh hiểm nguy",
+          "list_en_vn": [
+            {
+              "full_en": "a distress signal /call /flag",
+              "full_vn": "một tín hiệu/cú điện thoại/kỳ hiệu báo tin nguy cấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng kiệt sức, tình trạng mệt lả, tình trạng mệt đứt hơi"
+        },
+        {
+          "m_full_vn": "(pháp lý) sự tịch biên"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đau buồn, làm đau khổ, làm đau đớn"
+        },
+        {
+          "m_full_vn": "làm lo âu, làm lo lắng"
+        },
+        {
+          "m_full_vn": "bắt chịu gian nan, bắt chịu khốn khổ"
+        },
+        {
+          "m_full_vn": "làm kiệt sức"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668764_8e9d50b713_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668764_2431a2d1ac_o.png",
+      "id_image": "distress_4525473"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "doubtful",
+  "phat_am": "['dautful]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghi ngờ, ngờ vực, hồ nghi",
+          "list_en_vn": [
+            {
+              "full_en": "to be doubtful of the issue",
+              "full_vn": "nghi ngờ kết quả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáng nghi, đáng ngờ; không rõ rệt, không chắc chắn",
+          "list_en_vn": [
+            {
+              "full_en": "a doubtful character",
+              "full_vn": "người đáng ngờ"
+            },
+            {
+              "full_en": "doubtful meaning",
+              "full_vn": "nghĩa không rõ rệt"
+            },
+            {
+              "full_en": "doubtful success",
+              "full_vn": "thành công không chắc chắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "do dự, lưỡng lự, nghi ngại; không biết chắc",
+          "list_en_vn": [
+            {
+              "full_en": "I am doubtful what I ought to do",
+              "full_vn": "tôi nghi ngại không biết phải làm gì; tôi không biết chắc mình phải làm gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352352_03b174b0dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352352_a6600f0e62_o.png",
+      "id_image": "doubtful_4897177"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352337_aa83605f6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352337_c672fe0d10_o.png",
+      "id_image": "doubtful_5777998"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "english": "landmark",
+  "phat_am": "['lændmɑ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mốc bờ (để dẫn đường cho các thuỷ thủ từ ngoài khơi hướng về đất liền)"
+        },
+        {
+          "m_full_vn": "mốc ranh giới, giới hạn"
+        },
+        {
+          "m_full_vn": "mốc, bước ngoặc",
+          "list_en_vn": [
+            {
+              "full_en": "the October Revolution is a great landmark in the history of mankind",
+              "full_vn": "cuộc cách mạng tháng Mười là một bước ngoặc lớn trong lịch sử loài người"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321321_94bf2d081a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321321_c1e90c70ef_o.png",
+      "id_image": "landmark_1282237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366247_4c70e1a949_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366247_98502e7648_o.png",
+      "id_image": "landmark_1282245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321266_64c39548bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321266_1bfb1bf9d7_o.png",
+      "id_image": "landmark_3700216"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321241_8d3fe6ba12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321241_0a40e4aa17_o.png",
+      "id_image": "landmark_3949456"
+    }
+  ]
+}

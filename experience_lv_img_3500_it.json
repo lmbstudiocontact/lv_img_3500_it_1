@@ -1,0 +1,86 @@
+{
+  "english": "experience",
+  "phat_am": "[iks'piəriəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kinh nghiệm",
+          "list_en_vn": [
+            {
+              "full_en": "to lack experience",
+              "full_vn": "thiếu kinh nghiệm"
+            },
+            {
+              "full_en": "to learn by experience",
+              "full_vn": "học hỏi qua kinh nghiệm"
+            },
+            {
+              "full_en": "to have much experience of teaching",
+              "full_vn": "có nhiều kinh nghiệm trong việc dạy học"
+            },
+            {
+              "full_en": "to know something from experience",
+              "full_vn": "do kinh nghiệm mà biết được điều gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự từng trải",
+          "list_en_vn": [
+            {
+              "full_en": "an unpleasant /unusual experience",
+              "full_vn": "một sự từng trải khó chịu/không bình thường"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cảm thấy; trải qua; kinh qua; nếm mùi",
+          "list_en_vn": [
+            {
+              "full_en": "to experience harsh trials /to experience hardships",
+              "full_vn": "trải qua những thử thách gay go/nếm mùi gian khổ"
+            },
+            {
+              "full_en": "to experience pleasure , pain , difficulty",
+              "full_vn": "cảm thấy vui thích, từng trải đau đớn, khó khăn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310046_52d7b854ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310046_23060ac847_o.png",
+      "id_image": "experience_1900199"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665309_21a2930e03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665309_bd9507874b_o.png",
+      "id_image": "experience_2680938"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046965_6b989d0e80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046965_65039b8fb5_o.png",
+      "id_image": "experience_4185758"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425058_af9f1670ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425058_902fdd07dc_o.png",
+      "id_image": "experience_4525501"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354247_b6b284ec2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354247_606fdbc840_o.png",
+      "id_image": "experience_5965633"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "english": "ecologic",
+  "phat_am": "[,ikə'lɔdʒik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) sinh thái học",
+          "list_en_vn": [
+            {
+              "full_en": "ecologic environment",
+              "full_vn": "môi trường sinh thái"
+            },
+            {
+              "full_en": "the dangerous ecologic effects of industry",
+              "full_vn": "những tác động nguy hiểm về sinh thái của ngành công nghiệp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068120_1e097282e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068120_5efea6c6a0_o.png",
+      "id_image": "ecologic_1772211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331541_71dc23a019_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331541_0713b92ee6_o.png",
+      "id_image": "ecologic_306723"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686509_e1f5fbcb4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686509_eed7b9d774_o.png",
+      "id_image": "ecologic_306732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068165_0f07437695_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068165_6b168875cb_o.png",
+      "id_image": "ecologic_306745"
+    }
+  ]
+}

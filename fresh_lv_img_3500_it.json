@@ -1,0 +1,217 @@
+{
+  "english": "fresh",
+  "phat_am": "[fre∫]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "mới hoặc khác",
+          "list_en_vn": [
+            {
+              "full_en": "fresh evidence",
+              "full_vn": "bằng chứng mới"
+            },
+            {
+              "full_en": "a fresh piece of paper",
+              "full_vn": "một miếng giấy mới"
+            },
+            {
+              "full_en": "fresh news",
+              "full_vn": "tin mới"
+            },
+            {
+              "full_en": "to begin a fresh chapter",
+              "full_vn": "bắt đầu một chương mới"
+            },
+            {
+              "full_en": "a fresh approach to the birth-control",
+              "full_vn": "một cách tiếp cận mới đối với vấn đề sinh đẻ có kế hoạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "còn rõ rệt; chưa phai mờ",
+          "list_en_vn": [
+            {
+              "full_en": "fresh blood stains on the floor",
+              "full_vn": "những vết máu tươi trên sàn nhà"
+            },
+            {
+              "full_en": "their memories of the wedding are still fresh in their minds",
+              "full_vn": "những kỷ niệm về ngày cưới hãy còn đậm nét trong tâm trí họ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tươi (hoa, trứng, sữa, cá, thịt...)",
+          "list_en_vn": [
+            {
+              "full_en": "fresh bread",
+              "full_vn": "bánh mì mới ra lò"
+            },
+            {
+              "full_en": "fresh milk , fruit , eggs , vegetables",
+              "full_vn": "sữa, quả, trứng, rau tươi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tươi tắn, mơn mởn",
+          "list_en_vn": [
+            {
+              "full_en": "a fresh complexion",
+              "full_vn": "nước da tươi tắn"
+            },
+            {
+              "full_en": "fresh colours",
+              "full_vn": "màu sắc tươi tắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về nước sơn) vừa mới quét; còn ướt",
+          "list_en_vn": [
+            {
+              "full_en": "Fresh paint - please do not touch",
+              "full_vn": "Sơn còn ướt - xin đừng sờ vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về quần áo) chưa mặc; sạch",
+          "list_en_vn": [
+            {
+              "full_en": "to put on some fresh clothes",
+              "full_vn": "mặc quần áo sạch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong sạch, tươi mát, mát mẻ (không khí...)",
+          "list_en_vn": [
+            {
+              "full_en": "open the window and let in some fresh air",
+              "full_vn": "hãy mở cửa sổ ra cho có không khí mát mẻ"
+            },
+            {
+              "full_en": "to play in the fresh air",
+              "full_vn": "chơi ở ngoài trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về nước) không mặn, không hôi hoặc đắng; không phải nước biển",
+          "list_en_vn": [
+            {
+              "full_en": "fresh water",
+              "full_vn": "nước ngọt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoẻ khắn; sảng khoái",
+          "list_en_vn": [
+            {
+              "full_en": "as fresh as paint",
+              "full_vn": "rất khoẻ"
+            },
+            {
+              "full_en": "as fresh as a daisy",
+              "full_vn": "tươi như hoa"
+            },
+            {
+              "full_en": "to feel fresh after six sets of ping-pong",
+              "full_vn": "cảm thấy khoẻ khoắn sau khi chơi sáu ván bóng bàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tạo nên tính từ ghép) mới; vừa mới",
+          "list_en_vn": [
+            {
+              "full_en": "fresh-baked bread",
+              "full_vn": "bánh mì vừa mới nướng"
+            },
+            {
+              "full_en": "fresh-cut flowers",
+              "full_vn": "hoa vừa mới cắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( fresh with somebody ) (từ Mỹ,nghĩa Mỹ) sàm sỡ/sỗ sàng đối với phụ nữ"
+        },
+        {
+          "m_full_vn": "( fresh from / out of something ) vừa mới đến từ một nơi nào",
+          "list_one_mean": [
+            {
+              "id_full_en": "to break fresh /new ground",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa ra sáng kiến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "new /fresh blood",
+              "list_im": [
+                {
+                  "im_full_vn": "người hay có sáng kiến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a breath of fresh air",
+              "list_im": [
+                {
+                  "im_full_vn": "xem breath"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "students fresh from polytechnic",
+              "full_vn": "những sinh viên vừa mới trường bách khoa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lúc tươi mát, lúc mát mẻ",
+          "list_en_vn": [
+            {
+              "full_en": "in the fresh of the morning",
+              "full_vn": "vào lúc tươi mát của buổi sáng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699694_119c936750_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699694_827e83880f_o.png",
+      "id_image": "fresh_1140841"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082050_3e71c9635c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082050_63c878a191_o.png",
+      "id_image": "fresh_2451311"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389467_9c702faf2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389467_d9de3822b9_o.png",
+      "id_image": "fresh_3967356"
+    }
+  ]
+}

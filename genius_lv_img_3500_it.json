@@ -1,0 +1,61 @@
+{
+  "english": "genius",
+  "phat_am": "['dʒi:niəs]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều geniuses",
+      "list_m": [
+        {
+          "m_full_vn": "thiên tài, thiên tư",
+          "list_en_vn": [
+            {
+              "full_en": "a poet of genius",
+              "full_vn": "nhà thơ thiên tài"
+            },
+            {
+              "full_en": "to have a genius for mathematics",
+              "full_vn": "có thiên tài về toán học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người thiên tài, người anh tài, bậc kỳ tài"
+        },
+        {
+          "m_full_vn": "thần bản mệnh (tôn giáo) La-mã"
+        },
+        {
+          "m_full_vn": "tinh thần, đặc tính (chủng tộc, ngôn ngữ, thời đại...)"
+        },
+        {
+          "m_full_vn": "liên tưởng; cảm hứng"
+        },
+        {
+          "m_full_vn": "( số nhiều genii ) thần",
+          "list_en_vn": [
+            {
+              "full_en": "good genius",
+              "full_vn": "thần thiện"
+            },
+            {
+              "full_en": "evil genius",
+              "full_vn": "thần ác"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072555_8f447e666f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072555_1de33685b2_o.png",
+      "id_image": "genius_203211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335646_95c5c44bfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335646_3a783a26a9_o.png",
+      "id_image": "genius_4752562"
+    }
+  ]
+}

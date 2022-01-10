@@ -1,0 +1,38 @@
+{
+  "english": "evacuate",
+  "phat_am": "[i'vækjueit]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to evacuate somebody from ...) ( to evacuate somebody to ...) di tản; sơ tán; tản cư",
+          "list_en_vn": [
+            {
+              "full_en": "Old people and children were evacuated to the city when their villages were being bombed",
+              "full_vn": "Người già và trẻ con được sơ tán ra thành thị khi làng quê của họ bị oanh tạc"
+            },
+            {
+              "full_en": "The soldiers evacuated the area as the enemy attacked the prison",
+              "full_vn": "Khi giặc tấn công nhà lao, binh lính đã rút khỏi khu vực đó"
+            },
+            {
+              "full_en": "The region near the combat zone was evacuated rapidly",
+              "full_vn": "Khu vực gần vùng chiến sự đã được di tản nhanh chóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to evacuate something of something ) trút (ra khỏi ruột) những thứ trong đó; đi ngoài; đi tháo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358277_f942bf9f29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358277_717aba094b_o.png",
+      "id_image": "evacuate_1973154"
+    }
+  ]
+}

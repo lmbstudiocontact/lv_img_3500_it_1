@@ -1,0 +1,64 @@
+{
+  "english": "identification",
+  "phat_am": "[ai,dentifi'kei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhận ra hoặc bị nhận ra; sự nhận dạng hoặc bị nhận dạng",
+          "list_en_vn": [
+            {
+              "full_en": "the identification of the accident victims took some time",
+              "full_vn": "việc nhận dạng các nạn nhân của vụ tai nạn phải mất thời gian"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(viết tắt) là ID phương tiện để chứng tỏ một người nào đó là ai; các giấy tờ chứng minh việc đó; thẻ căn cước; giấy chứng minh",
+          "list_en_vn": [
+            {
+              "full_en": "May I see some some identification please ? ; May I see identification papers please ?",
+              "full_vn": "Xin ông vui lòng cho xem giấy chứng minh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự gắn bó chặt chẽ với; sự gia nhập, sự dự vào",
+          "list_en_vn": [
+            {
+              "full_en": "identification with the party in power",
+              "full_vn": "sự gắn bó chặt chẽ với đảng cầm quyền"
+            },
+            {
+              "full_en": "identification with the student movement",
+              "full_vn": "sự gia nhập phong trào học sinh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061320_fdd7177aaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061320_2f9098894c_o.png",
+      "id_image": "identification_1813792"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679529_6c26cde106_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679529_e6cc9f625b_o.png",
+      "id_image": "identification_3447638"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324331_f847f08f87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324331_f9dbe1f81c_o.png",
+      "id_image": "identification_5982040"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324466_f29acc287c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324466_4023c74e15_o.png",
+      "id_image": "identification_741900"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "horseback",
+  "phat_am": "['hɔ:sbæk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lưng ngựa",
+          "list_en_vn": [
+            {
+              "full_en": "To be on horseback",
+              "full_vn": "Cưỡi ngựa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331411_b79c8228c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331411_7a3154a827_o.png",
+      "id_image": "horseback_625477"
+    }
+  ]
+}

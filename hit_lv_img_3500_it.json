@@ -1,0 +1,317 @@
+{
+  "english": "hit",
+  "phat_am": "[hit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đòn, cú đánh trúng (đấm, bắn, ném)",
+          "list_en_vn": [
+            {
+              "full_en": "a clever hit",
+              "full_vn": "một đòn hay"
+            },
+            {
+              "full_en": "three hits and five misses",
+              "full_vn": "ba đòn trúng năm đòn hụt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc thành công; việc đạt kết quả; việc may mắn",
+          "list_en_vn": [
+            {
+              "full_en": "the new play is quite a hit",
+              "full_vn": "bản kịch mới rất thành công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời chỉ trích cay độc, nhận xét gay gắt",
+          "list_en_vn": [
+            {
+              "full_en": "that was a hit at me",
+              "full_vn": "câu đó nhằm chỉ trích tôi đấy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh, đấm trúng, bắn trúng, ném trúng",
+          "list_en_vn": [
+            {
+              "full_en": "hit hard !; hit out !",
+              "full_vn": "đánh mạnh vào"
+            },
+            {
+              "full_en": "to hit someone on the head",
+              "full_vn": "đánh trúng đầu ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "va phải, vấp phải, va trúng",
+          "list_en_vn": [
+            {
+              "full_en": "to hit one's head against (on ) a door",
+              "full_vn": "va đầu vào cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) chạm nọc, xúc phạm đến, làm tổn thương, làm đau khổ (về tình cảm...)",
+          "list_en_vn": [
+            {
+              "full_en": "to be hard hit",
+              "full_vn": "bị đòn nặng; bị đánh trúng; (nghĩa bóng) bị xúc phạm nặng nề; bị chạm nọc, bị đau khổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tìm ra, vớ được",
+          "list_en_vn": [
+            {
+              "full_en": "to hit the right path",
+              "full_vn": "tìm ra con đường đi đúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hợp với, đúng với",
+          "list_en_vn": [
+            {
+              "full_en": "to hit someone's fancy",
+              "full_vn": "hợp với (đúng với) sở thích của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đạt tới, đạt được, tới"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) mê đắm, đam mê",
+          "list_en_vn": [
+            {
+              "full_en": "to hit the bottle",
+              "full_vn": "đam mê rượu chè"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + at ) nhằm đánh"
+        },
+        {
+          "m_full_vn": "( + against , upon ) vấp phải, va trúng"
+        },
+        {
+          "m_full_vn": "( + on , upon ) tìm ra, vớ được",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hit off",
+              "list_im": [
+                {
+                  "im_full_vn": "nhại đúng như hệt, lặp lại đúng như in"
+                },
+                {
+                  "im_full_vn": "đánh tới tấp; đấm phải, đấm trái túi bụi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit below the belt",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục,thể thao) đánh bụng dưới, đánh sai luật (quyền Anh)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) chơi không chính đáng, chơi gian lận, chơi xấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit it off with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng ý với ai, ăn ý với ai, tâm đầu ý hợp với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit it off together",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn ý với nhau, tâm đầu ý hợp với nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit the right nail on the head",
+              "list_im": [
+                {
+                  "im_full_vn": "đoán trúng, nói đúng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit the spot",
+              "list_im": [
+                {
+                  "im_full_vn": "thoả mãn điều đang cần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit the high spot",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ bàn những vần đề chính (trong một cuộc thảo luận)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit the silk",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) silk"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit the trail (pike , road , breeze )",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) ra đi, lên đường"
+                },
+                {
+                  "im_full_vn": "đi chơi, đi du lịch"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit the ceiling",
+              "list_im": [
+                {
+                  "im_full_vn": "nổi trận lôi đình, nổi cơn tam bành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit the deck",
+              "list_im": [
+                {
+                  "im_full_vn": "rơi xuống đất"
+                },
+                {
+                  "im_full_vn": "sẵn sàng hành động"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit sb for six",
+              "list_im": [
+                {
+                  "im_full_vn": "nện cho ai một trận ra trò"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit the hay",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ngủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit the headlines",
+              "list_im": [
+                {
+                  "im_full_vn": "được phổ biến rộng rãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit home",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh trúng đích, thấu cáy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit sb in the eye",
+              "list_im": [
+                {
+                  "im_full_vn": "rất rõ ràng đối với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit the jackpot",
+              "list_im": [
+                {
+                  "im_full_vn": "trúng mánh, vô mánh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit a man when he's down",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh kẻ ngã ngựa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit the mark",
+              "list_im": [
+                {
+                  "im_full_vn": "thành công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit a nerve",
+              "list_im": [
+                {
+                  "im_full_vn": "gợi lại nỗi đau buồn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to know what hit one",
+              "list_im": [
+                {
+                  "im_full_vn": "bối rối, lúng túng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to hit upon a plan",
+              "full_vn": "tìm ra một kế hoạch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691254_256b4415aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691254_20c473c9bc_o.png",
+      "id_image": "hit_1477178"
+    }
+  ]
+}

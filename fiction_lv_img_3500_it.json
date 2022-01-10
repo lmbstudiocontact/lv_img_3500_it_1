@@ -1,0 +1,34 @@
+{
+  "english": "fiction",
+  "phat_am": "['fik∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều hư cấu, điều tưởng tượng, điều bịa đặt"
+        },
+        {
+          "m_full_vn": "thể loại văn chương (tiểu thuyết, truyện ngắn...) mô tả những con người và sự kiện do tác giả tưởng tượng; tiểu thuyết hư cấu",
+          "list_en_vn": [
+            {
+              "full_en": "works of fiction",
+              "full_vn": "những tác phẩm hư cấu"
+            },
+            {
+              "full_en": "truth is often stranger than fiction",
+              "full_vn": "sự thật nhiều khi còn lạ lùng hơn tiểu thuyết hư cấu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331006_4caed91b1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331006_c28b168234_o.png",
+      "id_image": "fiction_2178098"
+    }
+  ]
+}

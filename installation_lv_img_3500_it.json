@@ -1,0 +1,65 @@
+{
+  "english": "installation",
+  "phat_am": "[,instə'lei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lắp đặt hoặc được lắp đặt (hệ thống máy móc...); cái được lắp đặt",
+          "list_en_vn": [
+            {
+              "full_en": "installation requires several days",
+              "full_vn": "việc lắp đặt phải mất vài ngày"
+            },
+            {
+              "full_en": "installation charges /costs",
+              "full_vn": "chi phí lắp đặt"
+            },
+            {
+              "full_en": "to carry out several installations",
+              "full_vn": "lắp đặt nhiều thứ"
+            },
+            {
+              "full_en": "a heating installation",
+              "full_vn": "hệ thống sưởi ấm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) sự cài (phần mềm)"
+        },
+        {
+          "m_full_vn": "lễ nhậm chức",
+          "list_en_vn": [
+            {
+              "full_en": "the installation of the new chairman",
+              "full_vn": "lễ nhậm chức của tân chủ tịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) nơi cất giữ các thiết bị quân sự; kho quân sự",
+          "list_en_vn": [
+            {
+              "full_en": "attacking the enemy's missile installations",
+              "full_vn": "tấn công căn cứ tên lửa của địch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081945_26d07acbd0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081945_cec0dd292f_o.png",
+      "id_image": "installation_2568922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699569_75b10d6400_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699569_482b9a8699_o.png",
+      "id_image": "installation_2714631"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "english": "gloat",
+  "phat_am": "[glout]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhìn hau háu, nhìn một cách thèm muốn",
+          "list_en_vn": [
+            {
+              "full_en": "to gloat over (upon , on ) something",
+              "full_vn": "nhìn vật gì một cách thèm muốn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hể hả, hả hê"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331461_09d839a582_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331461_6d91b46685_o.png",
+      "id_image": "gloat_708666"
+    }
+  ]
+}

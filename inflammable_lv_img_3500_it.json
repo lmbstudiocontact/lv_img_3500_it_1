@@ -1,0 +1,44 @@
+{
+  "english": "inflammable",
+  "phat_am": "[in'flæməbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể bị bốc cháy; dễ cháy",
+          "list_en_vn": [
+            {
+              "full_en": "Petroleum - Highly inflammable",
+              "full_vn": "Xăng - Rất dễ cháy (ghi trên biển cấm chẳng hạn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dễ bị khích động",
+          "list_en_vn": [
+            {
+              "full_en": "a man with an inflammable temper",
+              "full_vn": "người tính khí nóng nảy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất dễ cháy"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361247_d4e0842a60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361247_2be827f451_o.png",
+      "id_image": "inflammable_3779000"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "english": "grip",
+  "phat_am": "[grip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "rãnh nhỏ, mương nhỏ"
+        },
+        {
+          "m_full_vn": "sự cầm chặt, sự nắm chặt, sự ôm chặt, sự kẹp chặt; sự kìm kẹp",
+          "list_en_vn": [
+            {
+              "full_en": "to keep a tight grip on one's horse",
+              "full_vn": "kẹp chặt lấy mình ngựa"
+            },
+            {
+              "full_en": "in the grip of the landlords",
+              "full_vn": "trong vòng kìm kẹp của bọn địa chủ"
+            },
+            {
+              "full_en": "in the grip of poverty",
+              "full_vn": "trong sự o ép của cảnh nghèo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thu hút, sự lôi cuốn",
+          "list_en_vn": [
+            {
+              "full_en": "to lose one's grip on one's audience",
+              "full_vn": "không thu hút được sự chú ý của người nghe nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hiểu thấu, sự nắm vững, sự am hiểu",
+          "list_en_vn": [
+            {
+              "full_en": "to have a good grip of a problem",
+              "full_vn": "nắm vững vấn đề"
+            },
+            {
+              "full_en": "to have a good grip of the situation",
+              "full_vn": "am hiểu tình hình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tay phanh (xe cộ), tay hãm (máy móc...)"
+        },
+        {
+          "m_full_vn": "báng (súng); chuôi, cán (đồ dùng)"
+        },
+        {
+          "m_full_vn": "kìm, kẹp"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) như gripsack",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be at grips",
+              "list_im": [
+                {
+                  "im_full_vn": "giáp lá cà; ở thế ghì chặt (quyền Anh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to grips",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh giáp lá cà; ghì chặt (quyền Anh)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a grip on oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ bình tĩnh, tự kiềm chế, làm chủ được mình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nắm chặt, ôm chặt, kẹp chặt",
+          "list_en_vn": [
+            {
+              "full_en": "to grip something in a vice",
+              "full_vn": "kẹp chặt vật gì vào êtô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thu hút (sự chú ý)",
+          "list_en_vn": [
+            {
+              "full_en": "the speaker gripped the attention of his audience",
+              "full_vn": "diễn giả thu hút được sự chú ý của người nghe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nắm vững (kiến thức...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kẹp chặt; ăn (phanh)",
+          "list_en_vn": [
+            {
+              "full_en": "the brakes did not grip",
+              "full_vn": "phanh không ăn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675899_9157fb4740_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675899_e611d0aab9_o.png",
+      "id_image": "grip_193656"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320826_29d72ea05b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320826_3dfe9d0d4f_o.png",
+      "id_image": "grip_2270954"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365707_79aaaf9714_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365707_418c41bcbc_o.png",
+      "id_image": "grip_2464793"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320761_872ac00271_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320761_d51546ec03_o.png",
+      "id_image": "grip_4205504"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365657_013037428a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365657_d6152a8943_o.png",
+      "id_image": "grip_5612911"
+    }
+  ]
+}

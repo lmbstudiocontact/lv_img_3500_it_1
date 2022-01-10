@@ -1,0 +1,30 @@
+{
+  "english": "hothouse",
+  "phat_am": "['hɔthaus]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "toà nhà dùng để trồng cây non (được sưởi ấm và làm bằng kính); nhà kính",
+          "list_en_vn": [
+            {
+              "full_en": "hothouse flowers",
+              "full_vn": "hoa hồng trồng ở nhà kính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) phòng sấy"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444758_aa37b57425_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444758_94519870de_o.png",
+      "id_image": "hothouse_1345387"
+    }
+  ]
+}

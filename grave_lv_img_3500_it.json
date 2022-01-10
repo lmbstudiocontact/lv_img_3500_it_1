@@ -1,0 +1,159 @@
+{
+  "english": "grave",
+  "phat_am": "[gra:v]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mồ, mả, phần mộ"
+        },
+        {
+          "m_full_vn": "nơi chôn vùi",
+          "list_en_vn": [
+            {
+              "full_en": "grave of honour",
+              "full_vn": "nơi chôn vùi danh dự"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chết, âm ty, thế giới bên kia",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be brought at an early grave",
+              "list_im": [
+                {
+                  "im_full_vn": "chết non, chết yểu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the brink of the grave",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) brink"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dig one's own grave",
+              "list_im": [
+                {
+                  "im_full_vn": "tự chuốc lấy tai hoạ cho mình, tự đào mồ chôn mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make somebody turn in his grave",
+              "list_im": [
+                {
+                  "im_full_vn": "chửi làm bật mồ bật mả ai lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "never on this side of the grave",
+              "list_im": [
+                {
+                  "im_full_vn": "không đời nào, không bao giờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from the cradle to the grave",
+              "list_im": [
+                {
+                  "im_full_vn": "từ lúc sinh ra đến lúc mất đi, từ lúc chào đời đến lúc vĩnh biệt cõi đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as secret as the grave",
+              "list_im": [
+                {
+                  "im_full_vn": "kín như bưng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "someone is walking on my grave",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi tự nhiên rùng mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one foot in the grave",
+              "list_im": [
+                {
+                  "im_full_vn": "gần đất xa trời"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trang nghiêm; nghiêm nghị; từ tốn",
+          "list_en_vn": [
+            {
+              "full_en": "a grave look",
+              "full_vn": "vẻ trang nghiêm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghiêm trọng, trầm trọng; quan trọng (sự việc)",
+          "list_en_vn": [
+            {
+              "full_en": "a grave mistake",
+              "full_vn": "khuyết điểm nghiêm trọng"
+            },
+            {
+              "full_en": "grave symptoms",
+              "full_vn": "những triệu chứng trầm trọng đáng lo ngại"
+            },
+            {
+              "full_en": "grave news",
+              "full_vn": "tin tức quan trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sạm, tối (màu)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) dấu huyền (cũng) grave accent"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368482_6b83661c57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368482_f28e534d72_o.png",
+      "id_image": "grave_1022299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368422_f4457f7eea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368422_c2c3616fe9_o.png",
+      "id_image": "grave_1901055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368367_734eeb8e61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368367_da371ceb46_o.png",
+      "id_image": "grave_5426443"
+    }
+  ]
+}

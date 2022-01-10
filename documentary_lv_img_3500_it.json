@@ -1,0 +1,69 @@
+{
+  "english": "documentary",
+  "phat_am": "[,dɔkju'mentəri]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "gồm có các tài liệu",
+          "list_en_vn": [
+            {
+              "full_en": "documentary evidence , proof , sources",
+              "full_vn": "bằng chứng, chứng cứ, nguồn tài liệu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa ra một báo cáo căn cứ trên sự việc về một đề tài hoặc hoạt động nào đó (nhất là ghi âm, ghi hình những người có liên quan.....)",
+          "list_en_vn": [
+            {
+              "full_en": "a documentary account of the Vietnam war",
+              "full_vn": "tường thuật cuộc chiến tranh Việt Nam qua tài liệu"
+            },
+            {
+              "full_en": "a documentary film",
+              "full_vn": "phim tài liệu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phim tài liệu",
+          "list_en_vn": [
+            {
+              "full_en": "a documentary on /about drug abuse",
+              "full_vn": "phim tài liệu về nạn lạm dụng ma túy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426758_2f8a36723f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426758_5da894ace3_o.png",
+      "id_image": "documentary_2040660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048490_8b905ae640_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048490_fb2d4a9ef4_o.png",
+      "id_image": "documentary_5190261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048460_a4d090f45b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048460_6496610b95_o.png",
+      "id_image": "documentary_6347682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666744_4275b8734e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666744_765ce9ef00_o.png",
+      "id_image": "documentary_6347699"
+    }
+  ]
+}

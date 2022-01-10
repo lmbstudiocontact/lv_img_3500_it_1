@@ -1,0 +1,46 @@
+{
+  "english": "lyric",
+  "phat_am": "['lirikəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bài thơ trữ tình"
+        },
+        {
+          "m_full_vn": "( số nhiều) thơ trữ tình"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) lời bài hát được ưa chuộng"
+        }
+      ]
+    },
+    {
+      "type": "tính từ + Cách viết khác : ( lyrical )",
+      "list_m": [
+        {
+          "m_full_vn": "trữ tình",
+          "list_en_vn": [
+            {
+              "full_en": "lyric songs",
+              "full_vn": "ca khúc trữ tình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446688_9d3c2a1bf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446688_8137c56c5b_o.png",
+      "id_image": "lyrics_5439947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446713_ac6fd77399_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446713_c4b0c8d621_o.png",
+      "id_image": "lyric_5093639"
+    }
+  ]
+}

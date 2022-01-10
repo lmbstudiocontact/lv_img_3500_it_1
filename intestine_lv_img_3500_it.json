@@ -1,0 +1,45 @@
+{
+  "english": "intestine",
+  "phat_am": "[in'testin]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) ruột",
+          "list_en_vn": [
+            {
+              "full_en": "small intestine",
+              "full_vn": "ruột non"
+            },
+            {
+              "full_en": "large intestine",
+              "full_vn": "ruột già"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nội bộ",
+          "list_en_vn": [
+            {
+              "full_en": "intestine war",
+              "full_vn": "nội chiến"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385417_e119b10ccb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385417_ed0c8c9b50_o.png",
+      "id_image": "intestine_1373934"
+    }
+  ]
+}

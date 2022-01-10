@@ -1,0 +1,89 @@
+{
+  "english": "family",
+  "phat_am": "['fæmili]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gia đình, gia quyến",
+          "list_en_vn": [
+            {
+              "full_en": "a large family",
+              "full_vn": "gia đình đông con"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "con cái trong gia đình"
+        },
+        {
+          "m_full_vn": "dòng dõi, gia thế"
+        },
+        {
+          "m_full_vn": "chủng tộc"
+        },
+        {
+          "m_full_vn": "(sinh vật học), (ngôn ngữ học) họ",
+          "list_one_mean": [
+            {
+              "id_full_en": "in a family way",
+              "list_im": [
+                {
+                  "im_full_vn": "tự nhiên như người trong nhà"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) có mang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the family way",
+              "list_im": [
+                {
+                  "im_full_vn": "có mang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "happy family",
+              "list_im": [
+                {
+                  "im_full_vn": "thú khác loại nhốt chung một chuồng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run in the family",
+              "list_im": [
+                {
+                  "im_full_vn": "là đặc điểm lưu truyền trong gia đình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to start a family",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt đầu sinh con đẻ cái"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381692_68cabdcb89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381692_8e4eb1313f_o.png",
+      "id_image": "family_437491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073650_e26efe3a36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073650_686f2f03ee_o.png",
+      "id_image": "family_599547"
+    }
+  ]
+}

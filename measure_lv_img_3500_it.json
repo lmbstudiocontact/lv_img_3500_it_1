@@ -1,0 +1,201 @@
+{
+  "english": "measure",
+  "phat_am": "['meʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đo lường; đơn vị đo lường; hệ đo lường; dụng cụ đo lường",
+          "list_en_vn": [
+            {
+              "full_en": "to get / take somebody's measure",
+              "full_vn": "đo người cho ai (để may quần áo); (nghĩa bóng) đánh giá tính tình/khả năng của ai"
+            },
+            {
+              "full_en": "a metre is a measure of length",
+              "full_vn": "mét là một đơn vị đo chiều dài"
+            },
+            {
+              "full_en": "to give full measure ; to give short measure",
+              "full_vn": "cân đủ; cân thiếu"
+            },
+            {
+              "full_en": "to make something to measure",
+              "full_vn": "may theo số đo riêng của khách hàng (chứ không phải may sẵn)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) hạn độ, phạm vi, giới hạn, chừng mực",
+          "list_en_vn": [
+            {
+              "full_en": "without measure",
+              "full_vn": "không có giới hạn nào; không có chừng mực nào"
+            },
+            {
+              "full_en": "in some measure",
+              "full_vn": "trong phạm vi nào đó; trong một chừng mực nào đó"
+            },
+            {
+              "full_en": "in a great (large ) measure",
+              "full_vn": "trong một phạm vi rộng lớn"
+            },
+            {
+              "full_en": "beyond measure",
+              "full_vn": "rất lớn; rất mãnh liệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thước đo; tiêu chuẩn để đánh giá",
+          "list_en_vn": [
+            {
+              "full_en": "a chain's weakest link is the measure of its strength",
+              "full_vn": "mắt xích yếu nhất là cái để đánh giá sức chịu đựng của cái xích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phương sách, biện pháp, cách xử trí",
+          "list_en_vn": [
+            {
+              "full_en": "to take strict measures against contraband",
+              "full_vn": "áp dụng biện pháp triệt để chống nạn buôn lậu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) ước số",
+          "list_en_vn": [
+            {
+              "full_en": "greatest common measure",
+              "full_vn": "ước số chung lớn nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc); (thơ ca) nhịp, nhịp điệu"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) lớp; tầng"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) điệu nhảy",
+          "list_one_mean": [
+            {
+              "id_full_en": "measure for measure",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn miếng trả miếng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đo, đo lường",
+          "list_en_vn": [
+            {
+              "full_en": "to measure a piece of cloth",
+              "full_vn": "đo một mảnh vải"
+            },
+            {
+              "full_en": "to measure someone for new clothes",
+              "full_vn": "đo kích thước của người nào để may quần áo mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đo được",
+          "list_en_vn": [
+            {
+              "full_en": "the floor measures six metres by four metres",
+              "full_vn": "sàn nhà đo được 6 m chiều dài và 4 m chiều rộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "so với, đọ với; (nghĩa bóng) đọ sức với",
+          "list_en_vn": [
+            {
+              "full_en": "to measure one's strength with someone",
+              "full_vn": "đọ sức với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "liệu chừng; dự liệu"
+        },
+        {
+          "m_full_vn": "( (thường) + off , out ) phân phối, phân ra, chia ra",
+          "list_en_vn": [
+            {
+              "full_en": "to measure out a quantity of medicine",
+              "full_vn": "phân phối một số lượng thuốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thơ ca) vượt, đi qua",
+          "list_one_mean": [
+            {
+              "id_full_en": "to measure one's length",
+              "list_im": [
+                {
+                  "im_full_vn": "ngã sóng soài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to measure someone with one's eye",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn ai từ đầu đến chân"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to measure a distance",
+              "full_vn": "vượt được một quãng đường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363297_7667704df4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363297_233b1411ab_o.png",
+      "id_image": "measure_3690278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055305_8008fb8ec4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055305_b064412f22_o.png",
+      "id_image": "measure_4220237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433908_4309f4e1bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433908_8801a9e8d4_o.png",
+      "id_image": "measure_4271182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318741_66e964a9d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318741_4af190b33f_o.png",
+      "id_image": "measure_448764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673534_23a0e7bf74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673534_5ec97c56e3_o.png",
+      "id_image": "measure_5181894"
+    }
+  ]
+}

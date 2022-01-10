@@ -1,0 +1,66 @@
+{
+  "english": "mask",
+  "phat_am": "[mɑ:sk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mạng che mặt của phụ nữ ngày xưa; mặt nạ ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to throw off the mask",
+              "full_vn": "lột mặt nạ, vạch trần chân tướng"
+            },
+            {
+              "full_en": "under the mask of virtue",
+              "full_vn": "dưới mặt nạ đạo đức; đạo đức giả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặt nạ phòng độc"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đeo mặt nạ cho"
+        },
+        {
+          "m_full_vn": "che giấu, giấu giếm, che kín"
+        },
+        {
+          "m_full_vn": "(quân sự) nguỵ trang (quân đối phương) bằng lực lượng tương xứng; đứng cản đằng trước (quân cùng phe)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mang mặt nạ giả trang"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058305_3f9afc00d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058305_d4026f4ccc_o.png",
+      "id_image": "mask_119161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366412_b97ea51abf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366412_07e4c598ef_o.png",
+      "id_image": "mask_297341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058225_a12bc1684c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058225_aa6fc2804d_o.png",
+      "id_image": "mask_588826"
+    }
+  ]
+}

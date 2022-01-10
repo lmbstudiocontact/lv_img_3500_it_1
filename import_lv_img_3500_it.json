@@ -1,0 +1,97 @@
+{
+  "english": "import",
+  "phat_am": "['impɔ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhập, sự nhập khẩu (hàng hoá)"
+        },
+        {
+          "m_full_vn": "( số nhiều) hàng nhập, hàng nhập khẩu"
+        },
+        {
+          "m_full_vn": "ý nghĩa, nội dung (của một từ, một văn kiện)",
+          "list_en_vn": [
+            {
+              "full_en": "the import of a statement",
+              "full_vn": "nội dung bản tuyên bố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tầm quan trọng",
+          "list_en_vn": [
+            {
+              "full_en": "a matter of great import",
+              "full_vn": "vấn đề quan trọng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhập, nhập khẩu (hàng hoá...)"
+        },
+        {
+          "m_full_vn": "ngụ ý, ý nói, nghĩa là",
+          "list_en_vn": [
+            {
+              "full_en": "what does this news import ?",
+              "full_vn": "tin này nghĩa là thế nào?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho biết",
+          "list_en_vn": [
+            {
+              "full_en": "a letter importing that ...",
+              "full_vn": "một bức thư cho biết rằng..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có quan hệ tới; có tầm quan trọng đối với; cần đối với",
+          "list_en_vn": [
+            {
+              "full_en": "it imports us to know ...",
+              "full_vn": "chúng ta cần phải được biết..."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436113_5da15f6228_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436113_8b87868f08_o.png",
+      "id_image": "import_384023"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365787_fdd2491e73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365787_f621a2ab9b_o.png",
+      "id_image": "import_384025"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057605_5553c7d0f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057605_50cd22c389_o.png",
+      "id_image": "import_4459833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320821_3e65175619_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320821_ccaea972c6_o.png",
+      "id_image": "import_5132447"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057555_21ca5b1bfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057555_dcea01f20c_o.png",
+      "id_image": "import_5496784"
+    }
+  ]
+}

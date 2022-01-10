@@ -1,0 +1,314 @@
+{
+  "english": "fine",
+  "phat_am": "[fain]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tốt, nguyên chất (vàng, bạc...)",
+          "list_en_vn": [
+            {
+              "full_en": "fine gold",
+              "full_vn": "vàng nguyên chất, vàng ròng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhỏ, mịn, thanh mảnh; sắc",
+          "list_en_vn": [
+            {
+              "full_en": "a fine pen",
+              "full_vn": "bút đầu nhỏ"
+            },
+            {
+              "full_en": "fine sand",
+              "full_vn": "cát mịn"
+            },
+            {
+              "full_en": "fine rain",
+              "full_vn": "mưa bụi"
+            },
+            {
+              "full_en": "fine thread",
+              "full_vn": "sợi chỉ mảnh"
+            },
+            {
+              "full_en": "a knife with a fine edge",
+              "full_vn": "con dao lưỡi sắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tốt, khả quan, giỏi",
+          "list_en_vn": [
+            {
+              "full_en": "a fine idea",
+              "full_vn": "ý kiến hay"
+            },
+            {
+              "full_en": "a fine teacher",
+              "full_vn": "giáo viên giỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớn, đường bệ",
+          "list_en_vn": [
+            {
+              "full_en": "fine potatoes",
+              "full_vn": "những củ khoai to"
+            },
+            {
+              "full_en": "a man of fine presence",
+              "full_vn": "người trông đường bệ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẹp, xinh, bảnh",
+          "list_en_vn": [
+            {
+              "full_en": "a fine baby",
+              "full_vn": "đứa bé xinh, đứa bé kháu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đẹp, trong sáng",
+          "list_en_vn": [
+            {
+              "full_en": "fine weather",
+              "full_vn": "trời đẹp, trời trong sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sặc sỡ, rực rỡ, loè loẹt",
+          "list_en_vn": [
+            {
+              "full_en": "fine feather",
+              "full_vn": "lông sặc sỡ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cầu kỳ (văn)"
+        },
+        {
+          "m_full_vn": "có ý kiến khen ngợi, có ý ca ngợi",
+          "list_en_vn": [
+            {
+              "full_en": "to say fine things about someone",
+              "full_vn": "khen ngợi ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tế nhị, tinh vi; chính xác",
+          "list_en_vn": [
+            {
+              "full_en": "a fine distinction",
+              "full_vn": "sự phân biệt tinh vi"
+            },
+            {
+              "full_en": "fine mechanics",
+              "full_vn": "cơ học chính xác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cao thượng, cao quý",
+          "list_en_vn": [
+            {
+              "full_en": "fine feelings",
+              "full_vn": "những cảm nghĩ cao quý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) hoàn toàn sung sức",
+          "list_one_mean": [
+            {
+              "id_full_en": "fine feathers make fine birds",
+              "list_im": [
+                {
+                  "im_full_vn": "người đẹp nhờ lụa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fine gentleman",
+              "list_im": [
+                {
+                  "im_full_vn": "ông lớn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fine lady",
+              "list_im": [
+                {
+                  "im_full_vn": "bà lớn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "hay, khéo",
+          "list_en_vn": [
+            {
+              "full_en": "that will suit me fine",
+              "full_vn": "cái đó đối với tôi vừa khéo"
+            },
+            {
+              "full_en": "to talk fine",
+              "full_vn": "nói hay, nói khéo"
+            },
+            {
+              "full_en": "to cut it fine",
+              "full_vn": "tính vừa khéo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trời đẹp",
+          "list_one_mean": [
+            {
+              "id_full_en": "in rain or fine",
+              "list_im": [
+                {
+                  "im_full_vn": "dù mưa hay nắng"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) lúc khó khăn cũng như lúc thuận lợi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lọc (bia) cho trong"
+        },
+        {
+          "m_full_vn": "( + away , down , off ) làm thanh, làm mịn"
+        },
+        {
+          "m_full_vn": "làm nhỏ bớt, làm thon"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trong ra (nước...)"
+        },
+        {
+          "m_full_vn": "trở nên thanh hơn, trở nên nhỏ hơn, trở nên mịn hơn"
+        },
+        {
+          "m_full_vn": "thon ra"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiền phạt",
+          "list_en_vn": [
+            {
+              "full_en": "to impose a fine on someone",
+              "full_vn": "phạt vạ ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to fine somebody for something / doing something ) bắt phạt ai, phạt vạ ai",
+          "list_en_vn": [
+            {
+              "full_en": "fined for dangerous driving",
+              "full_vn": "bị phạt vì lái xe bạt mạng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trả tiền chồng nhà (người thuê nhà)",
+          "list_one_mean": [
+            {
+              "id_full_en": "chance would be a fine thing",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi muốn vậy, nhưng chẳng bao giờ có cơ hội làm được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the finer points",
+              "list_im": [
+                {
+                  "im_full_vn": "những nét tinh túy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get sth down to a fine art",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc gì một cách thành thạo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to put too fine a point on it",
+              "list_im": [
+                {
+                  "im_full_vn": "nói thẳng ruột ngựa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442573_19e2345bba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442573_3324c82c9d_o.png",
+      "id_image": "fine_1566580"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327506_a49db5e274_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327506_7732d469eb_o.png",
+      "id_image": "fine_6333316"
+    }
+  ]
+}

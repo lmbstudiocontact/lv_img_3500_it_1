@@ -1,0 +1,89 @@
+{
+  "english": "household",
+  "phat_am": "['haushould]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tất cả những người cùng sống trong một ngôi nhà; hộ",
+          "list_en_vn": [
+            {
+              "full_en": "I grew up as part of a large household",
+              "full_vn": "tôi lớn lên trong một hộ đông người"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trong gia đình; dùng cho gia đình",
+          "list_one_mean": [
+            {
+              "id_full_en": "a household name /word",
+              "list_im": [
+                {
+                  "im_full_vn": "tên của một người hoặc cái gì đã trở nên quen thuộc vì được dùng nhiều; từ ngữ cửa miệng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The product was so successful that its name became a household word",
+                      "full_vn": "Sản phẩm đó thành công đến nỗi tên của nó đã trở thành từ ngữ cửa miệng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "household troops",
+              "list_im": [
+                {
+                  "im_full_vn": "binh lính bảo vệ nhà vua; quân ngự lâm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "household gods",
+              "full_vn": "các vị thần hộ mạng trong nhà"
+            },
+            {
+              "full_en": "household expenses /duties ; household goods",
+              "full_vn": "chi tiêu/phận sự trong gia đình; hàng hoá dùng cho gia đình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066245_aa12f7d50b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066245_bfe233f7be_o.png",
+      "id_image": "household_1998563"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684384_9df5edeb36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684384_362f0e53a0_o.png",
+      "id_image": "household_2421811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684329_4388a7be36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684329_7dcee5715f_o.png",
+      "id_image": "household_4232424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066125_1c36af3854_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066125_d7739438cb_o.png",
+      "id_image": "household_4433802"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066080_3d3d473ee6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066080_49b3a3402a_o.png",
+      "id_image": "household_5459489"
+    }
+  ]
+}

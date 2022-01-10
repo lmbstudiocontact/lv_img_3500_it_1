@@ -1,0 +1,32 @@
+{
+  "english": "itinerary",
+  "phat_am": "[ai'tinərəri; i'tinərəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kế hoạch về một cuộc hành trình; ghi chép về một cuộc hành trình",
+          "list_en_vn": [
+            {
+              "full_en": "to keep to /depart from /follow one's itinerary",
+              "full_vn": "bám theo/xuất phát từ/theo hành trình của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381677_3ea62089a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381677_cb28964c37_o.png",
+      "id_image": "itinerary_1834560"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381752_277fcba4b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381752_75fb7bcf1f_o.png",
+      "id_image": "itinerary_494720"
+    }
+  ]
+}

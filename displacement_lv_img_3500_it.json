@@ -1,0 +1,42 @@
+{
+  "english": "displacement",
+  "phat_am": "[dis'pleismənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đổi chỗ, sự dời chỗ, sự chuyển chỗ"
+        },
+        {
+          "m_full_vn": "sự thải ra, sự cách chức (một công chức...)"
+        },
+        {
+          "m_full_vn": "sự chiếm chỗ, sự hất ra khỏi chỗ"
+        },
+        {
+          "m_full_vn": "sự thay thế"
+        },
+        {
+          "m_full_vn": "(điện học) sự dịch chuyển; độ dịch chuyển"
+        },
+        {
+          "m_full_vn": "(hàng hải) trọng lượng nước rẽ của tàu",
+          "list_en_vn": [
+            {
+              "full_en": "a ship with a displacement of ten thousand tons",
+              "full_vn": "con tàu có trọng lượng nước rẽ mười nghìn tấn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669939_e395ee9edb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669939_dd698463be_o.png",
+      "id_image": "displacement_4844702"
+    }
+  ]
+}

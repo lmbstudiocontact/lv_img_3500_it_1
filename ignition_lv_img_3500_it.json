@@ -1,0 +1,47 @@
+{
+  "english": "ignition",
+  "phat_am": "[ig'ni∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đốt cháy, sự bốc cháy"
+        },
+        {
+          "m_full_vn": "sự mồi lửa, sự đánh lửa",
+          "list_en_vn": [
+            {
+              "full_en": "battery ignition",
+              "full_vn": "sự mồi lửa bằng ắc-quy"
+            },
+            {
+              "full_en": "spark ignition",
+              "full_vn": "sự mồi bằng tia lửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bộ phận mồi lửa, bộ phận đánh lửa (trong máy) ( (viết tắt) ign )"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060585_186f1178bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060585_a5a3954f42_o.png",
+      "id_image": "ignition_2422786"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368612_bd2464778a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368612_a64a44cdd8_o.png",
+      "id_image": "ignition_5457883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323646_327173e3bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323646_71c553b8c9_o.png",
+      "id_image": "ignition_5823332"
+    }
+  ]
+}

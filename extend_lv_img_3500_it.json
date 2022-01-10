@@ -1,0 +1,96 @@
+{
+  "english": "extend",
+  "phat_am": "[iks'tend]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "duỗi thẳng (tay, chân...); đưa ra; giơ ra",
+          "list_en_vn": [
+            {
+              "full_en": "extend your arms vertically",
+              "full_vn": "hãy duỗi hai cánh tay theo chiều dọc"
+            },
+            {
+              "full_en": "the bird extended its wings in flight",
+              "full_vn": "con chim sải cánh trong khi bay"
+            },
+            {
+              "full_en": "he extended his hand to the new assistant",
+              "full_vn": "ông ta chìa bàn tay ra (để bắt tay) với người trợ lý mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kéo dài (không gian hoặc thời gian); mở rộng",
+          "list_en_vn": [
+            {
+              "full_en": "to extend a fence , wall , ladder",
+              "full_vn": "kéo dài hàng rào, bức tường, cái thang"
+            },
+            {
+              "full_en": "to extend a cable between two posts",
+              "full_vn": "kéo căng dây cáp giữa hai cột"
+            },
+            {
+              "full_en": "to extend the meaning of a word",
+              "full_vn": "mở rộng nghĩa của một từ"
+            },
+            {
+              "full_en": "to extend credit",
+              "full_vn": "kéo dài thời gian tín dụng"
+            },
+            {
+              "full_en": "can you extend your visit a few days longer ?",
+              "full_vn": "ông kéo dài chuyến thăm thêm vài ngày nữa nhé?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to extend something to somebody ) dành cho (sự đón tiếp...); gửi tới (lời chúc...)",
+          "list_en_vn": [
+            {
+              "full_en": "they extended their fellow-countryman a warm welcome",
+              "full_vn": "họ dành cho người đồng hương của họ một sự tiếp đón nồng nhiệt"
+            },
+            {
+              "full_en": "to extend the best wishes to one's sweetheart",
+              "full_vn": "gửi những lời chúc tốt đẹp nhất tới người yêu của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sử dụng hoặc mở rộng khả năng/năng lực của bản thân.... tới mức tối đa",
+          "list_en_vn": [
+            {
+              "full_en": "She didn't really have to extend herself in the competitive examination",
+              "full_vn": "Thật ra cô ta chẳng cần phải cố gắng hết sức trong cuộc thi tuyển"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kéo dài (đến tận nơi nào hoặc đến thời điểm nào...)",
+          "list_en_vn": [
+            {
+              "full_en": "the zoo extends as far as the river",
+              "full_vn": "sở thú kéo dài đến tận sông"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340976_01a8b52d1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340976_f1304a8f26_o.png",
+      "id_image": "extend_1833988"
+    }
+  ]
+}

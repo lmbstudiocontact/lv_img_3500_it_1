@@ -1,0 +1,247 @@
+{
+  "english": "master",
+  "phat_am": "['mɑ:stə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người có người khác làm việc cho ôngta hoặc dưới quyền ông ta; chủ",
+          "list_en_vn": [
+            {
+              "full_en": "master and servant",
+              "full_vn": "chủ và đầy tớ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( master of something ) người kiểm soát, điều khiển cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to be master of the situation",
+              "full_vn": "làm chủ tình thế"
+            },
+            {
+              "full_en": "to be master of a subject",
+              "full_vn": "am hiểu một vấn đề"
+            },
+            {
+              "full_en": "he has made himself master of the French language",
+              "full_vn": "ông ấy đã tinh thông Pháp ngữ"
+            },
+            {
+              "full_en": "he is the master of a large fortune",
+              "full_vn": "ông ấy là chủ một gia tài lớn"
+            },
+            {
+              "full_en": "to be the master of one's fate",
+              "full_vn": "tự mình làm chủ vận mệnh của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người giỏi hơn",
+          "list_en_vn": [
+            {
+              "full_en": "we shall see which of us is master",
+              "full_vn": "chúng ta sẽ xem ai trong chúng ta giỏi hơn"
+            },
+            {
+              "full_en": "he has met his master",
+              "full_vn": "nó đã gặp phải bậc thầy của nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chủ (của một con chó, con ngựa...)"
+        },
+        {
+          "m_full_vn": "người đàn ông đứng đầu một gia đình; chủ gia đình",
+          "list_en_vn": [
+            {
+              "full_en": "the master of the house",
+              "full_vn": "ông chủ gia đình, ông chủ nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) thuyền trưởng thuyền buôn",
+          "list_en_vn": [
+            {
+              "full_en": "a master mariner",
+              "full_vn": "thủy thủ trưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thầy giáo",
+          "list_en_vn": [
+            {
+              "full_en": "the mathematics /French master",
+              "full_vn": "thầy giáo dạy toán/tiếng Pháp"
+            },
+            {
+              "full_en": "dancing-master ; riding-master",
+              "full_vn": "thầy dạy khiêu vũ; thầy dạy cỡi ngựa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công nhân giỏi, lành nghề hoặc có cơ sở làm ăn riêng; thợ cả",
+          "list_en_vn": [
+            {
+              "full_en": "a master mason /carpenter",
+              "full_vn": "thợ nề/thợ mộc cả"
+            },
+            {
+              "full_en": "a master builder",
+              "full_vn": "chủ thầu xây cất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Master ) cậu (để xưng hô với một người con trai, vì chưa thể gọi là Mr được)",
+          "list_en_vn": [
+            {
+              "full_en": "Master Brown",
+              "full_vn": "cậu Brown"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Master ) hiệu trưởng trường cao đẳng"
+        },
+        {
+          "m_full_vn": "( Master ) thạc sĩ",
+          "list_en_vn": [
+            {
+              "full_en": "Master of Arts /Sciences",
+              "full_vn": "thạc sĩ văn chương/khoa học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghệ sĩ lớn; bậc thầy"
+        },
+        {
+          "m_full_vn": "phim, băng gốc để sao ra nhiều bản khác",
+          "list_one_mean": [
+            {
+              "id_full_en": "like master like man",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) like"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be one's own master /mistress",
+              "list_im": [
+                {
+                  "im_full_vn": "độc lập và tự chủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be master in one's house",
+              "list_im": [
+                {
+                  "im_full_vn": "có thể tự lo cho mình, chứ khỏi nhờ ai giúp đỡ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's lord and master",
+              "list_im": [
+                {
+                  "im_full_vn": "đức ông chồng; đức lang quân"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "master copy",
+              "full_vn": "bản gốc"
+            },
+            {
+              "full_en": "master tape /film",
+              "full_vn": "băng/phim gốc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "xuất sắc; ưu tú",
+          "list_en_vn": [
+            {
+              "full_en": "this painting is the work of a master hand",
+              "full_vn": "bức tranh này là tác phẩm của một nghệ sĩ bậc thầy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "toàn bộ; tổng thể",
+          "list_en_vn": [
+            {
+              "full_en": "a master plan of the barracks",
+              "full_vn": "sơ đồ tổng thể của doanh trại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chính; chủ yếu",
+          "list_en_vn": [
+            {
+              "full_en": "master cylinder",
+              "full_vn": "xy lanh chính"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm chủ; điều khiển; chỉ huy; kiềm chế; khống chế",
+          "list_en_vn": [
+            {
+              "full_en": "to master one's temper /feelings",
+              "full_vn": "kiềm chế được cơn giận dữ/cảm xúc của mình"
+            },
+            {
+              "full_en": "to master one's difficulties",
+              "full_vn": "khắc phục được mọi khó khăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tinh thông; nắm vững; quán triệt",
+          "list_en_vn": [
+            {
+              "full_en": "to master the English language",
+              "full_vn": "nắm vững tiếng Anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436163_f801a50c85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436163_e3f95be9ae_o.png",
+      "id_image": "master_1866061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365832_2e194ef0c8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365832_c6996af055_o.png",
+      "id_image": "master_2621768"
+    }
+  ]
+}

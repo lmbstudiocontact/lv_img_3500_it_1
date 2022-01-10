@@ -1,0 +1,257 @@
+{
+  "english": "flat",
+  "phat_am": "[flæt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dãy phòng (ở một tầng trong một nhà khối)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) căn phòng, căn buồng"
+        },
+        {
+          "m_full_vn": "(hàng hải) ngăn, gian"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) tầng"
+        },
+        {
+          "m_full_vn": "mặt phẳng"
+        },
+        {
+          "m_full_vn": "miền đất phẳng"
+        },
+        {
+          "m_full_vn": "lòng (sông, bàn tay...)",
+          "list_en_vn": [
+            {
+              "full_en": "the flat of the hand",
+              "full_vn": "lòng bàn tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "miền đất thấp, miền đầm lầy"
+        },
+        {
+          "m_full_vn": "thuyền đáy bằng"
+        },
+        {
+          "m_full_vn": "rổ nông, hộp nông"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (ngành đường sắt) toa trần ( (cũng) flat-car )"
+        },
+        {
+          "m_full_vn": "(sân khấu) phần phông đã đóng khung"
+        },
+        {
+          "m_full_vn": "(âm nhạc) dấu giáng"
+        },
+        {
+          "m_full_vn": "( số nhiều) giày đế bằng"
+        },
+        {
+          "m_full_vn": "(từ lóng) kẻ lừa bịp"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) lốp bẹp, lốp xì hơi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to join the flats",
+              "list_im": [
+                {
+                  "im_full_vn": "chắp vá lại thành một mảnh; giữ cho vẻ trước sau như một"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng phẳng, bẹt, tẹt",
+          "list_en_vn": [
+            {
+              "full_en": "a flat roof",
+              "full_vn": "mái bằng"
+            },
+            {
+              "full_en": "a flat nose",
+              "full_vn": "mũi tẹt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhẵn"
+        },
+        {
+          "m_full_vn": "cùng, đồng (màu)"
+        },
+        {
+          "m_full_vn": "nông",
+          "list_en_vn": [
+            {
+              "full_en": "a flat dish",
+              "full_vn": "đĩa nông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn toàn, thẳng, thẳng thừng, dứt khoát",
+          "list_en_vn": [
+            {
+              "full_en": "flat nonsense",
+              "full_vn": "điều hoàn toàn vô nghĩa"
+            },
+            {
+              "full_en": "a flat denial",
+              "full_vn": "sự từ chối dứt khoát"
+            },
+            {
+              "full_en": "and that's flat !",
+              "full_vn": "dứt khoát là như vậy!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhạt, tẻ nhạt, vô duyên; hả (rượu...)",
+          "list_en_vn": [
+            {
+              "full_en": "a flat joke",
+              "full_vn": "câu đùa vô duyên"
+            },
+            {
+              "full_en": "flat beer",
+              "full_vn": "bia nhạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ế ẩm",
+          "list_en_vn": [
+            {
+              "full_en": "market is flat",
+              "full_vn": "chợ búa ế ẩm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không thay đổi, không lên xuống, đứng im (giá cả...)"
+        },
+        {
+          "m_full_vn": "bẹp, xì hơi (lốp xe)"
+        },
+        {
+          "m_full_vn": "bải hoải, buồn nản"
+        },
+        {
+          "m_full_vn": "(thông tục) không một xu dính túi, kiết xác"
+        },
+        {
+          "m_full_vn": "(âm nhạc) giáng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to go into a flat spin",
+              "list_im": [
+                {
+                  "im_full_vn": "nhạt nhẽo, vô vị"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng, phẳng, bẹt"
+        },
+        {
+          "m_full_vn": "sóng sượt, sóng soài",
+          "list_en_vn": [
+            {
+              "full_en": "to fall flat",
+              "full_vn": "ngã sóng soài"
+            },
+            {
+              "full_en": "to lie flat",
+              "full_vn": "nằm sóng soài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thất bại",
+          "list_en_vn": [
+            {
+              "full_en": "to fall flat on one's face",
+              "full_vn": "thất bại thảm hại, thất bại ê chề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn toàn; thẳng, thẳng thừng, dứt khoát",
+          "list_en_vn": [
+            {
+              "full_en": "to go flat against orders",
+              "full_vn": "hoàn toàn làm trái với mệnh lệnh"
+            },
+            {
+              "full_en": "to tell somebody flat that",
+              "full_vn": "nói thẳng với ai rằng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng",
+          "list_en_vn": [
+            {
+              "full_en": "to type three hundred words in ten minutes flat",
+              "full_vn": "gõ đúng ba trăm chữ trong mười phút"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) theo dấu giáng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bẹt, dát mỏng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367422_9c74b5c6de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367422_6734059a8b_o.png",
+      "id_image": "flat_203881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322431_2e7987e127_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322431_df3a8635ac_o.png",
+      "id_image": "flat_460545"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367297_c191ea2a8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367297_3dfc69e5a5_o.png",
+      "id_image": "flat_4845883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677504_c5cc2d25bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677504_c373cc4f4b_o.png",
+      "id_image": "flat_553978"
+    }
+  ]
+}

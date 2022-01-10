@@ -1,0 +1,65 @@
+{
+  "english": "ferret",
+  "phat_am": "['ferit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dây lụa, dây vải; dải lụa, dải vải"
+        },
+        {
+          "m_full_vn": "(động vật học) chồn sương, chồn furô"
+        },
+        {
+          "m_full_vn": "người tìm kiếm, người mật thám"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi săn bằng chồn sương",
+          "list_en_vn": [
+            {
+              "full_en": "to go ferreting",
+              "full_vn": "đi săn bằng chồn sương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tìm kiếm, tìm bới, lục lọi"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "săn (thỏ) bằng chồn sương"
+        },
+        {
+          "m_full_vn": "( + out ) truy tầm (hung thủ...); khám phá (bí mật...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068515_16c822b435_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068515_0215814da3_o.png",
+      "id_image": "ferret_427458"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331826_68252958bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331826_2fd08fbfdf_o.png",
+      "id_image": "ferret_4359607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446843_5617fa792f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446843_8d9d498ace_o.png",
+      "id_image": "ferret_523533"
+    }
+  ]
+}

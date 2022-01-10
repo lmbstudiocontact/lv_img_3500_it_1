@@ -1,0 +1,99 @@
+{
+  "english": "loss",
+  "phat_am": "[lɔs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự mất"
+        },
+        {
+          "m_full_vn": "sự thua, sự thất bại",
+          "list_en_vn": [
+            {
+              "full_en": "the loss of a battle",
+              "full_vn": "sự thua trận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thiệt hại, tổn hại, tổn thất, thua lỗ",
+          "list_en_vn": [
+            {
+              "full_en": "to suffer heavy losses",
+              "full_vn": "bị thiệt hại nặng"
+            },
+            {
+              "full_en": "to sell at a loss",
+              "full_vn": "bán lỗ vốn"
+            },
+            {
+              "full_en": "to make up a loss",
+              "full_vn": "bù vào chỗ thiệt"
+            },
+            {
+              "full_en": "the death of Lenin was a great loss to the world proletarian movement",
+              "full_vn": "Lê-nin mất đi là một tổn thất lớn cho phong trào vô sản thế giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự uổng phí, sự bỏ phí",
+          "list_one_mean": [
+            {
+              "id_full_en": "a dead loss",
+              "list_im": [
+                {
+                  "im_full_vn": "kẻ vô tích sự, đồ vô dụng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be at a loss",
+              "list_im": [
+                {
+                  "im_full_vn": "lúng túng, bối rối, luống cuống",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be at a loss how to answer",
+                      "full_vn": "lúng túng không biết trả lời thế nào"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "without loss of time",
+              "full_vn": "không để uổng phí thì giờ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690379_2d3b774a9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690379_38c44ef3ed_o.png",
+      "id_image": "loss_1809623"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380277_7372755b78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380277_7b6700a553_o.png",
+      "id_image": "loss_267973"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690349_82be555bf2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690349_a9925bd95e_o.png",
+      "id_image": "loss_5692328"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335156_04bf8bbc52_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335156_532542313e_o.png",
+      "id_image": "loss_6299670"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "english": "heaven",
+  "phat_am": "['hevn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thiên đường ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to be in heaven",
+              "full_vn": "lên thiên đường, chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "Ngọc hoàng, Thượng đế, trời",
+          "list_en_vn": [
+            {
+              "full_en": "it was the will of Heaven",
+              "full_vn": "đó là ý trời"
+            },
+            {
+              "full_en": "by heaven !; good heavens !",
+              "full_vn": "trời ơi!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(văn học) bầu trời, khoảng trời",
+          "list_en_vn": [
+            {
+              "full_en": "the broad expanse of heaven",
+              "full_vn": "khoảng trời rộng bao la"
+            },
+            {
+              "full_en": "the heavens",
+              "full_vn": "khoảng trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "niềm hạnh phúc thần tiên",
+          "list_one_mean": [
+            {
+              "id_full_en": "to move heaven and earth",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) move"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the seventh heaven",
+              "list_im": [
+                {
+                  "im_full_vn": "vui sướng tuyệt trần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "heaven of heavens",
+              "list_im": [
+                {
+                  "im_full_vn": "trên cao chín tầng mây (nơi Thượng đế ở, theo đạo Do thái)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Heavens above",
+              "list_im": [
+                {
+                  "im_full_vn": "Chúa ơi! Lạy Chúa! Trời ơi!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Heaven forbid that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "lạy trời cho..... đừng.....",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Heaven forbid that he should fail in the examination",
+                      "full_vn": "lạy trời cho anh ta đừng thi hỏng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "Heaven knows",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ có trời biết!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the heavens opened",
+              "list_im": [
+                {
+                  "im_full_vn": "trời bắt đầu mưa như trút"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stink /to smell to high heaven",
+              "list_im": [
+                {
+                  "im_full_vn": "toả ra một mùi khó chịu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339711_e5f3083ed3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339711_35f73a668b_o.png",
+      "id_image": "heaven_1450738"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384637_254a24209a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384637_bdbf26fd43_o.png",
+      "id_image": "heaven_2545705"
+    }
+  ]
+}

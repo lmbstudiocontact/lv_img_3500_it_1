@@ -1,0 +1,58 @@
+{
+  "english": "immigration",
+  "phat_am": "[,imi'grei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhập cư",
+          "list_en_vn": [
+            {
+              "full_en": "restrictions on immigration",
+              "full_vn": "những hạn chế về việc nhập cư"
+            },
+            {
+              "full_en": "immigration officials",
+              "full_vn": "những quan chức phụ trách vấn đề nhập cư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tổng số người nhập cư (trong một thời gian nhất định)"
+        },
+        {
+          "m_full_vn": "như immigration control",
+          "list_en_vn": [
+            {
+              "full_en": "to go /pass through immigration",
+              "full_vn": "qua trạm kiểm soát nhập cảnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437498_0bcf9f6a45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437498_6bc7a21588_o.png",
+      "id_image": "immigration_3061872"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437473_4cbf399b03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437473_e334eea1fd_o.png",
+      "id_image": "immigration_4251721"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322166_f59dee5877_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322166_ef042da7a8_o.png",
+      "id_image": "immigration_4283080"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058960_080d3bd94d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058960_3145462c3b_o.png",
+      "id_image": "immigration_5965823"
+    }
+  ]
+}

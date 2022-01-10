@@ -1,0 +1,58 @@
+{
+  "english": "fee",
+  "phat_am": "[fi:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "số tiền trả cho lời khuyên hoặc dịch vụ nghề nghiệp (cho giáo viên tư, bác sĩ tư chẳng hạn); tiền thù lao",
+          "list_en_vn": [
+            {
+              "full_en": "to pay the lawyer's fees",
+              "full_vn": "trả tiền thù lao cho luật sư"
+            },
+            {
+              "full_en": "a bill for school fees",
+              "full_vn": "giấy báo học phí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền trả để dự thi, gia nhập một câu lạc bộ...; lệ phí"
+        },
+        {
+          "m_full_vn": "quyền hưởng di sản; quyền thừa kế"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ, thì quá khứ và động tính từ quá khứ là feed",
+      "list_m": [
+        {
+          "m_full_vn": "trả tiền thù lao cho (ai)"
+        },
+        {
+          "m_full_vn": "thuê (ai) giúp việc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688129_1638a089b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688129_ca4aff85df_o.png",
+      "id_image": "fee_1328236"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688099_eef04d21d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688099_d379653131_o.png",
+      "id_image": "fee_5235433"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448108_77dd8466c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448108_0bc41c69c9_o.png",
+      "id_image": "fee_5455911"
+    }
+  ]
+}

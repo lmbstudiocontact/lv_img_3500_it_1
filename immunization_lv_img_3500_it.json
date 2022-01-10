@@ -1,0 +1,37 @@
+{
+  "english": "immunization",
+  "phat_am": "[,imju:nai'zei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) sự tạo miễn dịch, sự chủng ngừa",
+          "list_en_vn": [
+            {
+              "full_en": "immunization against tetanus",
+              "full_vn": "sự chủng ngừa bệnh uốn ván"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437038_745d2a41a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437038_651187d5f3_o.png",
+      "id_image": "immunization_2621722"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321836_e1829caaf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321836_d3deef6e13_o.png",
+      "id_image": "immunization_2621895"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321796_0751a72a80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321796_f29e827a86_o.png",
+      "id_image": "immunization_4310174"
+    }
+  ]
+}

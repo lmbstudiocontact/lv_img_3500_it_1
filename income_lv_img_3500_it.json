@@ -1,0 +1,54 @@
+{
+  "english": "income",
+  "phat_am": "['iηkʌm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lợi tức, thu nhập",
+          "list_en_vn": [
+            {
+              "full_en": "a family with two incomes",
+              "full_vn": "gia đình có hai nguồn thu nhập (cả vợ và chồng đều làm ra tiền)"
+            },
+            {
+              "full_en": "national income",
+              "full_vn": "lợi tức quốc dân, thu nhập quốc dân"
+            },
+            {
+              "full_en": "to live within one's income",
+              "full_vn": "sống trong phạm vi số tiền kiếm được"
+            },
+            {
+              "full_en": "to live beyond one's income",
+              "full_vn": "sống quá phạm vi số tiền kiếm được, vung tay quá trán"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673924_f464eb52ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673924_8d83272c8d_o.png",
+      "id_image": "income_1322208"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318996_686e908bd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318996_aecb364874_o.png",
+      "id_image": "income_2503467"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363582_475755a81e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363582_b615b9a4e7_o.png",
+      "id_image": "income_4695210"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363677_fa4fb7c5bc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363677_1970e50e08_o.png",
+      "id_image": "income_950576"
+    }
+  ]
+}

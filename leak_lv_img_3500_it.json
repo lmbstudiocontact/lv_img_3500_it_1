@@ -1,0 +1,82 @@
+{
+  "english": "leak",
+  "phat_am": "[li:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lỗ thủng, lỗ rò, khe hở",
+          "list_en_vn": [
+            {
+              "full_en": "to stop a leak",
+              "full_vn": "bịt lỗ rò"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ dột (trên mái nhà)"
+        },
+        {
+          "m_full_vn": "sự rò; độ rò"
+        },
+        {
+          "m_full_vn": "sự lộ (bí mật); điều bí mật bị lộ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lọt qua, rỉ ra, rò ra, thoát ra",
+          "list_en_vn": [
+            {
+              "full_en": "boat leaks",
+              "full_vn": "thuyền bị nước rỉ vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lọt ra, lộ ra (điều bí mật)",
+          "list_en_vn": [
+            {
+              "full_en": "the secret has leaked out",
+              "full_vn": "điều bí mật đã lọt ra ngoài"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiết lộ (bí mật)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672139_07fa0dac6a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672139_ea45fc5bed_o.png",
+      "id_image": "leak_3071605"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361722_7c1b168f77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361722_84773e6b5a_o.png",
+      "id_image": "leak_4845888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432548_caf0abf32b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432548_a345e30ef3_o.png",
+      "id_image": "leak_900630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053895_c1838500e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053895_9dbac1d0ed_o.png",
+      "id_image": "leak_900631"
+    }
+  ]
+}

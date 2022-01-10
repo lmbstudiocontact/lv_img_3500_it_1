@@ -1,0 +1,87 @@
+{
+  "english": "meat",
+  "phat_am": "[mi:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thịt",
+          "list_en_vn": [
+            {
+              "full_en": "fresh meat ; frozen meat",
+              "full_vn": "thịt tươi; thịt đông lạnh"
+            },
+            {
+              "full_en": "cooked meat",
+              "full_vn": "thịt đã nấu chín"
+            },
+            {
+              "full_en": "meat -eating animals",
+              "full_vn": "loài thú ăn thịt"
+            },
+            {
+              "full_en": "a slice of meat",
+              "full_vn": "một lát thịt"
+            },
+            {
+              "full_en": "to abstain from meat",
+              "full_vn": "kiêng thịt, ăn chay"
+            },
+            {
+              "full_en": "a skinny boy without much meat on him",
+              "full_vn": "thằng bé gầy giơ xương (chẳng có tí thịt nào cả)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) thức ăn (nói chung)",
+          "list_en_vn": [
+            {
+              "full_en": "meat and drink",
+              "full_vn": "đồ ăn thức uống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phần chủ yếu; phần cốt lõi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be meat and drink to someone",
+              "list_im": [
+                {
+                  "im_full_vn": "là niềm vui của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one man's meat is another man's poison",
+              "list_im": [
+                {
+                  "im_full_vn": "cái sướng cho người này là cái khổ cho người khác"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673379_94c6e20138_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673379_a30833f63e_o.png",
+      "id_image": "meat_124365"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363132_709efe0314_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363132_9f68bd6210_o.png",
+      "id_image": "meat_1702826"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055130_eef52ec91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055130_e83b5acc50_o.png",
+      "id_image": "meat_2403379"
+    }
+  ]
+}

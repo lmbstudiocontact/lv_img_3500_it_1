@@ -1,0 +1,468 @@
+{
+  "english": "live",
+  "phat_am": "[laiv]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sống",
+          "list_en_vn": [
+            {
+              "full_en": "as long as we live , we will fight oppression and exploitation",
+              "full_vn": "chừng nào còn sống, chúng ta còn đấu tranh chống áp bức và bóc lột"
+            },
+            {
+              "full_en": "Marx's name will live for ever",
+              "full_vn": "tên của Mác sẽ sống mãi"
+            },
+            {
+              "full_en": "Lenin's memory lives",
+              "full_vn": "Lê-nin vẫn sống mãi trong tâm trí mọi người"
+            },
+            {
+              "full_en": "long live communism",
+              "full_vn": "chủ nghĩa cộng sản muôn năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở, trú tại",
+          "list_one_mean": [
+            {
+              "id_full_en": "how the other half lives",
+              "list_im": [
+                {
+                  "im_full_vn": "xem half"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live beyond one's means",
+              "list_im": [
+                {
+                  "im_full_vn": "tiêu nhiều hơn tiền mà mình kiếm được, vung tay quá trán"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live by one's wits",
+              "list_im": [
+                {
+                  "im_full_vn": "sống xoay sở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live in the past",
+              "list_im": [
+                {
+                  "im_full_vn": "sống theo quá khứ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live in sin",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn nằm với nhau như vợ chồng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live it up",
+              "list_im": [
+                {
+                  "im_full_vn": "sống phung phí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live a lie",
+              "list_im": [
+                {
+                  "im_full_vn": "xem lie"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live like fighting cocks",
+              "list_im": [
+                {
+                  "im_full_vn": "thích cao lương mỹ vị, thích ăn uống phủ phê"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live like a lord",
+              "list_im": [
+                {
+                  "im_full_vn": "sống như ông hoàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live on the fat of the land",
+              "list_im": [
+                {
+                  "im_full_vn": "sống hưởng thụ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "we live and learn",
+              "list_im": [
+                {
+                  "im_full_vn": "sống qua rồi mới biết"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to live in Hanoi",
+              "full_vn": "sống ở Hà nội"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sống",
+          "list_en_vn": [
+            {
+              "full_en": "to live a quiet life",
+              "full_vn": "sống một cuộc đời bình lặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thực hiện được (trong cuộc sống)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to live by",
+              "list_im": [
+                {
+                  "im_full_vn": "kiếm sống bằng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to live by honest labour",
+                      "full_vn": "kiếm sống bằng cách làm ăn lương thiện"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live down",
+              "list_im": [
+                {
+                  "im_full_vn": "để thời gian làm quên đi, để thời gian xoá nhoà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "live down one's sorrow",
+                      "full_vn": "để thời gian làm quên nỗi buồn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "phá tan, làm mất đi bằng thái độ cư xử đứng đắn (thành kiến, lỗi lầm...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to live down a prejudice against one",
+                      "full_vn": "bằng cách sống đứng đắn phá tan thành kiến của người ta đối với mình"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live in",
+              "list_im": [
+                {
+                  "im_full_vn": "ở nơi làm việc; ở ngay trong khu làm việc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live on (upon )",
+              "list_im": [
+                {
+                  "im_full_vn": "sống bằng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to live on fruit",
+                      "full_vn": "sống bằng hoa quả"
+                    },
+                    {
+                      "full_en": "to live on hope",
+                      "full_vn": "sống bằng hy vọng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live out",
+              "list_im": [
+                {
+                  "im_full_vn": "sống sót"
+                },
+                {
+                  "im_full_vn": "sống qua được (người ốm)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the patient lives out the night",
+                      "full_vn": "bệnh nhân qua được đêm"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "sống ở ngoài nơi làm việc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live through",
+              "list_im": [
+                {
+                  "im_full_vn": "sống sót, trải qua",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to live through a storm",
+                      "full_vn": "sống sót sau một trận bão"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live up to",
+              "list_im": [
+                {
+                  "im_full_vn": "sống theo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to live up to one's income",
+                      "full_vn": "sống ở mức đúng với thu nhập của mình"
+                    },
+                    {
+                      "full_en": "to live up to one's reputation",
+                      "full_vn": "sống (cư xử) xứng đáng với thanh danh của mình"
+                    },
+                    {
+                      "full_en": "to live up to one's principles",
+                      "full_vn": "thực hiện những nguyên tắc của mình"
+                    },
+                    {
+                      "full_en": "to live up to one's word (promise )",
+                      "full_vn": "thực hiện lời hứa, giữ trọn lời hứa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live with",
+              "list_im": [
+                {
+                  "im_full_vn": "sống với, sống chung với; chịu đựng, đành chịu (cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live close",
+              "list_im": [
+                {
+                  "im_full_vn": "sống dè xẻn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live in clover",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) clover"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live a double life",
+              "list_im": [
+                {
+                  "im_full_vn": "sống hai cuộc đời, đóng hai vai trò khác nhau trong cuộc sống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live fast",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) fast"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live from hand to mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "sống lần hồi, kiếm ngày nào ăn ngày nấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live rough",
+              "list_im": [
+                {
+                  "im_full_vn": "sống cực khổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live high",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) high"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live and let live",
+              "list_im": [
+                {
+                  "im_full_vn": "sống dĩ hoà vi quí, sống đèn nhà ai người ấy ráng, sống mũ ni che tai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live in a small way",
+              "list_im": [
+                {
+                  "im_full_vn": "sống giản dị và bình lặng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live well",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn ngon"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to live one's dream",
+              "full_vn": "thực hiện được giấc mơ của mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sống, hoạt động",
+          "list_en_vn": [
+            {
+              "full_en": "to fish with a live bait",
+              "full_vn": "câu bằng mồi sống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đùa cợt) thực (không phải ở trong tranh hay là đồ chơi)",
+          "list_en_vn": [
+            {
+              "full_en": "a live horse",
+              "full_vn": "một con ngựa thực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đang cháy đỏ",
+          "list_en_vn": [
+            {
+              "full_en": "live coal",
+              "full_vn": "than đang cháy đỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chưa nổ, chưa cháy",
+          "list_en_vn": [
+            {
+              "full_en": "live bomb",
+              "full_vn": "bom chưa nổ"
+            },
+            {
+              "full_en": "live match",
+              "full_vn": "diêm chưa đánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đang quay",
+          "list_en_vn": [
+            {
+              "full_en": "a live axle",
+              "full_vn": "trục quay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có dòng điện chạy qua",
+          "list_en_vn": [
+            {
+              "full_en": "live wire",
+              "full_vn": "dây có dòng điện đang chạy qua; (nghĩa bóng) người sôi nổi; người năng nổ; người cương quyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tại chỗ, trong lúc sự việc xảy ra",
+          "list_en_vn": [
+            {
+              "full_en": "a live broadcast",
+              "full_vn": "buổi phát thanh tại chỗ (trận bóng đá...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mạnh mẽ, đầy khí lực"
+        },
+        {
+          "m_full_vn": "nóng hổi, có tính chất thời sự",
+          "list_en_vn": [
+            {
+              "full_en": "a live issue",
+              "full_vn": "vấn đề nóng hổi, vấn đề có tính chất thời sự"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454288_c67dd9a681_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454288_2ecb86c8d1_o.png",
+      "id_image": "live_2452058"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694494_1a96f72e94_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694494_704f5e0851_o.png",
+      "id_image": "live_2540418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694444_1fb4638751_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694444_f3570395c5_o.png",
+      "id_image": "live_5853752"
+    }
+  ]
+}

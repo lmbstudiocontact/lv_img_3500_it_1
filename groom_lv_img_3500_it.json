@@ -1,0 +1,72 @@
+{
+  "english": "groom",
+  "phat_am": "[grum]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người giữ ngựa"
+        },
+        {
+          "m_full_vn": "quan hầu (trong hoàng gia Anh)"
+        },
+        {
+          "m_full_vn": "chú rể ( (viết tắt) của bridegroom )"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chải lông (cho ngựa)"
+        },
+        {
+          "m_full_vn": "(dạng động tính từ quá khứ) ăn mặc tề chỉnh chải chuốt",
+          "list_en_vn": [
+            {
+              "full_en": "to be well groomed",
+              "full_vn": "ăn mặc tề chỉnh chải chuốt"
+            },
+            {
+              "full_en": "to be badly groomed",
+              "full_vn": "ăn mặc lôi thôi nhếch nhác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) chuẩn bị (cho người nào bước vào nghề gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to groom someone for stardom",
+              "full_vn": "chuẩn bị cho ai trở thành diễn viên điện ảnh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320536_d2ae9781df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320536_ce44ca08d3_o.png",
+      "id_image": "groom_1775664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365452_402263778e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365452_b27029f9b0_o.png",
+      "id_image": "groom_1940975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435633_b3700d059e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435633_40e6ae9116_o.png",
+      "id_image": "groom_4359980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320406_c24153bd64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320406_a6bf1aeffb_o.png",
+      "id_image": "groom_5833045"
+    }
+  ]
+}

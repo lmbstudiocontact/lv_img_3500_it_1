@@ -1,0 +1,59 @@
+{
+  "english": "dual",
+  "phat_am": "['dju:əl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hai, lưỡng, kép, đôi; hai mặt; gấp đôi; tay đôi",
+          "list_en_vn": [
+            {
+              "full_en": "dual ownership",
+              "full_vn": "quyền sở hữu tay đôi"
+            },
+            {
+              "full_en": "dual control",
+              "full_vn": "sự điều khiển tay đôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) đôi"
+        },
+        {
+          "m_full_vn": "(toán học) đối ngẫu",
+          "list_en_vn": [
+            {
+              "full_en": "dual theorem",
+              "full_vn": "định lý đối ngẫu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, (ngôn ngữ học)",
+      "list_m": [
+        {
+          "m_full_vn": "số đôi"
+        },
+        {
+          "m_full_vn": "từ thuộc số đôi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380927_993a5fb070_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380927_7ed80d120b_o.png",
+      "id_image": "dual_3603712"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691089_4e4e2bf077_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691089_41a32f780a_o.png",
+      "id_image": "dual_4044551"
+    }
+  ]
+}

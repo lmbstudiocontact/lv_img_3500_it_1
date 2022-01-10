@@ -1,0 +1,65 @@
+{
+  "english": "globe",
+  "phat_am": "[gloub]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả cầu",
+          "list_en_vn": [
+            {
+              "full_en": "terrestrial globe",
+              "full_vn": "quả địa cầu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "địa cầu, trái đất, thế giới"
+        },
+        {
+          "m_full_vn": "cầu mắt"
+        },
+        {
+          "m_full_vn": "chao đèn hình cầu"
+        },
+        {
+          "m_full_vn": "bầu nuôi cá vàng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm thành hình cầu"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thành hình cầu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331276_9e26b5b301_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331276_eca5a449ea_o.png",
+      "id_image": "globe_1010737"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375947_c953a0635e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375947_5386bba73e_o.png",
+      "id_image": "globe_1631094"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686224_33e41b25ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686224_89a2dc7117_o.png",
+      "id_image": "globe_4426594"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "english": "gauge",
+  "phat_am": "[geidʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máy đo (sức gió, chiều cao của thuỷ triều, lượng nước mưa...)"
+        },
+        {
+          "m_full_vn": "cái đo cỡ (dây...)"
+        },
+        {
+          "m_full_vn": "loại, kiểu, cỡ, tầm, quy mô, khả năng"
+        },
+        {
+          "m_full_vn": "khoảng cách đường ray"
+        },
+        {
+          "m_full_vn": "tiêu chuẩn đánh giá, phương tiện đánh giá (khả năng, tính nết một người)",
+          "list_en_vn": [
+            {
+              "full_en": "to take the gauge of",
+              "full_vn": "đánh giá (ai)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) lanhgô điều chỉnh lề"
+        },
+        {
+          "m_full_vn": "cái mấp của thợ mộc (để vạch những đường thẳng song song)"
+        },
+        {
+          "m_full_vn": "(hàng hải) hướng đi của tàu so với chiều gió ( (cũng) gage )",
+          "list_en_vn": [
+            {
+              "full_en": "to have the weather gauge",
+              "full_vn": "lợi gió, thuận gió"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đo",
+          "list_en_vn": [
+            {
+              "full_en": "to gauge the rainfall",
+              "full_vn": "đo lượng nước mưa"
+            },
+            {
+              "full_en": "to gauge the contents of a barrel",
+              "full_vn": "đo dung tích của một cái thùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "định cỡ, đo cỡ"
+        },
+        {
+          "m_full_vn": "làm cho đúng tiêu chuẩn, làm cho đúng quy cách"
+        },
+        {
+          "m_full_vn": "đánh giá, phán đoán"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693064_3d713a526a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693064_8707358d57_o.png",
+      "id_image": "gauge_4636939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074735_12bee9eb38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074735_1a28d4e3b7_o.png",
+      "id_image": "gauge_5793427"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074845_3173769690_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074845_723dd137cb_o.png",
+      "id_image": "gauge_694206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452668_97089aef3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452668_49552ed584_o.png",
+      "id_image": "gauge_780787"
+    }
+  ]
+}

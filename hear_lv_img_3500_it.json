@@ -1,0 +1,179 @@
+{
+  "english": "hear",
+  "phat_am": "[hə:d]",
+  "list_type": [
+    {
+      "type": "động từ heard",
+      "list_m": [
+        {
+          "m_full_vn": "nghe",
+          "list_en_vn": [
+            {
+              "full_en": "he doesn't hear well",
+              "full_vn": "anh ta nghe không rõ"
+            },
+            {
+              "full_en": "to hear a lecture",
+              "full_vn": "nghe bài thuyết trình"
+            },
+            {
+              "full_en": "don't go out in the rain - do you hear me !",
+              "full_vn": "đừng ra ngoài mưa - hãy nghe tôi"
+            },
+            {
+              "full_en": "you'd better hear what he is saying",
+              "full_vn": "anh nên nghe xem hắn đang nói gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lắng nghe và xét xử (một vụ kiện) ở phiên toà",
+          "list_en_vn": [
+            {
+              "full_en": "to hear the witnesses",
+              "full_vn": "nghe lời khai của những người làm chứng"
+            },
+            {
+              "full_en": "which judge will hear the case ?",
+              "full_vn": "quan toà nào sẽ xử vụ kiện?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghe nói hoặc được thông tin về điều gì",
+          "list_en_vn": [
+            {
+              "full_en": "have you heard the news ?",
+              "full_vn": "anh nhận được tin đó chưa?"
+            },
+            {
+              "full_en": "you speak German very well , I hear",
+              "full_vn": "tôi nghe nói anh nói tiếng Đức hay lắm"
+            },
+            {
+              "full_en": "I hear that he has caught cold for three days",
+              "full_vn": "tôi nghe nói anh ta bị cảm lạnh ba hôm rồi"
+            },
+            {
+              "full_en": "to hear someone out",
+              "full_vn": "lắng nghe ai nói cho đến khi người đó nói xong; nghe ai nói cho đến hết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + of , about , from ) nghe nói, nghe tin, được tin, biết tin; nhận được (thư...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "hear ! hear !",
+              "list_im": [
+                {
+                  "im_full_vn": "hoan hô!; đúng đúng! hay lắm!, tuyệt! (đôi khi có ý mỉa mai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you will hear of this !",
+              "list_im": [
+                {
+                  "im_full_vn": "rồi cậu còn nghe chửi chán về cái chuyện đó!, rồi cậu sẽ biết tay!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hear the last of sb /sth",
+              "list_im": [
+                {
+                  "im_full_vn": "nghe thấy ai/cái gì lần cuối cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hear a pin drop",
+              "list_im": [
+                {
+                  "im_full_vn": "nghe được tiếng đinh ghim rơi, nghe được tiếng động khẽ nhất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hear tell of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "nghe nói về điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hear reason",
+              "list_im": [
+                {
+                  "im_full_vn": "nghe lẽ phải"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make one's voice heard",
+              "list_im": [
+                {
+                  "im_full_vn": "giãi bày ý kiến của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to hear the end of it",
+              "list_im": [
+                {
+                  "im_full_vn": "không dứt được nỗi bận tâm phiền toái"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to hear from somebody",
+              "full_vn": "nhận được tin của ai"
+            },
+            {
+              "full_en": "have you ever heard of that hotel ?",
+              "full_vn": "có bao giờ anh nghe nhắc đến/nói đến khách sạn đó chưa?"
+            },
+            {
+              "full_en": "she disappeared and was never heard of again",
+              "full_vn": "cô ta biến mất và chẳng ai biết gì về cô ta nữa"
+            },
+            {
+              "full_en": "I have never heard of such a thing !",
+              "full_vn": "chưa bao giờ tôi lại nghe được một điều như vậy!"
+            },
+            {
+              "full_en": "I have only just heard about his resignation from office",
+              "full_vn": "tôi chỉ vừa mới nghe nói anh ấy từ chức, tôi chỉ vừa mới được thông báo là anh ấy từ chức"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385962_5ccecda4a2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385962_db01efb937_o.png",
+      "id_image": "hearing_3988150"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455753_e1fbc18449_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455753_0f3ba48788_o.png",
+      "id_image": "hearing_5759960"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455728_78e2fc91e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455728_f313b7da38_o.png",
+      "id_image": "hearing_5983893"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386017_b29799932b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386017_b67b19a4fe_o.png",
+      "id_image": "hear_5827885"
+    }
+  ]
+}

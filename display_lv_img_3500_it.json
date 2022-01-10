@@ -1,0 +1,72 @@
+{
+  "english": "display",
+  "phat_am": "[dis'plei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bày ra, sự phô bày, sự trưng bày",
+          "list_en_vn": [
+            {
+              "full_en": "to make a display of",
+              "full_vn": "phô bày, trưng bày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phô trương, sự khoe khoang"
+        },
+        {
+          "m_full_vn": "sự biểu lộ, sự để lộ ra"
+        },
+        {
+          "m_full_vn": "(ngành in) sự sắp chữ nổi bật"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bày ra, phô bày, trưng bày"
+        },
+        {
+          "m_full_vn": "phô trương, khoe khoang (kiến thức...)"
+        },
+        {
+          "m_full_vn": "biểu lộ ra, để lộ ra, bày tỏ ra (lòng can đảm...)"
+        },
+        {
+          "m_full_vn": "(ngành in) sắp (chữ) nổi bật"
+        },
+        {
+          "m_full_vn": "(vi tính) hiển thị",
+          "list_en_vn": [
+            {
+              "full_en": "to display a dialog box",
+              "full_vn": "hiển thị một hộp thoại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669879_e47d00aa49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669879_08c3b66ab2_o.png",
+      "id_image": "display_1473085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359372_a762c20811_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359372_a014439706_o.png",
+      "id_image": "display_4456340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315241_1bf10db7b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315241_ae6d9550c9_o.png",
+      "id_image": "display_994137"
+    }
+  ]
+}

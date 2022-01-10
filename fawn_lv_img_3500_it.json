@@ -1,0 +1,67 @@
+{
+  "english": "fawn",
+  "phat_am": "[fɔ:n]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nâu vàng"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) hươu nhỏ; nai nhỏ, đama nhỏ (mới một tuổi)"
+        },
+        {
+          "m_full_vn": "màu nâu vàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "in fawn",
+              "list_im": [
+                {
+                  "im_full_vn": "có mang (hươu, nai)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đẻ (hươu, nai)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẫy đuôi mừng, mừng rỡ (chó)"
+        },
+        {
+          "m_full_vn": "xun xoe, bợ đỡ, nịnh hót (người)",
+          "list_en_vn": [
+            {
+              "full_en": "to fawn upon (on ) somebody",
+              "full_vn": "bợ đỡ ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333896_61ebbc79d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333896_aa1974c5d2_o.png",
+      "id_image": "fawn_5150889"
+    }
+  ]
+}

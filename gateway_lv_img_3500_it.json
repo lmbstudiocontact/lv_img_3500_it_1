@@ -1,0 +1,55 @@
+{
+  "english": "gateway",
+  "phat_am": "['geitwei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cổng ra vào",
+          "list_en_vn": [
+            {
+              "full_en": "don't stand there blocking the gateway !",
+              "full_vn": "đừng đứng đấy cản lối ra vào!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cửa ngõ",
+          "list_en_vn": [
+            {
+              "full_en": "Xuan Loc is the gateway to Saigon",
+              "full_vn": "Xuân Lộc là cửa ngõ vào Sài Gòn"
+            },
+            {
+              "full_en": "a good command of English and informatics is the gateway to many convenient jobs",
+              "full_vn": "giỏi tiếng Anh và tin học là phương tiện đưa đến nhiều việc làm thuận lợi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382982_cee3314939_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382982_bbffd74db4_o.png",
+      "id_image": "gateway_2290124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337946_3ffaa6c32f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337946_9704a5167a_o.png",
+      "id_image": "gateway_3124283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382927_6cac44ec98_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382927_d749faa336_o.png",
+      "id_image": "gateway_6091397"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075045_1d9fe4e1e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075045_bd146d17dd_o.png",
+      "id_image": "gateway_675194"
+    }
+  ]
+}

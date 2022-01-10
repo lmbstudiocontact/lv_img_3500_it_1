@@ -1,0 +1,378 @@
+{
+  "english": "jump",
+  "phat_am": "[dʒʌmp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhảy, bước nhảy",
+          "list_en_vn": [
+            {
+              "full_en": "long (broad ) jump",
+              "full_vn": "(thể dục,thể thao) nhảy xa"
+            },
+            {
+              "full_en": "high jump",
+              "full_vn": "(thể dục,thể thao) nhảy cao"
+            },
+            {
+              "full_en": "pole jump",
+              "full_vn": "(thể dục,thể thao) nhảy sào"
+            },
+            {
+              "full_en": "running jump",
+              "full_vn": "nhảy có chạy lấy đà"
+            },
+            {
+              "full_en": "standing jump",
+              "full_vn": "nhảy không chạy lấy đà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giật mình; cái giật mình",
+          "list_en_vn": [
+            {
+              "full_en": "to give someone the jumps",
+              "full_vn": "làm cho ai giật mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the jumps ) sự mê sảng vì rượu"
+        },
+        {
+          "m_full_vn": "sự tăng đột ngột (giá cả, nhiệt độ...)"
+        },
+        {
+          "m_full_vn": "sự thay đổi đột ngột, sự chuyển đột ngột; chỗ hẫng, chỗ hổng (trong lập luận...); chỗ trống (trong một hàng, một dãy)"
+        },
+        {
+          "m_full_vn": "vật chướng ngại phải nhảy qua"
+        },
+        {
+          "m_full_vn": "nước cờ ăn quân (cờ đam)"
+        },
+        {
+          "m_full_vn": "dòng ghi trang tiếp theo (cuối bài báo, truyện ngắn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to keep one jump ahead of sb",
+              "list_im": [
+                {
+                  "im_full_vn": "chiếm ưu thế đối với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be for the high jump",
+              "list_im": [
+                {
+                  "im_full_vn": "có thể bị trừng trị, có thể phải chịu hình phạt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a running jump",
+              "list_im": [
+                {
+                  "im_full_vn": "chạy lấy đà"
+                },
+                {
+                  "im_full_vn": "đi chỗ khác, cút xéo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the jump",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) hối hả bận rộn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy",
+          "list_en_vn": [
+            {
+              "full_en": "to jump for joy",
+              "full_vn": "nhảy lên vì vui sướng"
+            },
+            {
+              "full_en": "to jump from one subject to another",
+              "full_vn": "nhảy từ vấn đề này sang vấn đề kia"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giật mình, giật nảy người",
+          "list_en_vn": [
+            {
+              "full_en": "my heart jumps",
+              "full_vn": "tim tôi giật nảy lên (vì sợ...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhảy vọt, tăng vọt, tăng đột ngột (giá cả, độ nhiệt...)"
+        },
+        {
+          "m_full_vn": "(thường) at , to chớp ngay lấy, nắm ngay lấy; chấp nhận vội vàng, vội đi tới (một kết luận...)",
+          "list_en_vn": [
+            {
+              "full_en": "to jump at an opportunity",
+              "full_vn": "chớp lấy cơ hội"
+            },
+            {
+              "full_en": "to jump at an offer",
+              "full_vn": "vội chấp nhận một đề nghị"
+            },
+            {
+              "full_en": "to jump at (to ) a conclusion",
+              "full_vn": "vội đi tới một kết luận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( jump on , upon ) nhảy bổ vào tấn công dữ dội (kẻ địch...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy qua",
+          "list_en_vn": [
+            {
+              "full_en": "to jump a fence",
+              "full_vn": "nhảy qua hàng rào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ sót, bỏ qua, bỏ cách quãng mất",
+          "list_en_vn": [
+            {
+              "full_en": "to jump a chapter in a book",
+              "full_vn": "bỏ cách quãng mất một chương trong sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trật (bánh ra khỏi đường ray)",
+          "list_en_vn": [
+            {
+              "full_en": "to jump the rails",
+              "full_vn": "trật đường ray"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho nhảy lên, bắt nhảy, bắt nhảy qua",
+          "list_en_vn": [
+            {
+              "full_en": "to jump the horse across the ditch",
+              "full_vn": "bắt con ngựa nhảy qua cái hào"
+            },
+            {
+              "full_en": "to jump a child down",
+              "full_vn": "đỡ cho một em nhỏ nhảy xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm giật mình, làm giật nảy người lên"
+        },
+        {
+          "m_full_vn": "đào lật (khoai rán trong chão...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nhảy lên, nhảy vào",
+          "list_en_vn": [
+            {
+              "full_en": "to jump a train",
+              "full_vn": "nhảy lên xe lửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhảy bổ vào chộp lấy (cái gì)"
+        },
+        {
+          "m_full_vn": "lấn, không đứng vào (hàng nối đuôi nhau theo lần lượt)",
+          "list_en_vn": [
+            {
+              "full_en": "to jump a queue",
+              "full_vn": "lấn chỗ khi xếp hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nẫng tay trên, phỗng tay trên, chiếm đoạt, xâm chiếm",
+          "list_en_vn": [
+            {
+              "full_en": "to jump a mining claim",
+              "full_vn": "chiếm mất quyền khai thác mỏ (của ai)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho bay lên, làm chạy tán loạn (chim, thú săn)"
+        },
+        {
+          "m_full_vn": "khoan đá bằng choòng"
+        },
+        {
+          "m_full_vn": "tiếp (bài báo, truyện ngắn...) ở trang khác"
+        },
+        {
+          "m_full_vn": "chặt, ăn (quân cờ đam)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tấn công bất thình lình"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) bỏ đi bất thình lình, trốn, chuồn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to jump off",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự), (từ lóng) bắt đầu tấn công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to jump on",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) mắng, nhiếc, chỉnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to jump together ; to jump with",
+              "list_im": [
+                {
+                  "im_full_vn": "phù hợp với nhau, nhất trí với nhau; trùng nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to jump the gun",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục,thể thao) chạy trước khi có hiệu lệnh xuất phát"
+                },
+                {
+                  "im_full_vn": "bắt đầu (làm gì) trước lúc quy định"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to jump down somebody's throat",
+              "list_im": [
+                {
+                  "im_full_vn": "chặn đứng ai không cho nói, ngắt lời ai không cho nói"
+                },
+                {
+                  "im_full_vn": "trả lời chặn họng ai, nói chặn họng ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to jump the lights",
+              "list_im": [
+                {
+                  "im_full_vn": "vượt đèn đỏ, xé rào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to jump someone into doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "lừa phỉnh ai làm gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to jump out of one's skin",
+              "list_im": [
+                {
+                  "im_full_vn": "giật nảy mình ngạc nhiên; giật nảy mình sợ hãi..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "to jump on the bandwagon",
+              "list_im": [
+                {
+                  "im_full_vn": "theo ai với hy vọng hưởng lợi chung với người ấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go and jump in the lake",
+              "list_im": [
+                {
+                  "im_full_vn": "đi chỗ khác, cút xéo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to jump bail",
+              "list_im": [
+                {
+                  "im_full_vn": "vắng mặt tại phiên toà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to jump ship",
+              "list_im": [
+                {
+                  "im_full_vn": "nhảy tàu, tự ý từ bỏ nhiệm sở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wait for the cat to jump",
+              "list_im": [
+                {
+                  "im_full_vn": "đợi gió xoay chiều, đợi tình thế thay đổi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067765_9fb14ea411_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067765_d8280acd02_o.png",
+      "id_image": "jump_4524533"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685949_82186280cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685949_5697ce2d6f_o.png",
+      "id_image": "jump_5524975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067685_5f90d083c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067685_8054852771_o.png",
+      "id_image": "jump_5775865"
+    }
+  ]
+}

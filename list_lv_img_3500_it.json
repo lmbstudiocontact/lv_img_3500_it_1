@@ -1,0 +1,120 @@
+{
+  "english": "list",
+  "phat_am": "[list]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trạng thái nghiêng; mặt nghiêng",
+          "list_en_vn": [
+            {
+              "full_en": "to have a list",
+              "full_vn": "(hàng hải) nghiêng về một bên"
+            },
+            {
+              "full_en": "this wall has a decided list",
+              "full_vn": "bức tường này nghiêng hẳn về một bên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mép vải; dải"
+        },
+        {
+          "m_full_vn": "mép vải nhét khe cửa",
+          "list_en_vn": [
+            {
+              "full_en": "to line edges of door with list",
+              "full_vn": "bịt khe cửa bằng mép vải (cho khỏi gió lùa)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) hàng rào bao quanh trường đấu; trường đấu, vũ đài",
+          "list_en_vn": [
+            {
+              "full_en": "to enter the lists against somebody",
+              "full_vn": "thách thức ai, nhận sự thách thức của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "danh sách, sổ, bản kê khai",
+          "list_one_mean": [
+            {
+              "id_full_en": "active list",
+              "list_im": [
+                {
+                  "im_full_vn": "danh sách sĩ quan có thể được gọi nhập ngũ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the danger list",
+              "list_im": [
+                {
+                  "im_full_vn": "gần chết do bạo bệnh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to draw up a list of ..",
+              "full_vn": "làm một bản danh sách về..."
+            },
+            {
+              "full_en": "to strike off the list",
+              "full_vn": "xoá tên khỏi danh sách"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "viền, diềm bằng vải"
+        },
+        {
+          "m_full_vn": "nhét mép vải (vào khe cửa)"
+        },
+        {
+          "m_full_vn": "ghi vào danh sách"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) thích, muốn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695484_8130e9ef51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695484_d8d7e1b856_o.png",
+      "id_image": "list_144919"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455063_1c0b323920_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455063_cf96445c02_o.png",
+      "id_image": "list_167552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695409_08a5db15d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695409_2c6a2f9090_o.png",
+      "id_image": "list_179714"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077365_0bd68921a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077365_b7b42d2bdc_o.png",
+      "id_image": "list_264277"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695354_8ff2d37dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695354_8b062ffa9c_o.png",
+      "id_image": "list_4138632"
+    }
+  ]
+}

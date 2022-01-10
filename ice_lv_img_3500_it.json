@@ -1,0 +1,125 @@
+{
+  "english": "ice",
+  "phat_am": "[ais]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "băng, nước đá"
+        },
+        {
+          "m_full_vn": "kem"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) kim cương"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) thái độ trịnh trọng lạnh lùng"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) tiền đấm mõm cho cảnh sát (của bọn buôn lậu); tiền đút lót cho chủ rạp hát (để được phân phối nhiều vé hơn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to break the ice",
+              "list_im": [
+                {
+                  "im_full_vn": "làm tan băng; (nghĩa bóng) bắt đầu làm quen với nhau; phá bỏ cái không khí ngượng ngập dè dặt ban đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut no ice",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng có tác dụng chi cả; không ăn thua gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his excuses cut no ice with me",
+                      "full_vn": "những lời xin lỗi của hắn chẳng ăn thua gì tôi; những lời xin lỗi của hắn chẳng thuyết phục được tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "on ice",
+              "list_im": [
+                {
+                  "im_full_vn": "có khả năng thành công"
+                },
+                {
+                  "im_full_vn": "xếp lại, tạm gác lại, tạm ngừng hoạt động"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on thin ice",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) trong hoàn cảnh nguy hiểm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be skating on thin ice",
+              "list_im": [
+                {
+                  "im_full_vn": "hành động thiếu tế nhị"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm đóng băng, làm đông lại"
+        },
+        {
+          "m_full_vn": "phủ băng"
+        },
+        {
+          "m_full_vn": "ướp nước đá, ướp lạnh (rượu...)"
+        },
+        {
+          "m_full_vn": "phủ một lượt đường cô (mặt bánh)"
+        },
+        {
+          "m_full_vn": "( Ca-na-da) cho (một đội bóng gậy cong trên băng) ra đấu"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ( (thường) + up )",
+      "list_m": [
+        {
+          "m_full_vn": "đóng băng"
+        },
+        {
+          "m_full_vn": "bị phủ băng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440198_1c9c4236ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440198_f786034f3d_o.png",
+      "id_image": "ice_3038903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440138_4435dffb1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440138_c554eb9447_o.png",
+      "id_image": "ice_4051408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440108_cec8785a34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440108_3880bba056_o.png",
+      "id_image": "ice_6347258"
+    }
+  ]
+}

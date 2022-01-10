@@ -1,0 +1,44 @@
+{
+  "english": "hydraulic",
+  "phat_am": "[hai'drɔ:lik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) nước (dẫn qua ống dẫn hoặc sông đào); chạy bằng sức nước",
+          "list_en_vn": [
+            {
+              "full_en": "hydraulic turbine",
+              "full_vn": "tuabin nước"
+            },
+            {
+              "full_en": "hydraulic generator",
+              "full_vn": "máy thuỷ điện"
+            },
+            {
+              "full_en": "hydraulic mining",
+              "full_vn": "sự khai mỏ bằng sức nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cứng trong nước",
+          "list_en_vn": [
+            {
+              "full_en": "hydraulic cement",
+              "full_vn": "xi măng cứng trong nước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325896_6fedd9a89d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325896_021b255f2f_o.png",
+      "id_image": "hydraulic_2387907"
+    }
+  ]
+}

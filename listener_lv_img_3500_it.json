@@ -1,0 +1,27 @@
+{
+  "english": "listener",
+  "phat_am": "['lisnə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người nghe, thính giả",
+          "list_en_vn": [
+            {
+              "full_en": "a good listener",
+              "full_vn": "người lắng nghe (chuyện, ý kiến người khác)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077245_7066cbf776_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077245_67a7d5530c_o.png",
+      "id_image": "listener_4643239"
+    }
+  ]
+}

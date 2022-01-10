@@ -1,0 +1,89 @@
+{
+  "english": "gallery",
+  "phat_am": "['gæləri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gian phòng hoặc toà nhà trưng bày các tác phẩm nghệ thuật",
+          "list_en_vn": [
+            {
+              "full_en": "a picture gallery",
+              "full_vn": "phòng tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhà cầu, hành lang"
+        },
+        {
+          "m_full_vn": "phòng dài (tập bắn, chơi bóng gỗ...)"
+        },
+        {
+          "m_full_vn": "hạng vé rẻ nhất ở rạp hát, hạng chuồng gà",
+          "list_en_vn": [
+            {
+              "full_en": "gallery hit",
+              "full_vn": "(nghĩa bóng) tiết mục được quần chúng ưa thích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ dành cho ban đồng ca (ở nhà thờ); lô dành cho nhà báo (ở nghị viện)"
+        },
+        {
+          "m_full_vn": "cái giữ thông phong đèn"
+        },
+        {
+          "m_full_vn": "(ngành mỏ); (quân sự) đường hầm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to play to the gallery",
+              "list_im": [
+                {
+                  "im_full_vn": "chiều theo thị hiếu tầm thường của quần chúng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đục đường hầm, mở đương hầm (ở mỏ...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385252_50e9a901c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385252_eb39387268_o.png",
+      "id_image": "gallery_3309178"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455178_eca4fcc103_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455178_35726e7f4c_o.png",
+      "id_image": "gallery_4311650"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455128_b6aa5922e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455128_08ec5c839b_o.png",
+      "id_image": "gallery_4344627"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695704_28c2f548b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695704_f2e1a4cab6_o.png",
+      "id_image": "gallery_751380"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077630_856853b4bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077630_0fee898ca9_o.png",
+      "id_image": "gallery_758515"
+    }
+  ]
+}

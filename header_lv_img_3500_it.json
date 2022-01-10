@@ -1,0 +1,47 @@
+{
+  "english": "header",
+  "phat_am": "['hedə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đóng đáy thùng"
+        },
+        {
+          "m_full_vn": "(bóng đá) cú đội đầu"
+        },
+        {
+          "m_full_vn": "(thông tục) cái nhảy lao đầu xuống trước",
+          "list_en_vn": [
+            {
+              "full_en": "to take a header",
+              "full_vn": "nhảy lao đầu xuống trước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) côlectơ, cái góp điện"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) vòi phun, ống phun"
+        },
+        {
+          "m_full_vn": "(kiến trúc) gạch lát ngang, đá lát ngang (bề dọc của viên gạch, viên đá thẳng góc với tường) ( (xem) stretcher )"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697644_84ddaee026_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697644_89618fa18d_o.png",
+      "id_image": "header_1994775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079830_5c03f02600_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079830_71ac91f200_o.png",
+      "id_image": "header_3527790"
+    }
+  ]
+}

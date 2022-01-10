@@ -1,0 +1,30 @@
+{
+  "english": "expend",
+  "phat_am": "[iks'pend]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to expend something on / upon something / doing something ) tiêu; tiêu dùng (tiền...) vào việc gì"
+        },
+        {
+          "m_full_vn": "dùng hết; dùng cạn kiệt",
+          "list_en_vn": [
+            {
+              "full_en": "to expend all one's ammunition , stores , fuel",
+              "full_vn": "dùng hết đạn dược, đồ dự trữ, nhiên liệu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665474_2858104c4f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665474_d0ee5b3b11_o.png",
+      "id_image": "expend_5821971"
+    }
+  ]
+}

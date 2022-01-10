@@ -1,0 +1,81 @@
+{
+  "english": "disguise",
+  "phat_am": "[dis'gaiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trá hình, sự cải trang"
+        },
+        {
+          "m_full_vn": "quần áo cải trang"
+        },
+        {
+          "m_full_vn": "sự giá trị; sự nguỵ trang; bề ngoài lừa dối"
+        },
+        {
+          "m_full_vn": "sự che giấu, sự che đậy",
+          "list_one_mean": [
+            {
+              "id_full_en": "a blessing in disguise",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) blessing"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trá hình, cải trang",
+          "list_en_vn": [
+            {
+              "full_en": "to disguise oneself as ...",
+              "full_vn": "cải trang là..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguỵ trang (sự việc gì dưới một hình thức lừa dối)"
+        },
+        {
+          "m_full_vn": "che giấu, che đậy",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be disguissed with liquour",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) liquour"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to disguise one's intention",
+              "full_vn": "che đậy ý định của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361012_dcfd9cb0b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361012_40a3151b43_o.png",
+      "id_image": "disguise_4138907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671409_42b1e18cc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671409_ef3a0e483a_o.png",
+      "id_image": "disguise_4713785"
+    }
+  ]
+}

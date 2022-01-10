@@ -1,0 +1,76 @@
+{
+  "english": "grill",
+  "phat_am": "[gril]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(như) grille"
+        },
+        {
+          "m_full_vn": "vỉ (nướng chả)"
+        },
+        {
+          "m_full_vn": "món thịt nướng, chả"
+        },
+        {
+          "m_full_vn": "hiệu chả cá, quán chả nướng; phòng dành cho khách ăn thịt nướng ( (cũng) grill room )"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nướng, thiêu đốt (mặt trời)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) hành hạ, tra tấn (bằng lửa, phơi nắng...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) tra hỏi",
+          "list_en_vn": [
+            {
+              "full_en": "to grill a prisoner",
+              "full_vn": "tra hỏi người tù"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị nướng; bị thiêu đốt"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) bị hành hạ tra tấn (bằng lửa, phơi nắng...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676979_6e56fa2029_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676979_b7323fdcd9_o.png",
+      "id_image": "grill_883530"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676924_54e5b3ee43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676924_3e3886ce18_o.png",
+      "id_image": "grill_933233"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676894_9d28938b27_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676894_327e9069f4_o.png",
+      "id_image": "grill_995892"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058560_b641654066_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058560_69de10728d_o.png",
+      "id_image": "grill_998910"
+    }
+  ]
+}

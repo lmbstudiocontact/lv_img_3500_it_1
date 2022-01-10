@@ -1,0 +1,48 @@
+{
+  "english": "interface",
+  "phat_am": "['intəfeis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bề mặt chung (cho hai vật...); mặt phân giới"
+        },
+        {
+          "m_full_vn": "những cái chung (của hai ngành học thuật...)",
+          "list_en_vn": [
+            {
+              "full_en": "the interface of chemistry and physics",
+              "full_vn": "những cái chung của hoá học và vật lý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) giao diện"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341836_0942a1db1d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341836_bf4ecb296c_o.png",
+      "id_image": "interface_1897372"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341801_73864025c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341801_eaebda22e2_o.png",
+      "id_image": "interface_3094286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697044_416fa52087_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697044_67a548576b_o.png",
+      "id_image": "interface_4829613"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809697114_e36d36c905_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809697114_7f57a6ffa1_o.png",
+      "id_image": "interface_997264"
+    }
+  ]
+}

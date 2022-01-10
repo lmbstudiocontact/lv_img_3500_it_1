@@ -1,0 +1,70 @@
+{
+  "english": "feast",
+  "phat_am": "[fi:st]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bữa tiệc, yến tiệc"
+        },
+        {
+          "m_full_vn": "cái làm cho đầu óc hoặc các giác quan vui thích vì sự phong phú và đa dạng của nó; niềm hứng thú",
+          "list_en_vn": [
+            {
+              "full_en": "a feast of colors /sounds",
+              "full_vn": "ngày hội của màu sắc, âm thanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngày hội tôn giáo được cử hành vui vẻ; ngày lễ hội",
+          "list_en_vn": [
+            {
+              "full_en": "the feast of Christmas",
+              "full_vn": "lễ hội Nô-en"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to feast on something ) dự tiệc; ăn cỗ",
+          "list_en_vn": [
+            {
+              "full_en": "they celebrated by feasting all day",
+              "full_vn": "họ làm lễ kỷ niệm bằng cách tiệc tùng suốt ngày"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to feast somebody with something ) thết tiệc, chiêu đãi"
+        },
+        {
+          "m_full_vn": "làm cho say mê, làm cho thích thú",
+          "list_en_vn": [
+            {
+              "full_en": "to feast one's eyes on a lovely view",
+              "full_vn": "say mê ngắm cảnh đẹp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448703_d7b96f290c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448703_e9cebdb2c2_o.png",
+      "id_image": "feast_2077102"
+    }
+  ]
+}

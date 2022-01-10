@@ -1,0 +1,44 @@
+{
+  "english": "luxurious",
+  "phat_am": "[lʌg'zjuəriəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sang trọng, lộng lẫy; xa hoa",
+          "list_en_vn": [
+            {
+              "full_en": "to live in luxurious surroundings",
+              "full_vn": "sống trong môi trường xa hoa lộng lẫy"
+            },
+            {
+              "full_en": "this car is our most luxurious model",
+              "full_vn": "chiếc xe này là kiểu sang trọng nhất của chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ưa khoái lạc; thích xa hoa, thích xa xỉ (người)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447053_74f9746bc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447053_e782aa9f9f_o.png",
+      "id_image": "luxurious_5778752"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687004_5726006663_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687004_c2f20aecc5_o.png",
+      "id_image": "luxurious_5999136"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331986_782bfd270e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331986_9b76ffd69e_o.png",
+      "id_image": "luxurious_6193395"
+    }
+  ]
+}

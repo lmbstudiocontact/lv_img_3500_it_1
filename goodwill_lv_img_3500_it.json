@@ -1,0 +1,33 @@
+{
+  "english": "goodwill",
+  "phat_am": "[gud'wil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thiện ý, thiện chí; lòng tốt",
+          "list_en_vn": [
+            {
+              "full_en": "people of goodwill",
+              "full_vn": "những người có thiện chí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) khách hàng; sự tín nhiệm (đối với khách hàng)"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) đặc quyền kế nghiệp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065265_82445e7493_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065265_1af00220ec_o.png",
+      "id_image": "goodwill_1721208"
+    }
+  ]
+}

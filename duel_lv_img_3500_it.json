@@ -1,0 +1,46 @@
+{
+  "english": "duel",
+  "phat_am": "['dju:əl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc đọ kiếm tay đôi, cuộc đọ súng tay đôi (để thanh toán một mối bất hoà, một mối hận thù...)",
+          "list_en_vn": [
+            {
+              "full_en": "an artillery duel",
+              "full_vn": "một cuộc đọ pháo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc tranh chấp tay đôi (giữa hai người, hai đảng phái...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đọ kiếm tay đôi, đọ súng tay đôi"
+        },
+        {
+          "m_full_vn": "tranh chấp tay đôi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450603_291d95f90c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450603_4225f11a07_o.png",
+      "id_image": "duel_3570424"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450583_c0ac0b95a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450583_c579177f89_o.png",
+      "id_image": "duel_3746461"
+    }
+  ]
+}

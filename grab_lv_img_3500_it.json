@@ -1,0 +1,104 @@
+{
+  "english": "grab",
+  "phat_am": "[græb]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái chộp; sự túm lấy, sự vồ lấy, sự tóm, sự cố tóm lấy",
+          "list_en_vn": [
+            {
+              "full_en": "to make a grab at something",
+              "full_vn": "chộp lấy cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tước đoạt, sự chiếm đoạt",
+          "list_en_vn": [
+            {
+              "full_en": "a policy of grab",
+              "full_vn": "chính sách chiếm đoạt về chính trị hoặc thương mại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) gàu ngoạm, máy xúc"
+        },
+        {
+          "m_full_vn": "(đánh bài) lối chơi gráp (của trẻ con)",
+          "list_one_mean": [
+            {
+              "id_full_en": "up for grabs",
+              "list_im": [
+                {
+                  "im_full_vn": "có đủ cho mọi người"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "túm lấy, vồ lấy, giật lấy",
+          "list_en_vn": [
+            {
+              "full_en": "the cat grabs the mouse",
+              "full_vn": "con mèo vồ lấy con chuột"
+            },
+            {
+              "full_en": "the scoundrel grabbed the watch from the taxi driver and rushed into the dark",
+              "full_vn": "gã lưu manh giật phăng cái đồng hồ của ông tài xế taxi và lao vào trong bóng tối"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chộp lại (với ý định níu lại))",
+          "list_en_vn": [
+            {
+              "full_en": "the girl grabbed hurriedly at her mother , for fear that she might make a false step",
+              "full_vn": "cô gái vội vàng níu bà mẹ lại, vì sợ bà trượt chân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327316_494323ef93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327316_b3a4a48bcf_o.png",
+      "id_image": "grab_1196462"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682419_08f4b4446c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682419_4950167eb4_o.png",
+      "id_image": "grab_5772872"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327226_7efe3ce7fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327226_10d91e743d_o.png",
+      "id_image": "grab_5906139"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682534_dca94a63bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682534_2e1a251a8a_o.png",
+      "id_image": "grab_657919"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372062_d82f30749a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372062_ef90075d98_o.png",
+      "id_image": "grab_951032"
+    }
+  ]
+}

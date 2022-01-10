@@ -1,0 +1,121 @@
+{
+  "english": "examination",
+  "phat_am": "[ig,zæmi'nei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kiểm tra; sự được kiểm tra; sự xem xét",
+          "list_en_vn": [
+            {
+              "full_en": "careful examination of the ruins reveals new evidence",
+              "full_vn": "việc nghiên cứu kỹ lưỡng những di tích đổ nát đã khám phá ra bằng chứng mới"
+            },
+            {
+              "full_en": "on further examination , it was found that the signature was not genuine",
+              "full_vn": "kiểm tra thêm nữa, người ta thấy chữ ký đó không thật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thi cử; kỳ thi (cũng) exam",
+          "list_en_vn": [
+            {
+              "full_en": "an examination in physics",
+              "full_vn": "một kỳ thi vật lý"
+            },
+            {
+              "full_en": "to sit /take an examination",
+              "full_vn": "dự thi"
+            },
+            {
+              "full_en": "to pass /fail an examination",
+              "full_vn": "thi đỗ/thi trượt"
+            },
+            {
+              "full_en": "an oral examination",
+              "full_vn": "cuộc thi vấn đáp"
+            },
+            {
+              "full_en": "an entrance examination",
+              "full_vn": "kỳ thi tuyển sinh"
+            },
+            {
+              "full_en": "an examination paper",
+              "full_vn": "bài thi (thí sinh làm để nộp)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự kiểm tra chặt chẽ; sự điều tra",
+          "list_en_vn": [
+            {
+              "full_en": "to get a medical examination by a doctor",
+              "full_vn": "được bác sĩ khám sức khoẻ cho"
+            },
+            {
+              "full_en": "an examination of business accounts",
+              "full_vn": "sự kiểm tra tài khoản kinh doanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thẩm vấn của luật sư tại phiên toà",
+          "list_one_mean": [
+            {
+              "id_full_en": "under examination",
+              "list_im": [
+                {
+                  "im_full_vn": "đang được thẩm tra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the prisoner is still under examination",
+                      "full_vn": "tù nhân hãy còn bị giữ để thẩm tra"
+                    },
+                    {
+                      "full_en": "the proposals are still under examination",
+                      "full_vn": "các kiến nghị đang còn được xem xét"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a fresh examination of the witness",
+              "full_vn": "cuộc thẩm vấn mới đối với nhân chứng"
+            },
+            {
+              "full_en": "after further examination by the prosecution , the witness was allowed to leave the court",
+              "full_vn": "sau khi viện kiểm sát thẩm vấn thêm, nhân chứng được phép rời phiên toà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049535_f0469b37e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049535_811a1bc5ce_o.png",
+      "id_image": "examination_1833857"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313036_e2ca3410f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313036_dcac3e686f_o.png",
+      "id_image": "examination_4482430"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049595_2dc16c92b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049595_28661489a1_o.png",
+      "id_image": "examination_484691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427908_e7a3beda9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427908_34720b7137_o.png",
+      "id_image": "examination_883984"
+    }
+  ]
+}

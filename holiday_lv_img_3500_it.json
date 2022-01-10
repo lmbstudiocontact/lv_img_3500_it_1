@@ -1,0 +1,116 @@
+{
+  "english": "holiday",
+  "phat_am": "['hɔlədi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngày nghỉ tiêu khiển hoặc ngày hội khi không làm việc gì cả",
+          "list_en_vn": [
+            {
+              "full_en": "Sunday is a holiday in Christian countries",
+              "full_vn": "Chủ nhật là ngày nghỉ ở các nước theo đạo Cơ đốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thường) ở số nhiều thời gian nghỉ (không làm việc (thường) ngày) để đi du lịch, tiêu khiển và nghỉ ngơi",
+          "list_one_mean": [
+            {
+              "id_full_en": "a busman's holiday",
+              "list_im": [
+                {
+                  "im_full_vn": "ngày nghỉ mà cũng không được rảnh tay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on holiday /on one's holidays",
+              "list_im": [
+                {
+                  "im_full_vn": "có ngày nghỉ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The typist is away on holiday this week",
+                      "full_vn": "cô đánh máy đang đi nghỉ tuần này"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the school holidays ; the summer holidays",
+              "full_vn": "kỳ nghỉ hè"
+            },
+            {
+              "full_en": "the Christmas holidays",
+              "full_vn": "kỳ nghỉ lễ Nô-en"
+            },
+            {
+              "full_en": "we're going to Spain for our summer holidays",
+              "full_vn": "chúng tôi sẽ đi Tây Ban Nha nghỉ hè; chúng tôi sẽ đi nghỉ hè ở Tây Ban Nha"
+            },
+            {
+              "full_en": "I'm taking two weeks' holiday",
+              "full_vn": "tôi sẽ đi nghỉ hai tuần"
+            },
+            {
+              "full_en": "I'm entitled to 20 days' holiday a year",
+              "full_vn": "tôi có quyền được 20 ngày nghỉ một năm"
+            },
+            {
+              "full_en": "a holiday resort , brochure",
+              "full_vn": "nơi nghỉ mát/nghỉ đông, cuốn sách ghi những ngày nghỉ"
+            },
+            {
+              "full_en": "holiday clothes",
+              "full_vn": "quần áo đẹp diện ngày lễ"
+            },
+            {
+              "full_en": "holiday task",
+              "full_vn": "bài làm ra cho học sinh làm trong thời gian nghỉ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sử dụng ngày nghỉ; đi nghỉ (cũng) vacation"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690059_45a6a9874d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690059_a8415d8b0b_o.png",
+      "id_image": "holiday_2569878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071855_2bd1f8a2a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071855_075ff5426d_o.png",
+      "id_image": "holiday_2855569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689954_d58302e9eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689954_70031dedb2_o.png",
+      "id_image": "holiday_5020319"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334806_344bf8e0bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334806_1023260e87_o.png",
+      "id_image": "holiday_5020459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689889_ee6a1341e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689889_3089a61f08_o.png",
+      "id_image": "holiday_5775604"
+    }
+  ]
+}

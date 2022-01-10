@@ -1,0 +1,160 @@
+{
+  "english": "flame",
+  "phat_am": "[fleim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngọn lửa",
+          "list_en_vn": [
+            {
+              "full_en": "to be in flames",
+              "full_vn": "đang cháy"
+            },
+            {
+              "full_en": "to burst into flames",
+              "full_vn": "bốc cháy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ánh hồng",
+          "list_en_vn": [
+            {
+              "full_en": "the flames of sunset",
+              "full_vn": "ánh hồng lúc mặt trời lặn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơn, cơn bừng bừng",
+          "list_en_vn": [
+            {
+              "full_en": "a flame of anger",
+              "full_vn": "cơn giận"
+            },
+            {
+              "full_en": "a flame of indignation",
+              "full_vn": "cơn phẫn nộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đùa cợt) người yêu, người tình",
+          "list_one_mean": [
+            {
+              "id_full_en": "to commit to the flames",
+              "list_im": [
+                {
+                  "im_full_vn": "đốt cháy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pour oil on the flames",
+              "list_im": [
+                {
+                  "im_full_vn": "đổ dầu vào lửa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fan the flames of something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho gay gắt thêm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "an old flame of mine",
+              "full_vn": "một trong những người tình cũ của tôi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + away , forth , out , up ) cháy, bốc cháy, cháy bùng"
+        },
+        {
+          "m_full_vn": "bùng lên, bừng lên, nổ ra",
+          "list_en_vn": [
+            {
+              "full_en": "face flames with anger",
+              "full_vn": "mặt đỏ bừng vì tức giận"
+            },
+            {
+              "full_en": "anger flamed out",
+              "full_vn": "cơn giận nổi lên đùng đùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phừng phừng như lửa"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ra (hiệu) bằng lửa"
+        },
+        {
+          "m_full_vn": "hơ lửa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to flame out",
+              "list_im": [
+                {
+                  "im_full_vn": "bốc cháy, cháy bùng"
+                },
+                {
+                  "im_full_vn": "nổi giận đùng đùng, nổi xung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to flame up , to flame out",
+              "list_im": [
+                {
+                  "im_full_vn": "thẹn đỏ bừng mặt"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "sterilized by flaming",
+              "full_vn": "khử trùng bằng cách hơ vào lửa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060300_12937a3cd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060300_7f5554e116_o.png",
+      "id_image": "flame_1579480"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438603_56ff07d58c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438603_95e6069d42_o.png",
+      "id_image": "flame_222113"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678644_c4d4f4c249_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678644_e74ea631f3_o.png",
+      "id_image": "flame_2933845"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "exposure",
+  "phat_am": "[iks'pouʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động phơi bày hoặc tình trạng bị phơi bày",
+          "list_en_vn": [
+            {
+              "full_en": "exposure of the body to strong sunlight can be harmful",
+              "full_vn": "việc phơi mình ra nắng gắt có thể có hại"
+            },
+            {
+              "full_en": "the baby died of exposure",
+              "full_vn": "đứa bé chết vì dãi gió dầm mưa"
+            },
+            {
+              "full_en": "the exposure of his ignorance",
+              "full_vn": "sự phơi bày cái dốt nát của nó"
+            },
+            {
+              "full_en": "the exposure of photographic film to light",
+              "full_vn": "sự phơi sáng phim chụp ảnh"
+            },
+            {
+              "full_en": "an exposure of one-hundredth of a second will be enough",
+              "full_vn": "chỉ cần để sáng một phần trăm giây là đủ"
+            },
+            {
+              "full_en": "how many exposures have you got left ?",
+              "full_vn": "anh còn bao nhiêu \"kiểu\" nữa \"? (phim trong máy ảnh còn chụp được bao nhiêu kiểu nữa?)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quảng cáo (trên truyền hình, trên báo...)",
+          "list_en_vn": [
+            {
+              "full_en": "her new film has had a lot of exposure on television recently",
+              "full_vn": "bộ phim mới của cô ta gần đây được quảng cáo rầm rộ trên truyền hình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078700_54e47ce30b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078700_0f502940ef_o.png",
+      "id_image": "exposure_316535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341281_9419df7f5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341281_db7d766c73_o.png",
+      "id_image": "exposure_5982598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078645_5fbab75ef4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078645_3cda50db84_o.png",
+      "id_image": "exposure_6315640"
+    }
+  ]
+}

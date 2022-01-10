@@ -1,0 +1,45 @@
+{
+  "english": "immigrant",
+  "phat_am": "['imigrənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đến sống hẳn ở một nước khác; người nhập cư",
+          "list_en_vn": [
+            {
+              "full_en": "Irish immigrants",
+              "full_vn": "người nhập cư gốc Ai-len"
+            },
+            {
+              "full_en": "illegal immigrants",
+              "full_vn": "những người nhập cư bất hợp pháp"
+            },
+            {
+              "full_en": "immigrant population",
+              "full_vn": "cư dân nhập cư"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059140_85b3f3187d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059140_5aa1636ba2_o.png",
+      "id_image": "immigrant_2061482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677394_a5728d221f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677394_791c900658_o.png",
+      "id_image": "immigrant_3382522"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058960_080d3bd94d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058960_3145462c3b_o.png",
+      "id_image": "immigration_5965823"
+    }
+  ]
+}

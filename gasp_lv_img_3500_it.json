@@ -1,0 +1,88 @@
+{
+  "english": "gasp",
+  "phat_am": "[gɑ:sp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thở hổn hển",
+          "list_one_mean": [
+            {
+              "id_full_en": "at one's last gasp",
+              "list_im": [
+                {
+                  "im_full_vn": "đến lúc sắp thở hắt ra, đến lúc sắp chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give a gasp",
+              "list_im": [
+                {
+                  "im_full_vn": "há hốc miệng ra (vì kinh ngạc)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thở hổn hển",
+          "list_en_vn": [
+            {
+              "full_en": "to gasp for breath",
+              "full_vn": "thở hổn hển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "há hốc miệng vì kinh ngạc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to grasp for",
+              "list_im": [
+                {
+                  "im_full_vn": "khao khát, ước ao",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to gasp for liberty",
+                      "full_vn": "khao khát tự do"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gasp out",
+              "list_im": [
+                {
+                  "im_full_vn": "nói hổn hển"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gasp out one's life",
+              "list_im": [
+                {
+                  "im_full_vn": "thở hắt ra, chết"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338206_54a44d8eec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338206_1967a8c38e_o.png",
+      "id_image": "gasp_1814939"
+    }
+  ]
+}

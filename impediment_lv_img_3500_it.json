@@ -1,0 +1,33 @@
+{
+  "english": "impediment",
+  "phat_am": "[im'pedimənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự trở ngại, sự ngăn trở, điều làm trở ngại, điều ngăn trở, vật chướng ngại"
+        },
+        {
+          "m_full_vn": "điều làm trở ngại việc ký kết giao kèo; điều làm trở ngại việc đăng ký giá thú",
+          "list_en_vn": [
+            {
+              "full_en": "impediment in one's speech",
+              "full_vn": "sự nói lắp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ hiếm,nghĩa hiếm) đồ đạc hành lý (của quân đội)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058180_464dc1d828_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058180_339455b76c_o.png",
+      "id_image": "impediment_6309952"
+    }
+  ]
+}

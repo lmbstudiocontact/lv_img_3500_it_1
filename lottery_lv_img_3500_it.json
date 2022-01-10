@@ -1,0 +1,55 @@
+{
+  "english": "lottery",
+  "phat_am": "['lɔtəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự thu tiền bằng cách bán vé và tặng giải cho những người có vé được chọn ra một cách ngẫu nhiên; xổ số",
+          "list_en_vn": [
+            {
+              "full_en": "a lottery ticket",
+              "full_vn": "tấm vé số"
+            },
+            {
+              "full_en": "to win in the lottery",
+              "full_vn": "trúng số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều may rủi",
+          "list_en_vn": [
+            {
+              "full_en": "many people think that marriage is a lottery",
+              "full_vn": "không ít người cho rằng hôn nhân là chuyện may rủi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334716_a935f16b63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334716_19392d1c23_o.png",
+      "id_image": "lottery_218353"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449708_9f0cc2bb03_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449708_22aa7715ef_o.png",
+      "id_image": "lottery_218355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071615_de35729bf8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071615_fa1197125e_o.png",
+      "id_image": "lottery_4658201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449623_799777e3ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449623_c0df41b5c5_o.png",
+      "id_image": "lottery_4658208"
+    }
+  ]
+}

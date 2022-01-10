@@ -1,0 +1,105 @@
+{
+  "english": "gamble",
+  "phat_am": "['gæmbl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "việc đánh bạc; việc mạo hiểm may rủi, được ăn cả ngã về không; việc làm liều mưu đồ ăn to (đầu cơ buôn bán...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take a gamble on something",
+              "list_im": [
+                {
+                  "im_full_vn": "mạo hiểm"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "setting up this business was a bit of a gamble",
+              "full_vn": "tiến hành vụ làm ăn này là chơi trò may rủi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chơi những trò may rủi ăn tiền; đánh cờ bạc",
+          "list_en_vn": [
+            {
+              "full_en": "to gamble at cards , on the horses",
+              "full_vn": "đánh bài, đánh cá ngựa"
+            },
+            {
+              "full_en": "he spent all his time gambling in the casino",
+              "full_vn": "hắn dồn hết thời gian vào trò cờ bạc ở sòng bạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to gamble something on something ) tiêu phí (tiền bạc) do chơi những trò như vậy",
+          "list_en_vn": [
+            {
+              "full_en": "he gambled all his winnings on the last race",
+              "full_vn": "hắn mất tất cả tiền được cuộc trong đợt đua ngựa cuối cùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to gamble something away ) mất cái gì do đánh bạc",
+          "list_en_vn": [
+            {
+              "full_en": "to gamble away all one's money",
+              "full_vn": "sạch túi vì cờ bạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to gamble in something ) mạo hiểm đầu tư vào cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to gamble in oil (shares )",
+              "full_vn": "mạo hiểm đầu tư vào (các cổ phần) dầu mỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to gamble on something / doing something ) liều lĩnh; mạo hiểm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to gamble away one's fortune",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh bạc đến nỗi sạt nghiệp; sạt nghiệp vì cờ bạc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to gamble on somebody's support",
+              "full_vn": "đặt cuộc vào sự ủng hộ của ai"
+            },
+            {
+              "full_en": "I wouldn't gamble on the weather being fine",
+              "full_vn": "Tôi không dám đặt cuộc là thời tiết sẽ tốt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810077400_e22867cca8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810077400_375cc9a6cf_o.png",
+      "id_image": "gamble_1055852"
+    }
+  ]
+}

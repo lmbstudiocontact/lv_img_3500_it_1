@@ -1,0 +1,82 @@
+{
+  "english": "maintenance",
+  "phat_am": "['meintinəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giữ gìn; sự duy trì",
+          "list_en_vn": [
+            {
+              "full_en": "for the maintenance of their rights , the workmen must struggle",
+              "full_vn": "để bảo vệ quyền lợi, anh em công nhân phải đấu tranh"
+            },
+            {
+              "full_en": "the maintenance of good neighboring relations between the two countries",
+              "full_vn": "sự duy trì quan hệ láng giềng tốt đẹp giữa hai nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự nuôi, sự cưu mang",
+          "list_en_vn": [
+            {
+              "full_en": "to work for the maintenance of one's family",
+              "full_vn": "làm việc để nuôi gia đình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bảo dưỡng (máy móc); sự bảo quản (nhà cửa, đường sá...)",
+          "list_en_vn": [
+            {
+              "full_en": "he's taking classes in car maintenance",
+              "full_vn": "anh ấy đang học lớp bảo quản xe ô tô"
+            },
+            {
+              "full_en": "maintenance man , gang , van",
+              "full_vn": "công nhân/đội/xe bảo trì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền mà luật pháp yêu cầu mình phải trả để giúp đỡ ai đó; tiền chu cấp; tiền cấp dưỡng",
+          "list_en_vn": [
+            {
+              "full_en": "he has to pay maintenance to his ex-wife",
+              "full_vn": "anh ấy phải chi tiền cấp dưỡng cho vợ cũ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065365_cfe35d1bfe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065365_9371613d44_o.png",
+      "id_image": "maintenance_1012345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373282_f79e21c71d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373282_497bfbc92d_o.png",
+      "id_image": "maintenance_1018796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065310_3d832864a1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065310_2c4d57edc8_o.png",
+      "id_image": "maintenance_1060337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373197_d8d4ecedf7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373197_e7909e8e93_o.png",
+      "id_image": "maintenance_1743614"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683504_fe1ae35b59_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683504_49e928f749_o.png",
+      "id_image": "maintenance_1792321"
+    }
+  ]
+}

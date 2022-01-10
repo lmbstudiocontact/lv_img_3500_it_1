@@ -1,0 +1,99 @@
+{
+  "english": "guarantee",
+  "phat_am": "[,gærən'ti:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(pháp lý) sự bảo đảm, sự cam đoan; sự bảo lãnh, sự bảo hành",
+          "list_en_vn": [
+            {
+              "full_en": "a computer under guarantee",
+              "full_vn": "máy điện toán còn trong thời hạn bảo hành"
+            },
+            {
+              "full_en": "he bought a modern stabilizer with two years' guarantee",
+              "full_vn": "anh ta mua một thiết bị ổn áp hiện đại có thời hạn bảo hành hai năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) người bảo đảm, người bảo lãnh",
+          "list_en_vn": [
+            {
+              "full_en": "to be a guarantee for a friend's life story",
+              "full_vn": "làm người bảo đảm về lý lịch cho bạn"
+            },
+            {
+              "full_en": "to become guarantee for",
+              "full_vn": "đứng bảo lãnh cho"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) vật bảo đảm; giấy bảo đảm",
+          "list_en_vn": [
+            {
+              "full_en": "have you any guarantee for your debt ?",
+              "full_vn": "ông có cái gì thế chấp cho món nợ của ông hay không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) sự bảo đảm; sự dám chắc",
+          "list_en_vn": [
+            {
+              "full_en": "blue skies are not always a guarantee of fine weather",
+              "full_vn": "bầu trời xanh chưa chắc là thời tiết đã đẹp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hứa chắc chắn, cam đoan, bảo đảm",
+          "list_en_vn": [
+            {
+              "full_en": "the company guarantees to observe any governmental regulation on taxes",
+              "full_vn": "công ty cam đoan sẽ tuân thủ mọi quy định của chính phủ về thuế khoá"
+            },
+            {
+              "full_en": "I guarantee that he will come back safe and sound",
+              "full_vn": "tôi bảo đảm anh ta sẽ trở về bình an vô sự"
+            },
+            {
+              "full_en": "every product of this factory is guaranteed for two years and more",
+              "full_vn": "mọi sản phẩm của nhà máy này đều được bảo hành hai năm trở lên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434218_68d3fbc4f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434218_2e6561fcf7_o.png",
+      "id_image": "guarantee_1077883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363577_997597f68f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363577_a1448c5b0e_o.png",
+      "id_image": "guarantee_1981824"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434173_c081a728cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434173_874214b0f5_o.png",
+      "id_image": "guarantee_4829878"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055505_50166dbcfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055505_3af470ce27_o.png",
+      "id_image": "guarantee_5091546"
+    }
+  ]
+}

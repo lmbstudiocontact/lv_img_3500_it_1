@@ -1,0 +1,174 @@
+{
+  "english": "load",
+  "phat_am": "[loud]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật nặng, gánh nặng",
+          "list_en_vn": [
+            {
+              "full_en": "to carry a heavy load",
+              "full_vn": "mang một gánh nặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật gánh, vật chở, vật đội (trên lưng súc vật, trên xe, tàu...)"
+        },
+        {
+          "m_full_vn": "trách nhiệm nặng nề; điều lo lắng, nỗi buồn phiền"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự tải; tải; trọng tải (của một con tàu...)",
+          "list_en_vn": [
+            {
+              "full_en": "periodic load",
+              "full_vn": "tải tuần hoàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuốc nạp, đạn nạp (vào súng)"
+        },
+        {
+          "m_full_vn": "(thông tục) nhiều, hàng đống",
+          "list_one_mean": [
+            {
+              "id_full_en": "to get a load of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) nghe"
+                },
+                {
+                  "im_full_vn": "nhìn, trông"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a load off sb's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai hết lo âu, làm cho ai thở phào nhẹ nhỏm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a load of old rubbish",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyện nhảm nhí, chuyện tào lao"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "loads of money",
+              "full_vn": "hàng đống tiền, hàng bồ bạc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất, chở",
+          "list_en_vn": [
+            {
+              "full_en": "to load a cart with cement",
+              "full_vn": "chất xi măng lên xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhét, nhồi, tống vào, nạp đạn) súng); lắp phim (máy ảnh)",
+          "list_en_vn": [
+            {
+              "full_en": "to load a gun",
+              "full_vn": "nạp đạn vào súng"
+            },
+            {
+              "full_en": "I am loaded",
+              "full_vn": "súng tôi có nạp đạn"
+            },
+            {
+              "full_en": "to load a camera",
+              "full_vn": "lắp phim vào máy ảnh"
+            },
+            {
+              "full_en": "to load one's stomach with food",
+              "full_vn": "ăn nhồi ăn nhét, ăn no căng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chồng chất; bắt phải chịu, bắt phải gánh vác, bắt phải đảm nhận...",
+          "list_en_vn": [
+            {
+              "full_en": "to load somebody with work",
+              "full_vn": "đổ dồn (chồng chất) công việc lên đầu ai"
+            },
+            {
+              "full_en": "to load a man with insults",
+              "full_vn": "chửi bới ai thậm tệ"
+            },
+            {
+              "full_en": "to load someone with gifts",
+              "full_vn": "cho ai hàng đống quà"
+            },
+            {
+              "full_en": "to load someone with compliments",
+              "full_vn": "khen ngợi ai hết lời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đổ chì vào, làm cho nặng thêm",
+          "list_en_vn": [
+            {
+              "full_en": "to load the dice",
+              "full_vn": "đổ chì vào con súc sắc; (nghĩa bóng) gian lận"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bốc hàng, bốc vác, khuân vác"
+        },
+        {
+          "m_full_vn": "nạp đạn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383842_4134726587_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383842_c92792337c_o.png",
+      "id_image": "load_1558167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694034_4813e73f64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694034_3927a97c42_o.png",
+      "id_image": "load_1768885"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383757_556fa64b4b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383757_870674f60b_o.png",
+      "id_image": "load_4176367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338976_9621906416_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338976_a201f3a804_o.png",
+      "id_image": "load_554512"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "english": "medicine",
+  "phat_am": "['medsn; 'medisn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "y học, y khoa",
+          "list_en_vn": [
+            {
+              "full_en": "to study medicine at the university",
+              "full_vn": "học y ở trường đại học"
+            },
+            {
+              "full_en": "to practise medicine",
+              "full_vn": "hành nghề y"
+            },
+            {
+              "full_en": "Doctor of Medicine",
+              "full_vn": "Tiến sĩ y khoa"
+            },
+            {
+              "full_en": "ethical problems in medicine",
+              "full_vn": "vấn đề đạo đức trong y học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuốc uống",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give somebody a dose /taste of his own medicine",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy gậy ông đập lưng ông",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The smaller boys badly wanted to give the bully a dose of his own medicine",
+                      "full_vn": "Các cậu bé nhỏ hơn rất muốn trị đứa hay bắt nạt bằng chính kiểu của hắn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take one's medicine (like a man )",
+              "list_im": [
+                {
+                  "im_full_vn": "cam chịu hình phạt, điều gì khó chịu (mà không kêu ca); ngậm đắng nuốt cay",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He really hates shopping but he goes anyway , and takes his medicine like a man",
+                      "full_vn": "Anh ta ghét cay ghét đắng việc đi phố mua hàng, nhưng rồi cũng đành ngậm đắng nuốt cay mà đi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "has the nurse given you your medicine ?",
+              "full_vn": "y tá đưa thuốc uống cho anh chưa?"
+            },
+            {
+              "full_en": "don't take too much medicine !",
+              "full_vn": "đừng uống nhiều thuốc quá!"
+            },
+            {
+              "full_en": "cough medicine(s)",
+              "full_vn": "thuốc ho"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809349141_e5af1b0078_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809349141_458f7c13f2_o.png",
+      "id_image": "medicine_171795"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463843_44d3c4a53e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463843_32a5d67c4a_o.png",
+      "id_image": "medicine_203137"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086365_8f721bafaa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086365_55632af17c_o.png",
+      "id_image": "medicine_549131"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810086345_ab192b152c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810086345_2a0e434469_o.png",
+      "id_image": "medicine_807123"
+    }
+  ]
+}

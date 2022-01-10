@@ -1,0 +1,85 @@
+{
+  "english": "loop",
+  "phat_am": "[lu:p]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thòng lọng; cái khâu, cái móc, khuyết áo"
+        },
+        {
+          "m_full_vn": "đường nhánh, đường vòng (đường xe lửa, đường dây điện báo (cũng) loop-line )"
+        },
+        {
+          "m_full_vn": "(điện học) cuộn; mạch",
+          "list_en_vn": [
+            {
+              "full_en": "coupling loop",
+              "full_vn": "cuộn ghép"
+            },
+            {
+              "full_en": "closed loop",
+              "full_vn": "mạch kín"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) móc (cần trục), vành đai, cốt đai"
+        },
+        {
+          "m_full_vn": "(hàng không) vòng nhào lộn (của máy bay)"
+        },
+        {
+          "m_full_vn": "(tin học) vòng lặp, vòng luân chu"
+        },
+        {
+          "m_full_vn": "(y học) vòng tránh thai"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thắt lại thành vòng; làm thành móc"
+        },
+        {
+          "m_full_vn": "gài móc, móc lại",
+          "list_one_mean": [
+            {
+              "id_full_en": "to loop the loop",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng không) nhào lộn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335736_73a22709a9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335736_818d21afe1_o.png",
+      "id_image": "loop_4248306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690944_c2d15a1165_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690944_4da1049643_o.png",
+      "id_image": "loop_5350546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072600_f98f605745_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072600_5d82c3696f_o.png",
+      "id_image": "loop_5620429"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380672_bef54d2513_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380672_bc183f0ec1_o.png",
+      "id_image": "loop_6365997"
+    }
+  ]
+}

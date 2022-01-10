@@ -1,0 +1,68 @@
+{
+  "english": "identity",
+  "phat_am": "[ai'dentəti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính đồng nhất; sự giống hệt",
+          "list_en_vn": [
+            {
+              "full_en": "a case of mistaken identity",
+              "full_vn": "trường hợp nhầm lẫn hai người vì cả hai giống hệt nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhân dạng",
+          "list_en_vn": [
+            {
+              "full_en": "there is no clue to the identity of the terrorist",
+              "full_vn": "không có manh mối nào về nhân dạng của tên khủng bố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như identity card",
+          "list_en_vn": [
+            {
+              "full_en": "the cheque will be cashed on proof of identity",
+              "full_vn": "séc này sẽ được trả tiềnkhi có giấy tờ chứng nhận căn cước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) đồng nhất thức"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369002_02c5d68382_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369002_d18b9ec4b6_o.png",
+      "id_image": "identity_3062349"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679259_37cb5d1e5e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679259_f55ee42c0c_o.png",
+      "id_image": "identity_3067956"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439088_a7a459a523_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439088_b9e6efec19_o.png",
+      "id_image": "identity_4807661"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323986_a8e577be3b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323986_92bff0e474_o.png",
+      "id_image": "identity_5760078"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439013_df6cdc049d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439013_e913a1cc62_o.png",
+      "id_image": "identity_6000961"
+    }
+  ]
+}

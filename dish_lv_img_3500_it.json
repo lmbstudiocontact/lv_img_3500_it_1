@@ -1,0 +1,92 @@
+{
+  "english": "dish",
+  "phat_am": "[di∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đĩa (đựng thức ăn)"
+        },
+        {
+          "m_full_vn": "món ăn (đựng trong đĩa)",
+          "list_en_vn": [
+            {
+              "full_en": "a standing dish",
+              "full_vn": "món ăn thường ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật hình đĩa"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) chén, tách",
+          "list_one_mean": [
+            {
+              "id_full_en": "a dish of gossip",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc nói chuyện gẫu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a dish of tea",
+              "full_vn": "tách trà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắp (đồ ăn) vào đĩa (để dọn cơm)"
+        },
+        {
+          "m_full_vn": "làm lõm xuống thành lòng đĩa"
+        },
+        {
+          "m_full_vn": "đánh bại được, dùng mẹo lừa được (đối phương); (chính trị) áp dụng chính sách đường lối của đối phương để đánh bại đối phương"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nói về ngựa) chạy chân trước khoằm vào",
+          "list_one_mean": [
+            {
+              "id_full_en": "to dish up",
+              "list_im": [
+                {
+                  "im_full_vn": "dọn ăn, dọn cơm"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) trình bày (sự việc...) một cách hấp dẫn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360837_08e86c9ddc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360837_d213bceb18_o.png",
+      "id_image": "dish_4975202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431518_0dc7055b2c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431518_dc7ae15745_o.png",
+      "id_image": "dish_4975252"
+    }
+  ]
+}

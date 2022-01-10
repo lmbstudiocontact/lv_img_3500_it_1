@@ -1,0 +1,55 @@
+{
+  "english": "memorial",
+  "phat_am": "[mə'mɔ:riəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) kỷ niệm; để ghi nhớ, để kỷ niệm",
+          "list_one_mean": [
+            {
+              "id_full_en": "memorial service",
+              "list_im": [
+                {
+                  "im_full_vn": "lễ truy điệu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đài kỷ niệm, tượng kỷ niệm; vật kỷ niệm",
+          "list_en_vn": [
+            {
+              "full_en": "war memorial",
+              "full_vn": "đài liệt sĩ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347526_54d6581c97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347526_b29d861865_o.png",
+      "id_image": "memorial_1290371"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347486_decdd88176_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347486_e6caf522a6_o.png",
+      "id_image": "memorial_1650366"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347446_2aebe9e81c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347446_53fa1e8518_o.png",
+      "id_image": "memorial_3556870"
+    }
+  ]
+}

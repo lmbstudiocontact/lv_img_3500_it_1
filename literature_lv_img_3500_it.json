@@ -1,0 +1,63 @@
+{
+  "english": "literature",
+  "phat_am": "['litrət∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "văn chương, văn học",
+          "list_en_vn": [
+            {
+              "full_en": "Vietnamese literature",
+              "full_vn": "nền văn học Việt Nam"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tác phẩm văn học; tác phẩm viết văn hoa bóng bảy"
+        },
+        {
+          "m_full_vn": "giới nhà văn"
+        },
+        {
+          "m_full_vn": "nghề văn"
+        },
+        {
+          "m_full_vn": "tài liệu (về một vấn đề hoặc một bộ môn khoa học)",
+          "list_en_vn": [
+            {
+              "full_en": "mathematical literature",
+              "full_vn": "các tài liệu về toán học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tài liệu in (truyền đơn, quảng cáo...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339626_41c4849d82_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339626_a3c3d73f4b_o.png",
+      "id_image": "literature_4459391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454533_34cf971d49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454533_a95d6bffa2_o.png",
+      "id_image": "literature_5226391"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076920_45a337a228_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076920_406da194b1_o.png",
+      "id_image": "literature_647659"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339641_62eed66f00_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339641_cdf4b47983_o.png",
+      "id_image": "literature_874694"
+    }
+  ]
+}

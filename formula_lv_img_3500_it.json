@@ -1,0 +1,88 @@
+{
+  "english": "formula",
+  "phat_am": "['fɔ:mjulə]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều formulas , formulae",
+      "list_m": [
+        {
+          "m_full_vn": "thể thức; cách thức",
+          "list_en_vn": [
+            {
+              "full_en": "'How do you do ? ' and 'Excuse me' are social formulae",
+              "full_vn": "'Xin chào' và 'Xin lỗi' là những câu thể thức giao tiếp"
+            },
+            {
+              "full_en": "To know the formula for addressing bishops",
+              "full_vn": "biết cách thức xưng hô với các giám mục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "công thức",
+          "list_en_vn": [
+            {
+              "full_en": "a mathematical formula",
+              "full_vn": "công thức toán học"
+            },
+            {
+              "full_en": "a chemical formula",
+              "full_vn": "công thức hoá học"
+            },
+            {
+              "full_en": "the formula for converting gallons into litres",
+              "full_vn": "công thức chuyển đổi ga-lông sang lít"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kế hoạch; phương pháp",
+          "list_en_vn": [
+            {
+              "full_en": "managers and workers are still working out a peace formula",
+              "full_vn": "giới chủ và công nhân vẫn đang hoạch định một kế hoạch hoà bình"
+            },
+            {
+              "full_en": "there is no sure formula for success",
+              "full_vn": "không có phương pháp nào chắc chắn để thành công"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phân loại xe đua theo kích thước, công suất...",
+          "list_en_vn": [
+            {
+              "full_en": "Formula 1 racing cars",
+              "full_vn": "Các xe đua thể thức 1"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sữa bột nhân tạo cho trẻ em"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429528_fb3606bbb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429528_6503e6d6b9_o.png",
+      "id_image": "formula_1702303"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669269_59a5ebc8be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669269_6ae24e03da_o.png",
+      "id_image": "formula_3830342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051220_527ffaf0c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051220_4c97b08641_o.png",
+      "id_image": "formula_407418"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358777_a19c8cae0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358777_08059fa611_o.png",
+      "id_image": "formula_843193"
+    }
+  ]
+}

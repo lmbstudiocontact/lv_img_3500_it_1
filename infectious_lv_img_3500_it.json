@@ -1,0 +1,58 @@
+{
+  "english": "infectious",
+  "phat_am": "[in'fek∫əs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) hay lây; lây nhiễm",
+          "list_en_vn": [
+            {
+              "full_en": "infectious disease",
+              "full_vn": "bệnh lây nhiễm"
+            },
+            {
+              "full_en": "flu is highly infectious",
+              "full_vn": "bệnh cúm rất dễ lây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về người) có nguy cơ lây bệnh sang người khác",
+          "list_en_vn": [
+            {
+              "full_en": "while you have this rash , you are still infectious",
+              "full_vn": "trong lúc bị nhiễm sốt phát ban này, anh vẫn còn dễ lây sang người khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhanh chóng ảnh hưởng đến người khác; có thể lan truyền sang người khác",
+          "list_en_vn": [
+            {
+              "full_en": "infectious enthusiasm",
+              "full_vn": "lòng nhiệt tình dễ lây lan"
+            },
+            {
+              "full_en": "an infectious laugh",
+              "full_vn": "tiếng cười dễ lây"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809316976_6b403b3e56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809316976_57b0269686_o.png",
+      "id_image": "infectious_2756734"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053385_a0b4849952_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053385_a320349858_o.png",
+      "id_image": "infectious_4597399"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "english": "inflammation",
+  "phat_am": "[,inflə'mei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đốt cháy; sự bốc cháy"
+        },
+        {
+          "m_full_vn": "sự khích động; sự bị khích động"
+        },
+        {
+          "m_full_vn": "(y học) chứng sưng, chứng viêm",
+          "list_en_vn": [
+            {
+              "full_en": "inflammation of the lungs",
+              "full_vn": "chứng viêm phổi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809431948_c1b160f24f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809431948_59a3130141_o.png",
+      "id_image": "inflammation_2037245"
+    }
+  ]
+}

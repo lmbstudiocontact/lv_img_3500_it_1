@@ -1,0 +1,94 @@
+{
+  "english": "happy",
+  "phat_am": "['hæpi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "vui sướng, vui lòng (một công thức xã giao)",
+          "list_en_vn": [
+            {
+              "full_en": "I shall be happy to accept your invitation",
+              "full_vn": "tôi sung sướng nhận lời mời của ông"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "may mắn, tốt phúc"
+        },
+        {
+          "m_full_vn": "sung sướng, hạnh phúc",
+          "list_en_vn": [
+            {
+              "full_en": "a happy marriage",
+              "full_vn": "một cuộc hôn nhân hạnh phúc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khéo chọn, rất đúng, tài tình (từ, thành ngữ, câu nói...); thích hợp (cách xử sự...)",
+          "list_en_vn": [
+            {
+              "full_en": "a happy retort",
+              "full_vn": "câu đối đáp rất tài tình"
+            },
+            {
+              "full_en": "a happy guess",
+              "full_vn": "lời đoán rất đúng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) bị choáng váng, bị ngây ngất (vì bom...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "as happy as the day is long /as a sandboy /as Larry",
+              "list_im": [
+                {
+                  "im_full_vn": "rất vui mừng, rất sung sướng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a happy event",
+              "list_im": [
+                {
+                  "im_full_vn": "sự chào đời của một đứa bé"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the happy medium",
+              "list_im": [
+                {
+                  "im_full_vn": "sự trung dung, sự cân bằng giữa hai thái cực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "many happy returns of the day",
+              "list_im": [
+                {
+                  "im_full_vn": "chúc mừng sinh nhật"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389767_efca184d83_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389767_f0f8d4051d_o.png",
+      "id_image": "happy_214239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389747_2a288a1b49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389747_819da30eaa_o.png",
+      "id_image": "happy_817745"
+    }
+  ]
+}

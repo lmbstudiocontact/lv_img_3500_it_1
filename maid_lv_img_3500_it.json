@@ -1,0 +1,53 @@
+{
+  "english": "maid",
+  "phat_am": "[meid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con gái; thiếu nữ; cô gái chưa chồng",
+          "list_en_vn": [
+            {
+              "full_en": "old maid",
+              "full_vn": "gái già, bà cô (đàn bà nhiều tuổi mà ở vậy)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thị nữ; tỳ nữ; đầy tớ gái, người hầu gái; người bảo mẫu"
+        },
+        {
+          "m_full_vn": "trinh nữ",
+          "list_one_mean": [
+            {
+              "id_full_en": "maid of all work",
+              "list_im": [
+                {
+                  "im_full_vn": "đầy tớ gái làm mọi việc vặt người dùng vào nhiều việc, vật dùng vào nhiều việc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065825_120df5c2ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065825_6ae9c0b4d1_o.png",
+      "id_image": "maid_1876930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443858_62b551c2bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443858_b6cbe906e1_o.png",
+      "id_image": "maid_3216124"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373717_b761f2b390_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373717_5c5e4a51e6_o.png",
+      "id_image": "maid_360456"
+    }
+  ]
+}

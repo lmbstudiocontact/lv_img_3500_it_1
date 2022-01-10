@@ -1,0 +1,31 @@
+{
+  "english": "jealousy",
+  "phat_am": "['dʒeləsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lòng ghen tị; thái độ ghen tị",
+          "list_en_vn": [
+            {
+              "full_en": "a lover's jealousy",
+              "full_vn": "lòng ghen tuông của một kẻ đang yêu"
+            },
+            {
+              "full_en": "she grew tired of his petty jealousies",
+              "full_vn": "cô ta đã chán ngấy những thái độ ghen tuông vụn vặt của anh ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380237_fecce210b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380237_d727b0f060_o.png",
+      "id_image": "jealousy_708660"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "meditate",
+  "phat_am": "['mediteit]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "suy nghĩ sâu sắc (đặc biệt là về những vấn đề tâm linh); trầm ngâm; trầm tư",
+          "list_one_mean": [
+            {
+              "id_full_en": "to meditate on /upon something",
+              "list_im": [
+                {
+                  "im_full_vn": "suy ngẫm về điều gì; suy tư về điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to meditate on the sufferings of Christ",
+                      "full_vn": "suy tư về những nỗi khổ hạnh của Chúa"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I meditate in order to relax",
+              "full_vn": "tôi trầm ngâm để bớt căng thẳng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trù tính",
+          "list_en_vn": [
+            {
+              "full_en": "to meditate revenge /mischief",
+              "full_vn": "trù tính việc trả thù/điều ác"
+            },
+            {
+              "full_en": "she's meditating leaving home",
+              "full_vn": "cô ta đang trù tính rời khỏi nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463658_46ea742cbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463658_95f645861c_o.png",
+      "id_image": "meditate_2621914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463638_20fe695c2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463638_f6ffd19dda_o.png",
+      "id_image": "meditate_3062585"
+    }
+  ]
+}

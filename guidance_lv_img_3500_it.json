@@ -1,0 +1,37 @@
+{
+  "english": "guidance",
+  "phat_am": "['gaidəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chỉ đạo, sự hướng dẫn; sự dìu dắt",
+          "list_en_vn": [
+            {
+              "full_en": "under the guidance of",
+              "full_vn": "dưới sự chỉ đạo của"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433568_c5abce7cea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433568_38889e149c_o.png",
+      "id_image": "guidance_2773066"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673149_2eb4f93430_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673149_4fe293abf8_o.png",
+      "id_image": "guidance_4729476"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433508_ebeffdb42d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433508_d7450e15fb_o.png",
+      "id_image": "guidance_4834030"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "english": "fluid",
+  "phat_am": "['flu:id]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lỏng, dễ cháy"
+        },
+        {
+          "m_full_vn": "hay thay đổi",
+          "list_en_vn": [
+            {
+              "full_en": "fluid opinion",
+              "full_vn": "ý kiến hay thay đổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) di động (mặt trận...)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất lưu (gồm chất nước và chất khí)",
+          "list_one_mean": [
+            {
+              "id_full_en": "fluid ounce",
+              "list_im": [
+                {
+                  "im_full_vn": "đơn vị dung tích thể lỏng bằng với 1 / 16 panh Mỹ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319486_7efc0a726d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319486_1d77271851_o.png",
+      "id_image": "fluid_1488163"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364127_0a6e90d678_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364127_639c6c36ca_o.png",
+      "id_image": "fluid_2037143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055970_2ecb6869ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055970_f5be56bfd0_o.png",
+      "id_image": "fluid_5823400"
+    }
+  ]
+}

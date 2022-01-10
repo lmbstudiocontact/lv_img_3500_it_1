@@ -1,0 +1,70 @@
+{
+  "english": "jacket",
+  "phat_am": "['dʒækit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "áo vét-tông (đàn ông), áo vét (đàn bà)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cái bao, áo giảm nhiệt (bọc máy...)"
+        },
+        {
+          "m_full_vn": "bìa bọc sách; (từ Mỹ,nghĩa Mỹ) bìa tài liệu chính thức"
+        },
+        {
+          "m_full_vn": "da, bộ lông (súc vật); vỏ (khoai tây)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to dust (dress down , trim , warm ) someone's jacket",
+              "list_im": [
+                {
+                  "im_full_vn": "nện cho ai một trận"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "potatoes boiled in their jackets",
+              "full_vn": "khoai tây luộc để cả vỏ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặc áo vét tông cho, mặc áo vét cho"
+        },
+        {
+          "m_full_vn": "bọc, bao"
+        },
+        {
+          "m_full_vn": "(từ lóng) sửa cho một trận"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381372_92530efcd1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381372_354f2f5fb6_o.png",
+      "id_image": "jacket_195810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073345_0632ac7f23_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073345_e71a3ff644_o.png",
+      "id_image": "jacket_343343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073290_5da593e6b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073290_5cbedf89dc_o.png",
+      "id_image": "jacket_343344"
+    }
+  ]
+}

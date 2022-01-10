@@ -1,0 +1,145 @@
+{
+  "english": "flag",
+  "phat_am": "['flæg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây irit"
+        },
+        {
+          "m_full_vn": "phiến đá lát đường ( (cũng) flag stone )"
+        },
+        {
+          "m_full_vn": "( số nhiều) mặt đường lát bằng đá phiến"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lát bằng đá phiến"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lông cánhchim ( (cũng) flag feather )"
+        },
+        {
+          "m_full_vn": "cờ",
+          "list_en_vn": [
+            {
+              "full_en": "to hoist the flag",
+              "full_vn": "kéo cờ trên đất mới khám phá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) cờ lệnh (trên tàu có hàng đô đốc)"
+        },
+        {
+          "m_full_vn": "đuôi cờ (của một loại chó săn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hoist one's flag",
+              "list_im": [
+                {
+                  "im_full_vn": "nhận quyền chỉ huy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to strike one's flag",
+              "list_im": [
+                {
+                  "im_full_vn": "từ bỏ quyền chỉ huy"
+                },
+                {
+                  "im_full_vn": "hạ cờ đầu hàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep the flag flying",
+              "list_im": [
+                {
+                  "im_full_vn": "không để bị tụt hậu, giữ vững ngọn cờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wave /fly the flag",
+              "list_im": [
+                {
+                  "im_full_vn": "vẫy cờ hoan nghênh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trang hoàng bằng cờ; treo cờ"
+        },
+        {
+          "m_full_vn": "ra hiệu bằng cờ"
+        },
+        {
+          "m_full_vn": "đánh dấu bằng cờ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "yếu đi, giảm sút; héo đi",
+          "list_en_vn": [
+            {
+              "full_en": "their enthusiasm never flags",
+              "full_vn": "lòng nhiệt tình của họ chẳng bao giờ suy giảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lả đi"
+        },
+        {
+          "m_full_vn": "trở nên nhạt nhẽo",
+          "list_en_vn": [
+            {
+              "full_en": "conversation is flagging",
+              "full_vn": "câu chuyện trở nên nhạt nhẽo, câu chuyện trở nên rời rạc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060855_3892af8f5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060855_d755875e7d_o.png",
+      "id_image": "flag_124757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323891_9cb16c11f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323891_fa080c05c9_o.png",
+      "id_image": "flag_202621"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060765_cd9386a436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060765_1bd915d175_o.png",
+      "id_image": "flag_649087"
+    }
+  ]
+}

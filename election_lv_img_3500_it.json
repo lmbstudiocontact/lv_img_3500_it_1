@@ -1,0 +1,44 @@
+{
+  "english": "election",
+  "phat_am": "[i'lek∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bầu cử; cuộc tuyển cử",
+          "list_en_vn": [
+            {
+              "full_en": "a general election",
+              "full_vn": "cuộc tổng tuyển cử"
+            },
+            {
+              "full_en": "presidential elections",
+              "full_vn": "cuộc bầu cử tổng thống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) sự chọn lên thiên đường"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441463_b5048e464e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441463_e9e88d5ee4_o.png",
+      "id_image": "election_1902201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063335_0cc41a96be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063335_f17f2eabb7_o.png",
+      "id_image": "election_4327442"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441513_b37af630f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441513_80cf798604_o.png",
+      "id_image": "election_927301"
+    }
+  ]
+}

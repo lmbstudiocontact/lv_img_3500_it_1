@@ -1,0 +1,73 @@
+{
+  "english": "mental",
+  "phat_am": "['mentl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) (thuộc) cằm"
+        },
+        {
+          "m_full_vn": "(thuộc) tâm thần, (thuộc) tinh thần",
+          "list_en_vn": [
+            {
+              "full_en": "a mental patient",
+              "full_vn": "người mắc bệnh tâm thần"
+            },
+            {
+              "full_en": "mental illness",
+              "full_vn": "bệnh tâm thần"
+            },
+            {
+              "full_en": "mental deficiency",
+              "full_vn": "sự suy nhược thần kinh"
+            },
+            {
+              "full_en": "mental cruelty",
+              "full_vn": "sự tàn nhẫn về tinh thần"
+            },
+            {
+              "full_en": "an enormous mental effort",
+              "full_vn": "một cố gắng tột bậc về tinh thần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) trí tuệ, (thuộc) trí óc",
+          "list_en_vn": [
+            {
+              "full_en": "the mental powers",
+              "full_vn": "năng lực trí tuệ"
+            },
+            {
+              "full_en": "to make a mental note of something",
+              "full_vn": "ghi nhớ điều gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mất trí",
+          "list_en_vn": [
+            {
+              "full_en": "you must be mental to talk nonsense !",
+              "full_vn": "mày bị mất trí hay sao mà nói bậy vậy!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701894_3904a31ae2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701894_27832532dd_o.png",
+      "id_image": "mental_1683128"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701864_8f1a8cc6bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701864_7a590a2902_o.png",
+      "id_image": "mental_2773087"
+    }
+  ]
+}

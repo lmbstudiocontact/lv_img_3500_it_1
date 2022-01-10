@@ -1,0 +1,60 @@
+{
+  "english": "expand",
+  "phat_am": "[iks'pænd]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mở rộng, trải ra"
+        },
+        {
+          "m_full_vn": "nở ra, phồng ra, giãn",
+          "list_en_vn": [
+            {
+              "full_en": "expanded polystyrene",
+              "full_vn": "vật liệu cách điện hoặc để đóng gói bằng chất dẻo chứa không khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) khai triển"
+        },
+        {
+          "m_full_vn": "phát triển (một vấn đề...)",
+          "list_en_vn": [
+            {
+              "full_en": "to expand the economic relations",
+              "full_vn": "phát triển các quan hệ kinh tế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trở nên cởi mở"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354842_1db4cbf2ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354842_9bea845e5b_o.png",
+      "id_image": "expand_1753282"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310706_94da92ddc4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310706_4f2c164cf7_o.png",
+      "id_image": "expand_271248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425653_18bf968ed8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425653_4ec95a314c_o.png",
+      "id_image": "expand_3558024"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047395_df1f109dac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047395_7bd0ede26f_o.png",
+      "id_image": "expand_4637095"
+    }
+  ]
+}

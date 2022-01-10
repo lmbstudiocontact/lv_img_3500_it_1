@@ -1,0 +1,61 @@
+{
+  "english": "eagle",
+  "phat_am": "['i:gl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) chim đại bàng"
+        },
+        {
+          "m_full_vn": "hình đại bàng (ở huy hiệu, bục giảng kinh, quốc huy Mỹ...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đồng 10 đô la vàng",
+          "list_en_vn": [
+            {
+              "full_en": "double eagle",
+              "full_vn": "đồng 20 đô la vàng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "định ngữ",
+      "list_m": [
+        {
+          "m_full_vn": "như đại bàng, như diều hâu",
+          "list_en_vn": [
+            {
+              "full_en": "eagle nose",
+              "full_vn": "mũi khoằm, mũi diều hâu"
+            },
+            {
+              "full_en": "eagle eye",
+              "full_vn": "mắt cú, mắt tinh tường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378367_709d181a8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378367_fd760dbe35_o.png",
+      "id_image": "eagle_1290363"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688604_98fdc90eb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688604_9c093fb848_o.png",
+      "id_image": "eagle_412774"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378407_6932d29661_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378407_7ff277ba9d_o.png",
+      "id_image": "eagle_448311"
+    }
+  ]
+}

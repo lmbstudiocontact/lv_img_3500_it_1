@@ -1,0 +1,30 @@
+{
+  "english": "hypersensitive",
+  "phat_am": "[,haipə:'sensitiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(tâm lý) quá dễ xúc cảm, quá đa cảm"
+        },
+        {
+          "m_full_vn": "(y học) quá nhạy cảm với dược phẩm nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "hypersensitive to antibiotics",
+              "full_vn": "quá nhạy cảm với các loại thuốc kháng sinh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370332_028043c701_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370332_386e4620c2_o.png",
+      "id_image": "hypersensitive_2999192"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "english": "length",
+  "phat_am": "[leηθ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bề dài, chiều dài, độ dài",
+          "list_en_vn": [
+            {
+              "full_en": "at arm's length",
+              "full_vn": "cách một sải tay"
+            },
+            {
+              "full_en": "a river 300 miles in length",
+              "full_vn": "một con sông dài 300 dặm"
+            },
+            {
+              "full_en": "this room is twice the length of the other , but much narrower",
+              "full_vn": "phòng này dài gấp đôi phòng kia, nhưng hẹp hơn nhiều"
+            },
+            {
+              "full_en": "a book the length of 'War and Peace'",
+              "full_vn": "quyển sách có độ dài như quyển 'Chiến tranh và Hoà bình'"
+            },
+            {
+              "full_en": "he jogged the length of the beach",
+              "full_vn": "ông ta chạy thong thả dọc theo bờ biển"
+            },
+            {
+              "full_en": "this car will turn in its own length",
+              "full_vn": "xe này quay được trong phạm vi chiều dài của nó"
+            },
+            {
+              "full_en": "the horse won the race by two lengths",
+              "full_vn": "con ngựa về đích trước con sau hai thân (khoảng cách tương đương với hai lần chiều dài của chính nó)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoạn; khúc",
+          "list_en_vn": [
+            {
+              "full_en": "timber sold in lengths of 5, 10 or 20 metres",
+              "full_vn": "gỗ bán theo các đoạn 5, 10 hoặc 20 mét"
+            },
+            {
+              "full_en": "I need a length of wire or string to tie it with",
+              "full_vn": "tôi cần một đoạn dây thép hoặc dây để buộc nó lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lượng thời gian dùng vào việc gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "to keep someone at arm's length",
+              "list_im": [
+                {
+                  "im_full_vn": "tránh không làm thân với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at length",
+              "list_im": [
+                {
+                  "im_full_vn": "sau hết, cuối cùng, rốt cuộc"
+                },
+                {
+                  "im_full_vn": "đầy đủ chi tiết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "At length the bus arrived , 40 minutes late",
+                      "full_vn": "Cuối cùng rồi xe búyt cũng đến, chậm mất 40 phút"
+                    },
+                    {
+                      "full_en": "to discuss something at some , great , excessive length",
+                      "full_vn": "thảo luận điều gì hơi, rất, quá chi tiết"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "at full length",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn đầy đủ, không rút gọn, không cắt xén; không viết tắt (chữ viết)"
+                },
+                {
+                  "im_full_vn": "nằm dài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to measure one's length",
+              "list_im": [
+                {
+                  "im_full_vn": "ngã sóng soài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the length and breadth of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "ngang dọc khắp cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to travel the length and breadth of the British Isles",
+                      "full_vn": "đi du lịch khắp quần đảo Anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to any length",
+              "list_im": [
+                {
+                  "im_full_vn": "làm bất cứ cái gì có thể; không e dè câu nệ; không có gì có thể cản trở được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they went to absurd lengths to keep the affair secret",
+                      "full_vn": "chúng làm mọi điều phi lý để bưng bít sự việc"
+                    },
+                    {
+                      "full_en": "there are no lengths to which an addict will not go to obtain his drug",
+                      "full_vn": "không có việc gì mà kẻ nghiện không dám làm để có ma túy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go the whole length of it",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) go"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to the length of thinking that ...",
+              "list_im": [
+                {
+                  "im_full_vn": "đi đến chỗ nghĩ rằng..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "to win by a length",
+              "list_im": [
+                {
+                  "im_full_vn": "hơn một thuyền; hơn một ngựa; hơn một xe... (trong những cuộc đua thuyền, ngựa, xe đạp...)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "you spend a ridiculous length of time in the bath",
+              "full_vn": "anh tốn rất ư là nhiều thời gian cho việc tắm rửa"
+            },
+            {
+              "full_en": "size of pension depends on length of service with the company",
+              "full_vn": "mức lương hưu phụ thuộc số thời gian làm việc cho công ty"
+            },
+            {
+              "full_en": "a speech , symphony , ceremony of considerable length",
+              "full_vn": "bài diễn văn, bản giao hưởng, buổi lễ chiếm khá nhiều thời gian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hậu tố (tạo tính từ ghép)"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460448_bd33c1007f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460448_cf25df6e0d_o.png",
+      "id_image": "length_4327057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390642_38d4427d0b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390642_d166c9f180_o.png",
+      "id_image": "length_4524931"
+    }
+  ]
+}

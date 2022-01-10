@@ -1,0 +1,869 @@
+{
+  "english": "keep",
+  "phat_am": "[ki:p]",
+  "list_type": [
+    {
+      "type": "ngoại động từ kept",
+      "list_m": [
+        {
+          "m_full_vn": "giữ, giữ lại",
+          "list_en_vn": [
+            {
+              "full_en": "to keep something as a souvenir",
+              "full_vn": "giữ cái gì coi như một vật kỷ niệm"
+            },
+            {
+              "full_en": "to keep hold of something",
+              "full_vn": "nắm giữ cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ đúng, tuân theo, tuân thủ, y theo",
+          "list_en_vn": [
+            {
+              "full_en": "to keep one's promise (word )",
+              "full_vn": "giữ lời hứa"
+            },
+            {
+              "full_en": "to keep an appointment",
+              "full_vn": "y hẹn"
+            },
+            {
+              "full_en": "to keep the laws",
+              "full_vn": "tuân thủ pháp luật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ, canh phòng, bảo vệ; phù hộ",
+          "list_en_vn": [
+            {
+              "full_en": "to keep the town against the enemy",
+              "full_vn": "bảo vệ thành phố chống lại kẻ thù"
+            },
+            {
+              "full_en": "God keep you !",
+              "full_vn": "Chúa phù hộ cho anh!"
+            },
+            {
+              "full_en": "to keep the goal",
+              "full_vn": "(thể dục,thể thao) giữ gôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ gìn, giấu",
+          "list_en_vn": [
+            {
+              "full_en": "to keep a secret",
+              "full_vn": "giữ một điều bí mật"
+            },
+            {
+              "full_en": "to keep something from somebody",
+              "full_vn": "giấu ai cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ gìn (cho ngăn nắp gọn gàng), bảo quản; chăm sóc, trông nom; quản lý",
+          "list_en_vn": [
+            {
+              "full_en": "to keep the house for somebody",
+              "full_vn": "trông nom nhà cửa cho ai"
+            },
+            {
+              "full_en": "to keep the cash",
+              "full_vn": "giữ két"
+            },
+            {
+              "full_en": "to keep a shop",
+              "full_vn": "quản lý một cửa hiệu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ riêng, để ra, để riêng ra, để dành",
+          "list_en_vn": [
+            {
+              "full_en": "to keep something to oneself",
+              "full_vn": "giữ riêng cái gì cho mình"
+            },
+            {
+              "full_en": "to keep something for future time",
+              "full_vn": "để dành cái gì cho mai sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ lại, giam giữ",
+          "list_en_vn": [
+            {
+              "full_en": "to keep somebody in prison",
+              "full_vn": "giam ai vào tù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) + from ) giữ cho khỏi, giữ đứng, ngăn lại, nhịn tránh",
+          "list_en_vn": [
+            {
+              "full_en": "to keep somebody from falling",
+              "full_vn": "giữ cho ai khỏi ngã"
+            },
+            {
+              "full_en": "to keep oneself from smoking",
+              "full_vn": "nhịn hút thuốc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nuôi, nuôi nấng; bao (gái)",
+          "list_en_vn": [
+            {
+              "full_en": "to keep a family",
+              "full_vn": "nuôi nấng gia đình"
+            },
+            {
+              "full_en": "to keep bees",
+              "full_vn": "nuôi ong"
+            },
+            {
+              "full_en": "to keep a woman",
+              "full_vn": "bao gái"
+            },
+            {
+              "full_en": "a kept woman",
+              "full_vn": "gái bao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) có thường xuyên để bán",
+          "list_en_vn": [
+            {
+              "full_en": "do they keep postcards here ?",
+              "full_vn": "ở đây người ta có bán bưu thiếp không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cứ, cứ để cho, bắt phải",
+          "list_en_vn": [
+            {
+              "full_en": "to keep silence",
+              "full_vn": "cứ làm thinh"
+            },
+            {
+              "full_en": "to keep someone waiting",
+              "full_vn": "bắt ai chờ đợi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không rời, ở lỳ, vẫn cứ, ở trong tình trạng",
+          "list_en_vn": [
+            {
+              "full_en": "to keep one's room",
+              "full_vn": "không ra khỏi phòng (ốm...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "theo",
+          "list_en_vn": [
+            {
+              "full_en": "to keep a straight course",
+              "full_vn": "theo một con đường thẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + at ) bắt làm kiên trì, bắt làm bền bỉ",
+          "list_en_vn": [
+            {
+              "full_en": "to keep somebody at some work",
+              "full_vn": "bắt ai làm bền bỉ một công việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm (lễ...), tổ chức (lễ kỷ niệm...)",
+          "list_en_vn": [
+            {
+              "full_en": "to keep one's birthday",
+              "full_vn": "tổ chức kỷ niệm ngày sinh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẫn cứ, cứ, vẫn ở tình trạng tiếp tục",
+          "list_en_vn": [
+            {
+              "full_en": "the weather will keep fine",
+              "full_vn": "thời tiết sẽ vẫn cứ đẹp"
+            },
+            {
+              "full_en": "to keep laughing",
+              "full_vn": "cứ cười"
+            },
+            {
+              "full_en": "keep straight on for two miles",
+              "full_vn": "anh hãy cứ tiếp tục đi thẳng hai dặm đường nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) ở",
+          "list_en_vn": [
+            {
+              "full_en": "where do you keep ?",
+              "full_vn": "anh ở đâu?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ được, để dành được (không hỏng, không thối...) (đồ ăn...)",
+          "list_en_vn": [
+            {
+              "full_en": "these apples do not keep",
+              "full_vn": "táo này không để được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + to ) giữ lấy, bám lấy, cứ theo, không rời xa",
+          "list_en_vn": [
+            {
+              "full_en": "to keep to one's course",
+              "full_vn": "cứ đi theo con đường của mình"
+            },
+            {
+              "full_en": "to keep to one's promise",
+              "full_vn": "giữ lời hứa"
+            },
+            {
+              "full_en": "keep to the right",
+              "full_vn": "hãy cứ theo bên phải mà đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) có thể để đấy, có thể đợi đấy",
+          "list_en_vn": [
+            {
+              "full_en": "that business can keep",
+              "full_vn": "công việc đó có thể cứ để đấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + from , off ) rời xa, tránh xa; nhịn",
+          "list_en_vn": [
+            {
+              "full_en": "keep off !",
+              "full_vn": "tránh ra!, xê ra!"
+            },
+            {
+              "full_en": "keep off the grass",
+              "full_vn": "không được giẫm lên bãi cỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + at ) làm kiên trì, làm bền bỉ (công việc gì...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to keep away",
+              "list_im": [
+                {
+                  "im_full_vn": "để xa ra, bắt ở xa ra; cất đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "keep knives away from children",
+                      "full_vn": "cất dao cho trẻ con khỏi nghịch"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep back",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ lại"
+                },
+                {
+                  "im_full_vn": "làm chậm lại; chặn lại, cản lại, cầm lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to keep back one's tears",
+                      "full_vn": "cầm nước mắt"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "giấu không nói ra"
+                },
+                {
+                  "im_full_vn": "đứng ở đằng sau, ở lại đằng sau"
+                },
+                {
+                  "im_full_vn": "tránh xa ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep down",
+              "list_im": [
+                {
+                  "im_full_vn": "cầm lại, nén lại, dằn lại"
+                },
+                {
+                  "im_full_vn": "cản không cho lên, giữ không cho lên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to keep prices down",
+                      "full_vn": "giữ giá không cho lên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "không trở dậy (cứ quỳ, cứ ngồi, cứ nằm)"
+                },
+                {
+                  "im_full_vn": "(quân sự) nằm phục kích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep from",
+              "list_im": [
+                {
+                  "im_full_vn": "nhịn, kiêng, nén, nín; tự kiềm chế được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "can't keep from laughing",
+                      "full_vn": "không nén cười được"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep in",
+              "list_im": [
+                {
+                  "im_full_vn": "dằn lại, nén lại, kiềm chế, kìm lại (sự xúc đông, tình cảm...)"
+                },
+                {
+                  "im_full_vn": "giữ không cho ra ngoài; phạt bắt (học sinh) ở lại sau giờ học"
+                },
+                {
+                  "im_full_vn": "giữ cho (ngọn lửa) cháy đều"
+                },
+                {
+                  "im_full_vn": "ở trong nhà, không ra ngoài"
+                },
+                {
+                  "im_full_vn": "vẫn thân thiện, vẫn hoà thuận (với ai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to keep in with somebody",
+                      "full_vn": "vẫn thân thiện với ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep off",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về mưa, tuyết...) không bắt đầu"
+                },
+                {
+                  "im_full_vn": "( to keep off somebody / something ) tránh xa, kiêng kỵ; ( to keep somebody / something off )",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the match will go ahead provided the rain keeps off",
+                      "full_vn": "trận đấu sẽ tiến hành với điều kiện trời không mưa"
+                    },
+                    {
+                      "full_en": "keep off cigarettes , drugs , drink , fatty foods",
+                      "full_vn": "hãy kiêng thuốc lá, ma túy, rượu, thức ăn béo"
+                    },
+                    {
+                      "full_en": "please keep off (the subject of ) politics in the presence of my wife",
+                      "full_vn": "xin đừng nhắc đến (đề tài) chính trị trước mặt vợ tôi"
+                    },
+                    {
+                      "full_en": "they lit a fire to keep mosquitoes off",
+                      "full_vn": "họ đốt lửa để cho muỗi tránh xa"
+                    },
+                    {
+                      "full_en": "keep your hands off her !",
+                      "full_vn": "đừng chạm vào cô ấy!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep on",
+              "list_im": [
+                {
+                  "im_full_vn": "cứ vẫn tiếp tục",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to keep on reading",
+                      "full_vn": "cứ đọc tiếp"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "cứ để, cứ giữ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to keep on one's hat",
+                      "full_vn": "cứ để mũ trên đầu (không bỏ ra)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep out",
+              "list_im": [
+                {
+                  "im_full_vn": "không đi vào; ở lại bên ngoài",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The sign said 'Danger - Keep out !'",
+                      "full_vn": "Trên biển ghi là 'Nguy hiểm - Cấm vào! '"
+                    },
+                    {
+                      "full_en": "keep that sick cat out of the dining-room",
+                      "full_vn": "đừng cho con mèo ấy vào phòng ăn"
+                    },
+                    {
+                      "full_en": "she wore a hat to keep the sun out of her eyes",
+                      "full_vn": "cô ấy đội mũ để nắng khỏi chiếu vào mắt"
+                    },
+                    {
+                      "full_en": "keep out of the rain if you have no waterproof",
+                      "full_vn": "hãy tránh mưa nếu anh không có áo mưa"
+                    },
+                    {
+                      "full_en": "keep the children out of harm's way if you take them to the match",
+                      "full_vn": "hãy tránh cho trẻ con những gì có thể gây tai hại nếu anh đưa chúng đến xem trận đấu"
+                    },
+                    {
+                      "full_en": "to keep out of a quarrel",
+                      "full_vn": "không xen vào cuộc cãi lộn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep together",
+              "list_im": [
+                {
+                  "im_full_vn": "kết hợp nhau, gắn bó với nhau, không rời nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep under",
+              "list_im": [
+                {
+                  "im_full_vn": "đè nén, thống trị, bắt quy phục; kiềm chế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep up",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ vững, giữ không cho đổ, giữ không cho hạ, giữ không cho xuống; giữ cho tốt, bảo quản tốt (máy...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to keep up one's spirits",
+                      "full_vn": "giữ vững tinh thần"
+                    },
+                    {
+                      "full_en": "to keep up prices",
+                      "full_vn": "giữ giá không cho xuống"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "duy trì, tiếp tục, không bỏ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to keep up a correspondence",
+                      "full_vn": "vẫn cứ tiếp tục thư từ qua lại"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bắt thức đêm, không cho đi ngủ"
+                },
+                {
+                  "im_full_vn": "giữ vững tinh thần; không giảm, không hạ"
+                },
+                {
+                  "im_full_vn": "( + with ) theo kịp, ngang hàng với, không thua kém",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to keep up with somebody",
+                      "full_vn": "theo kịp ai, không thua kém ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep abreast of (with )",
+              "list_im": [
+                {
+                  "im_full_vn": "theo kịp, không lạc hậu so với",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to keep abreast with the times",
+                      "full_vn": "theo kịp thời đại"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep a check on",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) check"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep clear of",
+              "list_im": [
+                {
+                  "im_full_vn": "tránh, tránh xa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep the ball rolling",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp tục câu chuyện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep up with the Joneses",
+              "list_im": [
+                {
+                  "im_full_vn": "sống bon chen đua đòi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep company",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) company"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep somebody company",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) company"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep good (bad ) company",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) company"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's countenance",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) countenance"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's own counsel",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) counsel"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep dark",
+              "list_im": [
+                {
+                  "im_full_vn": "lẫn trốn, núp trốn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's distance",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) distance"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp tục làm việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's end up",
+              "list_im": [
+                {
+                  "im_full_vn": "không đầu hàng, không nhượng bộ; giữ vững ý kiến của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep an eye on",
+              "list_im": [
+                {
+                  "im_full_vn": "để mắt vào, theo dõi; trông giữ, canh giữ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep somebody going",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp đỡ ai về vật chất (để cho có thể sống được, làm ăn được...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's hair on",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hair"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) head"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep late hours",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hour"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep mum",
+              "list_im": [
+                {
+                  "im_full_vn": "lặng thinh, nín lặng; giữ kín, không nói ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep oneself to oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "không thích giao thiệp; không thích giao du; sống tách rời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep sth to oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ kín điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep open house",
+              "list_im": [
+                {
+                  "im_full_vn": "ai đến cũng tiếp đãi, rất hiếu khách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep pace with",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) pace"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep peace with",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ quan hệ tốt với"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's shirt on",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) shirt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep a stiff upper lip",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) lip"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep tab (s) on",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) tab"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's temper",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) temper"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep good time",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng giờ (đồng hồ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep track of",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) track"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep up appearances",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) appearance"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep watch",
+              "list_im": [
+                {
+                  "im_full_vn": "cảnh giác đề phòng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to keep hard at work for a week",
+              "full_vn": "làm bền bỉ trong suốt một tuần"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nuôi thân, sự nuôi nấng (gia đình...); cái để nuôi thân, cái để nuôi nấng (gia đình...)",
+          "list_en_vn": [
+            {
+              "full_en": "to earn one's keep",
+              "full_vn": "kiếm ăn, kiếm cái nuôi thân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) người giữ"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nhà tù, nhà giam"
+        },
+        {
+          "m_full_vn": "(sử học) tháp, pháo đài, thành luỹ",
+          "list_one_mean": [
+            {
+              "id_full_en": "for keeps",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) thường xuyên; mãi mãi, vĩnh viễn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in good keep",
+              "list_im": [
+                {
+                  "im_full_vn": "trong tình trạng tốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in low keep",
+              "list_im": [
+                {
+                  "im_full_vn": "trong tình trạng xấu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066380_0e3d67c14e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066380_9920d1b650_o.png",
+      "id_image": "keep_1274204"
+    }
+  ]
+}

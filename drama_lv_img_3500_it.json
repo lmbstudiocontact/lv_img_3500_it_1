@@ -1,0 +1,92 @@
+{
+  "english": "drama",
+  "phat_am": "['drɑ:mə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vở kịch cho sân khấu, ra-đi-ô hoặc truyền hình"
+        },
+        {
+          "m_full_vn": "kịch với tính cách một thể loại văn học và một nghệ thuật biểu diễn",
+          "list_en_vn": [
+            {
+              "full_en": "a masterpiece of Elizabethan drama",
+              "full_vn": "một kiệt tác của kịch thời Elizabeth"
+            },
+            {
+              "full_en": "lovers of the drama",
+              "full_vn": "những người yêu kịch"
+            },
+            {
+              "full_en": "a drama critic , school , student",
+              "full_vn": "nhà phê bình, trường, học viên kịch nghệ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một loạt những sự kiện xúc động",
+          "list_en_vn": [
+            {
+              "full_en": "a real-life hospital drama",
+              "full_vn": "những biến cố của đời thực trong nhà thương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự gây xúc động; kịch tính",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make a drama out of something",
+              "list_im": [
+                {
+                  "im_full_vn": "phóng đại (một sự việc không quan trọng); cường điệu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he makes a drama out of a simple visit to the dentist",
+                      "full_vn": "chỉ có việc đến nha sĩ mà nó cũng làm ầm cả lên"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "her life was full of drama",
+              "full_vn": "cuộc đời cô ta đầy kịch tính"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043845_04f7a049b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043845_e5c265712d_o.png",
+      "id_image": "drama_2368384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662174_f66e389f72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662174_9e85000daa_o.png",
+      "id_image": "drama_2445272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421938_d41f69754e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421938_f572e5f4d6_o.png",
+      "id_image": "drama_2892524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043735_4cddd793f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043735_310cf0d8bc_o.png",
+      "id_image": "drama_6000854"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043730_853af09e37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043730_fb0f463bcf_o.png",
+      "id_image": "drama_6347692"
+    }
+  ]
+}

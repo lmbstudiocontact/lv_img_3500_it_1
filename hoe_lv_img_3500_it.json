@@ -1,0 +1,45 @@
+{
+  "english": "hoe",
+  "phat_am": "[hou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái cuốc",
+          "list_en_vn": [
+            {
+              "full_en": "weeding hoe",
+              "full_vn": "cuốc để giẫy cỏ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuốc; xới; giẫy (cỏ...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450428_114cca1e28_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450428_6499b6356d_o.png",
+      "id_image": "hoe_2259581"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335416_c366a850a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335416_22cdd4fc37_o.png",
+      "id_image": "hoe_3317554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072290_74ec67fcbb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072290_644b381320_o.png",
+      "id_image": "hoe_3762925"
+    }
+  ]
+}

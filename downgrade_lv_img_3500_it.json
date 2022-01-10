@@ -1,0 +1,27 @@
+{
+  "english": "downgrade",
+  "phat_am": "['daungreid]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giáng chức, giáng cấp; đánh giá thấp",
+          "list_en_vn": [
+            {
+              "full_en": "this officer was downgraded to private",
+              "full_vn": "viên sĩ quan này bị giáng xuống làm binh nhì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307561_1d338c7f7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307561_037bd25ac6_o.png",
+      "id_image": "downgrade_2921173"
+    }
+  ]
+}

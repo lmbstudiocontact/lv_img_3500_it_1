@@ -1,0 +1,95 @@
+{
+  "english": "flare",
+  "phat_am": "[fleə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngọn lửa bừng sáng, lửa loé sáng; ánh sáng loé"
+        },
+        {
+          "m_full_vn": "ánh sáng báo hiệu (ở biển)"
+        },
+        {
+          "m_full_vn": "(quân sự) pháo sáng"
+        },
+        {
+          "m_full_vn": "chỗ xoè ở váy"
+        },
+        {
+          "m_full_vn": "chỗ loe ra; chỗ khum lên (ở mạn tàu)"
+        },
+        {
+          "m_full_vn": "(nhiếp ảnh) vết mờ ở phim ảnh (do bị loé sáng)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sáng rực lên, loé sáng, cháy bùng lên"
+        },
+        {
+          "m_full_vn": "loe ra (sườn tàu), xoè ra (váy)",
+          "list_en_vn": [
+            {
+              "full_en": "the skirt flares at the knees",
+              "full_vn": "váy xoè ra ở chỗ đầu gối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) ra hiệu bằng pháo sáng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm loe ra, làm xoè ra"
+        },
+        {
+          "m_full_vn": "( động tính từ quá khứ) loè loẹt, lồ lộ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to flare out (up )",
+              "list_im": [
+                {
+                  "im_full_vn": "loé lửa"
+                },
+                {
+                  "im_full_vn": "nổi nóng, nổi cáu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322951_5fb18f279e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322951_64f1bac896_o.png",
+      "id_image": "flare_1974790"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438078_421e35e949_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438078_22a1eb8edd_o.png",
+      "id_image": "flare_2485275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809382056_54f00c20a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809382056_2dc0a7cc4f_o.png",
+      "id_image": "flare_3814283"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059580_96317bde6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059580_755b4da17f_o.png",
+      "id_image": "flare_6009534"
+    }
+  ]
+}

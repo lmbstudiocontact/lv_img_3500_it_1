@@ -1,0 +1,432 @@
+{
+  "english": "foot",
+  "phat_am": "[fut]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều feet",
+      "list_m": [
+        {
+          "m_full_vn": "chân, bàn chân (người, thú...)"
+        },
+        {
+          "m_full_vn": "bước chân, cách đi"
+        },
+        {
+          "m_full_vn": "(quân sự) bộ binh",
+          "list_en_vn": [
+            {
+              "full_en": "horse , foot and artillery",
+              "full_vn": "kỵ binh, bộ binh và pháo binh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chân (giường, ghế, tường, núi...); bệ phía dưới, cuối",
+          "list_en_vn": [
+            {
+              "full_en": "at the foot of a page",
+              "full_vn": "ở cuối trang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phút (đơn vị đo chiều dài Anh bằng 0, 3048 m)"
+        },
+        {
+          "m_full_vn": "âm tiết ( (thơ ca))"
+        },
+        {
+          "m_full_vn": "(thực vật học) gốc cánh (hoa)"
+        },
+        {
+          "m_full_vn": "cặn bã"
+        },
+        {
+          "m_full_vn": "đường thô",
+          "list_one_mean": [
+            {
+              "id_full_en": "at someone's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "ở dưới trướng ai; là đồ đệ của ai"
+                },
+                {
+                  "im_full_vn": "đang cầu cạnh ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to tie sb hand and foot",
+              "list_im": [
+                {
+                  "im_full_vn": "tước đoạt sự tự do của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the boot is on the other foot",
+              "list_im": [
+                {
+                  "im_full_vn": "tình thế đã đảo ngược"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from head to foot",
+              "list_im": [
+                {
+                  "im_full_vn": "từ trên xuống dưới, từ đầu đến chân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to catch sb on the wrong foot",
+              "list_im": [
+                {
+                  "im_full_vn": "tình cờ gặp ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut the ground under sb's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai hỏng giò (nghĩa bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be (stand ) on one's own feet",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng thẳng"
+                },
+                {
+                  "im_full_vn": "lại khoẻ mạnh"
+                },
+                {
+                  "im_full_vn": "có công ăn việc làm, tự lập"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry someone off his feet",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai phấn khởi, gây cảm hứng cho ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall on (upon ) one's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) fall"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a foot in the door",
+              "list_im": [
+                {
+                  "im_full_vn": "bước vào nghề nghiệp một cách thuận lợi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have both feet on the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "khôn ngoan, biết người biết ta"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a foot in both camps",
+              "list_im": [
+                {
+                  "im_full_vn": "quan tâm về cả hai phe, nhưng chẳng thuộc phe nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have an itchy feet",
+              "list_im": [
+                {
+                  "im_full_vn": "muốn được đi cho biết đó biết đây"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let the grass grow under one's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "đợi nước tới chân mới nhảy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's best foot forward",
+              "list_im": [
+                {
+                  "im_full_vn": "cố gắng hết sức mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's feet up",
+              "list_im": [
+                {
+                  "im_full_vn": "nghỉ ngơi cho khuây khoả đầu óc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's feet in it",
+              "list_im": [
+                {
+                  "im_full_vn": "làm phiền ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put a foot wrong",
+              "list_im": [
+                {
+                  "im_full_vn": "mắc sai lầm, phạm lỗi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rush sb off his feet",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt làm việc đến kiệt sức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the weight off one's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "ngồi xuống, an toạ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "ten feet tall",
+              "list_im": [
+                {
+                  "im_full_vn": "toại nguyện, mãn nguyện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wait on sb hand and foot",
+              "list_im": [
+                {
+                  "im_full_vn": "hầu hạ từng li từng tí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to walk sb off his feet",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt phải đi đến mệt mới thôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find (know ) the length of someone's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "biết nhược điểm của ai, nắm được thóp của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the ball at one's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) ball"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have feet of clay",
+              "list_im": [
+                {
+                  "im_full_vn": "chân đất sét dễ bị lật đổ, ở thế không vững"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one foot in the grave",
+              "list_im": [
+                {
+                  "im_full_vn": "gần đất xa trời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have (put , set ) one's foot on the neck of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đè đầu cưỡi cổ ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) feet"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to measure another's foot by one's own last",
+              "list_im": [
+                {
+                  "im_full_vn": "suy bụng ta ra bụng người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's foot down",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) put"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's foot in it",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) put"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put (set ) someone back on his feet",
+              "list_im": [
+                {
+                  "im_full_vn": "phục hồi sức khoẻ cho ai; phục hồi địa vị cho ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set on foot",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) set"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with foot , at foot",
+              "list_im": [
+                {
+                  "im_full_vn": "đã đẻ (ngựa cái)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with one's feet foremost",
+              "list_im": [
+                {
+                  "im_full_vn": "bị khiêng đi để chôn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull the carpet from under sb's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "đột ngột hất cẳng ai, đột ngột bỏ rơi ai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt chân lên"
+        },
+        {
+          "m_full_vn": "thay bàn chân cho; khâu bàn chân cho (bít tất)"
+        },
+        {
+          "m_full_vn": "(thông tục) thanh toán (hoá đơn)"
+        },
+        {
+          "m_full_vn": "(thông tục) cộng, cộng gộp"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ, (từ Mỹ,nghĩa Mỹ)",
+      "list_m": [
+        {
+          "m_full_vn": "đi bộ"
+        },
+        {
+          "m_full_vn": "nhảy",
+          "list_one_mean": [
+            {
+              "id_full_en": "to foot it",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) nhảy, nhảy múa"
+                },
+                {
+                  "im_full_vn": "đi bộ"
+                },
+                {
+                  "im_full_vn": "chạy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to foot up",
+              "list_im": [
+                {
+                  "im_full_vn": "lên tới, tới mức, tổng cộng tới",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the expenditure footed up to three thousand dongs",
+                      "full_vn": "tiền nộp phí tổn lên tới 3000 đồng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671829_4edd7c2fea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671829_e95334bd30_o.png",
+      "id_image": "foot_1328670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053520_2201ba38b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053520_d32cfc7857_o.png",
+      "id_image": "foot_2375367"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053495_2b4452cb2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053495_61626bc02d_o.png",
+      "id_image": "foot_2417977"
+    }
+  ]
+}

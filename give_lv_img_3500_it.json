@@ -1,0 +1,665 @@
+{
+  "english": "give",
+  "phat_am": "[giv]",
+  "list_type": [
+    {
+      "type": "động từ gave , given",
+      "list_m": [
+        {
+          "m_full_vn": "cho, biếu, tặng, ban",
+          "list_en_vn": [
+            {
+              "full_en": "to give a handsome present",
+              "full_vn": "tặng một món quà đẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho, sinh ra, đem lại",
+          "list_en_vn": [
+            {
+              "full_en": "to give profit",
+              "full_vn": "sinh lãi"
+            },
+            {
+              "full_en": "the sun gives us warmth and light",
+              "full_vn": "mặt trời cho chúng ta sức nóng và ánh sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nêu cho; đưa cho, trao cho, đem cho, chuyển cho",
+          "list_en_vn": [
+            {
+              "full_en": "to give a good example",
+              "full_vn": "nêu một tấm gương tốt"
+            },
+            {
+              "full_en": "give me my hat , please",
+              "full_vn": "làm ơn đưa cho tôi cái mũ"
+            },
+            {
+              "full_en": "to give one's wishes",
+              "full_vn": "gửi lời chúc mừng, chuyển lời chúc mừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "truyền cho, làm lây sang",
+          "list_en_vn": [
+            {
+              "full_en": "he was given consumption by his inmate",
+              "full_vn": "anh ta bị người bạn ở chung lây bệnh ho lao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trả (tiền...); trao đổi",
+          "list_en_vn": [
+            {
+              "full_en": "how much did you give for it ?",
+              "full_vn": "anh trả cái đó bao nhiêu?"
+            },
+            {
+              "full_en": "to give a horse for a cow",
+              "full_vn": "đổi con ngựa lấy con bò cái"
+            },
+            {
+              "full_en": "to give as good as one gets",
+              "full_vn": "ăn miếng trả miếng; ăn miếng chả trả miếng bùi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đi đôi với danh từ thành một cụm từ)",
+          "list_en_vn": [
+            {
+              "full_en": "to give a cry",
+              "full_vn": "kêu lên"
+            },
+            {
+              "full_en": "to give a loud laugh",
+              "full_vn": "cười to, cười vang"
+            },
+            {
+              "full_en": "to give a look",
+              "full_vn": "nhìn"
+            },
+            {
+              "full_en": "to give a jump",
+              "full_vn": "nhảy lên"
+            },
+            {
+              "full_en": "to give a sigh",
+              "full_vn": "thở dài"
+            },
+            {
+              "full_en": "to give a push",
+              "full_vn": "đẩy"
+            },
+            {
+              "full_en": "to give a groan",
+              "full_vn": "rên rỉ"
+            },
+            {
+              "full_en": "to give a start",
+              "full_vn": "giật mình"
+            },
+            {
+              "full_en": "to give encouragement",
+              "full_vn": "động viên, khuyến khích"
+            },
+            {
+              "full_en": "to give permission",
+              "full_vn": "cho phép"
+            },
+            {
+              "full_en": "to give an order",
+              "full_vn": "ra lệnh"
+            },
+            {
+              "full_en": "to give birth to",
+              "full_vn": "sinh ra"
+            },
+            {
+              "full_en": "to give one's attention to sth",
+              "full_vn": "chú ý đến cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho, gây ra",
+          "list_en_vn": [
+            {
+              "full_en": "he gave me to understand that ....... ...",
+              "full_vn": "hắn làm cho tôi hiểu rằng"
+            },
+            {
+              "full_en": "to give someone much trouble",
+              "full_vn": "gây lo lắng cho ai, gây phiền hà cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cống hiến, hiến dâng; ham mê, miệt mài, chuyên tâm",
+          "list_en_vn": [
+            {
+              "full_en": "to give one's life to one's country",
+              "full_vn": "hiến dâng đời mình cho tổ quốc"
+            },
+            {
+              "full_en": "to give one's mind to study",
+              "full_vn": "miệt mài nghiên cứu; chuyên tâm học tập"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tổ chức, mở, thết (một buổi dạ hội...); biểu diễn, diễn (kịch), đóng (một vai tuồng); hát dạo (một bản nhạc...), ngâm (một bài thơ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to give a concert",
+              "full_vn": "tổ chực một buổi hoà nhạc"
+            },
+            {
+              "full_en": "to give a banquet",
+              "full_vn": "mở tiệc, thết tiệc"
+            },
+            {
+              "full_en": "to give a song",
+              "full_vn": "hát một bài"
+            },
+            {
+              "full_en": "give us Chopin , please",
+              "full_vn": "anh hãy dạo cho chúng tôi nghe những bản nhạc của Sô-panh"
+            },
+            {
+              "full_en": "to give Hamlet",
+              "full_vn": "diễn vở Ham-lét"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tan, vỡ, sụp đổ; lún xuống, trĩu xuống; có thể nhún nhẩy, co giãn (như) lò xo",
+          "list_en_vn": [
+            {
+              "full_en": "the frost is giving",
+              "full_vn": "sương giá đang tan"
+            },
+            {
+              "full_en": "the branch gave but did not break",
+              "full_vn": "cành cây trĩu xuống nhưng không gãy"
+            },
+            {
+              "full_en": "the marshy ground gave under our feet",
+              "full_vn": "đất lầy lún xuống dưới chân chúng tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quay ra, nhìn ra, dẫn",
+          "list_en_vn": [
+            {
+              "full_en": "this window gives upon the street",
+              "full_vn": "cửa sổ này nhìn ra đường phố"
+            },
+            {
+              "full_en": "this corridor gives into the back yard",
+              "full_vn": "hành lang này dẫn vào sân sau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỉ, đưa ra, để lộ ra",
+          "list_en_vn": [
+            {
+              "full_en": "the thermometer gives 23o in the shade",
+              "full_vn": "nhiệt biểu chỉ 23 o trong bóng râm"
+            },
+            {
+              "full_en": "to give no signs of life",
+              "full_vn": "không lộ ra một dấu hiệu nào của sự sống"
+            },
+            {
+              "full_en": "newspapers give these facts",
+              "full_vn": "các báo hằng ngày đăng các sự kiện đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồng ý, thoả thuận; nhường, nhượng bộ",
+          "list_en_vn": [
+            {
+              "full_en": "I give you that point",
+              "full_vn": "tôi đồng ý với anh điểm ấy; tôi nhượng bộ anh điểm ấy"
+            },
+            {
+              "full_en": "to give ground",
+              "full_vn": "nhượng bộ, lùi bước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "coi như, cho là, cho rằng",
+          "list_en_vn": [
+            {
+              "full_en": "he was given for dead",
+              "full_vn": "người ta coi như là hắn ta đã chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyết định xử",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give away",
+              "list_im": [
+                {
+                  "im_full_vn": "cho",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to give away all one's money",
+                      "full_vn": "cho hết tiền"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "trao, phát (phần thưởng)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to give away the prizes",
+                      "full_vn": "phát phần thưởng"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tố cáo, phát giác; để lộ, phản bội",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to give away a secret",
+                      "full_vn": "lộ bí mật"
+                    },
+                    {
+                      "full_en": "to give away the show",
+                      "full_vn": "(từ lóng) để lộ điều bí mật, để lộ nhược điểm; để lòi cái dốt ra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give back",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn lại, trả lại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give forth",
+              "list_im": [
+                {
+                  "im_full_vn": "toả ra, phát ra, bốc (sức nóng, ánh sáng, mùi, tiếng...)"
+                },
+                {
+                  "im_full_vn": "công bố (tin tức...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give in",
+              "list_im": [
+                {
+                  "im_full_vn": "nhượng bộ, chịu thua"
+                },
+                {
+                  "im_full_vn": "nộp (tài liêu...)"
+                },
+                {
+                  "im_full_vn": "ghi vào, điền vào",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to give in one's name",
+                      "full_vn": "ghi tên vào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give off",
+              "list_im": [
+                {
+                  "im_full_vn": "toả ra, phát ra, bốc ra, bốc lên, xông lên (mùi, hơi nóng, khói...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give out",
+              "list_im": [
+                {
+                  "im_full_vn": "chia, phân phối"
+                },
+                {
+                  "im_full_vn": "toả ra, phát ra, làm bay ra, bốc lên, xông lên (hơi nóng, mùi...)"
+                },
+                {
+                  "im_full_vn": "rao, công bố",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to give oneself out to be (for )",
+                      "full_vn": "tự xưng là, tự nhận là"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hết, cạn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "food supplies began to give out",
+                      "full_vn": "lương thực bắt đầu cạn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "bị hư, bị hỏng (máy móc); mệt, quỵ, kiệt đi (sức)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) cho (phỏng vấn)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to give out an interview",
+                      "full_vn": "cho phỏng vấn"
+                    },
+                    {
+                      "full_en": "to give over",
+                      "full_vn": "trao tay"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thôi, chấm dứt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "give over crying !",
+                      "full_vn": "nín đi! thôi dừng khóc nữa!"
+                    },
+                    {
+                      "full_en": "to be given over to",
+                      "full_vn": "đâm mê, đắm đuối vào"
+                    },
+                    {
+                      "full_en": "to be given over to gambling",
+                      "full_vn": "đam mê cờ bạc"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "vứt bỏ, bỏ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to give over a bahit",
+                      "full_vn": "bỏ một thói quen"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give up",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ, từ bỏ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to give up a habit",
+                      "full_vn": "bỏ một thói quen"
+                    },
+                    {
+                      "full_en": "to give up one's work",
+                      "full_vn": "bỏ công việc"
+                    },
+                    {
+                      "full_en": "to give up one's appointment",
+                      "full_vn": "từ chức"
+                    },
+                    {
+                      "full_en": "to give up one's business",
+                      "full_vn": "thôi không kinh doanh nữa"
+                    },
+                    {
+                      "full_en": "to give up a newspaper",
+                      "full_vn": "thôi không mua một tờ báo"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to give up one's seat",
+                      "full_vn": "nhường ghế, nhường chỗ ngồi"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(y học) coi như là tuyệt vọng, cho như là không chữa được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be given up by the doctors",
+                      "full_vn": "bị các bác sĩ cho là không cứu chữa được nữa"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "trao, nộp (cho nhà chức trách...)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to give oneself up",
+                      "full_vn": "đầu thú, tự nộp mình"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "khai báo (đồng bọn)"
+                },
+                {
+                  "im_full_vn": "đam mê, đắm đuối, miệt mài (học tập)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to give oneself up to drinking",
+                      "full_vn": "rượu chè be bét, đam mê rượu chè"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give a back",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) back"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give a Roland for an Oliver",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn miếng chả, trả miếng bùi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "give me",
+              "list_im": [
+                {
+                  "im_full_vn": "(chỉ lời mệnh lệnh) tôi thích, tôi phục",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "give me an evening of classical drama",
+                      "full_vn": "tôi thích xem một buổi tuồng cổ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody hot",
+              "list_im": [
+                {
+                  "im_full_vn": "mắng mỏ ai, xỉ vả đánh đập ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give someone what for",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) mắng mỏ (chỉnh, xỉ vả) ai, trừng phạt ai nghiêm khắc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give to the public (world )",
+              "list_im": [
+                {
+                  "im_full_vn": "công bố"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody the time of day",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) day"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give way",
+              "list_im": [
+                {
+                  "im_full_vn": "nhượng bộ; chịu thua",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to give way to someone",
+                      "full_vn": "chịu thua ai"
+                    },
+                    {
+                      "full_en": "to give way to despair",
+                      "full_vn": "nản lòng, nản chí"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "kiệt đi (sức khoẻ)"
+                },
+                {
+                  "im_full_vn": "cong, oằn, lún xuống, tan, gãy, đứt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the rope gave way",
+                      "full_vn": "dây thừng đứt"
+                    },
+                    {
+                      "full_en": "the ice gave way",
+                      "full_vn": "băng tan ra"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(thương nghiệp) bị giảm giá, sụt xuống"
+                },
+                {
+                  "im_full_vn": "(hàng hải) rán sức chèo"
+                },
+                {
+                  "im_full_vn": "bị bật đi, bị thay thế",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "would give the world (one's ears ) for something (to get something )",
+                      "full_vn": "sẵn sàng hy sinh hết để được cái gì"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to give the case for the defendant",
+              "full_vn": "xử cho bị cáo được kiện"
+            },
+            {
+              "full_en": "to give the case against the defendant",
+              "full_vn": "xử cho bị cáo thua kiện"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính đàn hồi, tính co giãn, tính nhún nhảy được",
+          "list_one_mean": [
+            {
+              "id_full_en": "give and take",
+              "list_im": [
+                {
+                  "im_full_vn": "thái độ sẵn sàng khoan dung và tha thứ cho nhau trong một mối quan hệ; sự nhân nhượng lẫn nhau"
+                },
+                {
+                  "im_full_vn": "sự trao đổi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "If the dispute is to be resolved , there must be some give and take",
+                      "full_vn": "Nếu cần giải quyết cuộc tranh chấp này thì phải nhân nhượng nhau đôi chút"
+                    },
+                    {
+                      "full_en": "Marriage is a give and take affair",
+                      "full_vn": "Hôn nhân là việc nhân nhượng lẫn nhau"
+                    },
+                    {
+                      "full_en": "the lively give and take of ideas",
+                      "full_vn": "cuộc trao đổi ý kiến sôi nổi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "there is no give in a stone floor",
+              "full_vn": "sàn đá thì không thể nhún nhảy được"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332191_9f7b337dec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332191_957000d3fd_o.png",
+      "id_image": "give_1451289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687164_4863f1fb4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687164_fcf451895a_o.png",
+      "id_image": "give_1655085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332131_451387db0d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332131_72b9e26ee6_o.png",
+      "id_image": "give_5065668"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687074_4295ce2139_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687074_23a69e4d74_o.png",
+      "id_image": "give_6272563"
+    }
+  ]
+}

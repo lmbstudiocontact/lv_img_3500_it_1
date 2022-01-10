@@ -1,0 +1,91 @@
+{
+  "english": "foreign",
+  "phat_am": "['fɔrin]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về, ở hoặc từ một nước hoặc một khu vực ngoài nước mình hoặc khu của mình; nước ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "foreign languages",
+              "full_vn": "tiếng nước ngoài; ngoại ngữ"
+            },
+            {
+              "full_en": "foreign students",
+              "full_vn": "sinh viên người nước ngoài"
+            },
+            {
+              "full_en": "foreign goods",
+              "full_vn": "hàng ngoại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đối với hoặc liên quan đến các nước khác",
+          "list_en_vn": [
+            {
+              "full_en": "foreign trade",
+              "full_vn": "ngoại thương"
+            },
+            {
+              "full_en": "foreign affairs",
+              "full_vn": "công việc đối ngoại; việc ngoại giao"
+            },
+            {
+              "full_en": "The Foreign Office",
+              "full_vn": "Bộ ngoại giao"
+            },
+            {
+              "full_en": "The Foreign Minister",
+              "full_vn": "Bộ trưởng ngoại giao"
+            },
+            {
+              "full_en": "foreign policy",
+              "full_vn": "chính sách đối ngoại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( foreign to somebody / something ) xa lạ với ai/cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "hypocrisy is something foreign to his nature",
+              "full_vn": "đạo đức giả là cái gì đó xa lạ với bản chất của anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) ngẫu nhiên đến hoặc đưa từ ngoài vào",
+          "list_en_vn": [
+            {
+              "full_en": "a foreign body in the nose",
+              "full_vn": "vật lạ (bụi, mảnh vụn...) trong mũi; dị vật trong mũi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) thuộc tiểu bang khác",
+          "list_one_mean": [
+            {
+              "id_full_en": "The Foreign and Commonwealth Office (viết tắt là FCO )",
+              "list_im": [
+                {
+                  "im_full_vn": "cơ quan chính phủ ( Anh) chuyên giải quyết các công việc đối ngoại và khối Thịnh vượng chung; bộ ngoại giao Anh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052065_82934c0ac6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052065_fcdbcbea14_o.png",
+      "id_image": "foreign_381607"
+    }
+  ]
+}

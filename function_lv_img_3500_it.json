@@ -1,0 +1,70 @@
+{
+  "english": "function",
+  "phat_am": "['fʌηk∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chức năng",
+          "list_en_vn": [
+            {
+              "full_en": "procreative function",
+              "full_vn": "chức năng sinh sản"
+            },
+            {
+              "full_en": "function key",
+              "full_vn": "phím chức năng (tin học)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) nhiệm vụ, trách nhiệm",
+          "list_en_vn": [
+            {
+              "full_en": "the functions of a judge",
+              "full_vn": "nhiệm vụ của quan toà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buổi lễ; buổi họp mặt chính thức, buổi họp mặt quan trọng"
+        },
+        {
+          "m_full_vn": "(toán học) hàm, hàm số"
+        },
+        {
+          "m_full_vn": "(hoá học) chức"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoạt động; chạy (máy)"
+        },
+        {
+          "m_full_vn": "thực hiện chức năng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457443_8ca3aac4e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457443_74e311b650_o.png",
+      "id_image": "function_4496243"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457393_c3f1e463d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457393_c55fe47fce_o.png",
+      "id_image": "function_5486008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080140_3389284ac8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080140_0a84198ac6_o.png",
+      "id_image": "function_994633"
+    }
+  ]
+}

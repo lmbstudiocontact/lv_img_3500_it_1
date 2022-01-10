@@ -1,0 +1,34 @@
+{
+  "english": "insecure",
+  "phat_am": "[,insi'kjuə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không an toàn"
+        },
+        {
+          "m_full_vn": "không vững chắc, bấp bênh",
+          "list_en_vn": [
+            {
+              "full_en": "insecure foundations",
+              "full_vn": "nền tảng không vững chắc"
+            },
+            {
+              "full_en": "an insecure person",
+              "full_vn": "một con người không vững (dễ sợ hãi, dễ dao động...)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390622_5108d62b8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390622_3961359771_o.png",
+      "id_image": "insecure_5526255"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "english": "genetic",
+  "phat_am": "[dʒi'netik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) gien; (thuộc) di truyền học",
+          "list_en_vn": [
+            {
+              "full_en": "genetic code",
+              "full_vn": "mã di truyền"
+            },
+            {
+              "full_en": "genetic information , material",
+              "full_vn": "thông tin, vật liệu về di truyền học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát sinh",
+          "list_en_vn": [
+            {
+              "full_en": "genetic classification",
+              "full_vn": "phép phân loại phát sinh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380807_27d1931e86_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380807_7cc4e648ff_o.png",
+      "id_image": "genetic_2191468"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690964_c2fc01a0e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690964_a0108edd49_o.png",
+      "id_image": "genetic_2233624"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335676_27316c9b41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335676_10fcb7c124_o.png",
+      "id_image": "genetic_4061294"
+    }
+  ]
+}

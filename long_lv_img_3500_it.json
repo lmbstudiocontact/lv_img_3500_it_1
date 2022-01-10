@@ -1,0 +1,447 @@
+{
+  "english": "long",
+  "phat_am": "[lɔη]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dài (không gian, thời gian); xa, lâu",
+          "list_en_vn": [
+            {
+              "full_en": "a long journey",
+              "full_vn": "một cuộc hành trình dài"
+            },
+            {
+              "full_en": "to live a long life",
+              "full_vn": "sống lâu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kéo dài",
+          "list_en_vn": [
+            {
+              "full_en": "a one-month long leave",
+              "full_vn": "thời gian nghỉ phép (kéo dài) một tháng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cao; nhiều, đáng kể",
+          "list_en_vn": [
+            {
+              "full_en": "a long price",
+              "full_vn": "giá cao"
+            },
+            {
+              "full_en": "for long years",
+              "full_vn": "trong nhiều năm"
+            },
+            {
+              "full_en": "a long family",
+              "full_vn": "gia đình đông con"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dài dòng, chán",
+          "list_en_vn": [
+            {
+              "full_en": "what a long speech !",
+              "full_vn": "bài nói sao mà dài dòng thế!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quá, hơn",
+          "list_en_vn": [
+            {
+              "full_en": "a long hundred",
+              "full_vn": "(thương nghiệp) một trăm hai mươi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chậm, chậm trễ, lâu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bid a long farewell",
+              "list_im": [
+                {
+                  "im_full_vn": "tạm biệt trong một thời gian dài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to draw the long bow",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bow"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a long arm",
+              "list_im": [
+                {
+                  "im_full_vn": "có thế lực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a long face",
+              "list_im": [
+                {
+                  "im_full_vn": "mặt dài ra, chán nản, buồn xỉu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a long head",
+              "list_im": [
+                {
+                  "im_full_vn": "linh lợi; láu lỉnh; nhìn xa thấy rộng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a long tongue",
+              "list_im": [
+                {
+                  "im_full_vn": "hay nói nhiều"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a long wind",
+              "list_im": [
+                {
+                  "im_full_vn": "dài hơi, có thể chạy lâu mà không nghỉ; có thể nói mãi mà không mệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a long arm",
+              "list_im": [
+                {
+                  "im_full_vn": "vói tay (để lấy cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a long nose",
+              "list_im": [
+                {
+                  "im_full_vn": "vẫy mũi chế giễu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take long views",
+              "list_im": [
+                {
+                  "im_full_vn": "biết nhìn xa nghĩ rộng; nhìn thấu được vấn đề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the long run",
+              "list_im": [
+                {
+                  "im_full_vn": "sau cùng, sau rốt, kết quả là, rốt cuộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's long home",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) home"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the longest",
+              "list_im": [
+                {
+                  "im_full_vn": "lâu nhất là..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go a long way towards doing sth",
+              "list_im": [
+                {
+                  "im_full_vn": "góp phần làm việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go a long way",
+              "list_im": [
+                {
+                  "im_full_vn": "lâu cạn, lâu hết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as happy as the day is long",
+              "list_im": [
+                {
+                  "im_full_vn": "xem happy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have come a long way",
+              "list_im": [
+                {
+                  "im_full_vn": "có nhiều tiến bộ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it is as broad as it is long",
+              "list_im": [
+                {
+                  "im_full_vn": "xem broad"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a long haul",
+              "list_im": [
+                {
+                  "im_full_vn": "một việc khó khăn dai dẳng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a long shot",
+              "list_im": [
+                {
+                  "im_full_vn": "sự phỏng đoán vô căn cứ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "long in the tooth",
+              "list_im": [
+                {
+                  "im_full_vn": "khá lớn tuổi, già"
+                }
+              ]
+            },
+            {
+              "id_full_en": "long time no see",
+              "list_im": [
+                {
+                  "im_full_vn": "lâu rồi chúng ta mới gặp nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not by a long chalk",
+              "list_im": [
+                {
+                  "im_full_vn": "không chút nào, chẳng chút nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the long view",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn xa thấy rộng, biết lo xa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a long look at sth",
+              "list_im": [
+                {
+                  "im_full_vn": "xem xét cái gì thật kỹ lưỡng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut a long story short",
+              "list_im": [
+                {
+                  "im_full_vn": "vào thẳng vấn đề"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "don't be long",
+              "full_vn": "đừng chậm nhé"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "lâu, trong một thời gian dài",
+          "list_en_vn": [
+            {
+              "full_en": "were you in Rome long ?",
+              "full_vn": "anh ở Rôm lâu không?"
+            },
+            {
+              "full_en": "long into the next century",
+              "full_vn": "mãi cho đến tận thế kỷ sau"
+            },
+            {
+              "full_en": "I shan't be long",
+              "full_vn": "tôi sẽ không chậm trễ đâu"
+            },
+            {
+              "full_en": "you can stay here as long as you like",
+              "full_vn": "anh có thể ở lại đây bao lâu tuỳ theo ý thích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "suốt trong cả một khoảng thời gian dài",
+          "list_one_mean": [
+            {
+              "id_full_en": "it is long since I heard of him",
+              "list_im": [
+                {
+                  "im_full_vn": "đã từ lâu tôi không được tin gì của anh ta"
+                }
+              ]
+            },
+            {
+              "id_full_en": "so long !",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) tạm biệt!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as long as",
+              "list_im": [
+                {
+                  "im_full_vn": "miễn là, chỉ cần, với điều kiện là"
+                },
+                {
+                  "im_full_vn": "chừng nào mà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "as long as it doesn't rain , we can play",
+                      "full_vn": "miễn là trời đừng mưa thì chúng ta chơi được"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to be long for this world",
+              "list_im": [
+                {
+                  "im_full_vn": "chết sớm, sấm chấm dứt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be long",
+              "list_im": [
+                {
+                  "im_full_vn": "( + động tính từ hiện tại) mãi mới",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be long finding something",
+                      "full_vn": "mãi mới tìm ra cái gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "no /any /much longer",
+              "list_im": [
+                {
+                  "im_full_vn": "sau một thời điểm nào đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I can't wait any /much longer",
+                      "full_vn": "tôi không thể đợi lâu hơn nữa"
+                    },
+                    {
+                      "full_en": "he no longer lives here",
+                      "full_vn": "ông ta không còn ở đây nữa"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "all day long",
+              "full_vn": "suốt ngày"
+            },
+            {
+              "full_en": "I've waited for this moment my whole life long",
+              "full_vn": "tôi đã chờ đợi khoảnh khắc này suốt cả đời tôi"
+            },
+            {
+              "full_en": "long ago /before /after /since",
+              "full_vn": "từ lâu/trước đây lâu/sau đó lâu/từ đó đến nay đã lâu"
+            },
+            {
+              "full_en": "he died not long after (that )",
+              "full_vn": "sau việc ấy không lâu thì ông ta chết"
+            },
+            {
+              "full_en": "that happened long ago",
+              "full_vn": "việc đó xảy ra đã từ lâu"
+            },
+            {
+              "full_en": "I had known him long before I knew you",
+              "full_vn": "tôi biết nó từ lâu trước khi biết anh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nóng lòng, mong mỏi, ước mong, ao ước",
+          "list_en_vn": [
+            {
+              "full_en": "I long to see him",
+              "full_vn": "tôi nóng lòng được gặp nó"
+            },
+            {
+              "full_en": "I long for your letter",
+              "full_vn": "tôi mong mỏi thư anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336046_b3cd5b6d06_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336046_ea569a6cee_o.png",
+      "id_image": "long_2785392"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691279_20b01fdb18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691279_8f0d85e102_o.png",
+      "id_image": "long_5966419"
+    }
+  ]
+}

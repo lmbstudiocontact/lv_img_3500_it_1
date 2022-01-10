@@ -1,0 +1,172 @@
+{
+  "english": "hole",
+  "phat_am": "['houl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lỗ, lỗ thủng; lỗ trống; lỗ khoan"
+        },
+        {
+          "m_full_vn": "lỗ đáo; lỗ đặt bóng (trong một số trò chơi)"
+        },
+        {
+          "m_full_vn": "chỗ sâu, chỗ trũng (ở dòng suối); hố"
+        },
+        {
+          "m_full_vn": "hang (chuột, chồn...)"
+        },
+        {
+          "m_full_vn": "túp lều tồi tàn, nhà ổ chuột"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) điểm thắng (khi đánh được quả gôn từ lỗ nọ sang lỗ kia)"
+        },
+        {
+          "m_full_vn": "(hàng không) lỗ trống (trong không khí)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) rỗ kim, rỗ tổ ong"
+        },
+        {
+          "m_full_vn": "khuyết điểm; thiếu sót, lỗ hổng (bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "we found holes in his argument",
+              "full_vn": "trong lý lẽ của anh ta chúng tôi thấy có những lỗ hổng (thiếu sót)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) tình thế khó xử, hoàn cảnh lúng túng",
+          "list_one_mean": [
+            {
+              "id_full_en": "a hole in one's coat",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) vết nhơ đối với thanh danh của mình",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a man with a hole in his coat",
+                      "full_vn": "người mà thanh danh không phải hoàn toàn không có vết"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a hole in",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) gây một chỗ trống lớn (trong ngân quỹ...)"
+                },
+                {
+                  "im_full_vn": "lấy ra một phần lớn (cái hì...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pick holes in",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm khuyết điểm, bới lông tìm vết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a square peg in a round hole",
+              "list_im": [
+                {
+                  "im_full_vn": "nồi tròn vung méo, người đặt không đúng chỗ, người bố trí không thích hợp với công tác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have an ace in the hole",
+              "list_im": [
+                {
+                  "im_full_vn": "để dành lá bài tẩy, giữ ngón đòn độc chiêu để khi hữu sự thì tung ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a hole in the wall",
+              "list_im": [
+                {
+                  "im_full_vn": "quán tồi tàn, quán cóc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "money burns a hole in one's pocket",
+              "list_im": [
+                {
+                  "im_full_vn": "hoang phí đến cháy túi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to put somebody in a hole",
+              "full_vn": "đẩy ai vào một tình thế khó xử"
+            },
+            {
+              "full_en": "to be in a devil of a hole",
+              "full_vn": "ở trong một tình thế hết sức lúng túng khó khăn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đào lỗ, đục lỗ; chọc thủng, làm thủng"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) để vào lỗ, đánh vào lỗ"
+        },
+        {
+          "m_full_vn": "đào (hầm), khoan (giếng)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thủng"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) đánh bóng vào lỗ (đánh gôn)"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) đào hầm thông (từ hầm này sang hầm khác)"
+        },
+        {
+          "m_full_vn": "nấp trốn trong hang (thú vật)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809334971_6f062aa8ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809334971_2f54c19abf_o.png",
+      "id_image": "hole_1098203"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450038_a68b54c52a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450038_550b22fb18_o.png",
+      "id_image": "hole_3561426"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380072_f6cb46fcc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380072_734c9afde0_o.png",
+      "id_image": "hole_595781"
+    }
+  ]
+}

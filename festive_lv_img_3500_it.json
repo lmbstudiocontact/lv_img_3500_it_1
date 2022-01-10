@@ -1,0 +1,40 @@
+{
+  "english": "festive",
+  "phat_am": "['festiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc hoặc thích hợp với ngày lễ, ngày hội",
+          "list_en_vn": [
+            {
+              "full_en": "festive holiday",
+              "full_vn": "ngày hội"
+            },
+            {
+              "full_en": "festive season",
+              "full_vn": "mùa lễ hội"
+            },
+            {
+              "full_en": "the whole town is in festive mood",
+              "full_vn": "cả thành phố ở trong tâm trạng ngày hội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446258_dc79cbb5fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446258_ec0b402109_o.png",
+      "id_image": "festive_6347811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686264_0194d96e48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686264_a8d9cb059a_o.png",
+      "id_image": "festive_6347838"
+    }
+  ]
+}

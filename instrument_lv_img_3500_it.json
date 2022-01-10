@@ -1,0 +1,97 @@
+{
+  "english": "instrument",
+  "phat_am": "['instrumənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dụng cụ; công cụ",
+          "list_en_vn": [
+            {
+              "full_en": "a surgical /optical instrument",
+              "full_vn": "dụng cụ phẫu thuật/quang học"
+            },
+            {
+              "full_en": "instruments of torture",
+              "full_vn": "dụng cụ tra tấn"
+            },
+            {
+              "full_en": "we humans are merely the instruments of fate",
+              "full_vn": "con người chúng ta chỉ là công cụ của số phận mà thôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dụng cụ đo lường cho biết thôngtin về hoạt động của một động cơ hoặc trong nghề hàng hải; thiết bị đo đạc",
+          "list_en_vn": [
+            {
+              "full_en": "a ship's instruments",
+              "full_vn": "những thiết bị đo đạc của tàu thủy"
+            },
+            {
+              "full_en": "an instrument panel",
+              "full_vn": "bảng đồng hồ chỉ dẫn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dụng cụ, thiết bị phát ra âm thanh trong âm nhạc; nhạc cụ; nhạc khí",
+          "list_en_vn": [
+            {
+              "full_en": "learning to play an instrument",
+              "full_vn": "học cách chơi một nhạc cụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tài liệu chính thức (nhất là hợp pháp); văn kiện",
+          "list_en_vn": [
+            {
+              "full_en": "the king signed the instrument of abdication",
+              "full_vn": "nhà vua đã ký văn kiện thoái vị"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cung cấp dụng cụ máy móc"
+        },
+        {
+          "m_full_vn": "phối nhạc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081450_4dce46849c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081450_54c0beb6ee_o.png",
+      "id_image": "instrument_1296729"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458778_23dc7f5a9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458778_c6150e9163_o.png",
+      "id_image": "instrument_2270966"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388932_56a33fa6f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388932_e05d20f734_o.png",
+      "id_image": "instrument_2504135"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699149_90ef61b206_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699149_157fd5856f_o.png",
+      "id_image": "instrument_5015957"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081515_8b607dc20a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081515_aaa25bbe95_o.png",
+      "id_image": "instrument_805327"
+    }
+  ]
+}

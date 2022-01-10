@@ -1,0 +1,65 @@
+{
+  "english": "generator",
+  "phat_am": "['dʒenəreitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người nghĩ ra; người khởi xướng",
+          "list_en_vn": [
+            {
+              "full_en": "a generator of new ideas",
+              "full_vn": "người đề xuất những ý tưởng mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy để sản xuất điện năng; máy phát điện (cũng) dynamo",
+          "list_en_vn": [
+            {
+              "full_en": "the generator has started up /broken down",
+              "full_vn": "máy phát điện đã khởi động/hỏng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy móc hoặc thiết bị sản xuất hơi nước, khí...",
+          "list_en_vn": [
+            {
+              "full_en": "an ultrasonic generator",
+              "full_vn": "máy phát siêu âm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451123_b08cc4e833_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451123_e95198d0c7_o.png",
+      "id_image": "generator_4277611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381137_90be74d42b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381137_e993fee707_o.png",
+      "id_image": "generator_4815445"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073030_d759289195_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073030_433170fecd_o.png",
+      "id_image": "generator_6002368"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451168_eb1953c94f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451168_e7029ca9de_o.png",
+      "id_image": "generator_778671"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073135_68a227c8ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073135_25512d9896_o.png",
+      "id_image": "generator_778672"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "english": "gesture",
+  "phat_am": "['dʒest∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điệu bộ; cử chỉ",
+          "list_en_vn": [
+            {
+              "full_en": "To make a rude gesture",
+              "full_vn": "Làm một cử chỉ khiếm nhã"
+            },
+            {
+              "full_en": "Communicating by gesture",
+              "full_vn": "Giao tiếp với nhau bằng cử chỉ"
+            },
+            {
+              "full_en": "With a gesture of despair",
+              "full_vn": "Với một cử chỉ tuyệt vọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hành động để gợi sự đáp lại; hành động để tỏ thiện ý",
+          "list_en_vn": [
+            {
+              "full_en": "His speech is a gesture of friendship ; His speech is a friendly gesture",
+              "full_vn": "Lời nói của anh ta là một biểu hiện của tình hữu nghị"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm điệu bộ; diễn tả bằng điệu bộ",
+          "list_en_vn": [
+            {
+              "full_en": "To gesture with one's hands",
+              "full_vn": "Làm điệu bộ bằng tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to gesture something to somebody ) ra hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "He gestured his satisfaction",
+              "full_vn": "Ông ta có những cử chỉ tỏ ra là mình hài lòng"
+            },
+            {
+              "full_en": "The mother gestures to her daughter that it is better to go home",
+              "full_vn": "Người mẹ ra hiệu cho cô con gái biết rằng nên đi về nhà thì hơn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379082_450c76129a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379082_549e4d08d5_o.png",
+      "id_image": "gesture_4236900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071170_58a3deb967_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071170_520e7bd768_o.png",
+      "id_image": "gesture_4636215"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689214_b11cfd6868_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689214_6efd3fc886_o.png",
+      "id_image": "gesture_6246489"
+    }
+  ]
+}

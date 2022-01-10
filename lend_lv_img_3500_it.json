@@ -1,0 +1,130 @@
+{
+  "english": "lend",
+  "phat_am": "[lend]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho vay, cho mượn",
+          "list_en_vn": [
+            {
+              "full_en": "can you lend me 500 francs ?",
+              "full_vn": "anh cho tôi mượn 500 frăng được không?"
+            },
+            {
+              "full_en": "I lent that record to John but never got it back",
+              "full_vn": "tôi cho John mượn đĩa hát đó nhưng chẳng bao giờ lấy lại được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cung cấp (tiền) trong một thời hạn để lấy lãi; cho vay lãi",
+          "list_en_vn": [
+            {
+              "full_en": "the banks are lending money at a competitive rate of interest",
+              "full_vn": "các ngân hàng đang cho vay với lãi suất cạnh tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thêm phần, thêm vào",
+          "list_one_mean": [
+            {
+              "id_full_en": "to lend assistance (aid ) to",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp đỡ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lend countenance to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) countenance"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lend an ear",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) ear"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lend colour to sth",
+              "list_im": [
+                {
+                  "im_full_vn": "khiến cho điều gì thêm tính xác thực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lend itself to",
+              "list_im": [
+                {
+                  "im_full_vn": "thích hợp với, có thể dùng làm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lend a (helping ) hand",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp đỡ ai một tay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lend oneself to sth",
+              "list_im": [
+                {
+                  "im_full_vn": "thích ứng với, thích nghi với; phụ hoạ theo"
+                },
+                {
+                  "im_full_vn": "tận lực vì, dốc tâm dốc sức vào"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to lend credibility /credence /plausibility to a report",
+              "full_vn": "làm cho bản báo cáo có thêm sự đáng tin/sự tin cậy/tính hợp lý"
+            },
+            {
+              "full_en": "to lend probability to a story",
+              "full_vn": "làm cho câu chuyện thêm dễ tin"
+            },
+            {
+              "full_en": "to lend one's services",
+              "full_vn": "đóng góp thêm sự giúp đỡ của mình"
+            },
+            {
+              "full_en": "to lend the occasion a little glamour",
+              "full_vn": "làm cho cơ hội thêm phần hấp dẫn"
+            },
+            {
+              "full_en": "his presence lent dignity to the occasion",
+              "full_vn": "sự có mặt của ông ấy đã làm cho buổi lễ thêm trịnh trọng"
+            },
+            {
+              "full_en": "a little garlic lends flavour to a sauce",
+              "full_vn": "một ít tỏi làm cho nước xốt thêm hương vị"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460493_8f6651f9f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460493_ed8603e1ba_o.png",
+      "id_image": "lend_2781121"
+    }
+  ]
+}

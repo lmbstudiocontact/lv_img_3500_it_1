@@ -1,0 +1,90 @@
+{
+  "english": "formal",
+  "phat_am": "['fɔ:məl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trang trọng; theo nghi thức",
+          "list_en_vn": [
+            {
+              "full_en": "a formal dinner , dance",
+              "full_vn": "một bữa ăn tối/vũ hội theo đúng nghi thức"
+            },
+            {
+              "full_en": "formal dress",
+              "full_vn": "quần áo nghi lễ; lễ phục"
+            },
+            {
+              "full_en": "'Request' is a more formal way of saying 'Ask for'",
+              "full_vn": "'Request' là lối nói trang trọng hơn 'Ask for'"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cân đối hoặc có hình dáng theo các hìnhhinh học; đối xứng",
+          "list_en_vn": [
+            {
+              "full_en": "formal gardens",
+              "full_vn": "những khu vườn ngay hàng thẳng lối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "về hình dáng bên ngoài hoặc bề ngoài (đối nghịch với nội dung hoặc thực chất); hình thức",
+          "list_en_vn": [
+            {
+              "full_en": "there is only a formal resemblance between the two systems ; they are in fact radically different",
+              "full_vn": "hai hệ thống đó giống nhau về hình thức mà thôi, chứ thực ra chúng khác nhau về cơ bản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chính thức",
+          "list_en_vn": [
+            {
+              "full_en": "a formal call",
+              "full_vn": "một cuộc thăm viếng chính thức, một cuộc thăm viếng theo nghi thức"
+            },
+            {
+              "full_en": "a formal declaration of war",
+              "full_vn": "sự chính thức tuyên chiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về giáo dục) được tiến hành chính thức tại trường học, trường cao đẳng....; chính qui",
+          "list_en_vn": [
+            {
+              "full_en": "the job does not require any formal training",
+              "full_vn": "công việc không đòi hỏi phải được đào tạo chính qui"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314916_71fd62383a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314916_3cb4d54670_o.png",
+      "id_image": "formal_2488440"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051420_af4840237d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051420_83f9b4eea6_o.png",
+      "id_image": "formal_2488484"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358977_385814f6cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358977_d41a92f361_o.png",
+      "id_image": "formal_6032223"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314856_0a3b55b80f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314856_7596d3d42b_o.png",
+      "id_image": "formal_6032236"
+    }
+  ]
+}

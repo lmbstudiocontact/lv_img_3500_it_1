@@ -1,0 +1,65 @@
+{
+  "english": "gem",
+  "phat_am": "[dʒem]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đá quý hoặc ngọc (nhất là khi đã cắt ra và đánh bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "a crown studded with gems",
+              "full_vn": "vương miện nạm đá quý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái được đánh giá cao về vẻ đẹp hoặc về một phẩm chất đặc biệt nào đó",
+          "list_en_vn": [
+            {
+              "full_en": "this picture is the gem of the collection",
+              "full_vn": "bức tranh này là vật quý giá nhất trong bộ sưu tập"
+            },
+            {
+              "full_en": "a gem of a place",
+              "full_vn": "chỗ rất tốt"
+            },
+            {
+              "full_en": "that restaurant is a little gem",
+              "full_vn": "nhà hàng đó khá tốt"
+            },
+            {
+              "full_en": "she's a real gem !",
+              "full_vn": "cô ấy quả là viên ngọc quý!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) bánh bơ nhạt"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dát ngọc",
+          "list_en_vn": [
+            {
+              "full_en": "the night sky gemmed with stars",
+              "full_vn": "bầu trời đêm nay đầy sao như dát ngọc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073705_b946653410_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073705_631987fdbe_o.png",
+      "id_image": "gem_4334176"
+    }
+  ]
+}

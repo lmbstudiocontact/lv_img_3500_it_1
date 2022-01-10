@@ -1,0 +1,38 @@
+{
+  "english": "increment",
+  "phat_am": "['inkrimənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lớn lên (của cây cối); độ lớn lên"
+        },
+        {
+          "m_full_vn": "tiền lãi, tiền lời"
+        },
+        {
+          "m_full_vn": "(toán học) lượng gia, số gia",
+          "list_en_vn": [
+            {
+              "full_en": "increment of a function",
+              "full_vn": "lượng gia của một hàm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363117_d1fdec776b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363117_91a5d0cf72_o.png",
+      "id_image": "increment_1933944"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318531_9687692ce8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318531_87f2b0f1d5_o.png",
+      "id_image": "increment_5672051"
+    }
+  ]
+}

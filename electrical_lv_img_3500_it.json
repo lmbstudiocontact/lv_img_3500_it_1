@@ -1,0 +1,46 @@
+{
+  "english": "electrical",
+  "phat_am": "[i'lektrikəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "về điện hoặc liên quan tới điện",
+          "list_en_vn": [
+            {
+              "full_en": "electrical engineer",
+              "full_vn": "kỹ sư điện"
+            },
+            {
+              "full_en": "this machine has an electrical fault",
+              "full_vn": "máy này trục trặc phần điện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681149_b242176dc6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681149_2dd13a407d_o.png",
+      "id_image": "electrical_3899159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062800_186e5d86b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062800_f3e4a1631a_o.png",
+      "id_image": "electrical_4276008"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062865_c69605b671_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062865_00e6a12709_o.png",
+      "id_image": "electrical_439969"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370732_8f27e9b674_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370732_47ed4d29aa_o.png",
+      "id_image": "electrical_4698391"
+    }
+  ]
+}

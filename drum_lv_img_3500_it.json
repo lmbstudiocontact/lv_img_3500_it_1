@@ -1,0 +1,143 @@
+{
+  "english": "drum",
+  "phat_am": "[drʌm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái trống"
+        },
+        {
+          "m_full_vn": "tiếng trống; tiếng kêu như tiếng trống"
+        },
+        {
+          "m_full_vn": "(giải phẫu) màng nhĩ"
+        },
+        {
+          "m_full_vn": "thùng hình ống (đựng dầu, quả khô...)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) trống tang",
+          "list_en_vn": [
+            {
+              "full_en": "winding drum",
+              "full_vn": "trống quấn dây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sử học) tiệc trà (buổi tối hoặc buổi chiều)"
+        },
+        {
+          "m_full_vn": "(động vật học) cá trống ( (cũng) drum fish )"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đánh trống"
+        },
+        {
+          "m_full_vn": "gõ gõ, đập đập, gõ liên hồi, đập liên hồi; giậm thình thịch",
+          "list_en_vn": [
+            {
+              "full_en": "to drum on the piano",
+              "full_vn": "gõ gõ lên phím đàn pianô"
+            },
+            {
+              "full_en": "to drum at the door",
+              "full_vn": "đập cửa thình thịch"
+            },
+            {
+              "full_en": "feet drum on floor",
+              "full_vn": "chân giậm thình thịch xuống sàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + for ) đánh trống gọi, đánh trống triệu tập, đánh trống tập trung; (nghĩa bóng) đánh trống khua chuông, làm quảng cáo rùm beng",
+          "list_en_vn": [
+            {
+              "full_en": "to drum for customers",
+              "full_vn": "đánh trống khua chuông để kéo khách, quảng cáo rùm beng để kéo khách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đập cánh vo vo, đập cánh vù vù (sâu bọ)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gõ gõ, đập đập, gõ liên hồi, đập liên hồi; giậm thình thịch",
+          "list_en_vn": [
+            {
+              "full_en": "to drum one's finger on the table",
+              "full_vn": "gõ gõ ngón tay xuống bàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh (một bản nhạc) trên trống; đánh (một bản nhạc) trên đàn pianô",
+          "list_en_vn": [
+            {
+              "full_en": "to drum a tune on the piano",
+              "full_vn": "đánh (một điệu nhạc) trên đàn pianô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + into ) nói lai nhai, nói đi nói lại như gõ trống vào tai",
+          "list_en_vn": [
+            {
+              "full_en": "to drum something into someone's head",
+              "full_vn": "nói đi nói lại như gõ trống vào tai để nhồi nhét cái gì vào đầu ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + up ) đánh trống gọi, đánh trống triệu tập, đánh trống tập trung; đánh trống khua chuông, làm quảng cáo rùm beng để lôi kéo khách hàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to drum out",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh trống đuổi đi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to drum up customers",
+              "full_vn": "quảng cáo rùm beng để lôi kéo khách hàng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451593_ec75e0a64e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451593_9842a6e2b5_o.png",
+      "id_image": "drum_257487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451563_510c9af8d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451563_0319040a8c_o.png",
+      "id_image": "drum_449507"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336596_891de3ca3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336596_c0e8404711_o.png",
+      "id_image": "drum_458003"
+    }
+  ]
+}

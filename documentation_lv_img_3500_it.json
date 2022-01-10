@@ -1,0 +1,50 @@
+{
+  "english": "documentation",
+  "phat_am": "[,dɔkjumen'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chứng minh bằng tài liệu; sự dẫn chứng bằng tư liệu"
+        },
+        {
+          "m_full_vn": "những tài liệu làm bằng chứng",
+          "list_en_vn": [
+            {
+              "full_en": "We haven't enough documentation to process your claim",
+              "full_vn": "Chúng tôi không có đủ tài liệu để xử lý yêu cầu của ông"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355837_d6bc285400_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355837_cd8061d728_o.png",
+      "id_image": "documentation_1076360"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355812_27164cde2d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355812_2c67c4b8d0_o.png",
+      "id_image": "documentation_1831982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426518_d5499f5521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426518_1b067839bf_o.png",
+      "id_image": "documentation_2861719"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666639_1360a33e42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666639_7758567d94_o.png",
+      "id_image": "documentation_3043497"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809311801_38cbd4d38d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809311801_a9c01c0220_o.png",
+      "id_image": "documentation_439270"
+    }
+  ]
+}

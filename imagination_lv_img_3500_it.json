@@ -1,0 +1,69 @@
+{
+  "english": "imagination",
+  "phat_am": "[i,mædʒi'nei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sức tưởng tượng, trí tưởng tượng; sự tưởng tượng"
+        },
+        {
+          "m_full_vn": "điều tưởng tượng"
+        },
+        {
+          "m_full_vn": "khả năng hư cấu (trong (văn học))"
+        },
+        {
+          "m_full_vn": "khả năng sáng tạo",
+          "list_one_mean": [
+            {
+              "id_full_en": "imagination boggles at sth",
+              "list_im": [
+                {
+                  "im_full_vn": "thật khó chấp nhận điều gì, thật không tưởng tượng nổi điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by no stretch of the imagination",
+              "list_im": [
+                {
+                  "im_full_vn": "dù suy diễn thế nào chăng nữa"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to apply a method with imagination",
+              "full_vn": "vận dụng sáng tạo một phương pháp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677649_9aa0638cb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677649_d6dc08c291_o.png",
+      "id_image": "imagination_1791925"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677614_d4261b4589_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677614_f61b36c0e6_o.png",
+      "id_image": "imagination_5156315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677749_9d205d5cfd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677749_4a9e227110_o.png",
+      "id_image": "imagination_603862"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367512_dc025e0e40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367512_8a41aef25d_o.png",
+      "id_image": "imagination_994647"
+    }
+  ]
+}

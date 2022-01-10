@@ -1,0 +1,77 @@
+{
+  "english": "infection",
+  "phat_am": "[in'fek∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( infection with something ) sự nhiễm trùng",
+          "list_en_vn": [
+            {
+              "full_en": "to be exposed to infection",
+              "full_vn": "dễ bị nhiễm trùng"
+            },
+            {
+              "full_en": "the infection of the body with bacteria",
+              "full_vn": "cơ thể nhiễm vi khuẩn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bệnh nhiễm trùng",
+          "list_en_vn": [
+            {
+              "full_en": "to spread /pass on an infection",
+              "full_vn": "lan truyền một bệnh lây nhiễm"
+            },
+            {
+              "full_en": "people catch all kinds of infections in the winter",
+              "full_vn": "người ta mắc đủ loại bệnh lây nhiễm khi mùa đông đến"
+            },
+            {
+              "full_en": "airborn /waterborne infection",
+              "full_vn": "bệnh lây nhiễm qua đường không khí/nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tiêm nhiễm, sự đầu độc",
+          "list_en_vn": [
+            {
+              "full_en": "the infection of young people with dangerous ideologies",
+              "full_vn": "sự đầu độc thanh niên bằng những ý thức hệ nguy hiểm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671704_bca77e2b2a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671704_a3fb843f67_o.png",
+      "id_image": "infection_1564230"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361292_45efb6a5ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361292_2199662c55_o.png",
+      "id_image": "infection_2270152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317001_2ed313f627_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317001_1c0e8a4f4f_o.png",
+      "id_image": "infection_2720321"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671684_7d51b0374a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671684_cb96700f19_o.png",
+      "id_image": "infection_5578337"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671664_250ccd17dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671664_423d07f4df_o.png",
+      "id_image": "infection_6029330"
+    }
+  ]
+}

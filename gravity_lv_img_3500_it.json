@@ -1,0 +1,62 @@
+{
+  "english": "gravity",
+  "phat_am": "['græviti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(vật lý) sự hút, sự hấp dẫn, trọng lực",
+          "list_en_vn": [
+            {
+              "full_en": "centre of gravity",
+              "full_vn": "trọng tâm"
+            },
+            {
+              "full_en": "force of gravity",
+              "full_vn": "trọng lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẻ nghiêm trang, vẻ nghiêm nghị",
+          "list_en_vn": [
+            {
+              "full_en": "to preserve one's gravity",
+              "full_vn": "giữ được vẻ nghiêm trang"
+            },
+            {
+              "full_en": "to lose one's gravity",
+              "full_vn": "mất vẻ nghiêm trang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính nghiêm trọng, tính trầm trọng (tình hình, vết thương...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678569_70c2b9cc50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678569_3069e3dc86_o.png",
+      "id_image": "gravity_1039057"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368322_647534e7fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368322_0326de846e_o.png",
+      "id_image": "gravity_227935"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368252_ff72240acf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368252_df69fec854_o.png",
+      "id_image": "gravity_3655760"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323396_a17ba8377e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323396_c80bdedea8_o.png",
+      "id_image": "gravity_865054"
+    }
+  ]
+}

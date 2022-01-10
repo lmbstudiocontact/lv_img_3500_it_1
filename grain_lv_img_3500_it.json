@@ -1,0 +1,151 @@
+{
+  "english": "grain",
+  "phat_am": "[grein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "những hạt nhỏ cứng của cây lương thực như lúa mì, gạo...; thóc; gạo; ngũ cốc",
+          "list_en_vn": [
+            {
+              "full_en": "America's grain exports",
+              "full_vn": "xuất khẩu ngũ cốc của Mỹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hạt; hột",
+          "list_en_vn": [
+            {
+              "full_en": "a grain of rice",
+              "full_vn": "hạt gạo"
+            },
+            {
+              "full_en": "grains of sand",
+              "full_vn": "hạt cát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một chút, mảy may",
+          "list_en_vn": [
+            {
+              "full_en": "without a grain of love",
+              "full_vn": "không một mảy may yêu thương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thớ (gỗ)",
+          "list_en_vn": [
+            {
+              "full_en": "wood of fine grain",
+              "full_vn": "gỗ thớ mịn"
+            },
+            {
+              "full_en": "with the grain",
+              "full_vn": "dọc thớ, thuận theo thớ"
+            },
+            {
+              "full_en": "against the grain",
+              "full_vn": "ngang thớ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính chất, bản chất; tính tình, khuynh hướng",
+          "list_en_vn": [
+            {
+              "full_en": "in grain",
+              "full_vn": "về bản chất; triệt để, hoàn toàn"
+            },
+            {
+              "full_en": "a rogue in grain",
+              "full_vn": "một thằng chúa đểu"
+            },
+            {
+              "full_en": "man of coarse grain",
+              "full_vn": "người thô lỗ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "Gren (đơn vị trọng lượng bằng 0, 0648 gam)"
+        },
+        {
+          "m_full_vn": "phẩm yên chi (để nhuộm); (thơ ca) màu nhuộm"
+        },
+        {
+          "m_full_vn": "( số nhiều) bã rượu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be (go ) against the grain",
+              "list_im": [
+                {
+                  "im_full_vn": "trái ý muốn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "dyed in grain",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) dye"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghiền thành hột nhỏ"
+        },
+        {
+          "m_full_vn": "làm nổi hột (ở bề mặt)"
+        },
+        {
+          "m_full_vn": "sơn già vân (như) vân gỗ, vân đá"
+        },
+        {
+          "m_full_vn": "nhuộm màu bền"
+        },
+        {
+          "m_full_vn": "thuộc thành da sần"
+        },
+        {
+          "m_full_vn": "cạo sạch lông (da để thuộc)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết thành hạt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325906_63feaef08d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325906_98b463d4f3_o.png",
+      "id_image": "grain_2259561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325861_fb1cd44916_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325861_f12d0505fe_o.png",
+      "id_image": "grain_4127305"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681064_e6abde62a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681064_553c4e1698_o.png",
+      "id_image": "grain_517618"
+    }
+  ]
+}

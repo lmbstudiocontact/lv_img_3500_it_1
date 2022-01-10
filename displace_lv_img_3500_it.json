@@ -1,0 +1,48 @@
+{
+  "english": "displace",
+  "phat_am": "[dis'pleis]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đổi chỗ, dời chỗ, chuyển chỗ",
+          "list_en_vn": [
+            {
+              "full_en": "to displace a table",
+              "full_vn": "chuyển cái bàn đi chỗ khác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thải ra, cách chức (một công chức...)"
+        },
+        {
+          "m_full_vn": "chiếm chỗ, hất cẳng, thay thế"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670059_b0de2424f5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670059_70ec907932_o.png",
+      "id_image": "displace_1042379"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359552_3d2fa9a877_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359552_4b3d508b26_o.png",
+      "id_image": "displace_2359155"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430223_3203e8d8b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430223_1db30170fc_o.png",
+      "id_image": "displace_2359160"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359482_f46990c060_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359482_4aa7e1a733_o.png",
+      "id_image": "displace_5488359"
+    }
+  ]
+}

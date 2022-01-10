@@ -1,0 +1,47 @@
+{
+  "english": "kidney",
+  "phat_am": "['kidni]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) quả cật, quả bầu dục (lợn, bò... làm đồ ăn)"
+        },
+        {
+          "m_full_vn": "tính tình, bản chất, tính khí; loại, hạng",
+          "list_en_vn": [
+            {
+              "full_en": "a man of that kidney",
+              "full_vn": "người thuộc cái hạng như vậy; người có tính khí như vậy"
+            },
+            {
+              "full_en": "to be of the same kidney",
+              "full_vn": "cùng một tính khí; cùng một guộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoai tây củ bầu dục ( (cũng) kidney potato )"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682984_db6e24a29d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682984_cb58d3b178_o.png",
+      "id_image": "kidney_3390286"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442893_ed704ceb91_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442893_ec8f36ea94_o.png",
+      "id_image": "kidney_4706940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372557_d927e849d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372557_66bf4e96b4_o.png",
+      "id_image": "kidney_5873154"
+    }
+  ]
+}

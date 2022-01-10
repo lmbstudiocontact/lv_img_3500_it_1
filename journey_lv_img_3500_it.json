@@ -1,0 +1,52 @@
+{
+  "english": "journey",
+  "phat_am": "['dʒə:ni]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc hành trình (thường) là bằng đường bộ"
+        },
+        {
+          "m_full_vn": "chặng đường đi, quãng đường đi (trong một thời gian nhất định)",
+          "list_en_vn": [
+            {
+              "full_en": "to go by easy journeys",
+              "full_vn": "đi từng chặng đường ngắn"
+            },
+            {
+              "full_en": "a three day's journey",
+              "full_vn": "chặng đường đi mất ba ngày; cuộc hành trình ba ngày"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm một cuộc hành trình"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332121_c1e1f0078b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332121_c362394ef5_o.png",
+      "id_image": "journey_2117080"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332086_aaa754a0f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332086_435bbcae7e_o.png",
+      "id_image": "journey_2196304"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376832_ccc7be6b73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376832_60446b67c1_o.png",
+      "id_image": "journey_2620252"
+    }
+  ]
+}

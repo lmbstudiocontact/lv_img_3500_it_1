@@ -1,0 +1,79 @@
+{
+  "english": "future",
+  "phat_am": "['fju:t∫ə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tương lai",
+          "list_en_vn": [
+            {
+              "full_en": "future tense",
+              "full_vn": "(ngôn ngữ học) thời tương lai"
+            },
+            {
+              "full_en": "future life",
+              "full_vn": "kiếp sau"
+            },
+            {
+              "full_en": "future wife",
+              "full_vn": "vợ sắp cưới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tương lai"
+        },
+        {
+          "m_full_vn": "( số nhiều) (thương nghiệp) hàng hoá bán sẽ giao sau"
+        },
+        {
+          "m_full_vn": "hợp đồng về hàng hoá bán giao sau",
+          "list_one_mean": [
+            {
+              "id_full_en": "in future",
+              "list_im": [
+                {
+                  "im_full_vn": "về sau này, trong tương lai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385832_ce5f89abcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385832_d440aa8b41_o.png",
+      "id_image": "future_1900204"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696129_8563e916d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696129_2908421610_o.png",
+      "id_image": "future_4072740"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078150_84a225c4dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078150_1d538b0813_o.png",
+      "id_image": "future_4310272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385727_f198cd9af6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385727_65d2e5b991_o.png",
+      "id_image": "future_4412693"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385687_0cbc1acb3d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385687_d94185f7d8_o.png",
+      "id_image": "future_4901060"
+    }
+  ]
+}

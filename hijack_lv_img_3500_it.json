@@ -1,0 +1,38 @@
+{
+  "english": "hijack",
+  "phat_am": "['haidʒæk]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chiếm đoạt sự điều khiển của (xe cộ, nhất là máy bay) nhằm buộc nó phải đi tới một nơi mới, để bắt hành khách làm con tin hoặc chiếm đoạt hàng hoá; cưỡng đoạt máy bay",
+          "list_en_vn": [
+            {
+              "full_en": "The plane was hijacked while on a flight to Dehli",
+              "full_vn": "Chiếc máy bay bị cưỡng đoạt trên đường bay đến Dehli"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cướp (hàng hoá) trên xe cộ"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trường hợp cướp máy bay; vụ không tặc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692599_52e5b94c96_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692599_e417171a89_o.png",
+      "id_image": "hijack_3067919"
+    }
+  ]
+}

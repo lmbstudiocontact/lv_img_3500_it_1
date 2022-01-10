@@ -1,0 +1,36 @@
+{
+  "english": "encouragement",
+  "phat_am": "[in'kʌridʒmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( encouragement to somebody ; encouragement to do something ) niềm khích lệ; niềm cổ vũ; niềm động viên",
+          "list_en_vn": [
+            {
+              "full_en": "shouts of encouragement",
+              "full_vn": "tiếng hò reo cổ vũ"
+            },
+            {
+              "full_en": "the teacher's words were a great encouragement to him",
+              "full_vn": "những lời của thầy giáo là niềm khích lệ lớn đối với nó"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320236_f489d60b45_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320236_617fa2a1f7_o.png",
+      "id_image": "encouragement_2643522"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675164_1d441944a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675164_679f57a344_o.png",
+      "id_image": "encouragement_4760892"
+    }
+  ]
+}

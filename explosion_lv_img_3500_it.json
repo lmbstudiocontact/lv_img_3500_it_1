@@ -1,0 +1,43 @@
+{
+  "english": "explosion",
+  "phat_am": "[iks'plouʒn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nổ; sự nổ bùng (cơn giận)"
+        },
+        {
+          "m_full_vn": "tiếng nổ"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự phát triển ồ ạt và nhanh chóng",
+          "list_en_vn": [
+            {
+              "full_en": "population explosion",
+              "full_vn": "sự tăng số dân ồ ạt và nhanh chóng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456528_bd87b25d35_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456528_b8f29d403b_o.png",
+      "id_image": "explosion_209231"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386707_42a80af91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386707_e964f20a97_o.png",
+      "id_image": "explosion_2737916"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386672_96fd93b104_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386672_07c00e84ee_o.png",
+      "id_image": "explosion_3937186"
+    }
+  ]
+}

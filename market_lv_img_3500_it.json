@@ -1,0 +1,143 @@
+{
+  "english": "market",
+  "phat_am": "['mɑ:kit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chợ",
+          "list_en_vn": [
+            {
+              "full_en": "to go to market",
+              "full_vn": "đi chợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thị trường, nơi tiêu thụ; khách hàng",
+          "list_en_vn": [
+            {
+              "full_en": "the foreign market",
+              "full_vn": "thị trường nước ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giá thị trường; tình hình thị trường",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bring one's eggs (hogs ) to a bad market (to the wrong market )",
+              "list_im": [
+                {
+                  "im_full_vn": "làm hỏng việc, làm lỡ việc; hỏng kế hoạch, tính sai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a market of one's honour",
+              "list_im": [
+                {
+                  "im_full_vn": "bán rẻ danh dự"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come onto the market",
+              "list_im": [
+                {
+                  "im_full_vn": "được đưa ra thị trường; được rao bán"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a drug on the market",
+              "list_im": [
+                {
+                  "im_full_vn": "món hàng không ai mua; hàng ế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to flood the market",
+              "list_im": [
+                {
+                  "im_full_vn": "tràn ngập thị trường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Chinese bicycles have flooded the Vietnamese market",
+                      "full_vn": "xe đạp Trung Quốc đã tràn ngập thị trường Việt Nam"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play the market",
+              "list_im": [
+                {
+                  "im_full_vn": "mua bán chứng khoán kiếm lời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to price oneself out of the market",
+              "list_im": [
+                {
+                  "im_full_vn": "xem price"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the market fell",
+              "full_vn": "giá thị trường xuống"
+            },
+            {
+              "full_en": "the market rose",
+              "full_vn": "giá thị trường lên"
+            },
+            {
+              "full_en": "the market is quiet",
+              "full_vn": "tình hình thị trường ổn định; thị trường chứng khoán bình ổn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bán ở chợ, bán ở thị trường"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mua bán ở chợ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322941_66f2910ea0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322941_89d28fd993_o.png",
+      "id_image": "market_1901411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438073_b8130edfb8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438073_a4955e5070_o.png",
+      "id_image": "market_6248847"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678129_fba5839763_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678129_bd10e0e762_o.png",
+      "id_image": "market_831495"
+    }
+  ]
+}

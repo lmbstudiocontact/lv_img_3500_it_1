@@ -1,0 +1,123 @@
+{
+  "english": "flood",
+  "phat_am": "[flʌd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lũ, lụt, nạn lụt",
+          "list_en_vn": [
+            {
+              "full_en": "the Flood ; Noah's Flood",
+              "full_vn": "nạn Hồng thuỷ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dòng cuồn cuộn; sự tuôn ra, sự chảy tràn ra ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "floods of rain",
+              "full_vn": "mưa như trút nước"
+            },
+            {
+              "full_en": "a flood of tears",
+              "full_vn": "nước mắt giàn giụa"
+            },
+            {
+              "full_en": "a flood of words",
+              "full_vn": "lời nói thao thao bất tuyệt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nước triều lên ( (cũng) flood-tide ), triều cường"
+        },
+        {
+          "m_full_vn": "(thơ ca) sông, suối biển",
+          "list_en_vn": [
+            {
+              "full_en": "flood and field",
+              "full_vn": "biển và đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục), (như) flood-light"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tràn đầy, tràn ngập",
+          "list_en_vn": [
+            {
+              "full_en": "to be flooded with light",
+              "full_vn": "tràn ngập ánh sáng"
+            },
+            {
+              "full_en": "to be flooded with invitations",
+              "full_vn": "được mời tới tấp"
+            },
+            {
+              "full_en": "Chinese bicycles flood the Vietnamese market",
+              "full_vn": "xe đạp Trung Quốc tràn ngập thị trường Việt Nam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + in ) ùa tới, tràn tới, đến tới tấp",
+          "list_en_vn": [
+            {
+              "full_en": "letters flood in",
+              "full_vn": "thư gửi đến tới tấp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) bị chảy máu dạ con",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be flooded out",
+              "list_im": [
+                {
+                  "im_full_vn": "phải rời khỏi nhà vì lụt lội"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365677_ecf26ee73f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365677_ca58575cff_o.png",
+      "id_image": "flood_3217082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320731_d1abacf61a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320731_a11cc791c1_o.png",
+      "id_image": "flood_3436914"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365742_d30b618eed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365742_9a03b46956_o.png",
+      "id_image": "flood_491273"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057560_7e502a121a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057560_94d6b4b30a_o.png",
+      "id_image": "flood_491279"
+    }
+  ]
+}

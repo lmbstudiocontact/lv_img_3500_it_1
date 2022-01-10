@@ -1,0 +1,275 @@
+{
+  "english": "land",
+  "phat_am": "[lænd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đất; đất liền",
+          "list_en_vn": [
+            {
+              "full_en": "to go by land",
+              "full_vn": "đi đường bộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đất trồng trọt, đất canh tác",
+          "list_en_vn": [
+            {
+              "full_en": "barren land",
+              "full_vn": "đất cẵn cỗi"
+            },
+            {
+              "full_en": "land reforms",
+              "full_vn": "cải cách ruộng đất, cải cách điền địa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vùng, xứ, địa phương",
+          "list_en_vn": [
+            {
+              "full_en": "one's native land",
+              "full_vn": "quê hương xứ sở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đất đai, điền sản",
+          "list_one_mean": [
+            {
+              "id_full_en": "Holy Land",
+              "list_im": [
+                {
+                  "im_full_vn": "đất thánh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the land of the leal",
+              "list_im": [
+                {
+                  "im_full_vn": "thiên đường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in the land of the living",
+              "list_im": [
+                {
+                  "im_full_vn": "sống, tồn tại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "land of milk and honey",
+              "list_im": [
+                {
+                  "im_full_vn": "nơi đầy đủ sung túc"
+                },
+                {
+                  "im_full_vn": "lộc phúc của trời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the promised land",
+              "list_im": [
+                {
+                  "im_full_vn": "(trong (kinh thánh)) miền đất phì nhiêu do Chúa Trời hứa với người Do Thái; miền đất hứa"
+                },
+                {
+                  "im_full_vn": "chốn thiên thai; nơi cực lạc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "land of Nod",
+              "list_im": [
+                {
+                  "im_full_vn": "giấc ngủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spy out the land",
+              "list_im": [
+                {
+                  "im_full_vn": "kín đáo dò xét tình hình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make the land",
+              "list_im": [
+                {
+                  "im_full_vn": "trông thấy đất liền (tàu biển)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see how the land lies",
+              "list_im": [
+                {
+                  "im_full_vn": "xem sự thể ra sao"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live on the fat of the land",
+              "list_im": [
+                {
+                  "im_full_vn": "ngồi mát ăn bát vàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on the land",
+              "list_im": [
+                {
+                  "im_full_vn": "làm nghề trồng trọt cày cấy, làm nghề nông"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to own houses and lands",
+              "full_vn": "có nhà cửa và đất đai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đưa vào bờ; đổ bộ",
+          "list_en_vn": [
+            {
+              "full_en": "to land troops",
+              "full_vn": "đổ bộ quân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dẫn đến, đưa đến, đẩy vào (một tình thế, một hoàn cảnh)",
+          "list_en_vn": [
+            {
+              "full_en": "extravagance will land a man in debt",
+              "full_vn": "ăn tiêu hoang phí sẽ đưa người ta đến mang công mắc nợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đạt được, giành được; bắt được",
+          "list_en_vn": [
+            {
+              "full_en": "to land a prize",
+              "full_vn": "giành được giải thưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa đi, giáng, đánh",
+          "list_en_vn": [
+            {
+              "full_en": "to land a blow in someone's eye",
+              "full_vn": "giáng một quả đấm vào mắt ai"
+            },
+            {
+              "full_en": "to land a ball in the goal",
+              "full_vn": "rót bóng vào khung thành"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ghé vào bờ (tàu); hạ cánh (máy bay); xuống đất, xuống xe (người); lên bờ (từ dưới tàu)",
+          "list_en_vn": [
+            {
+              "full_en": "to land at Odessa",
+              "full_vn": "cặp bến ở Ô-đét-xa"
+            },
+            {
+              "full_en": "the plane landed safely",
+              "full_vn": "máy bay hạ cánh an toàn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rơi vào (tình trạng nào đó)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to land on sb",
+              "list_im": [
+                {
+                  "im_full_vn": "phê bình, mắng mỏ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to land up doing sth",
+              "list_im": [
+                {
+                  "im_full_vn": "rốt cuộc phải miễn cưỡng làm điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to land sb with sth",
+              "list_im": [
+                {
+                  "im_full_vn": "giao cái gì cho ai giải quyết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to land on one's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "hồi phục vững vàng, lấy lại phong độ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to land in a fix",
+              "full_vn": "rơi vào tình thế khó khăn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321871_f1939d8865_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321871_f8b69e909e_o.png",
+      "id_image": "land_2118981"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058605_b122246a89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058605_b241f747fb_o.png",
+      "id_image": "land_2119012"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058570_4669b956dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058570_c0ba0825e2_o.png",
+      "id_image": "land_2194831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321761_35ecb046c1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321761_6615b77272_o.png",
+      "id_image": "land_4215135"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "english": "earthenware",
+  "phat_am": "['ə:θənweə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồ bằng đất nung (nồi, niêu, chậu, vò...)"
+        },
+        {
+          "m_full_vn": "đất nung (làm nồi...)",
+          "list_en_vn": [
+            {
+              "full_en": "an earthenware porringer",
+              "full_vn": "cái tô làm bằng đất nung"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687494_db0a564d08_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687494_d0e8f8f197_o.png",
+      "id_image": "earthenware_2811154"
+    }
+  ]
+}

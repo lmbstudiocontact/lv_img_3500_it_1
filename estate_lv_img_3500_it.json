@@ -1,0 +1,72 @@
+{
+  "english": "estate",
+  "phat_am": "[is'teit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vùng đất (ở nôngthôn) có người làm chủ; điền trang",
+          "list_en_vn": [
+            {
+              "full_en": "he owns a large estate in Scotland",
+              "full_vn": "ông ta có một điền trang lớn ở Xcốtlen"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vùng đất rộng mở mang nhằm một mục đích cụ thể (làm nhà hoặc xưởng chẳng hạn)",
+          "list_en_vn": [
+            {
+              "full_en": "a housing /a trading /an industrial estate",
+              "full_vn": "khu nhà ở, khu buôn bán, khu công nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tất cả tiền bạc và của cải của một người để lại sau khi chết; di sản",
+          "list_en_vn": [
+            {
+              "full_en": "estate was divided between her four children",
+              "full_vn": "di sản đã được chia cho bốn người con của bà ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giai cấp hoặc nhóm chính trị hoặc xã hội; đẳng cấp",
+          "list_en_vn": [
+            {
+              "full_en": "the third estate",
+              "full_vn": "đẳng cấp thứ ba ( Pháp)"
+            },
+            {
+              "full_en": "fourth estate",
+              "full_vn": "(đùa cợt) giới báo chí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) hoàn cảnh, tình trạng",
+          "list_en_vn": [
+            {
+              "full_en": "the holy estate of matrimony",
+              "full_vn": "giai đoạn thiêng liêng của đời sống vợ chồng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359082_2921d7e3c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359082_523830bf74_o.png",
+      "id_image": "estate_4698422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314946_1ff1d2a6dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314946_d166270a83_o.png",
+      "id_image": "estate_6000800"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "english": "estimation",
+  "phat_am": "[,esti'mei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đánh giá; sự ước lượng"
+        },
+        {
+          "m_full_vn": "sự kính mến, sự quý trọng",
+          "list_en_vn": [
+            {
+              "full_en": "to hold someone in estimation",
+              "full_vn": "kính mến ai, quý trọng ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358942_6310c428b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358942_56e500f22c_o.png",
+      "id_image": "estimation_3773105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314816_765b842a36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314816_f6fbe3404e_o.png",
+      "id_image": "estimation_4098189"
+    }
+  ]
+}

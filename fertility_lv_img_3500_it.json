@@ -1,0 +1,36 @@
+{
+  "english": "fertility",
+  "phat_am": "[fə:'tiliti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tình trạng màu mỡ; khả năng sinh sản",
+          "list_en_vn": [
+            {
+              "full_en": "the fertility of the soil",
+              "full_vn": "sự màu mỡ của đất"
+            },
+            {
+              "full_en": "great fertility of mind",
+              "full_vn": "đầu óc có sức sáng tạo phong phú"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446583_1da0e9e454_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446583_529935d9b0_o.png",
+      "id_image": "fertility_1742011"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686644_457325a87c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686644_6a9cbd5be7_o.png",
+      "id_image": "fertility_527028"
+    }
+  ]
+}

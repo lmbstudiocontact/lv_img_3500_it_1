@@ -1,0 +1,55 @@
+{
+  "english": "hood",
+  "phat_am": "[hud]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mũ trùm đầu (gắn vào áo mưa...)"
+        },
+        {
+          "m_full_vn": "áo bằng lụa màu, bằng lông... giống như mũ trùm đầu và được mặc trùm ngoài áo choàng trong trường đại học để chỉ học vị của người mặc; áo choàng giáo sư"
+        },
+        {
+          "m_full_vn": "mui xe (xe đẩy của trẻ con, xe ô tô, bằng vải bạt có thể gập lại)"
+        },
+        {
+          "m_full_vn": "nắp đậy một cái máy để bảo vệ máy hoặc không cho ai sử dụng máy",
+          "list_en_vn": [
+            {
+              "full_en": "a soundproof hood for the computer printer",
+              "full_vn": "nắp đậy cách âm cho máy in vi tính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nắp đậy máy xe ô tô; ca-pô"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đội mũ trùm đầu"
+        },
+        {
+          "m_full_vn": "đậy mui lại, che bằng mui"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448143_288da580ed_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448143_87ef0b27be_o.png",
+      "id_image": "hood_1041636"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333031_436ca6dd46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333031_52e35120f5_o.png",
+      "id_image": "hood_2845004"
+    }
+  ]
+}

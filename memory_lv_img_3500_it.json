@@ -1,0 +1,135 @@
+{
+  "english": "memory",
+  "phat_am": "['meməri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "năng lực của trí tuệ có thể nhớ lại các sự kiện; trí nhớ",
+          "list_en_vn": [
+            {
+              "full_en": "devices which aid memory",
+              "full_vn": "thiết bị giúp trí nhớ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khả năng nhớ của riêng một người; trí nhớ",
+          "list_en_vn": [
+            {
+              "full_en": "to have a good /poor memory (for dates )",
+              "full_vn": "có trí nhớ tốt/kém (về ngày tháng)"
+            },
+            {
+              "full_en": "to commit something to memory",
+              "full_vn": "ghi nhớ điều gì"
+            },
+            {
+              "full_en": "to speak from memory",
+              "full_vn": "nói theo những gì mình nhớ được"
+            },
+            {
+              "full_en": "I'm afraid the fact slipped my memory",
+              "full_vn": "tôi e rằng sự kiện đó đã trượt khỏi trí nhớ của tôi"
+            },
+            {
+              "full_en": "if my memory serves me right ; to the best of my memory",
+              "full_vn": "nếu tôi nhớ không lầm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều được nhớ lại về người nào sau khi người đó qua đời; ký ức về ai",
+          "list_en_vn": [
+            {
+              "full_en": "his memory always remains with us",
+              "full_vn": "ký ức về ông ấy luôn in đậm trong lòng chúng tôi; chúng tôi không bao giờ quên ông ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật, sự kiện... được nhớ lại; kỷ niệm",
+          "list_en_vn": [
+            {
+              "full_en": "happy memories of childhood",
+              "full_vn": "những kỷ niệm vui sướng (những kỷ niệm đẹp) của thời thơ ấu"
+            },
+            {
+              "full_en": "to jog /refresh somebody's memory",
+              "full_vn": "làm cho ai nhớ lại sự việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) bộ nhớ của máy tính",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have a memory /mind like a sieve",
+              "list_im": [
+                {
+                  "im_full_vn": "xem sieve"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in memory of somebody /to the memory of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "để tưởng nhớ đến ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he founded the charity in memory of his late wife",
+                      "full_vn": "ông ta lập ra hội từ thiện để tưởng nhớ người vợ quá cố của ông ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "in /within living memory",
+              "list_im": [
+                {
+                  "im_full_vn": "trong ký ức của những người còn sống; theo những gì mà những người sống nhớ lại được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "wages were six pence a week within living memory",
+                      "full_vn": "những người còn sống nhớ lại tiền công một tuần hồi đó là 6 penni"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347306_28e2217e2b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347306_09164e964b_o.png",
+      "id_image": "memory_1783697"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392262_ae37815429_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392262_d63abde8a7_o.png",
+      "id_image": "memory_2513343"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392202_de48002784_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392202_6b168752f1_o.png",
+      "id_image": "memory_3079232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462003_47fa934efb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462003_d6d934e82b_o.png",
+      "id_image": "memory_3981111"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084705_e5913b9ce7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084705_7cee6cdd46_o.png",
+      "id_image": "memory_969351"
+    }
+  ]
+}

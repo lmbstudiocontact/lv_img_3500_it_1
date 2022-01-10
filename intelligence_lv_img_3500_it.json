@@ -1,0 +1,76 @@
+{
+  "english": "intelligence",
+  "phat_am": "[in'telidʒəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khả năng hiểu biết; trí thông minh; trí óc",
+          "list_en_vn": [
+            {
+              "full_en": "a person of high , great intelligence",
+              "full_vn": "người rất thông minh"
+            },
+            {
+              "full_en": "a person of average intelligence",
+              "full_vn": "người thông minh ở mức độ trung bình"
+            },
+            {
+              "full_en": "a person of little , low intelligence",
+              "full_vn": "người kém thông minh"
+            },
+            {
+              "full_en": "when the water pipe burst , she had the intelligence to turn off the water at the main",
+              "full_vn": "khi ống nước bị vỡ, cô ấy đã lanh trí khoá nước đường ống chính lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tin tức (nhất là về bí mật (quân sự)); tin tức tình báo",
+          "list_en_vn": [
+            {
+              "full_en": "an intelligence-gathering satellite",
+              "full_vn": "vệ tinh thu thập tin tức tình báo"
+            },
+            {
+              "full_en": "the government's Secret Intelligence Service",
+              "full_vn": "cơ quan tình báo bí mật của chính phủ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cơ quan thu thập tin tức tình báo; cơ quan tình báo",
+          "list_en_vn": [
+            {
+              "full_en": "intelligence has /have reported that the enemy is planning a new counter-attack",
+              "full_vn": "cơ quan tình báo báo cáo rằng địch đang hoạch định một cuộc phản công mới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080320_33648d9ce4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080320_b6511a698c_o.png",
+      "id_image": "intelligence_1643818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698099_8dc22c5149_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698099_0418c941c4_o.png",
+      "id_image": "intelligence_4135684"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698064_dc171d2ca6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698064_1f43b41074_o.png",
+      "id_image": "intelligence_4636220"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698139_8d3e34e151_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698139_c3117336d9_o.png",
+      "id_image": "intelligence_768375"
+    }
+  ]
+}

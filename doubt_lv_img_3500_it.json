@@ -1,0 +1,93 @@
+{
+  "english": "doubt",
+  "phat_am": "[daut]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nghi ngờ, sự ngờ vực; sự không chắc, sự hồ nghi",
+          "list_en_vn": [
+            {
+              "full_en": "to have doubts about someone",
+              "full_vn": "có ý nghi ngờ ai"
+            },
+            {
+              "full_en": "to make doubt",
+              "full_vn": "nghi ngờ, ngờ vực"
+            },
+            {
+              "full_en": "no doubt ; without doubt ; beyond doubt",
+              "full_vn": "không còn nghi ngờ gì nữa, chắc chắn"
+            },
+            {
+              "full_en": "there is not a shadow of doubt",
+              "full_vn": "không một chút mảy may nghi ngờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự do dự, sự lưỡng lự, sự nghi ngờ"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghi ngờ, ngờ vực; không tin, hồ nghi",
+          "list_en_vn": [
+            {
+              "full_en": "to doubt someone's word",
+              "full_vn": "nghi ngờ lời nói của ai, không tin lời nói của ai"
+            },
+            {
+              "full_en": "to doubt of someone's success",
+              "full_vn": "nghi ngờ sự thành công của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "do dự, lưỡng lự, nghi ngại; tự hỏi, không biết",
+          "list_en_vn": [
+            {
+              "full_en": "I doubt whether (if ) it can be done",
+              "full_vn": "tôi không biết điều đó có thể làm được hay không, tôi tự hỏi không biết điều đó có thể làm được hay không"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ), (tiếng địa phương) e rằng, sợ rằng, ngại rằng",
+          "list_en_vn": [
+            {
+              "full_en": "I doubt we are late",
+              "full_vn": "tôi e rằng chúng ta muộn mất"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809663514_760dfb9d92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809663514_4bc9ed147e_o.png",
+      "id_image": "doubt_1316883"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809308256_36850996d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809308256_7f0e401134_o.png",
+      "id_image": "doubt_2244682"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809423423_e85c10063c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809423423_4b34393972_o.png",
+      "id_image": "doubt_4525569"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352452_5437d8f995_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352452_00467de846_o.png",
+      "id_image": "doubt_860459"
+    }
+  ]
+}

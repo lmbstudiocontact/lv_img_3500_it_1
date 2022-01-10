@@ -1,0 +1,82 @@
+{
+  "english": "impact",
+  "phat_am": "[im'pækt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự va chạm, sự chạm mạnh; sức va chạm",
+          "list_en_vn": [
+            {
+              "full_en": "the impact of a collision",
+              "full_vn": "sự va chạm khi đụng nhau"
+            },
+            {
+              "full_en": "the bomb exploded on impact",
+              "full_vn": "bom nổ khi va dụng"
+            },
+            {
+              "full_en": "he collapsed under the full impact of the blow",
+              "full_vn": "ông ta ngã gục dưới sức đập của cú đánh"
+            },
+            {
+              "full_en": "head-on impact",
+              "full_vn": "(vật lý) sự va chạm trực diện"
+            },
+            {
+              "full_en": "back impact",
+              "full_vn": "(vật lý) sự va chạm giật lùi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tác động, ảnh hưởng",
+          "list_en_vn": [
+            {
+              "full_en": "her speech made a tremendous impact on everyone",
+              "full_vn": "bài diễn văn của bà ta có tác động ghê gớm đối với mọi người"
+            },
+            {
+              "full_en": "the impact of new methods , technology on modern industry",
+              "full_vn": "tác động của các phương pháp mới, công nghệ mới đối với công nghiệp hiện đại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ép, thúc hoặc lèn chặt cái gì; ép (hai cái) lại với nhau"
+        },
+        {
+          "m_full_vn": "( to impact on something ) có tác động đối với cái gì"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058475_219f6b0536_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058475_bea7e955cd_o.png",
+      "id_image": "impact_1794486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058415_6a8613cf74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058415_fb66f5766d_o.png",
+      "id_image": "impact_3391182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436808_677beaa80b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436808_4f66c484c7_o.png",
+      "id_image": "impact_4637159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436893_e264ca599e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436893_afe8124999_o.png",
+      "id_image": "impact_826561"
+    }
+  ]
+}

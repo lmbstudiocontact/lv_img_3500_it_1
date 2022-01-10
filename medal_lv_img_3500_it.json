@@ -1,0 +1,51 @@
+{
+  "english": "medal",
+  "phat_am": "['medl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mề đay; huy chương; huân chương",
+          "list_one_mean": [
+            {
+              "id_full_en": "The reverse of the medal",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) mặt trái của vấn đề"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Gold /silver /bronze medal",
+              "full_vn": "Huy chương vàng/bạc/đồng"
+            },
+            {
+              "full_en": "To grant /present /award somebody a medal for bravery",
+              "full_vn": "Tặng ai huy chương về lòng dũng cảm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362932_4c3d8094a5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362932_98648a7792_o.png",
+      "id_image": "medal_224759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362922_3c56128917_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362922_1acc87bac7_o.png",
+      "id_image": "medal_250603"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318366_f78c72cda3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318366_58105cc722_o.png",
+      "id_image": "medal_702307"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "english": "father",
+  "phat_am": "['fɑ:ðə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cha, bố"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người cha, người đẻ ra, người sản sinh ra",
+          "list_en_vn": [
+            {
+              "full_en": "the wish is father to the thought",
+              "full_vn": "ước vọng sinh ra sự tin tưởng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tổ tiên, ông tổ",
+          "list_en_vn": [
+            {
+              "full_en": "father of Vietnamese poetry",
+              "full_vn": "ông tổ của nền thơ ca Việt Nam"
+            },
+            {
+              "full_en": "to sleep with one's fathers",
+              "full_vn": "chầu tổ, chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người thầy, người cha",
+          "list_en_vn": [
+            {
+              "full_en": "father of the country",
+              "full_vn": "người cha của đất nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "Chúa, Thượng đế"
+        },
+        {
+          "m_full_vn": "(tôn giáo) cha cố",
+          "list_en_vn": [
+            {
+              "full_en": "the Holy Father",
+              "full_vn": "Đức giáo hoàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người nhiều tuổi nhất, cụ",
+          "list_one_mean": [
+            {
+              "id_full_en": "the child is father of the man",
+              "list_im": [
+                {
+                  "im_full_vn": "kinh nghiệm của con người được đúc kết ngay từ thuở ấu thơ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from father to son",
+              "list_im": [
+                {
+                  "im_full_vn": "cha truyền con nối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like father , like son",
+              "list_im": [
+                {
+                  "im_full_vn": "cha nào con nấy, hổ phụ sinh hổ tử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "old enough to be someone's father (mother )",
+              "list_im": [
+                {
+                  "im_full_vn": "đáng tuổi cha mẹ của ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Father of the House of Commons",
+              "full_vn": "người nhiều tuổi nhất ở hạ nghị viện Anh"
+            },
+            {
+              "full_en": "Father Christmas",
+              "full_vn": "Ông già Noen"
+            },
+            {
+              "full_en": "Father Time",
+              "full_vn": "Thần thời gian"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sản sinh, là bố của",
+          "list_one_mean": [
+            {
+              "id_full_en": "to father sth on sb",
+              "list_im": [
+                {
+                  "im_full_vn": "ghi tên ai là tác giả của cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449818_84bb99a410_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449818_dacfa6b228_o.png",
+      "id_image": "father_2880554"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071780_de52005783_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071780_8339d6429c_o.png",
+      "id_image": "father_437504"
+    }
+  ]
+}

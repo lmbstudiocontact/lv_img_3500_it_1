@@ -1,0 +1,159 @@
+{
+  "english": "feather",
+  "phat_am": "['feðə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lông vũ; lông chim"
+        },
+        {
+          "m_full_vn": "( số nhiều) bộ lông"
+        },
+        {
+          "m_full_vn": "chim muông săn bắn",
+          "list_en_vn": [
+            {
+              "full_en": "fur and feather",
+              "full_vn": "muông thú săn bắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cánh tên bằng lông"
+        },
+        {
+          "m_full_vn": "lông cài trên mũ, ngù"
+        },
+        {
+          "m_full_vn": "túm tóc dựng ngược (trên đầu)"
+        },
+        {
+          "m_full_vn": "vật rất nhẹ",
+          "list_en_vn": [
+            {
+              "full_en": "you could have knocked him down with a feather",
+              "full_vn": "bạn chạm nhẹ một cái cũng đủ cho hắn ngã"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ nứt (ở mặt hòn ngọc)"
+        },
+        {
+          "m_full_vn": "sự chèo là mặt nước",
+          "list_one_mean": [
+            {
+              "id_full_en": "birds of a feather flock together",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bird"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to crop someone's feathers",
+              "list_im": [
+                {
+                  "im_full_vn": "làm nhục ai; chỉnh ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a feather in one's cap",
+              "list_im": [
+                {
+                  "im_full_vn": "niềm tự hào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in high (full ) feather",
+              "list_im": [
+                {
+                  "im_full_vn": "phấn khởi, hớn hở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show the white feather",
+              "list_im": [
+                {
+                  "im_full_vn": "tỏ ra nhát gan, tỏ ra sợ hãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smooth sb's ruffled feathers",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai nguôi giận"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trang hoàng bằng lông, viền bằng lông, bọc bằng lông; cắm lông vào",
+          "list_en_vn": [
+            {
+              "full_en": "to feather an arrow",
+              "full_vn": "cắm lông vào đuôi tên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắn rụng lông (như) g không chết"
+        },
+        {
+          "m_full_vn": "quay ngửa (mái chèo) để chèo là mặt nước"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mọc lông; phủ đầy lông"
+        },
+        {
+          "m_full_vn": "nổi lềnh bềnh; phe phẩy; gợn như lông"
+        },
+        {
+          "m_full_vn": "chèo là mặt nước"
+        },
+        {
+          "m_full_vn": "(nói về chó săn) rung người và đuôi để đánh hơi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to feather one's nest",
+              "list_im": [
+                {
+                  "im_full_vn": "thu vén cho bản thân; làm giàu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809333606_7fc0ed80aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809333606_acde68565d_o.png",
+      "id_image": "feather_420279"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070465_332b6ae1b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070465_3b5a0a7ed2_o.png",
+      "id_image": "feather_5833251"
+    }
+  ]
+}

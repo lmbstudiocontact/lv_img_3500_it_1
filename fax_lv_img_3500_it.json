@@ -1,0 +1,58 @@
+{
+  "english": "fax",
+  "phat_am": "[fæks]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to fax something to somebody ) gửi bản sao của một tài liệu... bằng một hệ thống điện tử sử dụng các đường dây điện thoại; đánh fax",
+          "list_en_vn": [
+            {
+              "full_en": "to fax a quotation",
+              "full_vn": "đánh fax một bản báo giá, gửi bản báo giá dưới hình thức fax"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hệ thống để gửi một bản sao như thế",
+          "list_en_vn": [
+            {
+              "full_en": "sent by fax",
+              "full_vn": "được gửi đi bằng fax"
+            },
+            {
+              "full_en": "a fax machine",
+              "full_vn": "máy fax"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản sao gửi đi theo cách đó; bản fax"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688969_3501a312e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688969_785b72baf3_o.png",
+      "id_image": "fax_2666481"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688939_1741454745_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688939_d102e6d5ef_o.png",
+      "id_image": "fax_2832764"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688894_5d86a4a2d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688894_8a110c4c09_o.png",
+      "id_image": "fax_3447631"
+    }
+  ]
+}

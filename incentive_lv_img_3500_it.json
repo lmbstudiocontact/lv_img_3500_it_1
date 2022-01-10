@@ -1,0 +1,72 @@
+{
+  "english": "incentive",
+  "phat_am": "[in'sentiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khuyến khích; khích lệ; động viên",
+          "list_en_vn": [
+            {
+              "full_en": "an incentive speech",
+              "full_vn": "bài nói chuyện khích lệ"
+            },
+            {
+              "full_en": "an incentive scheme",
+              "full_vn": "một phương án khích lệ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( incentive to do something ) sự khuyến khích, sự khích lệ",
+          "list_en_vn": [
+            {
+              "full_en": "material incentives",
+              "full_vn": "khuyến khích bằng vật chất"
+            },
+            {
+              "full_en": "an incentive to work harder",
+              "full_vn": "sự khuyến khích để làm việc tích cực hơn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "động cơ (thúc đẩy làm việc gì)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434878_3218ba0d80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434878_c7660b0824_o.png",
+      "id_image": "incentive_2037769"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674624_a57196ef38_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674624_b676a79de0_o.png",
+      "id_image": "incentive_2586963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434833_90c3226976_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434833_b213f889b2_o.png",
+      "id_image": "incentive_2631422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319686_21052a237d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319686_86a9481f6c_o.png",
+      "id_image": "incentive_4577002"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056380_7ca3c9bce3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056380_1cc45cd27d_o.png",
+      "id_image": "incentive_992628"
+    }
+  ]
+}

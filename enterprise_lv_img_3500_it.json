@@ -1,0 +1,77 @@
+{
+  "english": "enterprise",
+  "phat_am": "['entəpraiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "công trình hoặc công việc kinh doanh (nhất là công trình khó khăn hoặc đòi hỏi phải dũng cảm); sự nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "his latest business enterprise",
+              "full_vn": "sự nghiệp kinh doanh gần đây nhất của anh ta"
+            },
+            {
+              "full_en": "the music festival is a new enterprise which we hope will become an annual event",
+              "full_vn": "cuộc liên hoan âm nhạc là một sự nghiệp mới mà chúng tôi hy vọng sẽ trở thành một sự kiện hàng năm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính dám nghĩ dám làm; tính táo bạo",
+          "list_en_vn": [
+            {
+              "full_en": "a woman of great enterprise",
+              "full_vn": "một phụ nữ có đầu óc táo bạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tham gia vào công trình; hoạt động kinh doanh",
+          "list_en_vn": [
+            {
+              "full_en": "conservative governments in Britain favour private enterprise rather than nationalization",
+              "full_vn": "chính phủ bảo thủ ở Anh bênh vực các hoạt động kinh doanh tư nhân hơn là quốc hữu hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) tổ chức kinh doanh, hãng, xí nghiệp",
+          "list_en_vn": [
+            {
+              "full_en": "one of the most successful enterprises of its kind",
+              "full_vn": "một trong những công ty thuộc loại kinh doanh thành công nhất"
+            },
+            {
+              "full_en": "joint-venture enterprise",
+              "full_vn": "xí nghiệp liên doanh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673154_97b4815ff3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673154_5fc08ed919_o.png",
+      "id_image": "enterprise_1622607"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318276_94d1112496_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318276_6fa9040e7b_o.png",
+      "id_image": "enterprise_2503673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054855_c1325a1cd4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054855_963ea0056d_o.png",
+      "id_image": "enterprise_4133434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433558_1f83fcc805_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433558_01c5fa1a4f_o.png",
+      "id_image": "enterprise_875309"
+    }
+  ]
+}

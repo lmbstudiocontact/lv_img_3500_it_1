@@ -1,0 +1,63 @@
+{
+  "english": "duplex",
+  "phat_am": "['dju:pleks]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "hai, kép đôi",
+          "list_en_vn": [
+            {
+              "full_en": "a duplex lamp",
+              "full_vn": "đèn hai bấc"
+            },
+            {
+              "full_en": "duplex telegrapghy",
+              "full_vn": "điện báo hai chiều"
+            },
+            {
+              "full_en": "duplex apartment",
+              "full_vn": "(từ Mỹ,nghĩa Mỹ) buồng hai tầng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nhà cho hai hộ ở"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072000_484da549ae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072000_179c6ee207_o.png",
+      "id_image": "duplex_1278491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379992_2268419267_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379992_c37f7a0fc3_o.png",
+      "id_image": "duplex_2558043"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071920_384ef35af9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071920_e2a795bafa_o.png",
+      "id_image": "duplex_6254126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071880_215d96e5f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071880_e5f4f8334a_o.png",
+      "id_image": "duplex_6313872"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690199_4a3c6fef9d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690199_e794173976_o.png",
+      "id_image": "duplex_831510"
+    }
+  ]
+}

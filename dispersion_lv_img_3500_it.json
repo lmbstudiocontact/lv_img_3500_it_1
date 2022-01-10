@@ -1,0 +1,49 @@
+{
+  "english": "dispersion",
+  "phat_am": "[dis'pə:∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giải tán, sự phân tán"
+        },
+        {
+          "m_full_vn": "(hoá học) chất làm phân tán"
+        },
+        {
+          "m_full_vn": "sự xua tan, sự làm tản mạn, sự làm tan tác; sự tan tác"
+        },
+        {
+          "m_full_vn": "sự rải rác, sự gieo vãi"
+        },
+        {
+          "m_full_vn": "sự gieo rắc, sự lan truyền (tin đồn)"
+        },
+        {
+          "m_full_vn": "(vật lý) sự tán sắc; độ tán sắc",
+          "list_en_vn": [
+            {
+              "full_en": "atomic dispersion",
+              "full_vn": "độ tán sắc nguyên tử"
+            },
+            {
+              "full_en": "acoustic dispersion",
+              "full_vn": "sự tản sắc âm thanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) sự phân tán; độ phân tán"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315476_6e22cefc09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315476_d9c729e90a_o.png",
+      "id_image": "dispersion_4542628"
+    }
+  ]
+}

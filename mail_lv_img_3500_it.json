@@ -1,0 +1,70 @@
+{
+  "english": "mail",
+  "phat_am": "[meil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "áo giáp"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặc áo giáp"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thư từ; bưu kiện, bưu phẩm"
+        },
+        {
+          "m_full_vn": "chuyến thư"
+        },
+        {
+          "m_full_vn": "bưu điện; bưu chính"
+        },
+        {
+          "m_full_vn": "xe chở thư; xe lửa (tàu thủy, tàu bay...) chở thư"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gửi qua bưu điện",
+          "list_en_vn": [
+            {
+              "full_en": "to mail a letter home",
+              "full_vn": "gửi một bức thư về nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373637_93abaee141_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373637_d5b7e5dc1d_o.png",
+      "id_image": "mail_194350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328821_0d2373a7cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328821_4c5b00f702_o.png",
+      "id_image": "mail_673817"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328781_3ffc144082_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328781_7beb4707c7_o.png",
+      "id_image": "mail_696380"
+    }
+  ]
+}

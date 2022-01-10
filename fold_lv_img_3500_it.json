@@ -1,0 +1,160 @@
+{
+  "english": "fold",
+  "phat_am": "[fould]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bãi rào (nhốt súc vật)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) các con chiên"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nhóm người cùng chung quyền lợi, nhóm người cùng chung mục đích",
+          "list_one_mean": [
+            {
+              "id_full_en": "to return to the fold",
+              "list_im": [
+                {
+                  "im_full_vn": "trở về với gia đình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho (súc vật) vào bãi rào, quây (súc vật) vào bãi rào"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nếp gấp"
+        },
+        {
+          "m_full_vn": "khe núi, hốc núi"
+        },
+        {
+          "m_full_vn": "khúc cuộn (của con rắn)"
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) nếp oằn"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gấp, gập; vén, xắn",
+          "list_en_vn": [
+            {
+              "full_en": "to fold back the sleeves",
+              "full_vn": "vén tay áo lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoanh (tay)",
+          "list_en_vn": [
+            {
+              "full_en": "to fold one's arms",
+              "full_vn": "khoanh tay"
+            },
+            {
+              "full_en": "to fold one's hands",
+              "full_vn": "chắp tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bọc kỹ; bao phủ",
+          "list_en_vn": [
+            {
+              "full_en": "to fold something in paper",
+              "full_vn": "bọc kỹ bằng giấy"
+            },
+            {
+              "full_en": "hills folded in mist",
+              "full_vn": "đồi phủ kín trong sương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ôm, ẵm (vào lòng)",
+          "list_en_vn": [
+            {
+              "full_en": "to fold a child in one's arms (to one's breast )",
+              "full_vn": "ôm một đứa trẻ trong cánh tay (vào lòng)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quấy, trộn"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gập lại, gấp nếp lại",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fold up",
+              "list_im": [
+                {
+                  "im_full_vn": "gập người lại (vì cười, vì đau)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "hậu tố",
+      "list_m": [
+        {
+          "m_full_vn": "(cùng với các chữ số tạo nên các tính từ và phó từ) được nhân lên với; có con số cụ thể của các phần",
+          "list_en_vn": [
+            {
+              "full_en": "tenfold",
+              "full_vn": "gấp mười lần"
+            },
+            {
+              "full_en": "twofold",
+              "full_vn": "gấp hai lần; có hai phần"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433143_d33703f59d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433143_8923ae48d4_o.png",
+      "id_image": "fold_4145093"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672734_9404921605_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672734_c26fc1fd38_o.png",
+      "id_image": "fold_4145102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054480_f8846696ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054480_3bcbf63cfe_o.png",
+      "id_image": "fold_4145109"
+    }
+  ]
+}

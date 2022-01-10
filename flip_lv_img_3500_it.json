@@ -1,0 +1,99 @@
+{
+  "english": "flip",
+  "phat_am": "[flip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "Flíp (bia trộn rượu pha đường hâm nóng)"
+        },
+        {
+          "m_full_vn": "cái búng"
+        },
+        {
+          "m_full_vn": "cái vụt nhẹ; cú đánh nhẹ mà đau"
+        },
+        {
+          "m_full_vn": "(thông tục) chuyến bay ngắn"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "búng",
+          "list_en_vn": [
+            {
+              "full_en": "to flip a coin",
+              "full_vn": "búng đồng tiền"
+            },
+            {
+              "full_en": "to flip somebody's ear",
+              "full_vn": "búng tai ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh nhẹ"
+        },
+        {
+          "m_full_vn": "quất nhẹ (roi), phẩy (quạt); giật giật (mồi câu)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bật bật ngón tay"
+        },
+        {
+          "m_full_vn": "quất, vụt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to flip up",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) tung đồng tiền (xem) sấp ngửa để chọn bên trong cuộc thi đấu..."
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to flip at something with a whip",
+              "full_vn": "vụt roi vào cái gì"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khiếm nhã, cợt nhã, bỡn cợt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436628_ddd4ec0e42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436628_7df8fba2df_o.png",
+      "id_image": "flip_1850074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058110_fcb6223f69_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058110_a9532d3e52_o.png",
+      "id_image": "flip_2985617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058185_2df154a72f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058185_1c9b498bec_o.png",
+      "id_image": "flip_648438"
+    }
+  ]
+}

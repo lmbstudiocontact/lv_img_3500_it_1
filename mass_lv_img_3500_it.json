@@ -1,0 +1,109 @@
+{
+  "english": "mass",
+  "phat_am": "[mæs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khối, đống",
+          "list_en_vn": [
+            {
+              "full_en": "masses of dark clouds gathered in the sky",
+              "full_vn": "mây đen ùn ùn chất đống trên bầu trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số nhiều, số đông, đa số",
+          "list_en_vn": [
+            {
+              "full_en": "a mass of readers",
+              "full_vn": "một số lớn độc giả"
+            },
+            {
+              "full_en": "the mass of the nations",
+              "full_vn": "đa số các dân tộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) khối lượng",
+          "list_en_vn": [
+            {
+              "full_en": "critical mass",
+              "full_vn": "khối lượng tới hạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the masses ) quần chúng nhân dân",
+          "list_one_mean": [
+            {
+              "id_full_en": "in the mass",
+              "list_im": [
+                {
+                  "im_full_vn": "nói chung"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the ruling class and the masses",
+              "full_vn": "giai cấp thống trị và quần chúng nhân dân"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "quần chúng; đại chúng",
+          "list_en_vn": [
+            {
+              "full_en": "mass information",
+              "full_vn": "thông tin đại chúng"
+            },
+            {
+              "full_en": "a mass meeting",
+              "full_vn": "một cuộc mít tinh đại chúng"
+            },
+            {
+              "full_en": "a mass murder",
+              "full_vn": "một cuộc thảm sát hàng loạt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất thành đống"
+        },
+        {
+          "m_full_vn": "(quân sự) tập trung (quân...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tập trung, tụ hội"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809321211_dcb674f121_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809321211_7f108f8204_o.png",
+      "id_image": "mass_1534157"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "english": "meal",
+  "phat_am": "[mi:l]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bột xay thô"
+        },
+        {
+          "m_full_vn": "bữa ăn",
+          "list_en_vn": [
+            {
+              "full_en": "a family meal",
+              "full_vn": "một bữa ăn gia đình"
+            },
+            {
+              "full_en": "to eat a big /square meal",
+              "full_vn": "ăn một bữa thịnh soạn"
+            },
+            {
+              "full_en": "to take a meal ; to eat one's meal",
+              "full_vn": "ăn cơm; dùng bữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thức ăn trong bữa ăn; món",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make a meal of something",
+              "list_im": [
+                {
+                  "im_full_vn": "chú ý, nỗ lực làm cái gì nhiều hơn là nó xứng đáng hoặc cần có",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "She always makes such a meal of it - I could do it in half the time",
+                      "full_vn": "Cô ta bao giờ cũng phí sức vào việc đó - tôi chỉ cần nửa thời gian như thế là đã làm xong"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a meal of fish and chips",
+              "full_vn": "món cá và khoai tây rán"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055500_6a037d319c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055500_ce3977f31f_o.png",
+      "id_image": "meal_3274099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055465_f571e1625b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055465_6245d5071a_o.png",
+      "id_image": "meal_3595881"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363467_6296004f79_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363467_963d0fd29c_o.png",
+      "id_image": "meal_3967376"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318946_68f6013639_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318946_6a6026318a_o.png",
+      "id_image": "meal_649067"
+    }
+  ]
+}

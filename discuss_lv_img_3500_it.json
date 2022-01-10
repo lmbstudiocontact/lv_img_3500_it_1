@@ -1,0 +1,59 @@
+{
+  "english": "discuss",
+  "phat_am": "[dis'kʌs]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to discuss something with somebody ) thảo luận; bàn cãi; tranh luận",
+          "list_en_vn": [
+            {
+              "full_en": "He was still discussing the game (with his colleagues ) when I got there",
+              "full_vn": "Tôi đến đó khi anh ta đang tranh luận (với bạn đồng nghiệp) về trận đấu"
+            },
+            {
+              "full_en": "We discussed when to go /when we should go",
+              "full_vn": "Chúng tôi bàn nhau khi nào thì đi"
+            },
+            {
+              "full_en": "They discussed selling the house",
+              "full_vn": "Họ bàn nhau bán ngôi nhà"
+            },
+            {
+              "full_en": "We're here to discuss his joining the club",
+              "full_vn": "chúng tôi đến đây bàn việc anh ta gia nhập câu lạc bộ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053490_5982b6e9d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053490_0af9dcd9d6_o.png",
+      "id_image": "discuss_1933940"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361337_575847a5cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361337_7076dca9b4_o.png",
+      "id_image": "discuss_2911144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671719_ed609cc601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671719_7e9121bcdb_o.png",
+      "id_image": "discuss_3034810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361307_21a3e806e3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361307_b52d889300_o.png",
+      "id_image": "discuss_3965826"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432018_c1374ab0f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432018_743a115312_o.png",
+      "id_image": "discuss_4861272"
+    }
+  ]
+}

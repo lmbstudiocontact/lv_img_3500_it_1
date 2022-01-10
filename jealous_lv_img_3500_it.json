@@ -1,0 +1,49 @@
+{
+  "english": "jealous",
+  "phat_am": "['dʒeləs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( jealous of somebody / something ) ghen tị, ghen ghét, đố kỵ",
+          "list_en_vn": [
+            {
+              "full_en": "a jealous husband",
+              "full_vn": "một người chồng hay ghen"
+            },
+            {
+              "full_en": "to be jealous of someone's success",
+              "full_vn": "ghen ghét sự thành công của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( jealous of something ) khư khư giữ cho riêng mình",
+          "list_en_vn": [
+            {
+              "full_en": "keeping a jealous eye on one's property",
+              "full_vn": "khư khư giữ chặt tài sản của mình"
+            },
+            {
+              "full_en": "she's jealous of her privileges",
+              "full_vn": "bà ta ra sức bảo vệ các đặc quyền của mình"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335236_38be49b55d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335236_12aefdbd0a_o.png",
+      "id_image": "jealous_5259980"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450238_90fe432912_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450238_65eeb87aa7_o.png",
+      "id_image": "jealous_6010276"
+    }
+  ]
+}

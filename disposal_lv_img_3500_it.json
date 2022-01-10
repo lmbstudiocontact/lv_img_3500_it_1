@@ -1,0 +1,69 @@
+{
+  "english": "disposal",
+  "phat_am": "[dis'pouzəl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vứt bỏ đi, sự tống khứ",
+          "list_en_vn": [
+            {
+              "full_en": "the safe disposal of nuclear waste is a major problem",
+              "full_vn": "vấn đề quan trọng là loại bỏ an toàn các chất thải hạt nhân"
+            },
+            {
+              "full_en": "a bomb disposal squad",
+              "full_vn": "một toán tháo gỡ bom"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy nghiền rác"
+        },
+        {
+          "m_full_vn": "sự bán, sự chuyển nhượng, sự nhượng lại",
+          "list_en_vn": [
+            {
+              "full_en": "disposal of property",
+              "full_vn": "sự chuyển nhượng tài sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tuỳ ý sử dụng",
+          "list_en_vn": [
+            {
+              "full_en": "at somebody's / one's disposal",
+              "full_vn": "có sẵn cho ai/mình sử dụng theo ý muốn"
+            },
+            {
+              "full_en": "to place /put something at someone's disposal",
+              "full_vn": "để cái gì cho ai tuỳ ý sử dụng"
+            },
+            {
+              "full_en": "to have something at one's disposal",
+              "full_vn": "có toàn quyền sử dụng cái gì"
+            },
+            {
+              "full_en": "I am at your disposal",
+              "full_vn": "ngài có thể tuỳ ý sử dụng tôi được, tôi sẵn sàng phục vụ ngài"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359252_44e8238885_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359252_8a5edc40ee_o.png",
+      "id_image": "disposal_2911660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051605_eca663514f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051605_cb3956da6b_o.png",
+      "id_image": "disposal_3154583"
+    }
+  ]
+}

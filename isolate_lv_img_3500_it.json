@@ -1,0 +1,50 @@
+{
+  "english": "isolate",
+  "phat_am": "['aisəleit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to isolate somebody / something from somebody / something ) đặt hay giữ ai/cái gì hoàn toàn cách biệt với người hoặc vật khác; cô lập; cách ly",
+          "list_en_vn": [
+            {
+              "full_en": "when a person has an infectious disease , he is isolated from other people",
+              "full_vn": "khi một người mắc bệnh truyền nhiệm, anh ta sẽ bị cách ly khỏi những người khác"
+            },
+            {
+              "full_en": "several villages were isolated by heavy snowfalls",
+              "full_vn": "nhiều làng mạc bị cô lập vì mưa tuyết rất dày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) tách ra; phân lập",
+          "list_en_vn": [
+            {
+              "full_en": "scientists have isolated the virus causing the epidemic",
+              "full_vn": "các nhà khoa học đã phân lập được vi khuẩn gây bệnh dịch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337181_bb9ea0ee26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337181_566263af17_o.png",
+      "id_image": "isolated_2890261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451988_b2a4efe655_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451988_032598dd25_o.png",
+      "id_image": "isolated_6238123"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337221_aedb88234d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337221_50d50bd9d7_o.png",
+      "id_image": "isolate_6237844"
+    }
+  ]
+}

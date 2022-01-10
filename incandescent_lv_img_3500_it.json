@@ -1,0 +1,40 @@
+{
+  "english": "incandescent",
+  "phat_am": "[,inkæn'desnt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nóng sáng",
+          "list_en_vn": [
+            {
+              "full_en": "incandescent lamp",
+              "full_vn": "đèn nóng sáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sáng chói, sáng rực ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "the incandescent zeal of youth",
+              "full_vn": "nhiệt tình sáng chói của tuổi trẻ"
+            },
+            {
+              "full_en": "an incandescent masterwork",
+              "full_vn": "một kiệt tác sáng chói"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364597_db49ae2b5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364597_7bf159060b_o.png",
+      "id_image": "incandescent_2605879"
+    }
+  ]
+}

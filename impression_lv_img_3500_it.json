@@ -1,0 +1,54 @@
+{
+  "english": "impression",
+  "phat_am": "[im'pre∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ấn tượng",
+          "list_en_vn": [
+            {
+              "full_en": "to make a strong impression on someone",
+              "full_vn": "gây một ấn tượng mạnh mẽ đối với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảm giác; cảm tưởng",
+          "list_en_vn": [
+            {
+              "full_en": "to be under the impression that ...",
+              "full_vn": "có cảm tưởng rằng..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đóng, sự in (dấu, vết)"
+        },
+        {
+          "m_full_vn": "dấu, vết, dấu in, vết in, dấu hằn, vết hằn, vết ấn",
+          "list_en_vn": [
+            {
+              "full_en": "the impression of a seal on wax",
+              "full_vn": "vết con dấu đóng trên sáp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) sự in; bản in; số lượng in"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) thuật nhại các nhân vật nổi tiếng (trên (sân khấu)...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057335_fb41a7eeb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057335_471c92f718_o.png",
+      "id_image": "impression_3703284"
+    }
+  ]
+}

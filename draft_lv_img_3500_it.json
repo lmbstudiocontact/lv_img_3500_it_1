@@ -1,0 +1,105 @@
+{
+  "english": "draft",
+  "phat_am": "[drɑ:ft]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cặn"
+        },
+        {
+          "m_full_vn": "nước vo gạo, nước rửa bát (để nấu cho lợn...)"
+        },
+        {
+          "m_full_vn": "bã lúa mạch (sau khi ủ bia)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản phác thảo, bản phác hoạ, đồ án, sơ đồ thiết kế; bản dự thảo một đạo luật...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (quân sự) chế độ quân dịch"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) sự lấy ra, sự rút (tiền...) ra (bằng ngân phiếu...)",
+          "list_en_vn": [
+            {
+              "full_en": "to make a draft on ...",
+              "full_vn": "lấy ra, rút ra (tiền...); (nghĩa bóng) nhờ vào, cậy vào, kêu gọi (tình bạn, lòng đại lượng của ai...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) hối phiếu"
+        },
+        {
+          "m_full_vn": "(quân sự) phân đội, biệt phái, phân đội tăng cường"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) gió lò"
+        },
+        {
+          "m_full_vn": "sự kéo",
+          "list_en_vn": [
+            {
+              "full_en": "beasts of draft",
+              "full_vn": "súc vật kéo (xe...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kiến trúc) sự vạch cỡ; cỡ vạch (dọc theo bờ đá để xây gờ...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phác thảo, phác hoạ; dự thảo (một đạo luật...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (quân sự) bắt quân dịch, thực hiện chế độ quân dịch đối với"
+        },
+        {
+          "m_full_vn": "(quân sự) lấy ra, rút ra (một phân đội... để làm công tác biệt phái...)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) vạch cỡ (bờ đá, để xây gờ...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662569_8494aaa793_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662569_3e4c52752e_o.png",
+      "id_image": "draft_1289255"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810044225_a4673302a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810044225_07569e8d72_o.png",
+      "id_image": "draft_1289256"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809307246_ebe491027b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809307246_24d9e0b8a0_o.png",
+      "id_image": "draft_3884716"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809422338_05f92cf184_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809422338_14579371a8_o.png",
+      "id_image": "draft_4208388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662474_ba97666f56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662474_e03ea47534_o.png",
+      "id_image": "draft_4595100"
+    }
+  ]
+}

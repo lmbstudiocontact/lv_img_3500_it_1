@@ -1,0 +1,64 @@
+{
+  "english": "location",
+  "phat_am": "[lou'kei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "địa điểm hoặc vị trí",
+          "list_en_vn": [
+            {
+              "full_en": "a suitable location for new houses",
+              "full_vn": "địa điểm thích hợp cho những nhà mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự xác định vị trí, sự định vị",
+          "list_en_vn": [
+            {
+              "full_en": "responsible for the location of the missing yacht",
+              "full_vn": "chịu trách nhiệm tìm ra nơi chiếc thuyền buồm bị mất tích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đơn vị cơ bản của bộ nhớ máy tính, có thể lưu trữ một mục về dữ liệu",
+          "list_one_mean": [
+            {
+              "id_full_en": "on location",
+              "list_im": [
+                {
+                  "im_full_vn": "(điện ảnh) được quay trong cảnh xung quanh phù hợp thay vì trong trường quay của xưởng phim; quay tại hiện trường"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693274_38ef67e00e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693274_53fc9f43a7_o.png",
+      "id_image": "location_1149050"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452898_9e3651c26d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452898_3340fd04c6_o.png",
+      "id_image": "location_1284357"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452863_f047c76275_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452863_9d808d740d_o.png",
+      "id_image": "location_1284362"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452953_8a8a65bcba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452953_7cb51a63d0_o.png",
+      "id_image": "location_495480"
+    }
+  ]
+}

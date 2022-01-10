@@ -1,0 +1,46 @@
+{
+  "english": "exclude",
+  "phat_am": "[iks'klu:d]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "không cho (ai...) vào (một nơi nào...); không cho (ai...) hưởng (quyền...)"
+        },
+        {
+          "m_full_vn": "ngăn chận"
+        },
+        {
+          "m_full_vn": "loại trừ"
+        },
+        {
+          "m_full_vn": "đuổi tống ra, tống ra",
+          "list_en_vn": [
+            {
+              "full_en": "to exclude somebody from a house",
+              "full_vn": "đuổi ai ra khỏi nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809667164_be13f785e1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809667164_d1aa49cf49_o.png",
+      "id_image": "exclude_232951"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312226_49525db63d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312226_b00b48f56a_o.png",
+      "id_image": "exclude_4559450"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808356202_790fea1e51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808356202_b35825e83a_o.png",
+      "id_image": "exclude_4576575"
+    }
+  ]
+}

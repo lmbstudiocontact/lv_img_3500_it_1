@@ -1,0 +1,70 @@
+{
+  "english": "harbour",
+  "phat_am": "['hɑ:bə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bến tàu, cảng"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nơi an toàn; nơi ẩn náu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chứa chấp; che giấu, cho ẩn náu",
+          "list_en_vn": [
+            {
+              "full_en": "to harbour a criminal",
+              "full_vn": "chứa chấp một kẻ có tội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nuôi dưỡng (ý nghĩ xấu...)",
+          "list_en_vn": [
+            {
+              "full_en": "to harbour evil thoughts",
+              "full_vn": "nuôi dưỡng những ý nghĩ xấu xa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ neo ở cảng, đậu ở cảng (tàu thuỷ)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810082140_4369e721f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810082140_0e2acdd7dd_o.png",
+      "id_image": "harbour_2374138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459423_259449a03c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459423_28c501ce3a_o.png",
+      "id_image": "harbour_2485263"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808389527_7c839ba002_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808389527_21eb001a50_o.png",
+      "id_image": "harbour_2598138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699659_d4c3b3fc6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699659_7ea9d6de6c_o.png",
+      "id_image": "harbour_5626926"
+    }
+  ]
+}

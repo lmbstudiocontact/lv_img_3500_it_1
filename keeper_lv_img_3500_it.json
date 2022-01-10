@@ -1,0 +1,58 @@
+{
+  "english": "keeper",
+  "phat_am": "['ki:pə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người giữ, người gác",
+          "list_en_vn": [
+            {
+              "full_en": "a door-keeper",
+              "full_vn": "người giữ cửa"
+            },
+            {
+              "full_en": "a gamekeeper",
+              "full_vn": "người giữ cho rừng khỏi nạn săn bắn bừa bãi"
+            },
+            {
+              "full_en": "a goalkeeper",
+              "full_vn": "người giữ gôn, người giữ khung thành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người bảo quản, người bảo tồn (viện bảo tàng, thư viện...)"
+        },
+        {
+          "m_full_vn": "người trông nom người điên"
+        },
+        {
+          "m_full_vn": "người quản lý, người chủ (quán...)"
+        },
+        {
+          "m_full_vn": "người coi khu rừng cấm săn bắn"
+        },
+        {
+          "m_full_vn": "nhẫn giữ (đeo để giữ cho chiếc nhẫn khác (thường) là nhẫn cưới, khỏi tuột)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) đai ốc hãm"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444493_a275a23cd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444493_17a87e6a26_o.png",
+      "id_image": "keeper_1353833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374177_a6af9c100b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374177_a9b3d23b2d_o.png",
+      "id_image": "keeper_1353834"
+    }
+  ]
+}

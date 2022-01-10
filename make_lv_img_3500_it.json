@@ -1,0 +1,892 @@
+{
+  "english": "make",
+  "phat_am": "[meik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hình dáng, cấu tạo (của một vật); kiểu (quần áo); tầm vóc, dáng, tư thế (người)"
+        },
+        {
+          "m_full_vn": "sự chế tạo, kiểu chế tạo",
+          "list_en_vn": [
+            {
+              "full_en": "is this your own make ?",
+              "full_vn": "cái này có phải tự anh làm lấy không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thể chất; tính cách"
+        },
+        {
+          "m_full_vn": "(điện học) công tắc, cái ngắt điện",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be on the make",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) thích làm giàu"
+                },
+                {
+                  "im_full_vn": "đang tăng, đang tiến"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đang gạ gẫm ai ăn nằm với mình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm, chế tạo",
+          "list_en_vn": [
+            {
+              "full_en": "to make bread",
+              "full_vn": "làm bánh"
+            },
+            {
+              "full_en": "to make verse",
+              "full_vn": "làm thơ"
+            },
+            {
+              "full_en": "made in Vietnam",
+              "full_vn": "chế tạo ở Việt Nam"
+            },
+            {
+              "full_en": "made of ivory",
+              "full_vn": "làm bằng ngà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sắp đặt, xếp đặt, dọn, thu dọn, sửa soạn, chuẩn bị",
+          "list_en_vn": [
+            {
+              "full_en": "to make the bed",
+              "full_vn": "dọn giường"
+            },
+            {
+              "full_en": "to make tea",
+              "full_vn": "pha trà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiếm được, thu",
+          "list_en_vn": [
+            {
+              "full_en": "to make money",
+              "full_vn": "kiếm tiền"
+            },
+            {
+              "full_en": "to make a profit",
+              "full_vn": "kiếm lãi"
+            },
+            {
+              "full_en": "to make good marks at school",
+              "full_vn": "được điểm tốt ở trường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm, gây ra",
+          "list_en_vn": [
+            {
+              "full_en": "to make a noise",
+              "full_vn": "làm ồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm, thực hiện, thi hành",
+          "list_en_vn": [
+            {
+              "full_en": "to make one's bow",
+              "full_vn": "cúi đầu chào"
+            },
+            {
+              "full_en": "to make a journey",
+              "full_vn": "làm một cuộc hành trình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khiến cho, làm cho",
+          "list_en_vn": [
+            {
+              "full_en": "to make somebody happy",
+              "full_vn": "làm cho ai sung sướng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bắt, bắt buộc",
+          "list_en_vn": [
+            {
+              "full_en": "make him repeat it",
+              "full_vn": "bắt hắn ta phải nhắc đi nhắc lại điều đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phong, bổ nhiệm, lập, tôn",
+          "list_en_vn": [
+            {
+              "full_en": "they wanted to make him president",
+              "full_vn": "họ muốn tôn ông ta lên làm chủ tịch"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ước lượng, đánh giá, định giá, kết luận",
+          "list_en_vn": [
+            {
+              "full_en": "to make the distance at 10 miles",
+              "full_vn": "ước lượng quãng đường ấy độ 10 dặm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đến; tới; (hàng hải) trông thấy",
+          "list_en_vn": [
+            {
+              "full_en": "to make the land",
+              "full_vn": "trông thấy đất liền"
+            },
+            {
+              "full_en": "the train leaves at 7.35, can we make it ?",
+              "full_vn": "xe lửa khởi hành vào hồi 7 giờ 35, không biết chúng tôi có thể đến kịp không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn thành, đạt được, làm được, đi được",
+          "list_en_vn": [
+            {
+              "full_en": "to make 30 kilometers an hour",
+              "full_vn": "đi được 30 kilômét một giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thành, là, bằng",
+          "list_en_vn": [
+            {
+              "full_en": "two and two make four",
+              "full_vn": "hai cộng với hai là bốn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trở thành, trở nên",
+          "list_en_vn": [
+            {
+              "full_en": "if you work hard , you will make a good teacher",
+              "full_vn": "nếu anh làm việc chăm chỉ, anh sẽ trở thành một giáo viên giỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghĩ, hiểu",
+          "list_en_vn": [
+            {
+              "full_en": "I do not know what to make of it",
+              "full_vn": "tôi không biết nghĩ về điều đó ra sao"
+            },
+            {
+              "full_en": "I could not make head or tail of it",
+              "full_vn": "tôi chẳng hiểu được đầu đuôi câu chuyện ra sao"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi, tiến (về phía)",
+          "list_en_vn": [
+            {
+              "full_en": "to make for the door",
+              "full_vn": "đi ra cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lên, xuống (thuỷ triều)",
+          "list_en_vn": [
+            {
+              "full_en": "the tide is making",
+              "full_vn": "nước thuỷ triều đang lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm, ra ý, ra vẻ"
+        },
+        {
+          "m_full_vn": "sửa soạn, chuẩn bị",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make after",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ cổ,nghĩa cổ) theo đuổi, đeo đuổi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make against",
+              "list_im": [
+                {
+                  "im_full_vn": "bất lợi, có hại cho"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make away",
+              "list_im": [
+                {
+                  "im_full_vn": "vội vàng ra đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make away with",
+              "list_im": [
+                {
+                  "im_full_vn": "huỷ hoại, giết, thủ tiêu, khử"
+                },
+                {
+                  "im_full_vn": "lãng phí, phung phí"
+                },
+                {
+                  "im_full_vn": "xoáy, ăn cắp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make off",
+              "list_im": [
+                {
+                  "im_full_vn": "đi mất, chuồn, cuốn gói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make off with",
+              "list_im": [
+                {
+                  "im_full_vn": "xoáy, ăn cắp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make out",
+              "list_im": [
+                {
+                  "im_full_vn": "đặt, dựng lên, lập",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to make out a plan",
+                      "full_vn": "đặt kế hoạch"
+                    },
+                    {
+                      "full_en": "to make out a list",
+                      "full_vn": "lập một danh sách"
+                    },
+                    {
+                      "full_en": "to make out a cheque",
+                      "full_vn": "viết một tờ séc"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hiểu, giải thích, tìm ra manh mối, nắm được ý nghĩa, đọc được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I cannot make out what he has written",
+                      "full_vn": "tôi không thể đọc được những điều hắn ta viết"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "phân biệt, nhìn thấy, nhận ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to make out a figure in the distance",
+                      "full_vn": "nhìn thấy một bóng người đằng xa"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) diễn biến, tiến triển",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "how are things making out ?",
+                      "full_vn": "sự việc diễn biến ra sao?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make over",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyển, nhượng, giao, để lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to make over all one 's property to someone",
+                      "full_vn": "để lại tất cả của cải cho ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make up",
+              "list_im": [
+                {
+                  "im_full_vn": "hình thành, cấu thành hoặc cấu tạo nên; sắp đặt lại với nhau từ nhiều vật khác nhau, gói ghém, thu vén",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "animal bodies are made up of cells",
+                      "full_vn": "cơ thể động vật do các tế bào cấu thành"
+                    },
+                    {
+                      "full_en": "what are the qualities that make up her character ?",
+                      "full_vn": "những phẩm chất gì tạo nên tính cách của cô ấy?"
+                    },
+                    {
+                      "full_en": "these arguments make up the case for the defence",
+                      "full_vn": "những luận cứ này tạo thành chỗ dựa cho luật sư bào chữa"
+                    },
+                    {
+                      "full_en": "society is made up of people of widely differing abilities",
+                      "full_vn": "xã hội hình thành từ những người có các khả năng rất khác nhau"
+                    },
+                    {
+                      "full_en": "to make up a bundle of old clothes for a jumble sale",
+                      "full_vn": "gói ghém một bó quần áo cũ để bán xon"
+                    },
+                    {
+                      "full_en": "she made up a basket of food for the picnic",
+                      "full_vn": "cô ấy đã sắp xếp giỏ đồ ăn cho chuyến đi chơi ngoài trời"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "điều chế (một thứ thuốc) bằng việc pha trộn các thành phần khác nhau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the pharmacist made up the prescription",
+                      "full_vn": "dược sĩ pha chế thuốc theo đơn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "cắt may (vải) thành quần áo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "can you make up this dress length for me ?",
+                      "full_vn": "ông có thể cắt cho tôi chiếc áo dài như thế này được không?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "chuẩn bị ( giừơng) để sử dụng; dựng lên ( giừơng tạm)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we made up the bed in the spare room for our guest",
+                      "full_vn": "chúng tôi đã chuẩn bị giừơng trong buồng trống cho khách"
+                    },
+                    {
+                      "full_en": "they made up a bed for me on the sofa",
+                      "full_vn": "họ xếp giừơng tạm cho tôi ở ghế xôpha"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thêm nhiên liệu vào lửa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the fire needs making up",
+                      "full_vn": "ngọn lửa cần thêm chất đốt (phải cho thêm than vào)"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "rải một lớp cứng trên mặt đường cho nó thích hợp với việc đi lại của xe có động cơ"
+                },
+                {
+                  "im_full_vn": "bố trí (kiểu chữ, minh hoạ.) trong các cột hoặc các trang để in ấn; làm ma-két"
+                },
+                {
+                  "im_full_vn": "bịa đặt",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to make up an excuse",
+                      "full_vn": "bịa ra lời xin lỗi"
+                    },
+                    {
+                      "full_en": "I couldn't remember a story to tell the children , so I made one up as I went along",
+                      "full_vn": "Tôi không nhớ được câu chuyện để kể cho bọn trẻ nghe, thế là tôi phải bịa ra một câu chuyện khi đi đường"
+                    },
+                    {
+                      "full_en": "stop making things up !",
+                      "full_vn": "đừng có bịa chuyện nữa!"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "hoàn chỉnh cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we still need 1000 dollars to make up the sum required",
+                      "full_vn": "chúng tôi cần thêm 1000 đô la cho đủ số tiền theo yêu cầu"
+                    },
+                    {
+                      "full_en": "we have ten players , so we need one more to make up a team",
+                      "full_vn": "chúng tôi có 10 cầu thủ, vậy chúng tôi cần thêm một cầu thủ để lập thành một đội"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "thay thế cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "our losses will have to be made up with more loans",
+                      "full_vn": "khoản thua lỗ của chúng ta phải được bù đắp bằng các khoản vay thêm"
+                    },
+                    {
+                      "full_en": "You must make up the time you wasted this afternoon by working late tonight",
+                      "full_vn": "anh phải bù lại thời gian mà anh lãng phí chiều nay bằng cách làm việc muộn vào tối nay"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "trang điểm (bôi phấn, son, kem.... lên mặt để làm cho quyến rũ hơn hoặc chuẩn bị cho việc xuất hiện trên (sân khấu))",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to make up an actor",
+                      "full_vn": "hoá trang cho một diễn viên"
+                    },
+                    {
+                      "full_en": "she spent an hour making (herself ) up before the party",
+                      "full_vn": "cô ấy bỏ ra một giờ đồng hồ để trang điểm trước buổi liên hoan"
+                    },
+                    {
+                      "full_en": "she's always very heavily made up",
+                      "full_vn": "cô ấy luôn luôn trang điểm rất loè loẹt"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "( to make up for something ) đền bù, bồi thường cái gì đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "hard work can make up for a lack of intelligence",
+                      "full_vn": "sự cần cù bù vào việc kém thông minh"
+                    },
+                    {
+                      "full_en": "nothing can make up for the loss of a child",
+                      "full_vn": "không gì có thể bù đắp cho việc mất một đứa bé"
+                    },
+                    {
+                      "full_en": "the beautiful autumn made up for the wet summer",
+                      "full_vn": "mùa thu tuyệt đẹp bù đắp cho mùa hè ẩm ướt"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "( to make up to somebody for something ) đền bù, bồi thường ai về những phiền hà hoặc đau khổ mình đã gây ra cho người đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "how can I make up for the way I've treated you ?",
+                      "full_vn": "làm sao tôi có thể chuộc lỗi về cách thức tôi đã đối xử với anh?"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "( to make up to somebody ) vui vẻ với ai để giành thiện cảm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he's always making up to the boss",
+                      "full_vn": "anh ta luôn luôn nịnh ông chủ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "( to make it up to somebody ) đền bù cho ai cái gì đã mất hay tổn thất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "thanks for buying my ticket - I'll make it up to you later",
+                      "full_vn": "cám ơn anh đã mua vé cho tôi - tôi sẽ hoàn lại tiền cho anh sau"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "( to make ( it ) up with somebody ) kết thúc cuộc cãi lộn hoặc tranh chấp với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the two friends have had a quarrel , but they will soon make it up",
+                      "full_vn": "hai người bạn xích mích với nhau, nhưng rồi họ sẽ dàn hoà ngay thôi"
+                    },
+                    {
+                      "full_en": "why don't you two kiss and make up ?",
+                      "full_vn": "tại sao hai người không hôn nhau và làm lành với nhau?"
+                    },
+                    {
+                      "full_en": "Has he made it up with her yet /Have they made it up yet ?",
+                      "full_vn": "Anh ấy làm lành với cô ta chưa? /Họ đã làm lành với nhau chưa?"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make with something",
+              "list_im": [
+                {
+                  "im_full_vn": "(nhất là lối mệnh lệnh) đưa ra hoặc cung cấp cái gì một cách nhanh chóng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "make with the beers , buster !",
+                      "full_vn": "hãy đưa bia ra mau, ông bạn!"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make it with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "thành công trong quan hệ tình dục với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Terry made it with Sharon on the back seat of his car",
+                      "full_vn": "Terry đã làm tình với Sharon trên băng sau xe ô tô của anh ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make amends for something",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) amends"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make as though",
+              "list_im": [
+                {
+                  "im_full_vn": "làm như thể, hành động như thể"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make believe",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) believe"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make both ends meet",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) meet"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make free with",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp đãi tự nhiên không khách sáo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make friends with",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) friend"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make game of",
+              "list_im": [
+                {
+                  "im_full_vn": "đùa cợt, chế nhạo, giễu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make good",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) good"
+                }
+              ]
+            },
+            {
+              "id_full_en": "make haste !",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) haste"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a hash of job",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hash"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make hay while the sun shines",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make head",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) head"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make head against",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) head"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make headway",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) headway"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make oneself at home",
+              "list_im": [
+                {
+                  "im_full_vn": "tự nhiên như ở nhà, không khách sáo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make love to someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) love"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make little (light , nothing ) of",
+              "list_im": [
+                {
+                  "im_full_vn": "coi thường, coi rẻ, không chú ý đên, không quan tâm đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make much of",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) much"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make the most of",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) most"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make mountains of molehills",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) molehill"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make one's mark",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) makr"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make merry",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) merry"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make somebody ' s mouth water",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) water"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make ready",
+              "list_im": [
+                {
+                  "im_full_vn": "chuẩn bị sẵn sàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make room (place ) for",
+              "list_im": [
+                {
+                  "im_full_vn": "nhường chỗ cho"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make sail",
+              "list_im": [
+                {
+                  "im_full_vn": "gương buồm, căng buồm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make oneself scarce",
+              "list_im": [
+                {
+                  "im_full_vn": "lẩn đi, trốn đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make [a ] shift to",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) shift"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make terms with",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) term"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make too much ado about nothing",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng có chuyện gì cũng làm rối lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make a tool of someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) tool"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make up one's mind",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) mind"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make up for lost time",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) time"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make war on",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) war"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make water",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) water"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make way",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) way"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make way for",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) way"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683359_22df950ccd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683359_a67d42d812_o.png",
+      "id_image": "make_339986"
+    }
+  ]
+}

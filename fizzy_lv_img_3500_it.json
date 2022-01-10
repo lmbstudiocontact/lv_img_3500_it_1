@@ -1,0 +1,27 @@
+{
+  "english": "fizzy",
+  "phat_am": "['fizi]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sủi bọt, có ga",
+          "list_en_vn": [
+            {
+              "full_en": "fizzy orangeade",
+              "full_vn": "nước cam có ga"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368877_293a7f7ac2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368877_313572cd66_o.png",
+      "id_image": "fizzy_1408444"
+    }
+  ]
+}

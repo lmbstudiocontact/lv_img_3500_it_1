@@ -1,0 +1,105 @@
+{
+  "english": "dream",
+  "phat_am": "[dri:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giấc mơ, giấc mộng",
+          "list_en_vn": [
+            {
+              "full_en": "in a dream",
+              "full_vn": "trong giấc mơ"
+            },
+            {
+              "full_en": "to have a dream",
+              "full_vn": "nằm mơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự mơ mộng, sự mơ màng, sự mộng tưởng",
+          "list_en_vn": [
+            {
+              "full_en": "in a waking dream",
+              "full_vn": "trong lúc mơ màng, trong lúc mơ mộng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điều mơ tưởng, điều mơ ước; điều kỳ ảo như trong giấc mơ",
+          "list_en_vn": [
+            {
+              "full_en": "the dream of one's life",
+              "full_vn": "điều mơ tưởng của đời mình"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ dreamt , dreamed",
+      "list_m": [
+        {
+          "m_full_vn": "mơ, nằm mơ thấy",
+          "list_en_vn": [
+            {
+              "full_en": "he must have dreamt it",
+              "full_vn": "hẳn là nó nằm mơ thấy điều đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mơ màng, mơ mộng, vẩn vơ",
+          "list_en_vn": [
+            {
+              "full_en": "to dream away one's time",
+              "full_vn": "mơ mộng vẩn vơ hết thì giờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thường), phủ định tưởng tượng, mơ tưởng; nghĩ rằng, tưởng rằng, có ý niệm rằng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to dream up",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) tưởng tượng ra, bịa ra"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I never dream of doing such a thing",
+              "full_vn": "tôi không hề bao giờ nghĩ đến chuyện làm một điều như thế"
+            },
+            {
+              "full_en": "to dream of something",
+              "full_vn": "mơ tưởng tới cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421673_09192ca28b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421673_bfb19005a3_o.png",
+      "id_image": "dream_3890845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306476_6e565907d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306476_7a84a423cb_o.png",
+      "id_image": "dream_4743132"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350637_df0f7b4d17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350637_c650fba373_o.png",
+      "id_image": "dream_6213273"
+    }
+  ]
+}

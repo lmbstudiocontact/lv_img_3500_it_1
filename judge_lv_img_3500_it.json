@@ -1,0 +1,97 @@
+{
+  "english": "judge",
+  "phat_am": "['dʒʌdʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quan toà, thẩm phán",
+          "list_en_vn": [
+            {
+              "full_en": "as sober as a judge",
+              "full_vn": "tỉnh táo, công bằng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người phân xử, trọng tài"
+        },
+        {
+          "m_full_vn": "người am hiểu, người sành sỏi",
+          "list_en_vn": [
+            {
+              "full_en": "a judge of art",
+              "full_vn": "người am hiểu nghệ thuật"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xét xử, phân xử (một vụ kiện, một người có tội...)"
+        },
+        {
+          "m_full_vn": "xét, xét đoán, phán đoán, đánh giá",
+          "list_en_vn": [
+            {
+              "full_en": "do not judge people by appearance",
+              "full_vn": "đừng xét người theo bề ngoài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "xét thấy, cho rằng, thấy rằng",
+          "list_en_vn": [
+            {
+              "full_en": "if you judge it to be necessary",
+              "full_vn": "nếu anh xét thấy cái đó là cần thiết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) phê bình, chỉ trích"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm quan toà"
+        },
+        {
+          "m_full_vn": "làm người phân xử, làm trọng tài"
+        },
+        {
+          "m_full_vn": "xét, xét xử, xét đoán"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068465_8636a56306_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068465_f8b072aa60_o.png",
+      "id_image": "judge_1781197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068440_dcd2002a07_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068440_e5142d46b1_o.png",
+      "id_image": "judge_2307583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446733_0673855879_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446733_a3edbbebd3_o.png",
+      "id_image": "judge_2365130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376592_bd19295b10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376592_b0aa89c41d_o.png",
+      "id_image": "judge_843339"
+    }
+  ]
+}

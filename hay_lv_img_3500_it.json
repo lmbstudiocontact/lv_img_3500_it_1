@@ -1,0 +1,106 @@
+{
+  "english": "hay",
+  "phat_am": "[hei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cỏ khô (cho súc vật ăn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hit the hay",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đi nằm, đi ngủ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look for a needle in a bottle (bundle ) of hay",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) needle"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make hay while the sun shines",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) tận dụng thời cơ thuận lợi; cơ hội đến tay là lợi dụng ngay không để lỡ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make hay of",
+              "list_im": [
+                {
+                  "im_full_vn": "làm đảo lộn lung tung, làm lộn xộn (cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not hay",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) một số tiền không phải là ít, một số tiền kha khá"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to make hay",
+              "full_vn": "dỡ cỏ để phơi khô"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phơi khô (cỏ)"
+        },
+        {
+          "m_full_vn": "trồng cỏ (một mảnh đất)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) cho ăn cỏ khô"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "dỡ cỏ phơi khô"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457868_76391eb000_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457868_1565171fab_o.png",
+      "id_image": "hay_1139818"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080645_3137d1dd95_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080645_1565171fab_o.png",
+      "id_image": "hay_207757"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080565_bec80c48a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080565_41b22b39cf_o.png",
+      "id_image": "hay_2913388"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457793_3cd8befe4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457793_143153c539_o.png",
+      "id_image": "hay_5392514"
+    }
+  ]
+}

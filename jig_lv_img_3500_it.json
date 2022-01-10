@@ -1,0 +1,97 @@
+{
+  "english": "jig",
+  "phat_am": "[dʒig]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điệu nhảy jig"
+        },
+        {
+          "m_full_vn": "nhạc cho điệu nhảy jig",
+          "list_one_mean": [
+            {
+              "id_full_en": "the jig was up",
+              "list_im": [
+                {
+                  "im_full_vn": "hết hy vọng, hết đường"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy điệu jig"
+        },
+        {
+          "m_full_vn": "nhảy tung tăng",
+          "list_en_vn": [
+            {
+              "full_en": "to jig up and down",
+              "full_vn": "nhảy tung tăng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho nhảy tung tăng; tung lên tung xuống nhanh",
+          "list_en_vn": [
+            {
+              "full_en": "to jig a baby up and down",
+              "full_vn": "tung tung một em bé lên đầu gối"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) đồ gá lắp, khuôn dẫn (khoan)"
+        },
+        {
+          "m_full_vn": "máy sàng, sàng (quặng, (khoáng chất))"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) lắp đồ gá lắp, lắp khuôn dẫn (khoan)"
+        },
+        {
+          "m_full_vn": "sàng (quặng, (khoáng chất))"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689159_974bfefc92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689159_80f9024371_o.png",
+      "id_image": "jig_1185359"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071070_9f76c4003b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071070_c7f502deb3_o.png",
+      "id_image": "jig_2472899"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689114_426ff77258_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689114_ebb93a75fd_o.png",
+      "id_image": "jig_2534961"
+    }
+  ]
+}

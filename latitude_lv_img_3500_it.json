@@ -1,0 +1,46 @@
+{
+  "english": "latitude",
+  "phat_am": "['lætitju:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoảng cách của một nơi ở phía Bắc hoặc phía Nam đối với xích đạo; vĩ độ"
+        },
+        {
+          "m_full_vn": "( số nhiều) miền; vùng",
+          "list_en_vn": [
+            {
+              "full_en": "high latitudes",
+              "full_vn": "vùng khí hậu ấm áp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bề rộng"
+        },
+        {
+          "m_full_vn": "phạm vi rộng, quyền rộng rãi",
+          "list_en_vn": [
+            {
+              "full_en": "to allow the people great latitude in politics",
+              "full_vn": "cho nhân dân có quyền (hoạt động) rộng rãi về chính trị"
+            },
+            {
+              "full_en": "to understand a problem in its proper latitude",
+              "full_vn": "hiểu vấn đề một cách đầy đủ toàn diện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434863_0e90418ae7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434863_25fa9ebc9c_o.png",
+      "id_image": "latitude_992273"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "edifice",
+  "phat_am": "['edifis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dinh thự",
+          "list_en_vn": [
+            {
+              "full_en": "public edifices",
+              "full_vn": "dinh thự của nhà nước, công thự"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066950_ae092a2a13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066950_e538bbe134_o.png",
+      "id_image": "edifice_1255729"
+    }
+  ]
+}

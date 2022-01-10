@@ -1,0 +1,44 @@
+{
+  "english": "legacy",
+  "phat_am": "['legəsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tài sản kế thừa, gia tài, di sản",
+          "list_en_vn": [
+            {
+              "full_en": "to come into a legacy",
+              "full_vn": "được thừa hưởng một gia tài"
+            },
+            {
+              "full_en": "the cultural legacy of the Renaissance",
+              "full_vn": "di sản văn hoá của thời Phục hưng"
+            },
+            {
+              "full_en": "his weak chest was a legacy of a chilhood illness",
+              "full_vn": "cái ngực hay đau yếu của nó là di chứng bệnh tật thời thơ ấu"
+            },
+            {
+              "full_en": "a legacy of hatred",
+              "full_vn": "mối thù truyền kiếp"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346671_85cd1770aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346671_17d118d5e3_o.png",
+      "id_image": "legacy_5625679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391612_22aa743a1b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391612_aa17529433_o.png",
+      "id_image": "legacy_5632349"
+    }
+  ]
+}

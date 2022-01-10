@@ -1,0 +1,97 @@
+{
+  "english": "joke",
+  "phat_am": "[dʒouk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lời nói đùa, câu nói đùa",
+          "list_en_vn": [
+            {
+              "full_en": "to crack a joke",
+              "full_vn": "nói đùa một câu"
+            },
+            {
+              "full_en": "to play a joke on someone",
+              "full_vn": "đùa nghịch trêu chọc ai"
+            },
+            {
+              "full_en": "to know how to take a joke",
+              "full_vn": "biết nghe nói đùa, không để tâm giận lời nói đùa"
+            },
+            {
+              "full_en": "a practical joke",
+              "full_vn": "trò đùa ác ý, trò chơi khăm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trò cười (cho thiên hạ)"
+        },
+        {
+          "m_full_vn": "chuyện đùa; chuyện buồn cười, chuyện lố bịch; trường hợp xảy ra buồn cười",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have a joke with sb",
+              "list_im": [
+                {
+                  "im_full_vn": "đùa cợt với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the joke's on sb",
+              "list_im": [
+                {
+                  "im_full_vn": "người thực sự lố bịch sau khi trêu chọc ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see the joke",
+              "list_im": [
+                {
+                  "im_full_vn": "hiểu được nguyên nhân vì sao người ta trêu chọc"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "it is no joke",
+              "full_vn": "không phải là chuyện đùa"
+            },
+            {
+              "full_en": "the joke is that",
+              "full_vn": "điều buồn cười là"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói đùa"
+        },
+        {
+          "m_full_vn": "đùa bỡn, giễu cợt; trêu chòng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069535_ae8318d2d2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069535_40f6c39a8b_o.png",
+      "id_image": "joke_3839479"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332686_d5d0b9b936_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332686_98745f0702_o.png",
+      "id_image": "joke_4373958"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "embassy",
+  "phat_am": "['embəsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(nơi ở chính thức của) đại sứ và nhân viên của ông ta; sứ quán; toà đại sứ",
+          "list_en_vn": [
+            {
+              "full_en": "The American Embassy in Paris",
+              "full_vn": "Đại sứ quán Hoa Kỳ ở Pari"
+            },
+            {
+              "full_en": "embassy officials",
+              "full_vn": "các quan chức đại sứ quán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đại diện được phái đến chính phủ nước ngoài; sứ thần",
+          "list_en_vn": [
+            {
+              "full_en": "to send somebody on an embassy (to somebody )",
+              "full_vn": "cử ai đi sứ (đến gặp ai)"
+            },
+            {
+              "full_en": "to go /come on an embassy",
+              "full_vn": "đi sứ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323156_82d4f68ea6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323156_e224297719_o.png",
+      "id_image": "embassy_4697255"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678304_49f86f9717_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678304_02f8cb6297_o.png",
+      "id_image": "embassy_4849744"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059805_1240f2d8e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059805_e7263e6c27_o.png",
+      "id_image": "embassy_4960716"
+    }
+  ]
+}

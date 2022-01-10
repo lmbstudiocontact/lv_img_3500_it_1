@@ -1,0 +1,89 @@
+{
+  "english": "economy",
+  "phat_am": "[i:'kɔnəmi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kiểm soát và quản lý tiền, tiềm lực của một cộng đồng, xã hội, gia đình.......",
+          "list_en_vn": [
+            {
+              "full_en": "political economy",
+              "full_vn": "kinh tế chính trị"
+            },
+            {
+              "full_en": "domestic economy",
+              "full_vn": "kinh tế trong nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tiết kiệm (thì giờ, tiền của...)",
+          "list_en_vn": [
+            {
+              "full_en": "To practise economy",
+              "full_vn": "thực hành tiết kiệm"
+            },
+            {
+              "full_en": "It's an economy to buy good shoes : They cost more ,but they last much longer than cheap ones",
+              "full_vn": "Mua giày tốt là một việc làm tiết kiệm : Chúng đắt tiền hơn, nhưng dùng được lâu hơn so vơi giày rẻ tiền"
+            },
+            {
+              "full_en": "We're having an economy drive at school",
+              "full_vn": "Chúng ta đang có một cuộc thi đua tiết kiệm ở trường học"
+            },
+            {
+              "full_en": "an economy pack",
+              "full_vn": "một lô hàng tiết kiệm (bán giảm giá)"
+            },
+            {
+              "full_en": "economy class",
+              "full_vn": "hạng rẻ nhất (của vé máy bay)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the economy ) hoạt động và việc quản lý cung cấp tiền, thương mại và công nghiệp của một đất nước; hệ thống kinh tế",
+          "list_en_vn": [
+            {
+              "full_en": "The state of the economy is very worrying",
+              "full_vn": "Tình trạng của nền kinh tế rất đáng lo ngại"
+            },
+            {
+              "full_en": "The economies of Japan and China",
+              "full_vn": "Các nền kinh tế Nhật Bản và Trung Quốc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685694_d63bf1f936_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685694_8b079838e3_o.png",
+      "id_image": "economy_1924403"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445543_11c66ed784_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445543_836fce953e_o.png",
+      "id_image": "economy_2390275"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330531_1eea077be9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330531_de7af08e77_o.png",
+      "id_image": "economy_6203099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375202_25e5aecd6c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375202_812d044de2_o.png",
+      "id_image": "economy_6203187"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375132_1213dffdb3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375132_c0aed806ea_o.png",
+      "id_image": "economy_6203291"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "distinction",
+  "phat_am": "[dis'tiηk∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( distinction between A and B ) sự khác biệt hoặc tương phản giữa người/vật này với người/vật kia",
+          "list_en_vn": [
+            {
+              "full_en": "he drew a quite artificial distinction between men and women readers",
+              "full_vn": "anh ta vạch ra sự khác biệt hoàn toàn giả tạo giữa độc giả nam và nữ"
+            },
+            {
+              "full_en": "without distinction of rank , age",
+              "full_vn": "không phân biệt cấp bậc, tuổi tác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nét đặc biệt; nét độc đáo",
+          "list_en_vn": [
+            {
+              "full_en": "to lack distinction",
+              "full_vn": "thiếu màu sắc riêng, thiếu độc đáo"
+            },
+            {
+              "full_en": "distinctions of birth and wealth",
+              "full_vn": "những nét đặc biệt về dòng dõi và tài sản"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "biểu hiện danh dự; tước hiệu; danh hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "an academic distinction",
+              "full_vn": "danh hiệu học thuật; học vị"
+            },
+            {
+              "full_en": "to win a distinction for bravery",
+              "full_vn": "được thưởng huân chương vì lòng dũng cảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự ưu tú; sự xuất chúng; sự lỗi lạc",
+          "list_en_vn": [
+            {
+              "full_en": "men of distinction",
+              "full_vn": "những người lỗi lạc"
+            },
+            {
+              "full_en": "a novel , work of distinction",
+              "full_vn": "tiểu thuyết, công trình xuất sắc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314286_370333bf26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314286_8728a22a8f_o.png",
+      "id_image": "distinction_1701672"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050895_84d4397b67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050895_bd79628097_o.png",
+      "id_image": "distinction_1701673"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050860_0f9c1474bd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050860_879a53188d_o.png",
+      "id_image": "distinction_2311645"
+    }
+  ]
+}

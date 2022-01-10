@@ -1,0 +1,485 @@
+{
+  "english": "lose",
+  "phat_am": "[lu:z]",
+  "list_type": [
+    {
+      "type": "ngoại động từ ( lost )",
+      "list_m": [
+        {
+          "m_full_vn": "mất, không còn nữa",
+          "list_en_vn": [
+            {
+              "full_en": "to lose one's head",
+              "full_vn": "mất đầu; mất bình tĩnh, bối rối"
+            },
+            {
+              "full_en": "to lose one's life in the resistance",
+              "full_vn": "hy sinh trong kháng chiến"
+            },
+            {
+              "full_en": "the doctor loses his patient",
+              "full_vn": "bác sĩ mất khách; bác sĩ không cứu sống được người bệnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không tìm thấy được; không lấy được hoặc không bắt được; mất; thất lạc",
+          "list_en_vn": [
+            {
+              "full_en": "I've lost my keys",
+              "full_vn": "Tôi đã đánh mất chùm chìa khoá"
+            },
+            {
+              "full_en": "The books seem to be lost /to have got lost",
+              "full_vn": "mấy quyển sách hình như lạc mất rồi"
+            },
+            {
+              "full_en": "she lost her husband in the crowd",
+              "full_vn": "bà ta lạc mất chồng trong đám đông"
+            },
+            {
+              "full_en": "his words were lost in the applause",
+              "full_vn": "những lời nói của ông ta bị tiếng vỗ tay át đi"
+            },
+            {
+              "full_en": "to be lost in the thick woods",
+              "full_vn": "bị lạc trong rừng rậm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ lỡ, bỏ uổng, bỏ qua",
+          "list_en_vn": [
+            {
+              "full_en": "to lose an opportunity",
+              "full_vn": "lỡ cơ hội"
+            },
+            {
+              "full_en": "to lose one's train",
+              "full_vn": "lỡ chuyến xe lửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thua, bại",
+          "list_en_vn": [
+            {
+              "full_en": "to lose a lawsuit",
+              "full_vn": "thua kiện"
+            },
+            {
+              "full_en": "to lose a battle",
+              "full_vn": "thua trận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "uổng phí, bỏ phí",
+          "list_en_vn": [
+            {
+              "full_en": "to lose time in gambling",
+              "full_vn": "bỏ phí thì giờ vào quân bài lá bạc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm hại, làm mất, làm hư",
+          "list_en_vn": [
+            {
+              "full_en": "that might lose him his job",
+              "full_vn": "cái đó có thể làm cho nó mất công ăn việc làm"
+            },
+            {
+              "full_en": "the ship was lost with all hands on board",
+              "full_vn": "con tàu bị đắm với tất cả thuỷ thủ ở trên boong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chậm (đồng hồ)",
+          "list_en_vn": [
+            {
+              "full_en": "the watch loses about two minutes a day",
+              "full_vn": "đồng hồ chạy chậm chừng hai phút mỗi ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( dạng bị động) mê man, say sưa, chìm đắm",
+          "list_en_vn": [
+            {
+              "full_en": "to be lost in meditation",
+              "full_vn": "trầm ngâm, chìm đắm trong suy nghĩ"
+            },
+            {
+              "full_en": "to be lost to all sense of duty",
+              "full_vn": "không còn một chút ý thức trách nhiệm nào"
+            },
+            {
+              "full_en": "the beauty of the poem is lost upon them",
+              "full_vn": "chúng nó không thể nào thưởng thức nổi cái đẹp của bài thơ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mất; mất ý nghĩa, mất hay",
+          "list_en_vn": [
+            {
+              "full_en": "Ho-Xuan-Huong's poems lose much in the translation",
+              "full_vn": "thơ Hồ Xuân Hương dịch ra bị mất hay đi nhiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chậm (đồng hồ)"
+        },
+        {
+          "m_full_vn": "thất bại, thua, thua lỗ",
+          "list_one_mean": [
+            {
+              "id_full_en": "they lost and we won",
+              "list_im": [
+                {
+                  "im_full_vn": "chúng nó thua và ta thắng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose ground",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) ground"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose heart (courage )",
+              "list_im": [
+                {
+                  "im_full_vn": "mất hết can đảm, mất hết hăng hái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose sleep over something",
+              "list_im": [
+                {
+                  "im_full_vn": "lo nghĩ mất ngủ về cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "lạc đường, lạc lối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's temper",
+              "list_im": [
+                {
+                  "im_full_vn": "mất bình tĩnh, nổi nóng, cáu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's reckoning",
+              "list_im": [
+                {
+                  "im_full_vn": "rối trí, hoang mang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose self-control",
+              "list_im": [
+                {
+                  "im_full_vn": "mất bình tĩnh, mất tự chủ, nóng nảy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's way",
+              "list_im": [
+                {
+                  "im_full_vn": "lạc đường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "lost soul",
+              "list_im": [
+                {
+                  "im_full_vn": "một tâm hồn sa đoạ, một tâm hồn tội lỗi không hòng gì cứu chữa được nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get lost",
+              "list_im": [
+                {
+                  "im_full_vn": "cút xéo, chuồn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give sb up for lost",
+              "list_im": [
+                {
+                  "im_full_vn": "coi ai như đã chết rồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make up for lost time",
+              "list_im": [
+                {
+                  "im_full_vn": "bù lại thời gian đã mất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "all is not lost",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa phải là tiêu tùng hết, chưa phải là tuyệt vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight a losing battle",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh một trận mà biết chắc là sẽ thua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose favour in sb's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "mất sự đồng tình của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's voice",
+              "list_im": [
+                {
+                  "im_full_vn": "không có khả năng diễn đạt ý kiến của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "heads I win , tails you lose",
+              "list_im": [
+                {
+                  "im_full_vn": "trước sau gì tôi cũng thắng, phần thắng chắc chắn nằm trong tay tôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's balance",
+              "list_im": [
+                {
+                  "im_full_vn": "mất thăng bằng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose track of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "không nắm vững điều gì, không có đủ thông tin về điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose all reason",
+              "list_im": [
+                {
+                  "im_full_vn": "cạn lý lẽ, đuối lý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's breath",
+              "list_im": [
+                {
+                  "im_full_vn": "thở hổn hển"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose face",
+              "list_im": [
+                {
+                  "im_full_vn": "mất mặt, mất thể diện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's grip on sth",
+              "list_im": [
+                {
+                  "im_full_vn": "không kiểm soát được cái gì, mất khả năng điều khiển cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's heart to sb",
+              "list_im": [
+                {
+                  "im_full_vn": "yêu ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's marbles",
+              "list_im": [
+                {
+                  "im_full_vn": "điên tiết, nổi cơn tam bành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's place",
+              "list_im": [
+                {
+                  "im_full_vn": "không tìm thấy chỗ mình đang đọc trong cuốn sách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's seat",
+              "list_im": [
+                {
+                  "im_full_vn": "mất chức, mất ghế (nghĩa bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's shirt",
+              "list_im": [
+                {
+                  "im_full_vn": "sạt nghiệp, tán gia bại sản"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose sight of sb /sth",
+              "list_im": [
+                {
+                  "im_full_vn": "không còn nhìn thấy ai/cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose the thread",
+              "list_im": [
+                {
+                  "im_full_vn": "mất mạch lạc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose one's touch",
+              "list_im": [
+                {
+                  "im_full_vn": "không còn những lợi thế như trước đây"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose touch with sb",
+              "list_im": [
+                {
+                  "im_full_vn": "mất liên lạc với ai, đứt liên lạc với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose weight",
+              "list_im": [
+                {
+                  "im_full_vn": "gầy đi, sụt cân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose by a neck",
+              "list_im": [
+                {
+                  "im_full_vn": "thua sát nút"
+                }
+              ]
+            },
+            {
+              "id_full_en": "win or lose",
+              "list_im": [
+                {
+                  "im_full_vn": "dù thắng hay bại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "win or lose , it should be a very good match",
+                      "full_vn": "dù thắng hay bại, đó vẫn sẽ là một trận đấu rất hay"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a losing battle",
+              "list_im": [
+                {
+                  "im_full_vn": "trận đánh biết chắc là sẽ thua"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit a losing streak",
+              "list_im": [
+                {
+                  "im_full_vn": "xui xẻo, gặp vận đen"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose the toss",
+              "list_im": [
+                {
+                  "im_full_vn": "đoán sai vị trí đồng tiền (sấp hay ngửa)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the enemy had lost heavily",
+              "full_vn": "kẻ địch bị thất bại nặng nề"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335351_a01bcec6ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335351_b9a27ce70c_o.png",
+      "id_image": "lose_4372342"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380387_67e31b3db0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380387_54140e4fdd_o.png",
+      "id_image": "lose_6329133"
+    }
+  ]
+}

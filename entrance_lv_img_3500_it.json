@@ -1,0 +1,97 @@
+{
+  "english": "entrance",
+  "phat_am": "['entrəns]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( entrance into / onto something ) sự đến hoặc đi vào",
+          "list_en_vn": [
+            {
+              "full_en": "the hero makes his entrance (on stage ) in Act 2",
+              "full_vn": "nhân vật chính bước ra (sân khấu) ở Màn 2"
+            },
+            {
+              "full_en": "an actress must learn her entrances and exits",
+              "full_vn": "nữ diễn viên phải học thuộc khi nào vào khi nào ra (sân khấu)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( entrance to something ) cổng vào, lối vào",
+          "list_en_vn": [
+            {
+              "full_en": "The Prime Minister's entrance into office",
+              "full_vn": "lối vào văn phòng của thủ tướng"
+            },
+            {
+              "full_en": "where's the entrance to the cave ?",
+              "full_vn": "lối vào hang ở chỗ nào?"
+            },
+            {
+              "full_en": "there is a back and a front entrance to the house",
+              "full_vn": "có lối vào ở đằng sau và đằng trước nhà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( entrance to something ) quyền gia nhập; sự kết nạp",
+          "list_en_vn": [
+            {
+              "full_en": "they were refused entrance to club",
+              "full_vn": "họ không được kết nạp vào câu lạc bộ"
+            },
+            {
+              "full_en": "a university entrance examination",
+              "full_vn": "kỳ thi vào đại học"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to entrance somebody by / with something ) làm cho ai tràn ngập xúc động và thích thú như thể bị mê hoặc",
+          "list_en_vn": [
+            {
+              "full_en": "entranced at the beautiful sight",
+              "full_vn": "bị mê mẩn bởi cảnh đẹp"
+            },
+            {
+              "full_en": "they were completely entranced by /with the music",
+              "full_vn": "họ hoàn toàn bị âm nhạc mê hoặc"
+            },
+            {
+              "full_en": "we sat entranced by her beauty",
+              "full_vn": "chúng tôi ngồi mê mẩn trước vẻ đẹp của cô ta"
+            },
+            {
+              "full_en": "to entrance someone to his destruction",
+              "full_vn": "mê hoặc ai đến chỗ làm cho người ta bị thất cơ lỡ vận"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433103_41fecc8b6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433103_9d18e122bb_o.png",
+      "id_image": "entrance_2394551"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672714_411f4fb8d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672714_1af8b0549c_o.png",
+      "id_image": "entrance_2858870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054550_295bcef1b7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054550_d030214ba0_o.png",
+      "id_image": "entrance_493461"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "english": "fancy",
+  "phat_am": "['fænsi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sức tưởng tượng",
+          "list_en_vn": [
+            {
+              "full_en": "the novelist's fancy",
+              "full_vn": "sức tưởng tượng của nhà viết tiểu thuyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái được tưởng tượng",
+          "list_en_vn": [
+            {
+              "full_en": "Did I really hear someone come in , or was it only a fancy ?",
+              "full_vn": "Có thật tôi nghe thấy ai đó đi vào hay chỉ là tưởng tượng?"
+            },
+            {
+              "full_en": "I've a fancy that he'll be late",
+              "full_vn": "tôi thoáng nghĩ rằng nó sẽ đến muộn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( fancy for something ) sự mê thích nhất thời",
+          "list_en_vn": [
+            {
+              "full_en": "I've a fancy for some wine tonight",
+              "full_vn": "tối nay tôi thích uống một tí rượu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( fancies ) bánh ngọt nhỏ có trang trí trên bề mặt"
+        },
+        {
+          "m_full_vn": "( the fancy ) những người hâm mộ (một môn thể thao gì); những người thích (một thú riêng gì); những người hâm mộ quyền Anh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to catch /take somebody's fancy",
+              "list_im": [
+                {
+                  "im_full_vn": "lôi cuốn; thu hút"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a flight of fancy",
+              "list_im": [
+                {
+                  "im_full_vn": "xem flight"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a fancy to somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "yêu thích ai/cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngon; làm cho vui mắt",
+          "list_en_vn": [
+            {
+              "full_en": "fancy cakes",
+              "full_vn": "bánh ngon"
+            },
+            {
+              "full_en": "fancy goods",
+              "full_vn": "hàng hoá có trang trí đẹp"
+            },
+            {
+              "full_en": "fancy vegetables",
+              "full_vn": "rau ngon"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khác thường; lạ lùng",
+          "list_en_vn": [
+            {
+              "full_en": "that's a very fancy pair of shoes !",
+              "full_vn": "quả là một đôi giày dị thường!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngông cuồng; quá đáng",
+          "list_en_vn": [
+            {
+              "full_en": "at a fancy price",
+              "full_vn": "với giá cắt cổ"
+            },
+            {
+              "full_en": "fancy ideas",
+              "full_vn": "những ý nghĩ ngông cuồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nói về súc vật) để làm cảnh; kiểng",
+          "list_en_vn": [
+            {
+              "full_en": "fancy dogs , pigeons",
+              "full_vn": "chó kiểng, bồ câu cảnh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tưởng tượng, cho rằng, nghĩ rằng",
+          "list_en_vn": [
+            {
+              "full_en": "I fancy (that ) it's going to rain today",
+              "full_vn": "tôi cho rằng hôm nay trời sẽ mưa"
+            },
+            {
+              "full_en": "he fancies she likes him",
+              "full_vn": "nó tưởng rằng cô ấy thích nó"
+            },
+            {
+              "full_en": "he fancied he heard footsteps behind him",
+              "full_vn": "anh ta tưởng tượng nghe thấy có tiếng bước chân sau mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mong ước; muốn",
+          "list_en_vn": [
+            {
+              "full_en": "I fancy a cup of tea",
+              "full_vn": "tôi muốn uống một chén trà"
+            },
+            {
+              "full_en": "what do you fancy for supper ?",
+              "full_vn": "bữa tối anh thích ăn gì?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mến, thích",
+          "list_en_vn": [
+            {
+              "full_en": "he rather fancies her",
+              "full_vn": "anh ta khá mê cô ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ở thể mệnh lệnh, biểu lộ sự kinh ngạc, sửng sốt....)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fancy oneself as something",
+              "list_im": [
+                {
+                  "im_full_vn": "tự cho mình là cái gì; tự xem mình là cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "fancy that !",
+              "full_vn": "quái lạ thật!"
+            },
+            {
+              "full_en": "just fancy !",
+              "full_vn": "quái lạ thật!"
+            },
+            {
+              "full_en": "fancy her being so rude !",
+              "full_vn": "sao mà cô ta bất lịch sự quá vậy!"
+            },
+            {
+              "full_en": "fancy never having seen the sea !",
+              "full_vn": "chưa bao giờ thấy biển, nghe sao lạ tai quá!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073275_a26898ee0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073275_a3d3e5dabd_o.png",
+      "id_image": "fancy_1808016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381317_cc8fee49d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381317_2978d7ce33_o.png",
+      "id_image": "fancy_1808026"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "english": "laugh",
+  "phat_am": "[lɑ:f]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng cười",
+          "list_en_vn": [
+            {
+              "full_en": "to break /burst into a laugh",
+              "full_vn": "cười phá lên"
+            },
+            {
+              "full_en": "to utter a laugh",
+              "full_vn": "thốt ra tiếng cười"
+            },
+            {
+              "full_en": "to recognize somebody by his raucous , penetrating laugh",
+              "full_vn": "nhận ra ai qua tiếng cười khàn khàn, the thé của anh ta"
+            },
+            {
+              "full_en": "to have a good laugh at somebody",
+              "full_vn": "được cười ai một trận thoả thích"
+            },
+            {
+              "full_en": "to have (get ) the laugh of (at , on ) somebody ; to have (get ) the laugh on someone's side",
+              "full_vn": "cười lại ai; (nghĩa bóng) quật lại ai"
+            },
+            {
+              "full_en": "to force a laugh",
+              "full_vn": "gượng cười"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự việc buồn cười; người đáng để buồn cười",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have the last laugh",
+              "list_im": [
+                {
+                  "im_full_vn": "cuối cùng vẫn thắng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to raise a laugh /smile",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho mọi người bật cười"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cười",
+          "list_one_mean": [
+            {
+              "id_full_en": "to laugh at somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "tỏ ra thích thú, cười",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to laugh at a comedian /joke",
+                      "full_vn": "cười một diễn viên/câu nói đùa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh at somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "cười nhạo; chế giễu; coi thường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "everyone laughed at me when I said I believed in ghosts",
+                      "full_vn": "ai cũng cười tôi khi tôi rằng tôi tin là có ma"
+                    },
+                    {
+                      "full_en": "to laugh at danger",
+                      "full_vn": "coi thường hiểm nguy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh at one's creditor",
+              "list_im": [
+                {
+                  "im_full_vn": "quỵt nợ; xù nợ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh something away",
+              "list_im": [
+                {
+                  "im_full_vn": "cười để xua đuổi, cười để gạt bỏ (cái gì)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to laugh away one's fear and anxiety",
+                      "full_vn": "cười để xua đuổi những nỗi lo âu sợ hãi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh somebody /something down",
+              "list_im": [
+                {
+                  "im_full_vn": "cười át đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to laugh down a speaker",
+                      "full_vn": "cười át lời một diễn giả"
+                    },
+                    {
+                      "full_en": "to laugh down a proposal",
+                      "full_vn": "cười át đi một lời đề nghị"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh off",
+              "list_im": [
+                {
+                  "im_full_vn": "cười tỏ ra không quan tâm đến cái gì; cười xoà; cười trừ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "an actor has to learn to laugh off bad reviews",
+                      "full_vn": "diễn viên phải biết cười xoà trước những lời chỉ trích xấu xa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh somebody out of something",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai cười mà quên đi chuyện của họ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he said she was in a bad mood , then tried to laugh her out of it",
+                      "full_vn": "anh ta nói rằng cô ta đang bực bội, rồi cố làm cho cô ta cười mà quên đi chuyện bực bội đó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh in someone's face",
+              "list_im": [
+                {
+                  "im_full_vn": "cười vào mặt ai, chế diễu ai, chế nhạo ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh in /up one's sleeve",
+              "list_im": [
+                {
+                  "im_full_vn": "cười thầm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh up one's sleeve at somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "cười thầm ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she knew the truth all along and was laughing up her sleeve at us",
+                      "full_vn": "ngay từ đầu cô ta đã biết sự thật và đã cười thầm chúng ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh on the wrong side of one's mouth (face )",
+              "list_im": [
+                {
+                  "im_full_vn": "đang vui trở nên buồn, đang cười lại mếu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh somebody out of court",
+              "list_im": [
+                {
+                  "im_full_vn": "bêu riếu ai để mọi người cười làm cho toà không còn nghe được người ấy khai nữa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "their allegations were simply laughed out of court",
+                      "full_vn": "những luận điệu của họ bị bêu riếu một cách khinh bỉ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh somebody /something to scorn",
+              "list_im": [
+                {
+                  "im_full_vn": "cười nhạo; chế giễu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh somebody out of some habit",
+              "list_im": [
+                {
+                  "im_full_vn": "cười người nào để cho bỏ một thói gì đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "he laughs best who laughts last ; he who laughs last laughs longest",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) cười người chớ khá cười lâu, cười người hôm trước hôm sau người cười"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to laugh aloud /out loud ; to laugh like a drain",
+              "full_vn": "cười ầm lên"
+            },
+            {
+              "full_en": "he's so funny - he always makes me laugh",
+              "full_vn": "nó rất khôi hài - nó luôn làm tôi buồn cười"
+            },
+            {
+              "full_en": "stop laughing ! I decided to teach myself French",
+              "full_vn": "đừng cười nữa! tôi đã quyết định tự học tiếng Pháp"
+            },
+            {
+              "full_en": "a man who laughs in the face of danger",
+              "full_vn": "một người cười trước nỗi hiểm nguy"
+            },
+            {
+              "full_en": "to laugh oneself into fits (convulsions )",
+              "full_vn": "cười đau cả bụng"
+            },
+            {
+              "full_en": "to burst out laughing",
+              "full_vn": "cười phá lên"
+            },
+            {
+              "full_en": "to laugh a bitter laugh",
+              "full_vn": "cười cái cười chua chát"
+            },
+            {
+              "full_en": "to laugh oneself helpless",
+              "full_vn": "cười phát sặc lên, cười phát ho lên"
+            },
+            {
+              "full_en": "to laugh oneself silly /sick",
+              "full_vn": "cười đến phát rồ/ốm"
+            },
+            {
+              "full_en": "to laugh till /until one cries",
+              "full_vn": "cười đến nỗi chảy nước mắt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056235_71f661fdbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056235_bd0a5b9f52_o.png",
+      "id_image": "laugh_1464026"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319641_cea4177606_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319641_b325319d3b_o.png",
+      "id_image": "laugh_1464042"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364307_a0e05a7496_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364307_a90f239a8e_o.png",
+      "id_image": "laugh_3561590"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056115_e61c29754b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056115_0f3d9ff5ca_o.png",
+      "id_image": "laugh_3632583"
+    }
+  ]
+}

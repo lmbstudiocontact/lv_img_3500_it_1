@@ -1,0 +1,290 @@
+{
+  "english": "low",
+  "phat_am": "[lou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng rống (trâu bò)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "rống (trâu bò)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mức thấp, con số thấp"
+        },
+        {
+          "m_full_vn": "số thấp nhất (ô tô)",
+          "list_en_vn": [
+            {
+              "full_en": "to put a car in low",
+              "full_vn": "gài số một"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "con bài thấp nhất"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) tỷ số thấp nhất"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thấp, bé, lùn",
+          "list_en_vn": [
+            {
+              "full_en": "a man of low stature",
+              "full_vn": "người thấp bé"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thấp, cạn",
+          "list_en_vn": [
+            {
+              "full_en": "at low water",
+              "full_vn": "lúc triều xuống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thấp bé, nhỏ",
+          "list_en_vn": [
+            {
+              "full_en": "a low voice",
+              "full_vn": "tiếng nói khẽ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thấp, hạ, kém, chậm",
+          "list_en_vn": [
+            {
+              "full_en": "to sell at low price",
+              "full_vn": "bán giá hạ"
+            },
+            {
+              "full_en": "to get low wages",
+              "full_vn": "được lương thấp"
+            },
+            {
+              "full_en": "low temperature",
+              "full_vn": "nhiệt độ thấp"
+            },
+            {
+              "full_en": "low speed",
+              "full_vn": "tốc độ chậm"
+            },
+            {
+              "full_en": "to have a low opinion of somebody",
+              "full_vn": "không trọng ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thấp hèn, ở bậc dưới; tầm thường, ti tiện, hèn mọn",
+          "list_en_vn": [
+            {
+              "full_en": "all sorts of people , high and low",
+              "full_vn": "tất cả mọi hạng người, từ kẻ sang cho đến người hèn"
+            },
+            {
+              "full_en": "a low fellow",
+              "full_vn": "một kẻ đê hèn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yếu, suy nhược, kém ăn, không bổ",
+          "list_en_vn": [
+            {
+              "full_en": "to be in a low state of health",
+              "full_vn": "trong tình trạng sức khoẻ suy nhược"
+            },
+            {
+              "full_en": "to be in low spirits",
+              "full_vn": "buồn rầu, chán nản"
+            },
+            {
+              "full_en": "low diet",
+              "full_vn": "chế độ ăn kém (không đủ bổ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(địa lý,địa chất) hạ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in low water",
+              "list_im": [
+                {
+                  "im_full_vn": "cạn tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Low Countries",
+              "list_im": [
+                {
+                  "im_full_vn": "Hà Lan"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at a low ebb",
+              "list_im": [
+                {
+                  "im_full_vn": "sa sút, xuống dốc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be low on sth",
+              "list_im": [
+                {
+                  "im_full_vn": "gần cạn kiệt cái gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Low Laos",
+              "full_vn": "hạ Lào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thấp",
+          "list_en_vn": [
+            {
+              "full_en": "to bow very low",
+              "full_vn": "cúi thấp xuống mà chào, cúi rạp xuống mà chào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thấp, khẽ, nhỏ (tiếng nói)",
+          "list_en_vn": [
+            {
+              "full_en": "to speak low",
+              "full_vn": "nói nhỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thấp hèn, suy đồi, sa đoạ",
+          "list_en_vn": [
+            {
+              "full_en": "to fall very low",
+              "full_vn": "sa đoạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ở mức thấp, rẻ, hạ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bring low",
+              "list_im": [
+                {
+                  "im_full_vn": "làm sa sút, làm suy vi, làm suy nhược"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay low",
+              "list_im": [
+                {
+                  "im_full_vn": "hạ gục, hạ đo ván"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie low",
+              "list_im": [
+                {
+                  "im_full_vn": "nằm bẹp, nằm ẹp xuống; chết"
+                },
+                {
+                  "im_full_vn": "nằm yên, không hoạt động gì, đợi cơ hội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be laid low",
+              "list_im": [
+                {
+                  "im_full_vn": "bị đánh gục, bị đánh chết; bị ốm liệt giường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play low",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh nhỏ (đánh cược, đánh cá)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stoop so low as to do sth",
+              "list_im": [
+                {
+                  "im_full_vn": "hạ mình làm điều gì"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to sell low",
+              "full_vn": "bán hạ giá, bán rẻ"
+            },
+            {
+              "full_en": "to live low",
+              "full_vn": "sống ở mức thấp, sống nghèo nàn, ăn uống thiếu thốn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070770_09c38436f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070770_98bb743726_o.png",
+      "id_image": "low_3103546"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070735_58c120021c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070735_effb62e2cc_o.png",
+      "id_image": "low_5692344"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070685_c0e943377d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070685_4d2764aa3f_o.png",
+      "id_image": "low_6418233"
+    }
+  ]
+}

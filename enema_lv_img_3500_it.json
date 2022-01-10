@@ -1,0 +1,35 @@
+{
+  "english": "enema",
+  "phat_am": "['enimə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(y học) sự dùng xơ-ranh bơm chất lỏng vào ruột (ví dụ để thụt sạch phân trước khi (giải phẫu)); sự thụt",
+          "list_en_vn": [
+            {
+              "full_en": "to give a patient an enema",
+              "full_vn": "bơm thụt ruột bệnh nhân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chất lỏng dùng để thụt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319976_a834dec2b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319976_c49a12ffa4_o.png",
+      "id_image": "enema_205950"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319931_1c6e22dbd7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319931_2fd01fcde5_o.png",
+      "id_image": "enema_866789"
+    }
+  ]
+}

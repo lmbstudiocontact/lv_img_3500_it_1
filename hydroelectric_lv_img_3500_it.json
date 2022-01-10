@@ -1,0 +1,27 @@
+{
+  "english": "hydroelectric",
+  "phat_am": "[,haidroui'lektrik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thuỷ điện",
+          "list_en_vn": [
+            {
+              "full_en": "a hydroelectric dam",
+              "full_vn": "đập thuỷ điện"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062660_c952385601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062660_10466bb444_o.png",
+      "id_image": "hydroelectric_5762583"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "english": "handle",
+  "phat_am": "['hændl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cán, tay cầm, móc quai",
+          "list_en_vn": [
+            {
+              "full_en": "to carry a bucket by the handle",
+              "full_vn": "xách thùng ở quai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) điểm người ta có thể lợi dụng được",
+          "list_en_vn": [
+            {
+              "full_en": "to give a handle to one's enemy",
+              "full_vn": "làm gì để cho kẻ thù có thể lợi dụng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chức tước, danh hiệu",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fly off the handle",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) mất bình tĩnh, không tự chủ được nữa, thình lình nổi nóng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "handle off the face",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) cái mũi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "up to the handle",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) hoàn toàn, đầy đủ, hết sức",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to enjoy something up to the handle",
+                      "full_vn": "hết sức vui thích về cái gì"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have a handle to one's name",
+              "full_vn": "có chức tước"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cầm, sờ mó"
+        },
+        {
+          "m_full_vn": "vận dụng, sử dụng, điều khiển (bằng tay)",
+          "list_en_vn": [
+            {
+              "full_en": "to handle a machine",
+              "full_vn": "điều khiển máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đối xử, đối đãi",
+          "list_en_vn": [
+            {
+              "full_en": "to handle someone roughly",
+              "full_vn": "đối xử thô bạo với ai, ngược đãi ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "luận giải, nghiên cứu, bàn về (một vấn đề)"
+        },
+        {
+          "m_full_vn": "quản lý, xử lý; chỉ huy, điều khiển (công việc, người...)"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) buôn bán (một số mặt hàng...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391002_3ca1c889ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391002_7ab23873a4_o.png",
+      "id_image": "handle_1035489"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701014_d99e2e05e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701014_ea6ce2a0e7_o.png",
+      "id_image": "handle_1678211"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390922_525a60cc80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390922_aca21e2acb_o.png",
+      "id_image": "handle_2855725"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700969_be978c0096_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700969_434b2e8dea_o.png",
+      "id_image": "handle_6344536"
+    }
+  ]
+}

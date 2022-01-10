@@ -1,0 +1,85 @@
+{
+  "english": "lecture",
+  "phat_am": "['lekt∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( lecture on something ) bài nói chuyện về một đề tài nào đó (thường) là một phần trong chương trình giảng dạy; bài diễn thuyết; bài thuyết trình",
+          "list_en_vn": [
+            {
+              "full_en": "to give /deliver /read a lecture",
+              "full_vn": "trình bày/đọc bài thuyết trình"
+            },
+            {
+              "full_en": "a course of lectures on Chinese literature",
+              "full_vn": "một khoá giảng về văn học Trung Quốc"
+            },
+            {
+              "full_en": "a lecture tour",
+              "full_vn": "một chuyến đi giảng bài ở nhiều nơi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự la mắng; sự quở trách",
+          "list_en_vn": [
+            {
+              "full_en": "to give someone a lecture",
+              "full_vn": "quở trách ai; lên lớp ai"
+            },
+            {
+              "full_en": "the policeman let me off with a lecture about speeding",
+              "full_vn": "ông cảnh sát thả cho tôi đi sau một hồi lên lớp về việc chạy xe quá tốc độ quy định"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to lecture on something ) giảng, diễn thuyết, thuyết trình",
+          "list_en_vn": [
+            {
+              "full_en": "Mrs X lectures on civil law",
+              "full_vn": "bà X giảng về luật dân sự"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to lecture somebody for / about something ) quở trách ai về điều gì; lên lớp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347451_47fe96634e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347451_5ee1729867_o.png",
+      "id_image": "lecture_288063"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462183_85f0e795e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462183_d44eb85187_o.png",
+      "id_image": "lecture_3319587"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347361_74b63e61ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347361_e5f89c088a_o.png",
+      "id_image": "lecture_3612048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809347341_a88d438653_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809347341_ff5bcf7aee_o.png",
+      "id_image": "lecture_5299764"
+    }
+  ]
+}

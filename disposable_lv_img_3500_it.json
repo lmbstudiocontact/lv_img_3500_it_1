@@ -1,0 +1,45 @@
+{
+  "english": "disposable",
+  "phat_am": "[dis'pouzəbl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm ra để vứt đi sau khi dùng; dùng một lần",
+          "list_en_vn": [
+            {
+              "full_en": "disposable plate /syringe",
+              "full_vn": "đĩa/ống tiêm dùng một lần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sẵn có để dùng",
+          "list_en_vn": [
+            {
+              "full_en": "disposable resources",
+              "full_vn": "tài nguyên có sẵn"
+            },
+            {
+              "full_en": "disposable income",
+              "full_vn": "thu nhập còn lại sau khi nộp thuế và đóng bảo phí"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669814_4ed9484136_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669814_755eb8c427_o.png",
+      "id_image": "disposable_1658242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359287_70acbf3d66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359287_294fc19e7c_o.png",
+      "id_image": "disposable_1676711"
+    }
+  ]
+}

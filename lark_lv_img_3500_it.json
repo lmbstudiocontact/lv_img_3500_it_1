@@ -1,0 +1,71 @@
+{
+  "english": "lark",
+  "phat_am": "['lævərək]",
+  "list_type": [
+    {
+      "type": "danh từ (thơ ca) laverock",
+      "list_m": [
+        {
+          "m_full_vn": "chim chiền chiện",
+          "list_one_mean": [
+            {
+              "id_full_en": "to rise with the lark",
+              "list_im": [
+                {
+                  "im_full_vn": "dậy sớm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "if the sky falls , we shall catch larks",
+              "list_im": [
+                {
+                  "im_full_vn": "nếu rủi ra có chuyện không may thì trong đó ắt cũng có cái hay; không hơi đâu mà lo chuyện trời đổ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vui đùa; trò đùa nghịch, trò bông đùa",
+          "list_en_vn": [
+            {
+              "full_en": "to have a lark",
+              "full_vn": "vui đùa"
+            },
+            {
+              "full_en": "what a lark !",
+              "full_vn": "vui nhỉ!, hay nhỉ!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vui đùa, đùa nghịch, bông đùa",
+          "list_en_vn": [
+            {
+              "full_en": "stop larking about",
+              "full_vn": "đừng đùa nghịch nữa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057020_d95da50854_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057020_f3803de5c4_o.png",
+      "id_image": "lark_2816743"
+    }
+  ]
+}

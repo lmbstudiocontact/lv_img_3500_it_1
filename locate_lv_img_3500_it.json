@@ -1,0 +1,64 @@
+{
+  "english": "locate",
+  "phat_am": "[lou'keit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "xác định vị trí, định vị",
+          "list_en_vn": [
+            {
+              "full_en": "to locate a fire",
+              "full_vn": "xác định nơi xảy ra đám cháy"
+            },
+            {
+              "full_en": "to locate a nation on the map",
+              "full_vn": "xác định vị trí một quốc gia trên bản đồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt vào vị trí",
+          "list_en_vn": [
+            {
+              "full_en": "that joint-venture company will be located on the way to Danang",
+              "full_vn": "công ty liên doanh ấy sẽ nằm trên đường đi Đà nẵng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "có trụ sở ở, nằm ở",
+          "list_en_vn": [
+            {
+              "full_en": "the five-star hotel will locate on Thuy Van Beach",
+              "full_vn": "khách sạn năm sao sẽ nằm ở bãi biển Thùy Vân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453103_4ea8af134b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453103_5510e17178_o.png",
+      "id_image": "locate_1189843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383132_6724e42c53_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383132_b9f9c4f40f_o.png",
+      "id_image": "locate_2621941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693384_cfa881513e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693384_a7bc6c7e3a_o.png",
+      "id_image": "locate_5744745"
+    }
+  ]
+}

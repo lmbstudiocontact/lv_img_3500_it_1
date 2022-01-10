@@ -1,0 +1,50 @@
+{
+  "english": "grocery",
+  "phat_am": "['grousəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "việc buôn bán tạp phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "a grocery store",
+              "full_vn": "cửa hàng tạp phẩm, cửa hàng tạp hoá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cửa hàng tạp phẩm, cửa hàng tạp hoá"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365587_2f03f28da4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365587_017422bf5f_o.png",
+      "id_image": "grocery_1066092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675644_7fe81081cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675644_da0133bf1d_o.png",
+      "id_image": "grocery_1411524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365537_82c6787f18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365537_d61dde6cff_o.png",
+      "id_image": "grocery_1411534"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320686_c1fbcc359f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320686_fc21124c3d_o.png",
+      "id_image": "grocery_452680"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675589_5788c16d62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675589_65c46ec515_o.png",
+      "id_image": "grocery_6002211"
+    }
+  ]
+}

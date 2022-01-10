@@ -1,0 +1,37 @@
+{
+  "english": "donor",
+  "phat_am": "['dounə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cho, người tặng, người biếu; người quyên cúng",
+          "list_en_vn": [
+            {
+              "full_en": "donor of blood",
+              "full_vn": "người cho máu, người hiến máu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665114_f6c613c253_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665114_5ac4542cfd_o.png",
+      "id_image": "donor_1056565"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424928_847ff33b5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424928_1f0a7daec2_o.png",
+      "id_image": "donor_1075044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424898_4af67ae6f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424898_55818c14aa_o.png",
+      "id_image": "donor_1142105"
+    }
+  ]
+}

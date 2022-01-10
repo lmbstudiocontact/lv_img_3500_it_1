@@ -1,0 +1,41 @@
+{
+  "english": "essential",
+  "phat_am": "[i'sen∫əl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) bản chất, (thuộc) thực chất"
+        },
+        {
+          "m_full_vn": "cần thiết, thiết yếu, cốt yếu, chủ yếu"
+        },
+        {
+          "m_full_vn": "(thuộc) tinh chất, tinh",
+          "list_en_vn": [
+            {
+              "full_en": "essential oil",
+              "full_vn": "tinh dầu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "yếu tố cần thiết"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429873_4f11c9bb10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429873_56dbd50344_o.png",
+      "id_image": "essential_1499679"
+    }
+  ]
+}

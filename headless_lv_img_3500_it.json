@@ -1,0 +1,48 @@
+{
+  "english": "headless",
+  "phat_am": "['hedlis]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "không có đầu",
+          "list_en_vn": [
+            {
+              "full_en": "have you ever heard of the film \"The headless horseman \"?",
+              "full_vn": "bạn đã bao giờ nghe nói tới phim \" Kỵ sĩ không đầu\" ?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không có người cầm đầu, thiếu người cầm đầu, không có người lãnh đạo"
+        },
+        {
+          "m_full_vn": "thiếu suy nghĩ, ngông cuồng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456983_e218bcb74a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456983_a641c4181f_o.png",
+      "id_image": "headless_1089503"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456938_d8f3b5f763_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456938_00329855f2_o.png",
+      "id_image": "headless_2136664"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079500_c28a22b15f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079500_7a927ab428_o.png",
+      "id_image": "headless_2144219"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079475_864d053e81_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079475_a05c52772b_o.png",
+      "id_image": "headless_2463657"
+    }
+  ]
+}

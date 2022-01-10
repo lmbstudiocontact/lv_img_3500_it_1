@@ -1,0 +1,55 @@
+{
+  "english": "male",
+  "phat_am": "[meil]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trai, đực, trống",
+          "list_en_vn": [
+            {
+              "full_en": "male friend",
+              "full_vn": "bạn trai"
+            },
+            {
+              "full_en": "male dog",
+              "full_vn": "chó đực"
+            },
+            {
+              "full_en": "male pigeon",
+              "full_vn": "chim bồ câu trống"
+            },
+            {
+              "full_en": "male chauvinist",
+              "full_vn": "người đàn ông chống bình quyền nam nữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mạnh mẽ, trai tráng, cường tráng"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con trai, đàn ông; con đực, con trống"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442983_15f0fa00c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442983_4540f0dc60_o.png",
+      "id_image": "male_5983706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064585_fd7d107938_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064585_84965c2d93_o.png",
+      "id_image": "male_6314150"
+    }
+  ]
+}

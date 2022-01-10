@@ -1,0 +1,80 @@
+{
+  "english": "faith",
+  "phat_am": "[feiθ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tin tưởng, sự tin cậy",
+          "list_en_vn": [
+            {
+              "full_en": "to put one's faith upon something",
+              "full_vn": "tin tưởng vào cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "niềm tin"
+        },
+        {
+          "m_full_vn": "vật làm tin, vật bảo đảm",
+          "list_en_vn": [
+            {
+              "full_en": "on the faith of",
+              "full_vn": "tin vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời hứa, lời cam kết",
+          "list_en_vn": [
+            {
+              "full_en": "to pledge (give ) one's faith",
+              "full_vn": "hứa, cam kết"
+            },
+            {
+              "full_en": "to break (violate ) one's faith",
+              "full_vn": "không giữ lời hứa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự trung thành; lòng trung thành, lòng trung thực",
+          "list_en_vn": [
+            {
+              "full_en": "good faith",
+              "full_vn": "thiện ý"
+            },
+            {
+              "full_en": "bad faith",
+              "full_vn": "ý xấu, ý đồ lừa gạt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074280_b8eba9bc24_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074280_c3cdb76b3f_o.png",
+      "id_image": "faith_1783653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074260_94601326a7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074260_b6a8df149a_o.png",
+      "id_image": "faith_2849804"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382202_de93bb2a10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382202_17d58a6122_o.png",
+      "id_image": "faith_4118167"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074180_be0b4fd8be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074180_013e545127_o.png",
+      "id_image": "faith_6396814"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "english": "knee",
+  "phat_am": "[ni:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầu gối",
+          "list_en_vn": [
+            {
+              "full_en": "up to one's knee",
+              "full_vn": "đến tận đầu gối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ đầu gối quần",
+          "list_en_vn": [
+            {
+              "full_en": "the trousers bulge at the knees",
+              "full_vn": "quần phồng ra ở chỗ đầu gối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) khuỷu, khớp xoay"
+        },
+        {
+          "m_full_vn": "chân quỳ hình thước thợ ( (cũng) knee bracket ); thanh (sắt, gỗ) uốn gãy góc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to bend the knee to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "quỳ gối trước ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bow the knee before somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu phục tùng ai, chịu khuất phục trước người nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring someone to his knees",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt ai phải quỳ gối, bắt ai phải đầu hàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get off one's knees",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng dậy (sau khi quỳ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give (offer ) a knee to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp đỡ ai, phụ tá ai"
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) đỡ (một võ sĩ quyền Anh) cho quỳ xuống giữa hai hiệp đấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go on one's knees",
+              "list_im": [
+                {
+                  "im_full_vn": "quỳ gối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go on one's knees to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "quỳ gối trước ai, quỵ luỵ ai, van nài ai i"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on one's knees",
+              "list_im": [
+                {
+                  "im_full_vn": "quỳ gối, quỵ luỵ, van nài, hạ mìnhh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it is on the knees of the gods",
+              "list_im": [
+                {
+                  "im_full_vn": "còn chưa rõ, chưa biết, chưa chắc chắn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hích bằng đầu gối, đụng bằng đầu gối"
+        },
+        {
+          "m_full_vn": "làm chắc (khung...) bằng sắt thước thợ"
+        },
+        {
+          "m_full_vn": "(thông tục) làm phồng (quần) ở chỗ đầu gối"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325876_241b0d7bcd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325876_0dfc5e7220_o.png",
+      "id_image": "knee_2417976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325801_3911da8050_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325801_31b84fba27_o.png",
+      "id_image": "knee_5726993"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325766_d19cd6ef6e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325766_2a93792562_o.png",
+      "id_image": "knee_6147417"
+    }
+  ]
+}

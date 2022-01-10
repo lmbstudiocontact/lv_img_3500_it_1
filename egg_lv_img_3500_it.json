@@ -1,0 +1,179 @@
+{
+  "english": "egg",
+  "phat_am": "[eg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tế bào từ đó con non hình thành; trứng",
+          "list_en_vn": [
+            {
+              "full_en": "an addled egg",
+              "full_vn": "trứng ung"
+            },
+            {
+              "full_en": "the male sperm fertilizes the female egg",
+              "full_vn": "tinh dịch của con đực đã thụ tinh trứng của con cái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật thể hình ô van từ đó con non nở ra, được các loài chim, bò sát, sâu bọ.. đẻ ra và thường có vỏ mỏng, giòn",
+          "list_en_vn": [
+            {
+              "full_en": "the hen laid a large brown egg",
+              "full_vn": "con gà mái đẻ ra một quả trứng to màu nâu"
+            },
+            {
+              "full_en": "the blackbird's nest contained four eggs",
+              "full_vn": "tổ sáo có bốn quả trứng"
+            },
+            {
+              "full_en": "ant eggs",
+              "full_vn": "trứng kiến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(phần bên trong của) quả trứng, nhất là của gà, được dùng làm thức ăn",
+          "list_en_vn": [
+            {
+              "full_en": "you've got some egg on your shirt",
+              "full_vn": "có một ít trứng dính trên áo sơ mi của anh"
+            },
+            {
+              "full_en": "do you want a boiled egg for breakfast ?",
+              "full_vn": "anh có muốn điểm tâm với trứng luộc hay không?"
+            },
+            {
+              "full_en": "ducks' eggs",
+              "full_vn": "trứng vịt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) (tiếng lóng) bom; mìn; ngư lôi",
+          "list_one_mean": [
+            {
+              "id_full_en": "a curate's egg",
+              "list_im": [
+                {
+                  "im_full_vn": "cái có cả hai mặt tốt và xấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as full as an egg",
+              "list_im": [
+                {
+                  "im_full_vn": "chật ních, chật như nêm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as sure as egg is egg",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) sure"
+                }
+              ]
+            },
+            {
+              "id_full_en": "bad egg /lot",
+              "list_im": [
+                {
+                  "im_full_vn": "người bị coi là thiếu chân thực và không tin cậy được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have (put ) all one's eggs in one basket",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) một mất một còn, được ăn cả ngã về không"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the egg",
+              "list_im": [
+                {
+                  "im_full_vn": "trong trứng nước, trong giai đoạn phôi thai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to crash in the egg",
+                      "full_vn": "bóp chết ngay khi còn trong trứng nước"
+                    },
+                    {
+                      "full_en": "to lay an egg",
+                      "full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) thất bại hoàn toàn (cuộc biểu diễn...)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to teach one's grandmother to suck eggs",
+              "list_im": [
+                {
+                  "im_full_vn": "trứng lại đòi khôn hơn vịt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be left with egg on /all over one's face",
+              "list_im": [
+                {
+                  "im_full_vn": "tỏ vẻ ngớ ngẩn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kill the goose that lays the golden egg",
+              "list_im": [
+                {
+                  "im_full_vn": "tham lợi trước mắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make an omelette without breaking eggs",
+              "list_im": [
+                {
+                  "im_full_vn": "muốn đạt mục đích thì phải chịu gian nan tổn thất"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to lay eggs",
+              "full_vn": "đặt mìn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trộn trứng vào, đánh trứng vào"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682669_fe72e3023b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682669_ac2d89dd10_o.png",
+      "id_image": "egg_1461478"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682704_d3c7c07676_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682704_4349314b63_o.png",
+      "id_image": "egg_188924"
+    }
+  ]
+}

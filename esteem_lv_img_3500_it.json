@@ -1,0 +1,44 @@
+{
+  "english": "esteem",
+  "phat_am": "[is'ti:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kính mến, sự quý trọng",
+          "list_en_vn": [
+            {
+              "full_en": "to hold someone in high esteem",
+              "full_vn": "kính mến ai, quý trọng ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kính mến, quý trọng"
+        },
+        {
+          "m_full_vn": "coi là, cho là",
+          "list_en_vn": [
+            {
+              "full_en": "to esteem it as a favour",
+              "full_vn": "coi cái đó như là một đặc ân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359037_d3b4afa2b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359037_3428a715b4_o.png",
+      "id_image": "esteem_4060932"
+    }
+  ]
+}

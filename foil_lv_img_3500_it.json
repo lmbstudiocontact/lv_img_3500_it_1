@@ -1,0 +1,99 @@
+{
+  "english": "foil",
+  "phat_am": "[fɔil]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lá (kim loại)",
+          "list_en_vn": [
+            {
+              "full_en": "tin foil",
+              "full_vn": "lá thiếc"
+            },
+            {
+              "full_en": "gold foil",
+              "full_vn": "lá vàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nền, vật làm nền (đồ nữ trang, nhẫn kim cương...)"
+        },
+        {
+          "m_full_vn": "người làm tôn người khác lên; cái làm tôn cái khác lên (khi đem so sánh những nét tương phản)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) trang trí hình lá"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm nền, làm nổi bật bằng nền"
+        },
+        {
+          "m_full_vn": "làm tôn lên (bằng cách so sánh những nét tương phản)"
+        },
+        {
+          "m_full_vn": "(kiến trúc) trang trí bằng hình lá"
+        },
+        {
+          "m_full_vn": "tráng (gương)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường chạy (của con vật bị săn)",
+          "list_en_vn": [
+            {
+              "full_en": "to run upon the foil",
+              "full_vn": "chạy lại con đường cũ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiếm bịt đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to trim one's foil",
+              "full_vn": "sẵn sàng chiến đấu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) sự đánh bại, sự đánh lui"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm (chó săn) lạc hướng"
+        },
+        {
+          "m_full_vn": "đánh bại, đẩy lui; chặn đứng; làm thất bại (một âm mưu, một kế hoạch...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054610_39be0ddf13_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054610_422e46a92a_o.png",
+      "id_image": "foil_239248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317986_7e593be906_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317986_83dc04acc7_o.png",
+      "id_image": "foil_4802431"
+    }
+  ]
+}

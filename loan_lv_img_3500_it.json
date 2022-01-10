@@ -1,0 +1,67 @@
+{
+  "english": "loan",
+  "phat_am": "[loun]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiền cho vay; vật cho mượn",
+          "list_en_vn": [
+            {
+              "full_en": "I'm asking for a loan - I'll pay you back",
+              "full_vn": "Tôi chỉ hỏi vay thôi, rồi tôi sẽ hoàn lại cho anh"
+            },
+            {
+              "full_en": "a bank loan",
+              "full_vn": "một khoản vay ở ngân hàng"
+            },
+            {
+              "full_en": "may I have the loan of your bicycle ?",
+              "full_vn": "tôi mượn xe đạp của anh được không?"
+            },
+            {
+              "full_en": "can we ask your father for the loan of his car ?",
+              "full_vn": "chúng tôi hỏi mượn bố anh chiếc xe được không?"
+            },
+            {
+              "full_en": "It's not my book - I've got it on loan from the library",
+              "full_vn": "Đó không phải là quyển sách của tôi - tôi mượn của thư viện đấy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho vay; cho mượn",
+          "list_en_vn": [
+            {
+              "full_en": "a painting graciously loaned by Her Majesty the Queen",
+              "full_vn": "một bức tranh được Đức Nữ hoàng có lòng tốt cho mượn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075445_90717aa317_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075445_0fae4a0185_o.png",
+      "id_image": "loan_2238089"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338351_cdcc1e1eb7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338351_f479cba467_o.png",
+      "id_image": "loan_2238291"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075475_3cf6444782_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075475_d7649e7f68_o.png",
+      "id_image": "loan_649001"
+    }
+  ]
+}

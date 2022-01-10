@@ -1,0 +1,92 @@
+{
+  "english": "loaf",
+  "phat_am": "[louvz]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều loaves",
+      "list_m": [
+        {
+          "m_full_vn": "ổ bánh mì"
+        },
+        {
+          "m_full_vn": "cối đường (khối đường hình nón)"
+        },
+        {
+          "m_full_vn": "bắp cuộn (khối lá cuộn tròn chặt lại của cải bắp hay rau diếp)"
+        },
+        {
+          "m_full_vn": "(từ lóng) cái đầu",
+          "list_one_mean": [
+            {
+              "id_full_en": "half a loaf is better than no bread",
+              "list_im": [
+                {
+                  "im_full_vn": "có ít còn hơn không"
+                }
+              ]
+            },
+            {
+              "id_full_en": "loaves and fishes",
+              "list_im": [
+                {
+                  "im_full_vn": "bổng lộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to use one's loaf",
+              "list_im": [
+                {
+                  "im_full_vn": "vận dụng sự hiểu biết lẽ phải của mình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộn thành bắp (cải bắp hay rau diếp...)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiêu phí thời gian một cách vô ích; lười nhác",
+          "list_en_vn": [
+            {
+              "full_en": "Don't stand there loafing - there's work to be done",
+              "full_vn": "Đừng đứng lười thây ra - có việc phải làm đấy"
+            },
+            {
+              "full_en": "to loaf around (the house all day )",
+              "full_vn": "đi tha thẩn xung quanh (nhà suốt ngày)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693714_3fd0d11458_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693714_082a803e87_o.png",
+      "id_image": "loaf_1725727"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338496_607bce89b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338496_f2fa0c3ec2_o.png",
+      "id_image": "loaf_1919096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338461_6e03917247_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338461_0a703255c0_o.png",
+      "id_image": "loaf_3280310"
+    }
+  ]
+}

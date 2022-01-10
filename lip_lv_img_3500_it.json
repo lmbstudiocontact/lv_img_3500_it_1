@@ -1,0 +1,170 @@
+{
+  "english": "lip",
+  "phat_am": "[lip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "môi",
+          "list_en_vn": [
+            {
+              "full_en": "upper lip",
+              "full_vn": "môi trên"
+            },
+            {
+              "full_en": "lower lip",
+              "full_vn": "môi dưới"
+            },
+            {
+              "full_en": "to curl one's lips",
+              "full_vn": "cong môi"
+            },
+            {
+              "full_en": "to lick (smack ) one's lips",
+              "full_vn": "liếm môi (trong khi hay trước khi ăn uống cái gì ngon); (nghĩa bóng) tỏ vẻ khoái trá, thoả mãn"
+            },
+            {
+              "full_en": "to make a lip",
+              "full_vn": "bĩu môi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "miệng vết thương, miệng vết lở"
+        },
+        {
+          "m_full_vn": "miệng, mép (cốc, giếng, núi lửa...)"
+        },
+        {
+          "m_full_vn": "cánh môi hình môi"
+        },
+        {
+          "m_full_vn": "(âm nhạc) cách đặt môi"
+        },
+        {
+          "m_full_vn": "(từ lóng) sự hỗn xược, sự láo xược",
+          "list_one_mean": [
+            {
+              "id_full_en": "stiff upper lip",
+              "list_im": [
+                {
+                  "im_full_vn": "sự không nao núng, sự không lay chuyển được, tính kiên cường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to carry (keep ) a stiff upper lip",
+                      "full_vn": "không nao núng, giữ vững tinh thần, kiên cường"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hang one's lip",
+              "list_im": [
+                {
+                  "im_full_vn": "buồn thiu, sầu não"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hang on somebody's lips",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to open one's lips",
+              "list_im": [
+                {
+                  "im_full_vn": "không hé răng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "word escapes one's lips",
+              "list_im": [
+                {
+                  "im_full_vn": "nói lỡ lời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bite one's lips",
+              "list_im": [
+                {
+                  "im_full_vn": "mím môi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to button one's lip",
+              "list_im": [
+                {
+                  "im_full_vn": "nín thinh, nín lặng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's lips are sealed",
+              "list_im": [
+                {
+                  "im_full_vn": "không được hé môi, ngậm miệng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "there's many a slip twixt cup and lip",
+              "list_im": [
+                {
+                  "im_full_vn": "miếng ăn đến miệng rồi vẫn có thể tuột mất"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to have had enough of someone's lip",
+              "full_vn": "không thể chịu được sự láo xược của ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vỗ bờ (nước, sóng)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vỗ bập bềnh (nước, sóng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340731_58cf404a2e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340731_51d125a946_o.png",
+      "id_image": "lips_286512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809695974_ce0d785dfc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809695974_722091a615_o.png",
+      "id_image": "lips_458102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340761_2b08974d0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340761_60f3767835_o.png",
+      "id_image": "lip_1862698"
+    }
+  ]
+}

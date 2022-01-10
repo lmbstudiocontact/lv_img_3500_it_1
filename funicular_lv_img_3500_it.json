@@ -1,0 +1,54 @@
+{
+  "english": "funicular",
+  "phat_am": "[fju:'nikjulə]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) dây, (thuộc) dây cáp; (thuộc) sức kéo của dây"
+        },
+        {
+          "m_full_vn": "có dây kéo",
+          "list_en_vn": [
+            {
+              "full_en": "a funicular railway",
+              "full_vn": "đường sắt leo núi (có dây kéo các toa)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(giải phẫu) (thuộc) thừng tinh"
+        },
+        {
+          "m_full_vn": "(thực vật học) (thuộc) cán phôi"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường sắt leo núi (có dây cáp kéo các toa)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456578_f7f98843f9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456578_9a5f8b967d_o.png",
+      "id_image": "funicular_1553306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079190_d4e3af249e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079190_b28e5b0fa9_o.png",
+      "id_image": "funicular_169436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456533_826fb2598f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456533_0cdc22d0ec_o.png",
+      "id_image": "funicular_5811612"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "espionage",
+  "phat_am": "['espiənɑ:ʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "việc do thám hoặc sử dụng gián điệp để thu tin tức bí mật; hoạt động tình báo, hoạt động gián điệp",
+          "list_en_vn": [
+            {
+              "full_en": "found guilty of espionage",
+              "full_vn": "phạm tội làm gián điệp"
+            },
+            {
+              "full_en": "to engage in espionage",
+              "full_vn": "làm gián điệp (làm tình báo)"
+            },
+            {
+              "full_en": "industrial espionage",
+              "full_vn": "tính báo công nghiệp (do thám những kế hoạch bí mật của các công ty kình địch)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670064_1e843f861f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670064_6e4e91ec82_o.png",
+      "id_image": "espionage_5138628"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359567_f6ec6fb886_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359567_69f7d251a6_o.png",
+      "id_image": "espionage_5411109"
+    }
+  ]
+}

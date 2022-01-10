@@ -1,0 +1,61 @@
+{
+  "english": "helm",
+  "phat_am": "[with the]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đám mây tụ trên đỉnh núi lúc giông bão ( (cũng) helm cloud )"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) (như) helmet"
+        },
+        {
+          "m_full_vn": "tay bánh lái, bánh lái (tàu thuỷ); khoang bánh lái"
+        },
+        {
+          "m_full_vn": "lái con tàu đi theo dưới gió"
+        },
+        {
+          "m_full_vn": "lái con tàu đi theo chiều gió"
+        },
+        {
+          "m_full_vn": "sự chỉ huy, sự điều khiển, sự lãnh đạo; chính phủ",
+          "list_en_vn": [
+            {
+              "full_en": "to take the helm",
+              "full_vn": "nắm quyền chỉ huy, nắm quyền lãnh đạo"
+            },
+            {
+              "full_en": "to be at the helm",
+              "full_vn": "cầm lái; đứng mũi chịu sào, ở cương vị chỉ huy"
+            },
+            {
+              "full_en": "the helm of state",
+              "full_vn": "chính phủ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lái (con tàu)"
+        },
+        {
+          "m_full_vn": "chỉ huy, dẫn dắt, điều khiển, lãnh đạo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694474_0d95156159_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694474_b0d5b47a6b_o.png",
+      "id_image": "helm_169439"
+    }
+  ]
+}

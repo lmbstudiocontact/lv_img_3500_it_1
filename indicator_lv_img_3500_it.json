@@ -1,0 +1,45 @@
+{
+  "english": "indicator",
+  "phat_am": "['indikeitə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người chỉ"
+        },
+        {
+          "m_full_vn": "dụng cụ chỉ cho biết, đồng hồ báo cho biết",
+          "list_en_vn": [
+            {
+              "full_en": "altitude indicator",
+              "full_vn": "đồng hồ chỉ độ cao"
+            },
+            {
+              "full_en": "power indicator",
+              "full_vn": "đồng hồ chỉ công suất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hoá học) chất chỉ thị"
+        },
+        {
+          "m_full_vn": "(sinh vật học) vật chỉ thị, cây chỉ thị"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672799_253131a8d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672799_a62057f78f_o.png",
+      "id_image": "indicator_2191443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672769_0a83a30262_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672769_e8fb5889f9_o.png",
+      "id_image": "indicator_6255712"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "masquerade",
+  "phat_am": "[,mɑ:skə'reid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "buổi khiêu vũ đeo mặt nạ, dạ hội giả trang"
+        },
+        {
+          "m_full_vn": "sự giả trang, sự giả dạng, sự lừa dối"
+        },
+        {
+          "m_full_vn": "trò lừa bịp, trò giả dối"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giả trang, giả dạng, giả mạo",
+          "list_en_vn": [
+            {
+              "full_en": "to masquerade as a mendicant",
+              "full_vn": "giả làm người ăn xin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dự buổi khiêu vũ đeo mặt nạ, dự dạ hội giả trang"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058085_1f4c047c8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058085_106673beeb_o.png",
+      "id_image": "masquerade_1711941"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436538_29e3c83141_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436538_4092b270dc_o.png",
+      "id_image": "masquerade_4576100"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810058125_e7bcb104a8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810058125_a8ce286683_o.png",
+      "id_image": "masquerade_863129"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "locomotive",
+  "phat_am": "['loukəmoutiv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đầu máy (xe lửa)"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "di động"
+        },
+        {
+          "m_full_vn": "(đùa cợt) hay đi đây đi đó",
+          "list_en_vn": [
+            {
+              "full_en": "in our locomotive time",
+              "full_vn": "trong cái thời đại hay đi đây đi đó này"
+            },
+            {
+              "full_en": "a locomotive person",
+              "full_vn": "người hay đi đây đi đó"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808382477_5c2d0e8c61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808382477_a6fec7bb87_o.png",
+      "id_image": "locomotive_4967174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692804_9df8a452ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692804_586ba63c33_o.png",
+      "id_image": "locomotive_827159"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452293_1833dd402c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452293_1c8580e67f_o.png",
+      "id_image": "locomotive_895536"
+    }
+  ]
+}

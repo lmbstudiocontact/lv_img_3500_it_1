@@ -1,0 +1,42 @@
+{
+  "english": "hygienic",
+  "phat_am": "[hai'dʒi:nik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "vệ sinh; hợp vệ sinh",
+          "list_en_vn": [
+            {
+              "full_en": "hygienic conditions",
+              "full_vn": "những điều kiện (hợp) vệ sinh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325646_2fbeae5f90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325646_39a3c48380_o.png",
+      "id_image": "hygienic_247592"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440638_6a7c1199fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440638_e7c421656e_o.png",
+      "id_image": "hygienic_339976"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062380_7b9a8f328f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062380_5a820ef23d_o.png",
+      "id_image": "hygienic_343815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062355_8cb67f14ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062355_aaa2fef861_o.png",
+      "id_image": "hygienic_3663434"
+    }
+  ]
+}

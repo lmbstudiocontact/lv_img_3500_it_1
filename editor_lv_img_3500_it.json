@@ -1,0 +1,45 @@
+{
+  "english": "editor",
+  "phat_am": "['editə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người biên tập (một quyển sách, tờ báo, tạp chí, chương trình truyền thanh hoặc truyền hình) hoặc chịu trách nhiệm một phần của tờ báo",
+          "list_en_vn": [
+            {
+              "full_en": "The sports , financial , fashion editor",
+              "full_vn": "Biên tập viên thể thao, tài chính, thời trang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tin học) trình soạn thảo"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066300_a832d50f0f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066300_81fa7ecc30_o.png",
+      "id_image": "editor_1188482"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444478_dfd1f3db89_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444478_97af66e656_o.png",
+      "id_image": "editor_1899340"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684434_e8bda49c74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684434_7f0af3c983_o.png",
+      "id_image": "editor_3966346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374087_084e17e981_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374087_88be80c03a_o.png",
+      "id_image": "editor_4695764"
+    }
+  ]
+}

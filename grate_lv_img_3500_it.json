@@ -1,0 +1,91 @@
+{
+  "english": "grate",
+  "phat_am": "[greit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vỉ lò, ghi lò (trong lò sưởi); lò sưởi"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) lưới sàng quặng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đặt vỉ lò, đặt ghi lò"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mài, xát (thành bột); nạo",
+          "list_en_vn": [
+            {
+              "full_en": "to grate a potato",
+              "full_vn": "nạo một củ khoai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghiến kèn kẹt (răng)",
+          "list_en_vn": [
+            {
+              "full_en": "to grate one's teeth",
+              "full_vn": "nghiến răng kèn kẹt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kêu cọt kẹt, kêu kèn kẹt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to grate on (upon ) sb's ears",
+              "list_im": [
+                {
+                  "im_full_vn": "làm inh tai nhức óc, làm chói tai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to grate upon one's nerves",
+              "list_im": [
+                {
+                  "im_full_vn": "chọc tức, làm điên tiết lên"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323941_ea6d0c6bdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323941_ed65ae30c6_o.png",
+      "id_image": "grate_1041617"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810060885_489f3da044_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810060885_6df11310ab_o.png",
+      "id_image": "grate_129151"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438973_b33c3aeec6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438973_b7e4441a31_o.png",
+      "id_image": "grate_4711581"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "english": "hinge",
+  "phat_am": "[hindʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bản lề (cửa...)"
+        },
+        {
+          "m_full_vn": "khớp nối"
+        },
+        {
+          "m_full_vn": "miếng giấy nhỏ phết sẵn hồ (để dán tem... vào anbom)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nguyên tắc trung tâm; điểm mấu chốt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be off the hinges",
+              "list_im": [
+                {
+                  "im_full_vn": "ở trong tình trạng sức khoẻ ọp ẹp"
+                },
+                {
+                  "im_full_vn": "bối rối, quẫn trí"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nối bằng bản lề; lắp bản lề"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ( + on )",
+      "list_m": [
+        {
+          "m_full_vn": "xoay quanh ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to hinge on a post",
+              "full_vn": "xoay quanh một cái trụ"
+            },
+            {
+              "full_en": "to hinge on a principle",
+              "full_vn": "xoay quanh một nguyên tắc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073890_5748749166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073890_37c9e186fb_o.png",
+      "id_image": "hinge_1678142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336831_d8a6afa709_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336831_542002b4c3_o.png",
+      "id_image": "hinge_1678149"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381837_c5e8e0636c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381837_ea8b181b36_o.png",
+      "id_image": "hinge_1678218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692059_c1eceb8d42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692059_5403a2375d_o.png",
+      "id_image": "hinge_1678224"
+    }
+  ]
+}

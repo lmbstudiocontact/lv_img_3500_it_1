@@ -1,0 +1,155 @@
+{
+  "english": "gun",
+  "phat_am": "[gʌn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "súng",
+          "list_en_vn": [
+            {
+              "full_en": "a sporting gun",
+              "full_vn": "súng săn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát đại bác",
+          "list_en_vn": [
+            {
+              "full_en": "a salute of twenty-one guns",
+              "full_vn": "hai mươi mốt phát đại bác chào mừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) súng lục"
+        },
+        {
+          "m_full_vn": "người chơi súng thể thao, người chơi súng săn; người đi săn"
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) súng lệnh"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) bình sơn xì"
+        },
+        {
+          "m_full_vn": "ống bơm thuốc trừ sâu"
+        },
+        {
+          "m_full_vn": "(từ lóng) kẻ cắp, kẻ trộm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to blow great guns",
+              "list_im": [
+                {
+                  "im_full_vn": "thổi mạnh (gió)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give it the gun",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) làm cho khởi động"
+                },
+                {
+                  "im_full_vn": "làm cho tăng tốc độ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go great guns",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) làm nhanh và có kết quả tốt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to spike someone's gums",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh bại ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "son of a gun",
+              "list_im": [
+                {
+                  "im_full_vn": "kẻ đáng khinh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand (stick ) to one's guns",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ vững vị trí (trong chiến đấu); giữ lập trường (trong tranh luận)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as sure as a gun",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) sure"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to jump the gun",
+              "list_im": [
+                {
+                  "im_full_vn": "xuất phát trước khi có lệnh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + for , after ) săn lùng, truy nã",
+          "list_one_mean": [
+            {
+              "id_full_en": "to gun for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "truy nã ai, đuổi bắt ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gun sb down",
+              "list_im": [
+                {
+                  "im_full_vn": "bắn gục, hạ gục"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to gun for (after ) a game",
+              "full_vn": "săn thú bằng súng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054080_457d73b04c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054080_996d50f208_o.png",
+      "id_image": "gun_414809"
+    }
+  ]
+}

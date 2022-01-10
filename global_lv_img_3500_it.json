@@ -1,0 +1,55 @@
+{
+  "english": "global",
+  "phat_am": "['gloubəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "toàn cầu",
+          "list_en_vn": [
+            {
+              "full_en": "global strategy",
+              "full_vn": "chiến lược toàn cầu"
+            },
+            {
+              "full_en": "global movement against drug addiction",
+              "full_vn": "phong trào toàn thế giới chống nạn nghiện ma túy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "toàn thể, toàn bộ, bao trùm",
+          "list_en_vn": [
+            {
+              "full_en": "a global notion",
+              "full_vn": "khái niệm chung, khái niệm bao trùm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068125_71499b5b62_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068125_e3ac662ca0_o.png",
+      "id_image": "global_1781188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686399_630af1f1fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686399_d7fc262b23_o.png",
+      "id_image": "global_2090434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686369_c04902bfea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686369_7803a9b60c_o.png",
+      "id_image": "global_2170773"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376007_584da99052_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376007_897d541bfb_o.png",
+      "id_image": "global_2343940"
+    }
+  ]
+}

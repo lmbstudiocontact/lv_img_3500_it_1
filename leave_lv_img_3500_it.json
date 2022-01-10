@@ -1,0 +1,380 @@
+{
+  "english": "leave",
+  "phat_am": "[li:v]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cho phép",
+          "list_en_vn": [
+            {
+              "full_en": "by your leave",
+              "full_vn": "xin phép ông, xin phép anh"
+            },
+            {
+              "full_en": "to ask leave",
+              "full_vn": "xin phép"
+            },
+            {
+              "full_en": "to get leave",
+              "full_vn": "được phép"
+            },
+            {
+              "full_en": "to beg leave to do sth",
+              "full_vn": "xin phép làm gì"
+            },
+            {
+              "full_en": "to give leave",
+              "full_vn": "cho phép"
+            },
+            {
+              "full_en": "to refuse leave",
+              "full_vn": "từ chối không cho phép"
+            },
+            {
+              "full_en": "without as /so much as by your leave",
+              "full_vn": "không thèm xin phép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự được phép nghỉ",
+          "list_en_vn": [
+            {
+              "full_en": "to be on leave",
+              "full_vn": "nghỉ phép"
+            },
+            {
+              "full_en": "leave of absence",
+              "full_vn": "phép nghỉ; thời gian nghỉ có phép"
+            },
+            {
+              "full_en": "absent without leave",
+              "full_vn": "(quân sự) nghỉ không phép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cáo từ, sự cáo biệt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take French leave",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) French"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take leave of one's senses",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) sense"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to take leave of sb",
+              "full_vn": "cáo từ ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "để lại, bỏ lại, bỏ quên"
+        },
+        {
+          "m_full_vn": "để lại (sau khi chết), di tặng",
+          "list_en_vn": [
+            {
+              "full_en": "our ancesters left us a great cultural legacy",
+              "full_vn": "cha ông chúng ta để lại một gia tài văn hoá lớn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "để mặc, để tuỳ",
+          "list_en_vn": [
+            {
+              "full_en": "leave it at that",
+              "full_vn": "(thông tục) thôi cứ để mặc thế"
+            },
+            {
+              "full_en": "to leave something to somebody to decide",
+              "full_vn": "để tuỳ ai quyết định cái gì"
+            },
+            {
+              "full_en": "leave him to himself",
+              "full_vn": "cứ để mặc nó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ đi, rời đi, lên đường đi",
+          "list_en_vn": [
+            {
+              "full_en": "to leave Hanoi for Moscow",
+              "full_vn": "rời Hà nội đi Mát-xcơ-va"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bỏ (trường...); thôi (việc)",
+          "list_en_vn": [
+            {
+              "full_en": "to leave school",
+              "full_vn": "thôi học; bỏ trường"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bỏ đi, rời đi",
+          "list_en_vn": [
+            {
+              "full_en": "the train leaves at 4 p .m .",
+              "full_vn": "xe lửa đi vào lúc 4 giờ chiều"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngừng, thôi, nghỉ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to leave about",
+              "list_im": [
+                {
+                  "im_full_vn": "để lộn xộn, để bừa bãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave behind",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ quên, để lại",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to leave a good name behind",
+                      "full_vn": "lưu danh, để lại tiếng thơm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave off",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ không mặc nữa (áo)"
+                },
+                {
+                  "im_full_vn": "bỏ, ngừng lại, thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to leave off work",
+                      "full_vn": "nghỉ việc, ngừng việc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave out",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ quên, bỏ sót, để sót"
+                },
+                {
+                  "im_full_vn": "xoá đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "leave that word out",
+                      "full_vn": "xoá từ ấy đi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave over",
+              "list_im": [
+                {
+                  "im_full_vn": "để lại về sau (chưa giải quyết ngay)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave the beaten track",
+              "list_im": [
+                {
+                  "im_full_vn": "không đi vào con đường mòn ( (nghĩa đen) & (nghĩa bóng))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave hold of",
+              "list_im": [
+                {
+                  "im_full_vn": "buông ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave much to be desired",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa tốt; còn nhiều điều đáng chê trách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave no stone unturned",
+              "list_im": [
+                {
+                  "im_full_vn": "thử mọi cách có thể được; dùng đủ mọi cách",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they left no stone unturned in their search for the child's mother",
+                      "full_vn": "họ đã làm đủ mọi cách để tìm cho ra mẹ của đứa trẻ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave the rails",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) rail"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave room for",
+              "list_im": [
+                {
+                  "im_full_vn": "nhường chỗ cho"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave the room",
+              "list_im": [
+                {
+                  "im_full_vn": "đi giải quyết nhu cầu vệ sinh cá nhân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave sb out on a limb",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ rơi ai trong cơn hoạn nạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave sb to his own devices /to himself",
+              "list_im": [
+                {
+                  "im_full_vn": "để mặc ai tự xoay sở lấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave sb /sth to the tender mercies of sb /sth",
+              "list_im": [
+                {
+                  "im_full_vn": "phó mặc ai/cái gì cho ai/cái gì xử lý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave to chance",
+              "list_im": [
+                {
+                  "im_full_vn": "phó mặc số mệnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave word with sb",
+              "list_im": [
+                {
+                  "im_full_vn": "nhắn ai, dặn ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get left",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) bị bỏ rơi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to have no strength left",
+                      "full_vn": "bị kiệt sức"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "this leaves him indifferent",
+              "list_im": [
+                {
+                  "im_full_vn": "việc ấy cũng chẳng làm cho nó quan tâm; nó thờ ơ với việc ấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave sb holding the baby",
+              "list_im": [
+                {
+                  "im_full_vn": "giao cho ai nhiệm vụ mà bất đắc dĩ họ phải nhận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leave sth out of account",
+              "list_im": [
+                {
+                  "im_full_vn": "xem cái gì là không quan trọng, xem nhẹ cái gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084875_5eb23df294_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084875_8ac00b97fc_o.png",
+      "id_image": "leave_1409016"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392482_278acc9c42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392482_26f32237da_o.png",
+      "id_image": "leave_3387188"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392462_656ebecdf6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392462_17e3bdd8b9_o.png",
+      "id_image": "leave_4157730"
+    }
+  ]
+}

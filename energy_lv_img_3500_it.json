@@ -1,0 +1,68 @@
+{
+  "english": "energy",
+  "phat_am": "['enədʒi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nghị lực, sinh lực"
+        },
+        {
+          "m_full_vn": "sự hoạt động tích cực"
+        },
+        {
+          "m_full_vn": "khả năng tiềm tàng, năng lực tiềm tàng"
+        },
+        {
+          "m_full_vn": "( số nhiều) sức lực"
+        },
+        {
+          "m_full_vn": "(vật lý) năng lượng",
+          "list_one_mean": [
+            {
+              "id_full_en": ""
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "solar energy",
+              "full_vn": "năng lượng mặt trời"
+            },
+            {
+              "full_en": "kinetic energy",
+              "full_vn": "động năng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364477_aed2c019a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364477_3ce2f92cca_o.png",
+      "id_image": "energy_167862"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434828_d5da5bc2e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434828_47ea28493e_o.png",
+      "id_image": "energy_1886443"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674559_f0bc4f4d70_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674559_93c87b10c1_o.png",
+      "id_image": "energy_2321652"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434888_ef5b4ef8e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434888_8f6d98924a_o.png",
+      "id_image": "energy_523338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434848_9a6b3134b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434848_34faf8e65e_o.png",
+      "id_image": "energy_523354"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "english": "melt",
+  "phat_am": "[melt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nấu chảy; sự tan"
+        },
+        {
+          "m_full_vn": "kim loại nấu chảy"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tan ra, chảy ra",
+          "list_en_vn": [
+            {
+              "full_en": "ice melted",
+              "full_vn": "băng tan"
+            },
+            {
+              "full_en": "the fog melted away",
+              "full_vn": "sương mù tan đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) chảy nước ra, vãi mỡ ra, toát mồ hôi",
+          "list_en_vn": [
+            {
+              "full_en": "I am melting with heat",
+              "full_vn": "tôi nóng vãi mỡ ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cảm động, cảm kích, động lòng, mủi lòng, se lòng",
+          "list_en_vn": [
+            {
+              "full_en": "heart melts with pity",
+              "full_vn": "lòng se lại vì thương xót, trái tim xúc động vì thương xót"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nao núng, nhụt đi",
+          "list_en_vn": [
+            {
+              "full_en": "resolution begins melting",
+              "full_vn": "lòng quyết tâm bắt đầu nhụt đi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm tan ra, làm chảy ra",
+          "list_en_vn": [
+            {
+              "full_en": "to melt metals",
+              "full_vn": "nấu chảy kim loại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm động lòng, làm mủi lòng, làm se lòng",
+          "list_en_vn": [
+            {
+              "full_en": "pity melts one's heart",
+              "full_vn": "niềm trắc ẩn làm se lòng lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nao núng, làm nhụt đi, làm nguôi đi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to melt away",
+              "list_im": [
+                {
+                  "im_full_vn": "tan đi, tan biến đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to melt down",
+              "list_im": [
+                {
+                  "im_full_vn": "nấu chảy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to melt into",
+              "list_im": [
+                {
+                  "im_full_vn": "hoà vào, tan vào, biến đổi dần thành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to melt into tears",
+              "list_im": [
+                {
+                  "im_full_vn": "khóc sướt mướt, nước mắt chan hoà"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look as if butter would not melt in one's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "xem butter"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702904_f8ac25fa7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702904_3fba9beb7b_o.png",
+      "id_image": "melt_1999845"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702859_d9b7526105_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702859_ee2cda7391_o.png",
+      "id_image": "melt_3690282"
+    }
+  ]
+}

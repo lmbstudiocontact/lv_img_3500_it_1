@@ -1,0 +1,35 @@
+{
+  "english": "generosity",
+  "phat_am": "[,dʒenə'rɔsiti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự rộng lượng, sự khoan hồng; hành động rộng lượng, hành động khoan hồng",
+          "list_en_vn": [
+            {
+              "full_en": "to show generosity in dealing with a defeated enemy",
+              "full_vn": "khoan hồng trong cách đối xử với kẻ địch bại trận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính rộng rãi, tính hào phóng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691259_935b7e1f57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691259_90c0431007_o.png",
+      "id_image": "generosity_1396228"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336011_c8f12c2635_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336011_3be2962fff_o.png",
+      "id_image": "generosity_708656"
+    }
+  ]
+}

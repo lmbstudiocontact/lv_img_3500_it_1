@@ -1,0 +1,62 @@
+{
+  "english": "lug",
+  "phat_am": "[lʌg]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giun cát (thuộc loại giun nhiều tơ, dùng làm mồi câu cá biển) ( (cũng) lugworm )"
+        },
+        {
+          "m_full_vn": "(hàng hải) lá buồm hình thang ( (cũng) lugsail )"
+        },
+        {
+          "m_full_vn": "tai, vành tai"
+        },
+        {
+          "m_full_vn": "quai (ấm, chén...)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cái cam"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) giá đỡ, giá treo"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) vấu lồi"
+        },
+        {
+          "m_full_vn": "sự kéo lê, sự kéo mạnh, sự lôi"
+        },
+        {
+          "m_full_vn": "( số nhiều) sự làm cao, sự màu mè, sự làm bộ làm điệu",
+          "list_en_vn": [
+            {
+              "full_en": "to put on lugs",
+              "full_vn": "làm bộ làm điệu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kéo lê, kéo mạnh, lôi"
+        },
+        {
+          "m_full_vn": "đưa vào (vấn đề...) không phải lúc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688144_38b08f4d51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688144_ecc9fa7f2d_o.png",
+      "id_image": "lug_1772564"
+    }
+  ]
+}

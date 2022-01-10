@@ -1,0 +1,53 @@
+{
+  "english": "investment",
+  "phat_am": "[in'vestmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đầu tư; vốn đầu tư",
+          "list_en_vn": [
+            {
+              "full_en": "making a profit by careful investment",
+              "full_vn": "thu lợi nhuận nhờ đầu tư thận trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(như) investiture"
+        },
+        {
+          "m_full_vn": "(quân sự) sự bao vây, sự phong toả"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453658_6bf11fcf50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453658_d6033f479a_o.png",
+      "id_image": "investment_1329491"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338576_ec266681b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338576_c44eff94b7_o.png",
+      "id_image": "investment_1441962"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383452_2c212977fc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383452_56e2e97f70_o.png",
+      "id_image": "investment_1442358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383527_ed70aab310_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383527_e99c7dddcb_o.png",
+      "id_image": "investment_180816"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383427_0bde9fe1aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383427_15dd4d937f_o.png",
+      "id_image": "investment_2761055"
+    }
+  ]
+}

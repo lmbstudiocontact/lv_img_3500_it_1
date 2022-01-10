@@ -1,0 +1,30 @@
+{
+  "english": "enable",
+  "phat_am": "[i'neibl]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho có thể (làm gì), làm cho có khả năng (làm gì)",
+          "list_en_vn": [
+            {
+              "full_en": "taxis enable us to see all our relatives in this city",
+              "full_vn": "xe taxi cho phép (giúp) chúng tôi đi thăm mọi người thân trong thành phố này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cho quyền, cho phép (ai) (làm gì)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320481_e2b29467a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320481_f1c5c2f314_o.png",
+      "id_image": "enable_1827844"
+    }
+  ]
+}

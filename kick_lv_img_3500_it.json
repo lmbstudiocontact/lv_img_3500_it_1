@@ -1,0 +1,285 @@
+{
+  "english": "kick",
+  "phat_am": "[kik]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trôn chai (chỗ lõm ở đít chai)"
+        },
+        {
+          "m_full_vn": "cái đá, cú đá (đá bóng); cái đá hậu (ngựa)"
+        },
+        {
+          "m_full_vn": "sự giật của súng (khi bắn)"
+        },
+        {
+          "m_full_vn": "(thông tục) hơi sức; sức bật, sức chống lại",
+          "list_en_vn": [
+            {
+              "full_en": "to have no kick left",
+              "full_vn": "không còn hơi sức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) lý do phản kháng, lý do phản đối; sự phản kháng, sự phản đối"
+        },
+        {
+          "m_full_vn": "(thông tục) sự thích thú, sự thú vị",
+          "list_en_vn": [
+            {
+              "full_en": "to get a kick out of something",
+              "full_vn": "thích thú cái gì, tìm thấy sự thú vị ở cái gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (từ Mỹ,nghĩa Mỹ), (từ lóng) trò vui, trò nhộn"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) sự việc thay đổi bất ngờ, việc bất ngờ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to get the kick",
+              "list_im": [
+                {
+                  "im_full_vn": "bị hất cẳng, bị đuổi, bị sa thải"
+                }
+              ]
+            },
+            {
+              "id_full_en": "more kicks than half-pence",
+              "list_im": [
+                {
+                  "im_full_vn": "bị chửi nhiều được khen ít; bực mình khó chịu nhiều hơn là thích thú"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đá, đá hậu (ngựa)"
+        },
+        {
+          "m_full_vn": "giật (súng)"
+        },
+        {
+          "m_full_vn": "( + against , at ) chống lại, kháng cự, phản đối, phản kháng; tỏ ra khó chịu với"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đá"
+        },
+        {
+          "m_full_vn": "sút ghi bàn thắng (bóng đá)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to kick about (around )",
+              "list_im": [
+                {
+                  "im_full_vn": "đá vung, đá lung tung"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) hành hạ, đối xử thô bạo"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) đi lung tung đây đó"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) nghĩ về, bàn luận về"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick back",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh ngược trở lại (nói về maniven ô tô)"
+                },
+                {
+                  "im_full_vn": "đá lại; đá (quả bóng) trả lại"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) trả lại (của ăn cắp hoặc một phần số tiền do bị ép buộc hay thoả thuận riêng mà phải nhận...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick in",
+              "list_im": [
+                {
+                  "im_full_vn": "đá bung (cửa)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) góp phần, đóng góp"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick off",
+              "list_im": [
+                {
+                  "im_full_vn": "đá bật đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to kick off one's shoes",
+                      "full_vn": "đá bật giày ra"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(thể dục,thể thao) bắt đầu ra bóng, bắt đầu ra trận đấu bóng đá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick out",
+              "list_im": [
+                {
+                  "im_full_vn": "đá ra; tống cổ ra"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick up",
+              "list_im": [
+                {
+                  "im_full_vn": "đá tung lên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to kick up dust",
+                      "full_vn": "đá tung bụi lên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "gây nên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to kick up a noise",
+                      "full_vn": "làm ồn lên"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick against the pricks",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) kháng cự vô ích, chỉ chuốc lấy cái đau đớn vào thân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick the bucket",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bucket"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick one's heels",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) heel"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick over the traces",
+              "list_im": [
+                {
+                  "im_full_vn": "kháng cự lại, không chịu sự kiềm thúc gò ép"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick somebody upstairs",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) đề bạt ai cốt để tống khứ đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick up one's heels",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) heel"
+                }
+              ]
+            },
+            {
+              "id_full_en": "alive and kicking",
+              "list_im": [
+                {
+                  "im_full_vn": "vẫn còn sống, khoẻ mạnh và hoạt động tích cực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick a man when he's down",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh kẻ ngã ngựa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kick up a fuss , a dust",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ầm ĩ cả lên"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to kick a goal",
+              "full_vn": "sút ghi một bàn thắng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328241_e8725b9a39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328241_6fea9534c3_o.png",
+      "id_image": "kicking_1505381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328201_6f99413eb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328201_eb1a080e75_o.png",
+      "id_image": "kicking_2333270"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373152_eb0878ae46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373152_f0155be1c8_o.png",
+      "id_image": "kick_4020306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683474_e6f4f21bcc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683474_bc124369d1_o.png",
+      "id_image": "kick_5965812"
+    }
+  ]
+}

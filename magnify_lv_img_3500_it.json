@@ -1,0 +1,45 @@
+{
+  "english": "magnify",
+  "phat_am": "['mægnifai]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm to ra, phóng to, mở rộng; khuếch đại; phóng đại",
+          "list_en_vn": [
+            {
+              "full_en": "a microscope magnifies things",
+              "full_vn": "kính hiển vi làm vật trông to ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thổi phồng, tán dương quá đáng",
+          "list_en_vn": [
+            {
+              "full_en": "to magnify dangers",
+              "full_vn": "thổi phồng những sự nguy hiểm"
+            },
+            {
+              "full_en": "to magnify a trifling incident",
+              "full_vn": "thổi phồng một sự việc bình thường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444298_3ed9d252f4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444298_28181b8933_o.png",
+      "id_image": "magnify_2455867"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444238_6bab83ccfb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444238_603ec193b0_o.png",
+      "id_image": "magnify_5236225"
+    }
+  ]
+}

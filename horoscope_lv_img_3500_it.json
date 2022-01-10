@@ -1,0 +1,41 @@
+{
+  "english": "horoscope",
+  "phat_am": "['hɔrəskoup]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự dự đoán tương lai của một con người dựa trên biểu đồ chỉ các vị trí liên quan nhau của các hành tinh... tại một thời điểm cụ thể (thời điểm người đó chào đời chẳng hạn); sự đoán số tử vi; lá số tử vi",
+          "list_en_vn": [
+            {
+              "full_en": "to read one's horoscope",
+              "full_vn": "đọc số tử vi của mình"
+            },
+            {
+              "full_en": "to cast a horoscope",
+              "full_vn": "lấy số tử vi; đoán số tử vi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068385_402703e73a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068385_1e2713f18a_o.png",
+      "id_image": "horoscope_4839249"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376407_d4dd1cca9f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376407_dcaba4b4f4_o.png",
+      "id_image": "horoscope_5803831"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376492_803b64952f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376492_50c31b34c4_o.png",
+      "id_image": "horoscope_678952"
+    }
+  ]
+}

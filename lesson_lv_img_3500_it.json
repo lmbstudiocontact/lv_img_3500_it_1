@@ -1,0 +1,92 @@
+{
+  "english": "lesson",
+  "phat_am": "['lesn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bài học",
+          "list_en_vn": [
+            {
+              "full_en": "to learn one's lesson by heart",
+              "full_vn": "học thuộc lòng bài học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời dạy bảo, lời khuyên",
+          "list_en_vn": [
+            {
+              "full_en": "never forget the lesson of Lenin",
+              "full_vn": "không bao giờ được quên những lời dạy bảo của Lê-nin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời quở trách; sự trừng phạt, sự cảnh cáo",
+          "list_one_mean": [
+            {
+              "id_full_en": "to give lessons in",
+              "list_im": [
+                {
+                  "im_full_vn": "dạy (môn gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take lessons in",
+              "list_im": [
+                {
+                  "im_full_vn": "học (môn gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to learn one's lesson",
+              "list_im": [
+                {
+                  "im_full_vn": "xem learn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to read someone a lesson",
+              "full_vn": "quở trách người nào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quở trách, cảnh cáo, lên lớp (ai); trừng phạt"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) dạy, ra bài cho (ai)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345241_52401db400_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345241_ebe0978814_o.png",
+      "id_image": "lesson_1058510"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700449_ae982820bb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700449_10a68669aa_o.png",
+      "id_image": "lesson_207316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700359_35b20157b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700359_98ea7f6b2f_o.png",
+      "id_image": "lesson_6258824"
+    }
+  ]
+}

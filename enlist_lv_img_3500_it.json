@@ -1,0 +1,52 @@
+{
+  "english": "enlist",
+  "phat_am": "[in'list]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to enlist somebody in / for something ; to enlist somebody as something ) gia nhập hoặc làm cho ai gia nhập quân đội",
+          "list_en_vn": [
+            {
+              "full_en": "they enlisted four hundred recruits for the navy",
+              "full_vn": "họ đã tuyển được 400 tân binh cho hải quân"
+            },
+            {
+              "full_en": "have you enlisted yet ?",
+              "full_vn": "anh đã tòng quân chưa?"
+            },
+            {
+              "full_en": "he enlisted as a soldier in the army as soon as he was old enough",
+              "full_vn": "anh ấy nhập ngũ làm lính ngay khi anh ấy đủ tuổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to enlist somebody / something in / for something ) tranh thủ, giành được (cảm tình, sự cộng tác...)",
+          "list_en_vn": [
+            {
+              "full_en": "I've enlisted the cooperation of most of my neighbours in my campaign",
+              "full_vn": "tôi đã tranh thủ được sự hợp tác của hầu hết những người láng giềng trong cuộc vận động của tôi"
+            },
+            {
+              "full_en": "we've enlisted a few volunteers to help clean the hall",
+              "full_vn": "tôi đã kiếm được vài người tình nguyện giúp tôi dọn dẹp hội trường"
+            },
+            {
+              "full_en": "Sarah has been enlisted to organize the party",
+              "full_vn": "Sarah đã được trưng dụng để tổ chức buổi tiệc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433708_7536cabed0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433708_1012881ae9_o.png",
+      "id_image": "enlist_942436"
+    }
+  ]
+}

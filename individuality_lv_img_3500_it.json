@@ -1,0 +1,45 @@
+{
+  "english": "individuality",
+  "phat_am": "[,indi,vidju'æliti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "những tính cách riêng của một người nào đó; cá tính",
+          "list_en_vn": [
+            {
+              "full_en": "a man of marked individuality",
+              "full_vn": "một người có cá tính rõ rệt"
+            },
+            {
+              "full_en": "the individuality of somebody's work , style",
+              "full_vn": "cá tính trong công việc, phong cách của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) những sở thích riêng của một người nào đó; sở thích cá nhân",
+          "list_en_vn": [
+            {
+              "full_en": "to cater for different people's individualities",
+              "full_vn": "chiều theo sở thích cá nhân của nhiều người khác nhau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317711_f28e955a66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317711_45fd78a15c_o.png",
+      "id_image": "individuality_5225036"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672534_4bab6f3a71_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672534_b6f3dce2bc_o.png",
+      "id_image": "individual_3046267"
+    }
+  ]
+}

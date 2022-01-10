@@ -1,0 +1,180 @@
+{
+  "english": "exchange",
+  "phat_am": "[iks't∫eindʒ]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự đổi, sự đổi chác, sự trao đổi; vật trao đổi",
+          "list_en_vn": [
+            {
+              "full_en": "exchange of goods",
+              "full_vn": "sự trao đổi hàng hoá"
+            },
+            {
+              "full_en": "exchange of prisoners of war",
+              "full_vn": "sự trao đổi tù binh"
+            },
+            {
+              "full_en": "exchange of blows",
+              "full_vn": "cuộc ẩu đả, sự đấm đá lẫn nhau"
+            },
+            {
+              "full_en": "exchange of (angry ) words",
+              "full_vn": "cuộc cãi lộn, cuộc đấu khẩu"
+            },
+            {
+              "full_en": "an exchange of gun-fire",
+              "full_vn": "cuộc đấu súng; cuộc đọ súng"
+            },
+            {
+              "full_en": "he's giving her French lessons in exchange for her teaching him English",
+              "full_vn": "anh ấy dạy tiếng Pháp cho cô ta để cô ta dạy tiếng Anh cho anh ấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự viếng thăm qua lại giữa hai người (hoặc hai nhóm người) ở những nước khác nhau",
+          "list_en_vn": [
+            {
+              "full_en": "Sarah is going on an exchange to Paris to stay with Pierre, and he is coming to stay with her here in Scotland next year",
+              "full_vn": "Sarah đang đi sang Pari với Pierre theo kế hoạch trao đổi, và sang năm anh ấy lại sang Scotland ở đây với cô ta"
+            },
+            {
+              "full_en": "she's an exchange teacher",
+              "full_vn": "bà ta là giáo viên trao đổi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc tranh cãi; cuộc cãi nhau dữ dội; cuộc đấu khẩu",
+          "list_en_vn": [
+            {
+              "full_en": "bitter exchanges between MPs in parliament",
+              "full_vn": "những cuộc đấu khẩu gay gắt giữa các nghị sĩ trong quốc hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự đổi tiền; nghề đổi tiền; sự hối đoái; cơ quan hối đoái",
+          "list_en_vn": [
+            {
+              "full_en": "what is the rate of exchange between the dollar and the pound ?",
+              "full_vn": "tỷ giá hối đoái giữa đồng đô la và đồng pao là bao nhiêu?"
+            },
+            {
+              "full_en": "I want to change my dollars into pesetas - what is the exchange rate ?",
+              "full_vn": "tôi muốn đổi đô la lấy đồng pêxêta - tỷ giá bao nhiêu?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như telephone exchange",
+          "list_one_mean": [
+            {
+              "id_full_en": "Exchange",
+              "list_im": [
+                {
+                  "im_full_vn": "nơi các nhà doanh nghiệp và tư bản tài chính gặp nhau để kinh doanh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the Corn Exchange",
+                      "full_vn": "sở buôn bán ngũ cốc"
+                    },
+                    {
+                      "full_en": "the Stock Exchange",
+                      "full_vn": "sở chứng khoán"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trao hoặc nhận cái gì/ai (cùng loại hoặc cùng giá trị) thay cho cái/người khác",
+          "list_en_vn": [
+            {
+              "full_en": "he exchanges the blue jumper for a red one",
+              "full_vn": "anh ta đổi áo pun màu xanh lấy áo pun màu đỏ"
+            },
+            {
+              "full_en": "Ali exchanged seats with Ben",
+              "full_vn": "Ali đổi chỗ ngồi cho Ben"
+            },
+            {
+              "full_en": "the enemy countries exchanged prisoners",
+              "full_vn": "các nước thù địch trao đổi tù binh"
+            },
+            {
+              "full_en": "they exchanged hostages (with each other )",
+              "full_vn": "họ trao đổi con tin với nhau"
+            },
+            {
+              "full_en": "they exchange goods (with each other )",
+              "full_vn": "họ trao đổi hàng hoá với nhau"
+            },
+            {
+              "full_en": "to exchange (angry ) words",
+              "full_vn": "cãi nhau; đấu khẩu với nhau"
+            },
+            {
+              "full_en": "to exchange blows",
+              "full_vn": "đấm đá nhau"
+            },
+            {
+              "full_en": "to exchange glances",
+              "full_vn": "liếc nhau; lườm nhau"
+            },
+            {
+              "full_en": "the two men exchanged greetings (with each other )",
+              "full_vn": "hai người chúc mừng nhau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + for ) đổi ra được, ngang với (tiền)",
+          "list_en_vn": [
+            {
+              "full_en": "a pound can exchange for more than two dollars",
+              "full_vn": "một đồng bảng có thể đổi ra được hơn hai đô la"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049180_998ba90e5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049180_c65673abae_o.png",
+      "id_image": "exchange_377033"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312601_d9cd8bf3ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312601_125b98e823_o.png",
+      "id_image": "exchange_536143"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049145_089e45e252_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049145_ab44d929e1_o.png",
+      "id_image": "exchange_617061"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312526_5075b13034_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312526_8a955c77cc_o.png",
+      "id_image": "exchange_642469"
+    }
+  ]
+}

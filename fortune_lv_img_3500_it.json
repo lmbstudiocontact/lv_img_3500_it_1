@@ -1,0 +1,151 @@
+{
+  "english": "fortune",
+  "phat_am": "['fɔ:t∫u:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vận (may hay rủi)",
+          "list_en_vn": [
+            {
+              "full_en": "by a stroke of (good ) fortune , he won the competition",
+              "full_vn": "do một chút may mắn, anh ta đã chiến thắng cuộc đua"
+            },
+            {
+              "full_en": "to be a victim of ill fortune",
+              "full_vn": "là nạn nhân của vận rủi"
+            },
+            {
+              "full_en": "I'd the good fortune to be chosen for a trip abroad",
+              "full_vn": "tôi có may mắn được chọn cho đi nước ngoài"
+            },
+            {
+              "full_en": "to try one's fortune",
+              "full_vn": "cầu may"
+            },
+            {
+              "full_en": "the party's fortunes were at their lowest level after the election defeat",
+              "full_vn": "vận may của đảng lúc đó ở mức thấp nhất sau thất bại bầu cử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vận mệnh hoặc tương lai của một con người; số phận",
+          "list_en_vn": [
+            {
+              "full_en": "to tell someone's fortune ; to tell someone his fortune",
+              "full_vn": "đoán số của ai"
+            },
+            {
+              "full_en": "to tell fortunes",
+              "full_vn": "bói toán; làm nghề bói toán"
+            },
+            {
+              "full_en": "to have one's fortune told",
+              "full_vn": "xem bói (hỏi ý kiến thầy bói)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự giàu có, sự thịnh vượng; của cải, cơ đồ",
+          "list_one_mean": [
+            {
+              "id_full_en": "a soldier of fortune",
+              "list_im": [
+                {
+                  "im_full_vn": "lính đánh thuê"
+                }
+              ]
+            },
+            {
+              "id_full_en": "fortune favours the bold",
+              "list_im": [
+                {
+                  "im_full_vn": "có gan thì làm giàu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to try the fortune of war",
+              "list_im": [
+                {
+                  "im_full_vn": "thử liều chinh chiến (để xây dựng cơ đồ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a hostage to fortune",
+              "list_im": [
+                {
+                  "im_full_vn": "con tin có tính cách quyết định"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to seek one's fortune",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm vận may, cầu may"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a small fortune",
+              "list_im": [
+                {
+                  "im_full_vn": "nhiều tiền",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the car cost me a small fortune",
+                      "full_vn": "chiếc xe hơi này tôi phải mất nhiều tiền mới mua được"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to make one's fortune",
+              "full_vn": "phát đạt, phát tài"
+            },
+            {
+              "full_en": "he made a considerable fortune selling waste materials",
+              "full_vn": "anh ta giàu to nhờ buôn bán vật liệu phế thải"
+            },
+            {
+              "full_en": "to marry a fortune",
+              "full_vn": "lấy vợ giàu"
+            },
+            {
+              "full_en": "to inherit a large fortune",
+              "full_vn": "thừa kế một gia sản lớn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ), (thơ ca) may; xảy ra",
+          "list_en_vn": [
+            {
+              "full_en": "it fortuned that he was at home then",
+              "full_vn": "may mà lúc ấy anh ta lại có ở nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314216_ebd93684cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314216_4f6f227825_o.png",
+      "id_image": "fortune_1787440"
+    }
+  ]
+}

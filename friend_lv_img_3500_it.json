@@ -1,0 +1,136 @@
+{
+  "english": "friend",
+  "phat_am": "[frend]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người mà ta quen biết và yêu mến nhưng không phải họ hàng; người bạn; bạn",
+          "list_en_vn": [
+            {
+              "full_en": "we are all good friends",
+              "full_vn": "chúng tôi là bạn tốt của nhau"
+            },
+            {
+              "full_en": "I've known her for years , but she was never a friend",
+              "full_vn": "tôi quen cô ấy đã nhiều năm, nhưng cô ấy chưa bao giờ là bạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người ủng hộ, người giúp đỡ",
+          "list_en_vn": [
+            {
+              "full_en": "a friend of the arts /the poor",
+              "full_vn": "người bạn của nghệ thuật/của những người nghèo"
+            },
+            {
+              "full_en": "a friend of justice /peace",
+              "full_vn": "người ủng hộ công lý/hoà bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người cùng nhóm/đất nước; đồng minh",
+          "list_en_vn": [
+            {
+              "full_en": "at last , among friends , he was free to speak his mind",
+              "full_vn": "cuối cùng, giữa bạn bè với nhau, anh ta thoải mái nói lên ý nghĩ của mình"
+            },
+            {
+              "full_en": "who goes there - friend or foe ?",
+              "full_vn": "ai đấy? - bạn hay thù?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái có ich, cái quen thuộc",
+          "list_en_vn": [
+            {
+              "full_en": "honesty has always been his best friend",
+              "full_vn": "tính trung thực bao giờ cũng là người bạn tốt nhất của anh ta"
+            },
+            {
+              "full_en": "self-reliance is one's best friend",
+              "full_vn": "dựa vào sức mình là điều tốt nhất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( Friend ) tín đồ Quây-cơ"
+        },
+        {
+          "m_full_vn": "người được nói đến trước công chúng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be /make friends with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "là/trở thành bạn của ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they soon forgot their differences and were friends again",
+                      "full_vn": "chẳng bao lâu họ đã quên đi những mối bất hoà và lại là bạn của nhau"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "a friend in need is a friend indeed",
+              "list_im": [
+                {
+                  "im_full_vn": "bạn trong lúc khó khăn hoạn nạn mới thật là bạn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "our friend from China will now tell us about her research",
+              "full_vn": "người bạn của chúng ta từ Trung Quốc đến sẽ nói chuyện với chúng ta về công cuộc nghiên cứu của bà ấy"
+            },
+            {
+              "full_en": "Friends , it is with great pleasure that I introduce ...",
+              "full_vn": "Thưa các bạn, tôi rất vui mừng giới thiệu...."
+            },
+            {
+              "full_en": "my learned friend",
+              "full_vn": "ông bạn thông thái của tôi (cách xưng hô của một luật sư với một luật sư khác ở toà án)"
+            },
+            {
+              "full_en": "my honourable friend",
+              "full_vn": "ông bạn đáng kính của tôi (cách xưng hổcua một nghị sĩ gọi một nghị sĩ khác tại Hạ viện Anh)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "như befriend"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699449_4b6607aa21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699449_89a51307c7_o.png",
+      "id_image": "friend_1141092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344291_4feea2454c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344291_b05f0128cc_o.png",
+      "id_image": "friend_1141127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699384_80cbde3ee6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699384_72e56475be_o.png",
+      "id_image": "friend_2495155"
+    }
+  ]
+}

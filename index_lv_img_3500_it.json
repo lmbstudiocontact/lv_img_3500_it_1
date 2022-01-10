@@ -1,0 +1,86 @@
+{
+  "english": "index",
+  "phat_am": "['indeks]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( số nhiều là indexes ) danh mục các tên hoặc vấn đề được nói đến trong một quyển sách, thường để ở cuối và xếp theo thứ tự ABC; bảng chú dẫn",
+          "list_en_vn": [
+            {
+              "full_en": "a library index",
+              "full_vn": "bản liệt kê của thư viện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) bản liệt kê các loại sách bị giáo hội cấm",
+          "list_en_vn": [
+            {
+              "full_en": "to put a book on the index",
+              "full_vn": "cấm lưu hành một cuốn sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "như card index"
+        },
+        {
+          "m_full_vn": "( số nhiều là indexes hoặc indices ) số liệu chỉ mức giá cả hoặc tiền công tương đối so với mức của thời gian trước; chỉ số so sánh",
+          "list_en_vn": [
+            {
+              "full_en": "the cost -of -living index",
+              "full_vn": "chỉ số giá cả sinh hoạt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "một vật làm dấu hiệu cho một vật khác, nhất là do nó tăng hoặc giảm theo tỉ lệ; thước đo",
+          "list_en_vn": [
+            {
+              "full_en": "the increasing sale of luxury goods is an index of the country's prosperity",
+              "full_vn": "doanh số hàng hoá xa xỉ tăng lên là thước đo sự phồn vinh của một nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều là indices ) (toán học) chữ số hoặc chữ cái nhỏ cho biết một số lượng được nhân với chính nó mấy lần; số mũ"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lập bảng chú dẫn cho cái gì; đưa cái gì vào bảng chú dẫn"
+        },
+        {
+          "m_full_vn": "lập mối liên hệ (giữa tiền lương, tiền hưu...) với sự tăng giá"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318106_d1b8753010_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318106_738a6ac97f_o.png",
+      "id_image": "index_2329851"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672914_d8d217d3cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672914_7279e5ddb8_o.png",
+      "id_image": "index_2472045"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672854_de81635c8c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672854_8e7b5f4750_o.png",
+      "id_image": "index_2748516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433213_8d996596e2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433213_e31595567b_o.png",
+      "id_image": "index_3527778"
+    }
+  ]
+}

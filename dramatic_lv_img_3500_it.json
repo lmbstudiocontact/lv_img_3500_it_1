@@ -1,0 +1,64 @@
+{
+  "english": "dramatic",
+  "phat_am": "[drə'mætik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuộc về kịch",
+          "list_en_vn": [
+            {
+              "full_en": "a dramatic society",
+              "full_vn": "một hội kịch"
+            },
+            {
+              "full_en": "a dramatic representation of a real event",
+              "full_vn": "thể hiện một sự kiện có thật thành kịch"
+            },
+            {
+              "full_en": "dramatic irony",
+              "full_vn": "sự trớ trêu đầy kịch tính"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gây ấn tượng sâu sắc; gây xúc động",
+          "list_en_vn": [
+            {
+              "full_en": "dramatic changes , developments , news",
+              "full_vn": "những biến đổi, phát triển, tin tức gây xúc động"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043845_04f7a049b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043845_e5c265712d_o.png",
+      "id_image": "drama_2368384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662174_f66e389f72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662174_9e85000daa_o.png",
+      "id_image": "drama_2445272"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421938_d41f69754e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421938_f572e5f4d6_o.png",
+      "id_image": "drama_2892524"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043735_4cddd793f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043735_310cf0d8bc_o.png",
+      "id_image": "drama_6000854"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043730_853af09e37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043730_fb0f463bcf_o.png",
+      "id_image": "drama_6347692"
+    }
+  ]
+}

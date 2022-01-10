@@ -1,0 +1,122 @@
+{
+  "english": "leap",
+  "phat_am": "[li:p]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhảy"
+        },
+        {
+          "m_full_vn": "quãng cách nhảy qua"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) sự biến đổi thình lình",
+          "list_one_mean": [
+            {
+              "id_full_en": "leap in the dark",
+              "list_im": [
+                {
+                  "im_full_vn": "một hành động liều lĩnh mạo hiểm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by leaps and bounds",
+              "list_im": [
+                {
+                  "im_full_vn": "rất nhanh",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "her health is improving by leaps and bounds",
+                      "full_vn": "sức khoẻ cô ấy hồi phục rất nhanh"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ leaped , leapt",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy qua, vượt qua; bắt nhảy qua",
+          "list_en_vn": [
+            {
+              "full_en": "to leap a wall",
+              "full_vn": "nhảy qua một bức tường"
+            },
+            {
+              "full_en": "to leap a horse over a hedge",
+              "full_vn": "bắt ngựa nhảy qua hàng rào"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy lên; lao vào",
+          "list_en_vn": [
+            {
+              "full_en": "to leap for joy",
+              "full_vn": "nhảy lên vì vui sướng"
+            },
+            {
+              "full_en": "to leap on the enemy",
+              "full_vn": "lao vào kẻ thù"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nắm ngay lấy",
+          "list_one_mean": [
+            {
+              "id_full_en": "look before you leap",
+              "list_im": [
+                {
+                  "im_full_vn": "phải suy nghĩ cẩn thận trước khi hành động; ăn có nhai, nói có nghĩ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's heart leaps into one's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "sợ hết hồn, sợ chết khiếp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to leap in the dark",
+              "list_im": [
+                {
+                  "im_full_vn": "nhắm mắt đưa chân, nhắm mắt nhảy liều"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to leap at an opportunity",
+              "full_vn": "nắm ngay lấy cơ hội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672044_868cf57709_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672044_4b1fca1b62_o.png",
+      "id_image": "leap_2586978"
+    }
+  ]
+}

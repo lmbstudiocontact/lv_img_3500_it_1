@@ -1,0 +1,68 @@
+{
+  "english": "forecast",
+  "phat_am": "['fɔ:kɑ:st]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự dự đoán trước; sự dự báo trước",
+          "list_en_vn": [
+            {
+              "full_en": "weather forecast",
+              "full_vn": "dự báo thời tiết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) sự biết lo xa"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ, forecast , forecasted",
+      "list_m": [
+        {
+          "m_full_vn": "dự đoán, đoán trước; dự báo",
+          "list_en_vn": [
+            {
+              "full_en": "to forecast the weather",
+              "full_vn": "dự báo thời tiết"
+            },
+            {
+              "full_en": "can you forecast the results of the coming general elections ?",
+              "full_vn": "anh dự báo được kết quả cuộc tổng tuyển cử sắp tới hay không?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360137_e71e9fa398_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360137_488303c086_o.png",
+      "id_image": "forecast_2274711"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315891_273e5ac592_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315891_41a59e3ab1_o.png",
+      "id_image": "forecast_2358660"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360032_0908428828_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360032_1278eea0f8_o.png",
+      "id_image": "forecast_5493096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315811_7104224d54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315811_8bf5274a54_o.png",
+      "id_image": "forecast_5579975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360167_116ffdbbf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360167_0ff6d63733_o.png",
+      "id_image": "forecast_994632"
+    }
+  ]
+}

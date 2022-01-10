@@ -1,0 +1,60 @@
+{
+  "english": "embryo",
+  "phat_am": "['embriou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều embryos",
+      "list_m": [
+        {
+          "m_full_vn": "(sinh vật học) động vật hoặc thực vật non ở thời kỳ đầu của sự phát triển trước khi sinh ra (hoặc trước khi ra khỏi trứng hoặc hạt); phôi; mầm",
+          "list_en_vn": [
+            {
+              "full_en": "an aborted embryo",
+              "full_vn": "một cái thai bị sẩy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kế hoạch, mưu đồ ở thời kỳ ban đầu; phôi thai; manh nha",
+          "list_en_vn": [
+            {
+              "full_en": "an embryo of an idea",
+              "full_vn": "sự phôi thai một ý tưởng"
+            },
+            {
+              "full_en": "the project is still at the embryo stage /in embryo",
+              "full_vn": "dự án đó vẫn còn ở thời kỳ phôi thai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059135_0df946215c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059135_f5d21406e7_o.png",
+      "id_image": "embryo_1742010"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677404_692058a0be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677404_b0601f5a4b_o.png",
+      "id_image": "embryo_3314732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059070_a1a42d7069_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059070_8627aeb8a7_o.png",
+      "id_image": "embryo_4072390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367127_dc1fd7c16e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367127_594e3c208a_o.png",
+      "id_image": "embryo_5969114"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367292_7d8358bf05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367292_981cd3bc5a_o.png",
+      "id_image": "embryo_819107"
+    }
+  ]
+}

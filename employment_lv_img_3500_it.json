@@ -1,0 +1,73 @@
+{
+  "english": "employment",
+  "phat_am": "[im'plɔimənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động thuê người làm; công việc",
+          "list_en_vn": [
+            {
+              "full_en": "the expansion of the factory will mean the employment of sixty extra workers",
+              "full_vn": "việc mở rộng nhà máy có nghĩa là có công ăn việc làm cho sáu chục công nhân nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng được thuê làm công; việc làm",
+          "list_en_vn": [
+            {
+              "full_en": "to be in /out of regular full-time employment",
+              "full_vn": "có/không có việc làm thường xuyên"
+            },
+            {
+              "full_en": "employment agency",
+              "full_vn": "văn phòng giới thiệu việc làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc làm (nhất là việc làm (thường) xuyên được trả lương)",
+          "list_en_vn": [
+            {
+              "full_en": "to give employment to somebody",
+              "full_vn": "tạo công ăn việc làm cho ai"
+            },
+            {
+              "full_en": "to find employment",
+              "full_vn": "tìm việc làm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365762_06ed3e4d15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365762_c7a8377992_o.png",
+      "id_image": "employment_1924552"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435998_9805d96c93_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435998_6f7d4b8434_o.png",
+      "id_image": "employment_2419582"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675864_b63621f5a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675864_2a1c927124_o.png",
+      "id_image": "employment_2464202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675809_32922ecba9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675809_ab5a2cfc46_o.png",
+      "id_image": "employment_3896459"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365652_edfa111f5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365652_0c148b9a87_o.png",
+      "id_image": "employment_4901659"
+    }
+  ]
+}

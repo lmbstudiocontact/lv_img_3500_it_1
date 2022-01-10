@@ -1,0 +1,118 @@
+{
+  "english": "fashion",
+  "phat_am": "['fæ∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kiểu cách; hình dáng",
+          "list_en_vn": [
+            {
+              "full_en": "after the fashion of",
+              "full_vn": "theo kiểu, giống như, y như"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mốt, thời trang",
+          "list_en_vn": [
+            {
+              "full_en": "to set the fashion",
+              "full_vn": "đề ra một mốt"
+            },
+            {
+              "full_en": "in fashion",
+              "full_vn": "hợp thời trang"
+            },
+            {
+              "full_en": "out of fashion",
+              "full_vn": "không hợp thời trang"
+            },
+            {
+              "full_en": "dressed in the height of fashion",
+              "full_vn": "ăn mặc đúng mốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sử học); (đùa cợt) tập tục phong lưu đài các",
+          "list_one_mean": [
+            {
+              "id_full_en": "after (in ) a fashion",
+              "list_im": [
+                {
+                  "im_full_vn": "tàm tạm, tạm được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in one's own fashion",
+              "list_im": [
+                {
+                  "im_full_vn": "theo ý mình, theo cách của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the fashion",
+              "list_im": [
+                {
+                  "im_full_vn": "những người sang, những người lịch sự"
+                },
+                {
+                  "im_full_vn": "người nổi tiếng đương thời; vật nổi tiếng đương thời"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "man of fashion",
+              "full_vn": "người phong lưu đài các, người kiểu cách"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tạo thành, cấu thành"
+        },
+        {
+          "m_full_vn": "nặn, rập theo khuôn; tạo thành hình",
+          "list_en_vn": [
+            {
+              "full_en": "to fashion a vase from clay",
+              "full_vn": "nặn một cái bình bằng đất sét"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380322_c63664369a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380322_c17e7ff37d_o.png",
+      "id_image": "fashion_4515576"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072155_823545bf46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072155_4199cb6681_o.png",
+      "id_image": "fashion_4647174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335206_48f9a3291b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335206_cab48cdee3_o.png",
+      "id_image": "fashion_4647299"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380222_d2d562e4b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380222_d806eddc21_o.png",
+      "id_image": "fashion_5825559"
+    }
+  ]
+}

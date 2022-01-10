@@ -1,0 +1,87 @@
+{
+  "english": "internal",
+  "phat_am": "[in'tə:nl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở trong, bên trong, nội bộ, nội địa",
+          "list_en_vn": [
+            {
+              "full_en": "internal structure of a computer",
+              "full_vn": "cấu trúc bên trong của một máy điện toán"
+            },
+            {
+              "full_en": "holding an internal inquiry to find out who is responsible",
+              "full_vn": "tiến hành điều tra nội bộ (trong một tổ chức) xem ai là người chịu trách nhiệm"
+            },
+            {
+              "full_en": "an internal angle",
+              "full_vn": "gòc trong"
+            },
+            {
+              "full_en": "internal disputes",
+              "full_vn": "những cuộc tranh chấp trong nội bộ"
+            },
+            {
+              "full_en": "internal trade",
+              "full_vn": "sự buôn bán trong nước, nội thương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bên trong cơ thể",
+          "list_en_vn": [
+            {
+              "full_en": "she's been having some internal problems",
+              "full_vn": "cô ta bị trục trặc gì đó bên trong cơ thể"
+            },
+            {
+              "full_en": "internal organs",
+              "full_vn": "các bộ phận bên trong cơ thể"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "về tâm trí, nhưng không thể hiện ra bên ngoài",
+          "list_en_vn": [
+            {
+              "full_en": "wrestling with internal doubts",
+              "full_vn": "dằn vặt với những nghi ngờ trong thâm tâm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) bản chất; nội tại",
+          "list_en_vn": [
+            {
+              "full_en": "internal evidence",
+              "full_vn": "chứng cớ nội tại"
+            },
+            {
+              "full_en": "a theory that lacks internal consistency",
+              "full_vn": "một lý thuyết thiếu sự nhất quán nội tại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về các kỳ thi) được tổ chức và chấm điểm riêng trong phạm vi một trường học",
+          "list_en_vn": [
+            {
+              "full_en": "internal examiner",
+              "full_vn": "người chấm thi nội bộ (chấm các bài thi của chính trường mình)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809341631_61809b2035_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809341631_cf04171d35_o.png",
+      "id_image": "internal_2712160"
+    }
+  ]
+}

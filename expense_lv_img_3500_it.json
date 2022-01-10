@@ -1,0 +1,103 @@
+{
+  "english": "expense",
+  "phat_am": "[iks'pens]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tiêu; phí tổn"
+        },
+        {
+          "m_full_vn": "( số nhiều) phụ phí, công tác phí",
+          "list_one_mean": [
+            {
+              "id_full_en": "at the expense of one's life",
+              "list_im": [
+                {
+                  "im_full_vn": "trả giá bằng sinh mệnh của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at the expense of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "do ai trả tiền phí tổn"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) không có lợi cho ai; làm cho ai mất uy tín"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get rich at somebody's expense",
+              "list_im": [
+                {
+                  "im_full_vn": "làm giàu bằng mồ hôi nước mắt của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh at somebody's expense",
+              "list_im": [
+                {
+                  "im_full_vn": "cười ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live at someone's expense",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn bám vào ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "expense account",
+              "list_im": [
+                {
+                  "im_full_vn": "bản ghi tiền do một nhân viên chi tiêu trong quá trình làm việc (và sau này chủ sẽ thanh toán); bản tính công tác phí",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Whenever he buys petrol , he puts it on his expense account",
+                      "full_vn": "Mỗi lần mua xăng, anh ta lại ghi vào bản công tác phí"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808354352_736df172f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808354352_51432cefe4_o.png",
+      "id_image": "expense_2867713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047040_6a2fe520eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047040_6e62e1fc2f_o.png",
+      "id_image": "expense_3772930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425258_4cd5c3f87d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425258_2b86f534a3_o.png",
+      "id_image": "expense_5138402"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310181_794cb329b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310181_8112d973c5_o.png",
+      "id_image": "expense_5965574"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310161_d2f94749ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310161_82538a5924_o.png",
+      "id_image": "expense_6078603"
+    }
+  ]
+}

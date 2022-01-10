@@ -1,0 +1,78 @@
+{
+  "english": "grease",
+  "phat_am": "[gri:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mỡ (của súc vật)"
+        },
+        {
+          "m_full_vn": "dầu mỡ, dầu nhờn"
+        },
+        {
+          "m_full_vn": "(thú y học) bệnh thối gót (ngựa)"
+        },
+        {
+          "m_full_vn": "(dược học) thuốc mỡ",
+          "list_one_mean": [
+            {
+              "id_full_en": "in grease ; in pride of grease ; in prime of grease",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về súc vật) béo, giết thịt được rồi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bôi mỡ, bơm mỡ, xoa mỡ",
+          "list_en_vn": [
+            {
+              "full_en": "to grease a machine",
+              "full_vn": "bôi dầu mỡ cho một cái máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm cho trơn tru (công việc)"
+        },
+        {
+          "m_full_vn": "(thú y học) làm thối gót (ngựa)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to grease sb's palm",
+              "list_im": [
+                {
+                  "im_full_vn": "đút lót, hối lộ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like greased lightning",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) nhanh như chớp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368082_0491815a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368082_f5c485f433_o.png",
+      "id_image": "grease_3690204"
+    }
+  ]
+}

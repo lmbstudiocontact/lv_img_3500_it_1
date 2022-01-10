@@ -1,0 +1,84 @@
+{
+  "english": "government",
+  "phat_am": "['gʌvnmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cai trị; quyền lực để lãnh đạo; chính quyền",
+          "list_en_vn": [
+            {
+              "full_en": "weak , ineffectual , corrupt government",
+              "full_vn": "chính quyền yếu, bất lực, tham nhũng"
+            },
+            {
+              "full_en": "central /local government",
+              "full_vn": "chính quyền trung ương/địa phương"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách thức hoặc hệ thống lãnh đạo; chính quyền",
+          "list_en_vn": [
+            {
+              "full_en": "democratic government gradually took place of an all-powerful monarchy",
+              "full_vn": "chính thể dân chủ dần dần thay thế nền quân chủ chuyên chế"
+            },
+            {
+              "full_en": "liberal , totalitarian , parliamentary government",
+              "full_vn": "chính thể tự do, chuyên chế, đại nghị"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the Government ) cơ quan bao gồm những người cai trị một đất nước; nội các; chính phủ",
+          "list_one_mean": [
+            {
+              "id_full_en": "in government",
+              "list_im": [
+                {
+                  "im_full_vn": "cầm quyền; chấp chính",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "The Labour Party was in government from 1964 to 1970",
+                      "full_vn": "Công đảng cầm quyền từ năm 1964 đến năm 1970"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the Government of the Democratic Republic of Vietnam",
+              "full_vn": "chính phủ nước Việt Nam dân chủ cộng hoà"
+            },
+            {
+              "full_en": "to form /lead a government",
+              "full_vn": "lập/lãnh đạo chính phủ"
+            },
+            {
+              "full_en": "the Government welcomes the proposal",
+              "full_vn": "chính phủ hoan nghênh đề nghị ấy"
+            },
+            {
+              "full_en": "the Government are discussing the proposal",
+              "full_vn": "chính phủ đang thảo luận lời đề nghị"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372357_c2b442d912_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372357_0b1dbcbe67_o.png",
+      "id_image": "government_1312036"
+    }
+  ]
+}

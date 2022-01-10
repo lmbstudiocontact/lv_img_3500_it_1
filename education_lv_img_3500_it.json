@@ -1,0 +1,70 @@
+{
+  "english": "education",
+  "phat_am": "[,edju:'kei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giáo dục; nền giáo dục",
+          "list_en_vn": [
+            {
+              "full_en": "Ministry of Education",
+              "full_vn": "Bộ giáo dục"
+            },
+            {
+              "full_en": "a child receives early education at home",
+              "full_vn": "đứa trẻ được giáo dục ban đầu ở nhà"
+            },
+            {
+              "full_en": "primary /secondary /tertiary /adult education",
+              "full_vn": "hệ thống giáo dục cơ sở/cấp hai/cấp ba/dành cho người lớn tuổi"
+            },
+            {
+              "full_en": "no country can afford to neglect the education of its young people",
+              "full_vn": "không nước nào dám xao nhãng việc giáo dục thanh niên"
+            },
+            {
+              "full_en": "a man of little education",
+              "full_vn": "một người kém giáo dục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiến thức, khả năng và sự phát triển tính cách và năng lực trí tuệ bắt nguồn từ việc đào tạo",
+          "list_en_vn": [
+            {
+              "full_en": "intellectual , moral , physical education",
+              "full_vn": "trí dục, đức dục, thể dục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lĩnh vực nghiên cứu nhằm giải quyết vấn đề dạy học như thế nào; giáo dục học"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065900_532bee8442_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065900_a93897c10a_o.png",
+      "id_image": "education_1328242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329016_640578b663_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329016_8e7e37eb5d_o.png",
+      "id_image": "education_2831157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065975_7daf6c1218_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065975_bdd504535e_o.png",
+      "id_image": "education_325670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684119_738d3d64c6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684119_c4ea6c0f33_o.png",
+      "id_image": "education_992622"
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "english": "far",
+  "phat_am": "[fɑ:]",
+  "list_type": [
+    {
+      "type": "tính từ farther , further , farthest , furthest",
+      "list_m": [
+        {
+          "m_full_vn": "xa, xa xôi, xa xăm",
+          "list_one_mean": [
+            {
+              "id_full_en": "a far cry from something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "một kinh nghiệm rất khác từ cái gì/làm cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "life on a farm is a far cry from what I've been used to",
+                      "full_vn": "cuộc sống ở một trang trại rất khác những gì quen thuộc với tôi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a far region /country",
+              "full_vn": "một vùng/đất nước xa xôi"
+            },
+            {
+              "full_en": "at the far end of the building",
+              "full_vn": "ở tít đầu kia của toà nhà"
+            },
+            {
+              "full_en": "she's on the far right",
+              "full_vn": "cô ta thuộc phe cực hữu"
+            },
+            {
+              "full_en": "the Far East",
+              "full_vn": "miền Viễn Đông"
+            },
+            {
+              "full_en": "the Far West",
+              "full_vn": "miền Viễn Tây"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ farther , further , farthest , furthest",
+      "list_m": [
+        {
+          "m_full_vn": "(trong câu hỏi và câu phủ định) xa",
+          "list_en_vn": [
+            {
+              "full_en": "How far is it to London from here ? - London's a long way from here",
+              "full_vn": "Từ đây tới Luân Đôn bao xa? - Luân Đôn cách xa đây lắm"
+            },
+            {
+              "full_en": "How far have we walked ? - We've walked only a short way",
+              "full_vn": "Chúng ta đã đi bộ được bao xa? - Chúng ta mới đi một quãng ngắn thôi"
+            },
+            {
+              "full_en": "we didn't go far",
+              "full_vn": "chúng tôi đã không đi xa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách xa",
+          "list_en_vn": [
+            {
+              "full_en": "far above the clouds",
+              "full_vn": "cách xa bên trên các đám mây"
+            },
+            {
+              "full_en": "not far from here",
+              "full_vn": "cách đây không xa"
+            },
+            {
+              "full_en": "far beyond the bridge",
+              "full_vn": "xa bên kia cầu"
+            },
+            {
+              "full_en": "call me if you need me ; I won't be far away /off",
+              "full_vn": "nếu cần thì cứ gọi tôi, tôi không đi xa đâu"
+            },
+            {
+              "full_en": "far back in history",
+              "full_vn": "trong lịch sử xa xưa"
+            },
+            {
+              "full_en": "as far back as 1902",
+              "full_vn": "ngay từ năm 1902"
+            },
+            {
+              "full_en": "to live far beyond one's means",
+              "full_vn": "sống quá khả năng mà mình có được"
+            },
+            {
+              "full_en": "he's fallen far in his work",
+              "full_vn": "nó rất chậm trễ trong công việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đứng trước tính từ và phó từ so sánh) nhiều, rất nhiều",
+          "list_one_mean": [
+            {
+              "id_full_en": "as far as",
+              "list_im": [
+                {
+                  "im_full_vn": "cho tận đến",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've read as far as the third chapter",
+                      "full_vn": "tôi đã đọc đến tận chương ba"
+                    },
+                    {
+                      "full_en": "I'll walk with you as far as the post office",
+                      "full_vn": "tôi sẽ đi với anh đến tận nhà bưu điện"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as /so far as",
+              "list_im": [
+                {
+                  "im_full_vn": "xa như; tới chừng mực mà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we didn't go so far as the others",
+                      "full_vn": "chúng tôi không đi xa như những người khác"
+                    },
+                    {
+                      "full_en": "so far as I know /as far as I can see",
+                      "full_vn": "(trong chừng mực mà) theo như tôi biết/theo như tôi thấy được"
+                    },
+                    {
+                      "full_en": "his parents supported him as far as they could",
+                      "full_vn": "cha mẹ nó lo cho nó trong chừng mực mà họ lo được"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as /so far in me lies",
+              "list_im": [
+                {
+                  "im_full_vn": "trong chừng mực mà tôi làm được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as /so far as it goes",
+              "list_im": [
+                {
+                  "im_full_vn": "tới một chừng mực hạn chế mà thôi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "your plan is a good one as far as it goes",
+                      "full_vn": "kế hoạch của anh tạm được"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as /so far as something /somebody is concerned",
+              "list_im": [
+                {
+                  "im_full_vn": "theo cách hoặc ở chừng mực mà cái gì/ai có liên quan hoặc chịu ảnh hưởng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the rise in interest rates will be disastrous as far as small firms are concerned",
+                      "full_vn": "việc nâng lãi suất sẽ tai hại đồi với các hãng nhỏ"
+                    },
+                    {
+                      "full_en": "as far as I'm concerned , you can do what you like",
+                      "full_vn": "về phần tôi, anh muốn làm gì thì làm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "by far",
+              "list_im": [
+                {
+                  "im_full_vn": "(sau tính từ hoặc phó từ) rất nhiều, hơn xa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's quicker by far to go by train",
+                      "full_vn": "đi xe lửa nhanh hơn rất nhiều"
+                    },
+                    {
+                      "full_en": "she's the best by far / she's by far the best",
+                      "full_vn": "cô ấy giỏi nhất, hơn xa mọi người"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to carry /take something too far",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp tục làm cái gì quá những giới hạn hợp lý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "far /farther /further afield",
+              "list_im": [
+                {
+                  "im_full_vn": "xem afield"
+                }
+              ]
+            },
+            {
+              "id_full_en": "far and away",
+              "list_im": [
+                {
+                  "im_full_vn": "(đứng trước tính từ so sánh cao nhất) rất nhiều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's far and away the best actress I've seen",
+                      "full_vn": "cô ta là diễn viên giỏi nhất mà tôi từng gặp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "as far as the eye can see",
+              "list_im": [
+                {
+                  "im_full_vn": "đến tận chân trời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "far and near /wide",
+              "list_im": [
+                {
+                  "im_full_vn": "khắp nơi; rộng khắp",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they searched far and wide for the missing child",
+                      "full_vn": "họ lục soát khắp nơi để tìm đứa bé mất tích"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "far be it from me to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "không khi nào tôi lại..., không đời nào tôi...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "far be it from me to interfere in your affairs",
+                      "full_vn": "không đời nào tôi lại xía vào việc của anh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "far from doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "chẳng những không làm điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "far from going to school , they play cards",
+                      "full_vn": "chẳng những không đi học, chúng lại còn đánh bài"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "far from something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "không hề",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the problem is far from simple",
+                      "full_vn": "vấn đề không đơn giản chút nào"
+                    },
+                    {
+                      "full_en": "your account is far from (being ) true /is far from the truth",
+                      "full_vn": "bản báo cáo của ông rất xa sự thật/không thật chút nào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "far from it",
+              "list_im": [
+                {
+                  "im_full_vn": "không hề như vậy; ngược lại là khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "few and far between",
+              "list_im": [
+                {
+                  "im_full_vn": "xem few"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to go as /so far as to do something /as that",
+              "list_im": [
+                {
+                  "im_full_vn": "không (đi xa) đến nỗi cho rằng...",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I won't go so far as to say that he is dishonest",
+                      "full_vn": "tôi khôngđi xa tới chỗ cho rằng nó bất lương"
+                    },
+                    {
+                      "full_en": "he doesn't go so far as to say that his parents are stupid",
+                      "full_vn": "hắn chưa đến nỗi nói rằng cha mẹ hắn ngu xuẩn"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go far",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về tiền tệ) có sức mua mạnh"
+                },
+                {
+                  "im_full_vn": "(nói về lương thực thực phẩm) đủ, không thiếu"
+                },
+                {
+                  "im_full_vn": "thành công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go far towards something /doing something",
+              "list_im": [
+                {
+                  "im_full_vn": "góp phần đáng kể vào việc hoàn thành điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in so far as",
+              "list_im": [
+                {
+                  "im_full_vn": "tới một chừng mức mà",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this is the truth in so far as I know it",
+                      "full_vn": "đó là sự thật trong chừng mực mà tôi biết được"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "not far off /out /wrong",
+              "list_im": [
+                {
+                  "im_full_vn": "không sai lệch bao nhiêu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go too far",
+              "list_im": [
+                {
+                  "im_full_vn": "vượt quá giới hạn cho phép"
+                }
+              ]
+            },
+            {
+              "id_full_en": "so far",
+              "list_im": [
+                {
+                  "im_full_vn": "tới một mức độ nhất định mà thôi"
+                },
+                {
+                  "im_full_vn": "cho đến đây, cho đến bây giờ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I trust you only so far (and no further )",
+                      "full_vn": "tôi tin anh đến mức đó mà thôi (chứ không hơn nữa)"
+                    },
+                    {
+                      "full_en": "so far the work has been easy but things may change",
+                      "full_vn": "đến nay công việc đã dễ rồi, nhưng có thể tình hình sẽ thay đổi"
+                    },
+                    {
+                      "full_en": "so far so good",
+                      "full_vn": "cho đến đây mọi việc đều tốt lành; cho đến bây giờ mọi việc đều ổn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a far better solution",
+              "full_vn": "một giải pháp tốt hơn rất nhiều"
+            },
+            {
+              "full_en": "he runs far faster than you",
+              "full_vn": "nó chạy xa hơn anh rất nhiều"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691109_2948b659d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691109_8e7888885e_o.png",
+      "id_image": "far_2165949"
+    }
+  ]
+}

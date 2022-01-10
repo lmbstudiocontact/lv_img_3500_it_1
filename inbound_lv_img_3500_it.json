@@ -1,0 +1,37 @@
+{
+  "english": "inbound",
+  "phat_am": "['inbaund]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi về nước, hồi hương",
+          "list_en_vn": [
+            {
+              "full_en": "an inbound ship",
+              "full_vn": "một chuyến tàu về nước"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364957_e8e9f3cd10_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364957_a4e3b7c0be_o.png",
+      "id_image": "inbound_2706903"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809675064_2828a7aa12_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809675064_994bf1cc2d_o.png",
+      "id_image": "inbound_3922207"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364847_04a82629fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364847_44f836dfe8_o.png",
+      "id_image": "inbound_5672966"
+    }
+  ]
+}

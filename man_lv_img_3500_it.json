@@ -1,0 +1,230 @@
+{
+  "english": "man",
+  "phat_am": "[men]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều men",
+      "list_m": [
+        {
+          "m_full_vn": "người, con người"
+        },
+        {
+          "m_full_vn": "đàn ông, nam nhi",
+          "list_en_vn": [
+            {
+              "full_en": "to behave like a man",
+              "full_vn": "xử sự như một trang nam nhi"
+            },
+            {
+              "full_en": "to be only half a man",
+              "full_vn": "yếu đuối, nhút nhát, không xứng đáng là nam nhi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chồng",
+          "list_en_vn": [
+            {
+              "full_en": "to be man and wife",
+              "full_vn": "thành vợ chồng của nhau; kết hôn với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người (chỉ quân lính trong một đơn vị quân đội, công nhân trong một xí nghiệp, công xưởng...)",
+          "list_en_vn": [
+            {
+              "full_en": "an army of 10,000 men",
+              "full_vn": "một đạo quân một vạn người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người hầu, đầy tớ (trai)"
+        },
+        {
+          "m_full_vn": "cậu, cậu cả (tiếng xưng hô thân mật khi bực dọc)",
+          "list_en_vn": [
+            {
+              "full_en": "hurry up , man ! we are late !",
+              "full_vn": "nhanh lên cậu cả, muộn rồi!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quân cờ",
+          "list_one_mean": [
+            {
+              "id_full_en": "a man in a thousand",
+              "list_im": [
+                {
+                  "im_full_vn": "người hiếm có, người hàng nghìn người mới có một"
+                }
+              ]
+            },
+            {
+              "id_full_en": "man and boy",
+              "list_im": [
+                {
+                  "im_full_vn": "từ bé đến lớn, từ lúc còn thơ ấu đến lúc trưởng thành"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the man on the Clapham omnibus",
+              "list_im": [
+                {
+                  "im_full_vn": "quần chúng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a man of the world",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) world"
+                }
+              ]
+            },
+            {
+              "id_full_en": "man about town",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) about"
+                }
+              ]
+            },
+            {
+              "id_full_en": "man of letters",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) letter"
+                }
+              ]
+            },
+            {
+              "id_full_en": "man of straw",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) straw"
+                }
+              ]
+            },
+            {
+              "id_full_en": "man of all work",
+              "list_im": [
+                {
+                  "im_full_vn": "người làm đủ mọi nghề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "man of his word",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) word"
+                }
+              ]
+            },
+            {
+              "id_full_en": "man of honour",
+              "list_im": [
+                {
+                  "im_full_vn": "người quân tử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one -dollar -a -year man",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) trùm tư bản tham dự chính quyền chỉ lĩnh mỗi năm một đô la (lương tượng trưng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be one's own man",
+              "list_im": [
+                {
+                  "im_full_vn": "tự mình làm chủ, không bị lệ thuộc vào ai; sáng suốt, hoàn toàn tự giác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be one's own man again",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy lại được bình tĩnh"
+                },
+                {
+                  "im_full_vn": "tỉnh lại"
+                },
+                {
+                  "im_full_vn": "bình phục lại, lấy lại được sức khoẻ (sau một trận ốm)"
+                },
+                {
+                  "im_full_vn": "lại được tự do"
+                }
+              ]
+            },
+            {
+              "id_full_en": "every man jack",
+              "list_im": [
+                {
+                  "im_full_vn": "từng người một",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "every man jack of them ran off and left me",
+                      "full_vn": "từng người một trong bọn họ đã bỏ tôi mà chạy đi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cung cấp người",
+          "list_en_vn": [
+            {
+              "full_en": "to man a ship",
+              "full_vn": "cung cấp thuỷ thủ cho một con tàu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ vị trí ở, đứng vào vị trí ở (ổ súng đại bác)"
+        },
+        {
+          "m_full_vn": "làm cho mạnh mẽ, làm cho cường tráng; làm cho can đảm lên",
+          "list_en_vn": [
+            {
+              "full_en": "to man oneself",
+              "full_vn": "tự làm cho mình can đảm lên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "từ cảm thán"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442188_82570dc166_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442188_287c114831_o.png",
+      "id_image": "man_169889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682249_1aae8ca6ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682249_57826ac6b5_o.png",
+      "id_image": "man_366309"
+    }
+  ]
+}

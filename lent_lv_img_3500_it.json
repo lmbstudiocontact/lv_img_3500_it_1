@@ -1,0 +1,30 @@
+{
+  "english": "lent",
+  "phat_am": "[lent]",
+  "list_type": [
+    {
+      "type": "thời quá khứ & động tính từ quá khứ của lend"
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "Lent mùa chay, tuần chay (vào tháng ba)",
+          "list_en_vn": [
+            {
+              "full_en": "to keep lent",
+              "full_vn": "ăn chay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700599_ab97dce8b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700599_2037d2fcce_o.png",
+      "id_image": "lent_688456"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "entertainment",
+  "phat_am": "[,entə'teinmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc tiêu khiển, cuộc giải trí",
+          "list_en_vn": [
+            {
+              "full_en": "the entertainment of a group of foreign visitors",
+              "full_vn": "cuộc giải trí của một nhóm du khách nước ngoài"
+            },
+            {
+              "full_en": "he fell in the water , much to the entertainment of children",
+              "full_vn": "anh ta ngã xuống nước chủ yếu là để làm trò vui cho bọn trẻ con"
+            },
+            {
+              "full_en": "a place of entertainment",
+              "full_vn": "nơi vui chơi giải trí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "buổi biểu diễn ở nơi công cộng"
+        },
+        {
+          "m_full_vn": "sự nuôi dưỡng, sự ấp ủ (ảo tưởng, hy vọng, nghi ngờ, quan điểm...)"
+        },
+        {
+          "m_full_vn": "sự hoan nghênh, sự tán thành (ý kiến, đề nghị...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "entertainment allowance",
+              "list_im": [
+                {
+                  "im_full_vn": "phụ cấp tiếp khách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "entertainment tax",
+              "list_im": [
+                {
+                  "im_full_vn": "thuế đánh vào các buổi biểu diễn văn nghệ; thuế du hí"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433373_ba30019444_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433373_3ceca0d89c_o.png",
+      "id_image": "entertainment_5683994"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433338_3eaafcaab7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433338_9e752b1232_o.png",
+      "id_image": "entertainment_5684006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433298_80c4df4eab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433298_b865e6be07_o.png",
+      "id_image": "entertainment_5684018"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362567_53c9381483_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362567_f48c1fb280_o.png",
+      "id_image": "entertainment_5684027"
+    }
+  ]
+}

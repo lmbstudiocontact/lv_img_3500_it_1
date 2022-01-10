@@ -1,0 +1,27 @@
+{
+  "english": "horsepower",
+  "phat_am": "['hɔ:s'pauə]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều không đổi",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) sức ngựa; mã lực (viết tắt) là HP",
+          "list_en_vn": [
+            {
+              "full_en": "a twelve-horsepower engine",
+              "full_vn": "động cơ 12 mã lực"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686319_e762a878a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686319_46be4e0191_o.png",
+      "id_image": "horsepower_2905397"
+    }
+  ]
+}

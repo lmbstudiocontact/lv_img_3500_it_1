@@ -1,0 +1,68 @@
+{
+  "english": "giant",
+  "phat_am": "['dʒaiənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người khổng lồ; cây khổng lồ; thú vật khổng lồ"
+        },
+        {
+          "m_full_vn": "người phi thường",
+          "list_en_vn": [
+            {
+              "full_en": "there were giants in those days",
+              "full_vn": "ông cha ta ngày xưa cừ hơn chúng ta bây giờ nhiều"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khổng lồ",
+          "list_en_vn": [
+            {
+              "full_en": "a giant cabbage",
+              "full_vn": "cái bắp cải khổng lồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phi thường",
+          "list_en_vn": [
+            {
+              "full_en": "a man of giant strength",
+              "full_vn": "người có sức khoẻ phi thường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688699_4474e159cb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688699_b381032587_o.png",
+      "id_image": "giant_1587062"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688649_d39b9c2465_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688649_dce17ee235_o.png",
+      "id_image": "giant_2463611"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808378432_e09823dfae_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808378432_13ef871a88_o.png",
+      "id_image": "giant_3957289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448623_091b8066c4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448623_a2ab896d16_o.png",
+      "id_image": "giant_4545032"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "english": "enemy",
+  "phat_am": "['enimi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "kẻ thù, kẻ địch, địch thủ; quân địch",
+          "list_en_vn": [
+            {
+              "full_en": "to be one's own enemy",
+              "full_vn": "tự mình làm hại mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) thì giờ",
+          "list_one_mean": [
+            {
+              "id_full_en": "the Enemy",
+              "list_im": [
+                {
+                  "im_full_vn": "ma vương"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "how goes the enemy ?",
+              "full_vn": "mấy giờ rồi?"
+            },
+            {
+              "full_en": "to kill the enemy",
+              "full_vn": "giết thì giờ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "của địch, thù địch",
+          "list_en_vn": [
+            {
+              "full_en": "an enemy division",
+              "full_vn": "một sư đoàn địch quân"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056540_3b2b650966_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056540_8d55c5f212_o.png",
+      "id_image": "enemy_1477179"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "english": "key",
+  "phat_am": "[ki:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hòn đảo nhỏ"
+        },
+        {
+          "m_full_vn": "bãi cát nông; đá ngầm"
+        },
+        {
+          "m_full_vn": "chìa khoá"
+        },
+        {
+          "m_full_vn": "khoá (lên dây đàn, dây cót đồng hồ, vặn đinh ốc...)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) khoá; điệu, âm điệu",
+          "list_en_vn": [
+            {
+              "full_en": "the key of C major",
+              "full_vn": "khoá đô trưởng"
+            },
+            {
+              "full_en": "major key",
+              "full_vn": "điệu trưởng"
+            },
+            {
+              "full_en": "minor key",
+              "full_vn": "điệu thứ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) cái khoá",
+          "list_en_vn": [
+            {
+              "full_en": "charge and discharge key",
+              "full_vn": "cái khoá phóng nạp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phím (đàn pianô); nút bấm (sáo); nút chữ (máy chữ)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) mộng gỗ; chốt sắt; cái nêm"
+        },
+        {
+          "m_full_vn": "cái manip ( (thường) telegraph key )"
+        },
+        {
+          "m_full_vn": "( key to something ) chìa khoá (của một vấn đề...); bí quyết; giải pháp; điều then chốt",
+          "list_en_vn": [
+            {
+              "full_en": "the key to a mystery",
+              "full_vn": "chìa khoá để khám phá ra một điều bí ẩn"
+            },
+            {
+              "full_en": "the key to a difficulty",
+              "full_vn": "giải pháp cho một khó khăn"
+            },
+            {
+              "full_en": "diet and exercise are the key to good health",
+              "full_vn": "ăn kiêng và luyện tập là bí quyết để có sức khoẻ tốt"
+            },
+            {
+              "full_en": "the key to the whole movie was her hyprocrisy",
+              "full_vn": "điều then chốt trong toàn bộ cuốn phim là thói đạo đức giả của cô ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tập hợp các câu trả lời các bài tập hoặc bài toán"
+        },
+        {
+          "m_full_vn": "bản dịch theo từng chữ một"
+        },
+        {
+          "m_full_vn": "ý kiến chủ đạo, ý kiến bao trùm"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nguyên tắc cơ bản; khẩu hiệu chính trong một cuộc vận động"
+        },
+        {
+          "m_full_vn": "vị trí cửa ngõ, vị trí then chốt",
+          "list_en_vn": [
+            {
+              "full_en": "Gibraltar has been called the key to the Mediterranean",
+              "full_vn": "người ta gọi Gi-bran-ta là cửa ngõ của Địa trung hải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giọng; cách suy nghĩ, cách diễn đạt",
+          "list_en_vn": [
+            {
+              "full_en": "to speak in a high key",
+              "full_vn": "nói giọng cao"
+            },
+            {
+              "full_en": "to speak in a low key",
+              "full_vn": "nói giọng trầm"
+            },
+            {
+              "full_en": "all in the same key",
+              "full_vn": "đều đều, đơn điệu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) quyền lực của giáo hoàng",
+          "list_en_vn": [
+            {
+              "full_en": "power of the keys",
+              "full_vn": "quyền lực của giáo hoàng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "then chốt; chủ yếu",
+          "list_one_mean": [
+            {
+              "id_full_en": "golden (silver ) key",
+              "list_im": [
+                {
+                  "im_full_vn": "tiền đấm mồm, tiền hối lộ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have (get ) the key of the street",
+              "list_im": [
+                {
+                  "im_full_vn": "phải ngủ đêm ngoài đường, không cửa không nhà"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a key figure in the strike",
+              "full_vn": "một nhân vật chủ chốt trong cuộc đình công"
+            },
+            {
+              "full_en": "key position",
+              "full_vn": "vị trí then chốt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoá lại"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) ( (thường) + in , on ) chèn, chêm, nêm, đóng chốt"
+        },
+        {
+          "m_full_vn": "( (thường) + up ) lên dây (đàn pianô...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) làm cho hợp với, làm cho thích ứng với",
+          "list_one_mean": [
+            {
+              "id_full_en": "to key up",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) khích động, kích thích, cổ vũ, động viên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to key up somebody to do something",
+                      "full_vn": "động viên ai làm gì"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nâng cao, tăng cường",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to key up one's endeavour",
+                      "full_vn": "tăng cường nỗ lực"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) làm căng thẳng tinh thần, làm căng thẳng đầu óc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683919_4d6e9305b8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683919_aae0190622_o.png",
+      "id_image": "key_526811"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328816_85f54f5366_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328816_8c2cc0008b_o.png",
+      "id_image": "key_529250"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683854_138158c42f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683854_c44bc88056_o.png",
+      "id_image": "key_694193"
+    }
+  ]
+}

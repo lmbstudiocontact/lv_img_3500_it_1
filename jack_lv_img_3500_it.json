@@ -1,0 +1,174 @@
+{
+  "english": "jack",
+  "phat_am": "[dʒæk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả mít"
+        },
+        {
+          "m_full_vn": "(thực vật học) cây mít"
+        },
+        {
+          "m_full_vn": "gỗ mít"
+        },
+        {
+          "m_full_vn": "(hàng hải) lá cờ ( (thường) chỉ quốc tịch)",
+          "list_one_mean": [
+            {
+              "id_full_en": "Union Jack",
+              "list_im": [
+                {
+                  "im_full_vn": "quốc kỳ Anh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ (từ cổ,nghĩa cổ)",
+      "list_m": [
+        {
+          "m_full_vn": "áo chẽn không tay (của lính)"
+        },
+        {
+          "m_full_vn": "bình bằng da (để đựng nước, rượu...) ( (cũng) black jack )"
+        },
+        {
+          "m_full_vn": "Giắc (tên riêng, cách gọi thân mật của tên Giôn)"
+        },
+        {
+          "m_full_vn": "người con trai, gã ( (cũng) Jack )",
+          "list_en_vn": [
+            {
+              "full_en": "every man jack",
+              "full_vn": "mọi người"
+            },
+            {
+              "full_en": "Jack and Gill (Jill )",
+              "full_vn": "chàng và nàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(như) jack tar"
+        },
+        {
+          "m_full_vn": "nhân viên, thợ, người đi làm thuê làm mướn, người làm những công việc linh tinh ( (cũng) Jack )",
+          "list_en_vn": [
+            {
+              "full_en": "Jack in office",
+              "full_vn": "viên chức nhỏ nhưng hay làm ra vẻ ta đây quan trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) quân J"
+        },
+        {
+          "m_full_vn": "(quân sự), (từ lóng) lính quân cảnh"
+        },
+        {
+          "m_full_vn": "(động vật học) cá chó nhỏ"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) cái kích, cái pa-lăng; tay đòn, đòn bẩy"
+        },
+        {
+          "m_full_vn": "giá, bệ đỡ"
+        },
+        {
+          "m_full_vn": "cái đế rút giày ống ( (cũng) boot jack )"
+        },
+        {
+          "m_full_vn": "máy để quay xiên nướng thịt"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đuốc, đèn (để đi săn hoặc câu đêm) ( (cũng) jack light )",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be Jack of all trades and master of none",
+              "list_im": [
+                {
+                  "im_full_vn": "nghề gì cũng biết nhưng chẳng tinh nghề nào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "before you could say Jack Robinson",
+              "list_im": [
+                {
+                  "im_full_vn": "đột ngột, rất nhanh, không kịp kêu lên một tiếng, không kịp ngáp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( (thường) + up ) kích lên (xe ô tô...)"
+        },
+        {
+          "m_full_vn": "săn bằng đuốc, săn bằng đèn; câu bằng đuốc, câu bằng đèn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to jack up",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ, từ bỏ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to jack up one's job",
+                      "full_vn": "bỏ công việc"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) nâng, tăng (giá lương...)"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) quở trách, khiển, chỉnh (vì sao lãng...)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451498_2cc54368c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451498_0415f387a9_o.png",
+      "id_image": "jack_217131"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451468_6c059fc769_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451468_fabe306d23_o.png",
+      "id_image": "jack_287392"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336491_4a0667a6b3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336491_75c848bcc2_o.png",
+      "id_image": "jack_2906191"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451378_76b8e10020_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451378_3daff8f0f6_o.png",
+      "id_image": "jack_3348007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381437_d2a62b2a15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381437_0d371c418e_o.png",
+      "id_image": "jack_4284074"
+    }
+  ]
+}

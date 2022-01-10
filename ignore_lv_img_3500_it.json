@@ -1,0 +1,49 @@
+{
+  "english": "ignore",
+  "phat_am": "[ig'nɔ:]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "không để ý đến ai/cái gì; lờ đi",
+          "list_en_vn": [
+            {
+              "full_en": "You've been ignoring me",
+              "full_vn": "Anh đã phớt lờ tôi"
+            },
+            {
+              "full_en": "I can't ignore his rudeness any longer",
+              "full_vn": "Tôi không thể bỏ qua thói thô lỗ của hắn được nữa"
+            },
+            {
+              "full_en": "To ignore criticism",
+              "full_vn": "Phớt lờ lời chỉ trích"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cố tình không chào hoặc không nhận ra ai",
+          "list_en_vn": [
+            {
+              "full_en": "I said hello to her , but she ignored me completely",
+              "full_vn": "Tôi chào cô ta, nhưng cô ta hoàn toàn phớt lờ tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323586_acfbe21922_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323586_0100062909_o.png",
+      "id_image": "ignore_2419645"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678809_db6059791b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678809_8d8334e31f_o.png",
+      "id_image": "ignore_5772623"
+    }
+  ]
+}

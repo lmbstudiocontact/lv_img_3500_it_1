@@ -1,0 +1,45 @@
+{
+  "english": "ladle",
+  "phat_am": "['leidl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái môi (để múc)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "múc bằng môi",
+          "list_en_vn": [
+            {
+              "full_en": "to ladle out soup",
+              "full_vn": "múc súp bằng môi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367947_5914fa2aa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367947_49952ede75_o.png",
+      "id_image": "ladle_4975117"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438218_4800f44533_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438218_a4a4862c23_o.png",
+      "id_image": "ladle_628152"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438173_03c3515cc1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438173_6f5c80067f_o.png",
+      "id_image": "ladle_904632"
+    }
+  ]
+}

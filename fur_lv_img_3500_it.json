@@ -1,0 +1,97 @@
+{
+  "english": "fur",
+  "phat_am": "[fə:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bộ lông mao; bộ lông thú"
+        },
+        {
+          "m_full_vn": "bộ da lông thú",
+          "list_en_vn": [
+            {
+              "full_en": "a fox fur",
+              "full_vn": "bộ da lông cáo"
+            },
+            {
+              "full_en": "a fur coat",
+              "full_vn": "áo choàng làm bằng da lông thú"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) tưa (lưỡi)"
+        },
+        {
+          "m_full_vn": "cấn (nước), cặn, cáu (ở đáy ấm, đáy nồi)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make the fur fly",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ầm ỹ, gây rối loạn"
+                },
+                {
+                  "im_full_vn": "rất chóng vánh, làm rất nhanh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lót da lông vào (áo), viền da lông vào (áo)"
+        },
+        {
+          "m_full_vn": "mặc áo lông thú cho (ai)"
+        },
+        {
+          "m_full_vn": "làm tưa (lưỡi)"
+        },
+        {
+          "m_full_vn": "làm (nồi, ấm) đóng cáu"
+        },
+        {
+          "m_full_vn": "cạo cáu ở (nồi, ấm...)"
+        },
+        {
+          "m_full_vn": "ken phẳng (sàn gỗ)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tưa (lưỡi)"
+        },
+        {
+          "m_full_vn": "đóng cáu (nồi, ấm)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696754_37bbf65ac5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696754_dee4c24306_o.png",
+      "id_image": "fur_5660561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386557_6bee543302_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386557_2c87d5e080_o.png",
+      "id_image": "fur_5825065"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696689_d68230ec67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696689_701e907a62_o.png",
+      "id_image": "fur_5930724"
+    }
+  ]
+}

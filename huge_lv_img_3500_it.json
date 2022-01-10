@@ -1,0 +1,31 @@
+{
+  "english": "huge",
+  "phat_am": "[hju:dʒ]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "to lớn, đồ sộ, khổng lồ",
+          "list_en_vn": [
+            {
+              "full_en": "a huge mistake",
+              "full_vn": "sai lầm to lớn"
+            },
+            {
+              "full_en": "a huge animal",
+              "full_vn": "một con vật khổng lồ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443378_87c68091d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443378_bf8e4fa5bb_o.png",
+      "id_image": "huge_2904990"
+    }
+  ]
+}

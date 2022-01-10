@@ -1,0 +1,88 @@
+{
+  "english": "farm",
+  "phat_am": "[fɑ:m]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "trại, trang trại, đồn điền"
+        },
+        {
+          "m_full_vn": "nông trường",
+          "list_en_vn": [
+            {
+              "full_en": "a collective farm",
+              "full_vn": "nông trường tập thể"
+            },
+            {
+              "full_en": "a state farm",
+              "full_vn": "nông trường quốc doanh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khu nuôi thuỷ sản"
+        },
+        {
+          "m_full_vn": "trại trẻ"
+        },
+        {
+          "m_full_vn": "(như) farm-house"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cày cấy, trồng trọt"
+        },
+        {
+          "m_full_vn": "cho thuê (nhân công)"
+        },
+        {
+          "m_full_vn": "trông nom trẻ em (ở trại trẻ)"
+        },
+        {
+          "m_full_vn": "trưng (thuê)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm ruộng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690949_4a2bbda2c7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690949_73ae6964cf_o.png",
+      "id_image": "farm_1408038"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380737_b2b7ffdef4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380737_f98f605745_o.png",
+      "id_image": "farm_2373257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072560_1ff2230e41_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072560_02ed5314c7_o.png",
+      "id_image": "farm_4327432"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072695_487c580ac4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072695_0396696c20_o.png",
+      "id_image": "farm_804583"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072660_2cc37121df_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072660_332c46c6b5_o.png",
+      "id_image": "farm_804587"
+    }
+  ]
+}

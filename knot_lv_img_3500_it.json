@@ -1,0 +1,114 @@
+{
+  "english": "knot",
+  "phat_am": "[nɔt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "gút, nơ",
+          "list_en_vn": [
+            {
+              "full_en": "to make a knot",
+              "full_vn": "thắt nút, buộc nơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) vấn đề khó khăn",
+          "list_en_vn": [
+            {
+              "full_en": "to tie oneself up in (into ) knots",
+              "full_vn": "tự lôi mình vào những việc khó khăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điểm nút, điểm trung tâm, đầu mối (một câu chuyện...)"
+        },
+        {
+          "m_full_vn": "(hàng hải) hải lý"
+        },
+        {
+          "m_full_vn": "mắt gỗ, đầu mấu; đốt, khấc (ngón tay...)"
+        },
+        {
+          "m_full_vn": "nhóm, tốp (người); cụm (cây)",
+          "list_en_vn": [
+            {
+              "full_en": "to gather in knots",
+              "full_vn": "họp lại thành nhóm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "u, cái bướu"
+        },
+        {
+          "m_full_vn": "cái đệm vai để vác nặng"
+        },
+        {
+          "m_full_vn": "mối ràng buộc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to tie the nuptial knot",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy nhau, lập gia đình với nhau"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the nuptial knot",
+              "full_vn": "mối ràng buộc vợ chồng, nghĩa vợ chồng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thắt nút (dây), buộc chặt bằng nút; thắt nơ"
+        },
+        {
+          "m_full_vn": "nhíu (lông mày)"
+        },
+        {
+          "m_full_vn": "kết chặt"
+        },
+        {
+          "m_full_vn": "làm rối, làm rối beng"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thắt lại"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061845_c5e3f150aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061845_f1ffa15ec2_o.png",
+      "id_image": "knot_2485126"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324951_7c906f45f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324951_6d097cf8e0_o.png",
+      "id_image": "knot_2485183"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440033_5c309f4ee2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440033_2d9b2628e7_o.png",
+      "id_image": "knot_486366"
+    }
+  ]
+}

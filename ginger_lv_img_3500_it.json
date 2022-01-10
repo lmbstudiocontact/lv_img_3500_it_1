@@ -1,0 +1,65 @@
+{
+  "english": "ginger",
+  "phat_am": "['dʒindʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cây gừng; củ gừng"
+        },
+        {
+          "m_full_vn": "(thông tục) sự hăng hái; sự hào hứng; dũng khí"
+        },
+        {
+          "m_full_vn": "màu hoe (tóc)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ướp gừng (đồ uống, thức ăn...)"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng), ( (thường) + up ) làm hào hứng, làm sôi nổi lên, làm hăng hái lên; tiếp dũng khí cho",
+          "list_en_vn": [
+            {
+              "full_en": "to ginger up a performance",
+              "full_vn": "làm cho buổi biểu diễn sôi nổi lên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có vị gừng, tẩm gừng"
+        },
+        {
+          "m_full_vn": "có màu hoe"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069695_459b870580_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069695_ed3aaa9ed8_o.png",
+      "id_image": "ginger_1398254"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687834_7c3477de7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687834_1c7c8840af_o.png",
+      "id_image": "ginger_3944338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377627_edd2a112a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377627_56a4ed5cbe_o.png",
+      "id_image": "ginger_3967362"
+    }
+  ]
+}

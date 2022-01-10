@@ -1,0 +1,33 @@
+{
+  "english": "horseshoe",
+  "phat_am": "['hɔ:s∫u:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "móng ngựa"
+        },
+        {
+          "m_full_vn": "vật hình móng ngựa"
+        },
+        {
+          "m_full_vn": "( định ngữ) hình móng ngựa",
+          "list_en_vn": [
+            {
+              "full_en": "horseshoe table",
+              "full_vn": "bàn hình móng ngựa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809686284_04b8e17385_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809686284_a2845306ec_o.png",
+      "id_image": "horseshoe_124360"
+    }
+  ]
+}

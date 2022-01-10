@@ -1,0 +1,332 @@
+{
+  "english": "ground",
+  "phat_am": "[graund]",
+  "list_type": [
+    {
+      "type": "thời quá khứ & động tính từ quá khứ của grind"
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặt đất, đất",
+          "list_en_vn": [
+            {
+              "full_en": "to sit on the ground",
+              "full_vn": "ngồi trên (mặt) đất"
+            },
+            {
+              "full_en": "to cut a tree to the ground",
+              "full_vn": "đốn cây sát góc"
+            },
+            {
+              "full_en": "above ground",
+              "full_vn": "bên trên mặt đât"
+            },
+            {
+              "full_en": "below ground",
+              "full_vn": "trong lòng đất"
+            },
+            {
+              "full_en": "to break fresh ground",
+              "full_vn": "khai khẩn đất mới; khai hoang, vỡ hoang;"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bãi đất, khu đất",
+          "list_en_vn": [
+            {
+              "full_en": "a volleyball ground",
+              "full_vn": "bãi bóng chuyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) đất đai vườn tược",
+          "list_en_vn": [
+            {
+              "full_en": "an old mansion with extensive grounds",
+              "full_vn": "một toà lâu đài cổ với đất đai vườn tược rộng rãi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vị trí, khoảng cách trên mặt đất",
+          "list_en_vn": [
+            {
+              "full_en": "to keep one's ground",
+              "full_vn": "giữ vững vị trí; giữ vững lập trường lý lẽ"
+            },
+            {
+              "full_en": "to give (lose ) ground",
+              "full_vn": "rút lui, thoái lui; mất vị trí; suy sụp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáy (biển, hồ...)",
+          "list_en_vn": [
+            {
+              "full_en": "to touch ground",
+              "full_vn": "sát đất (đáy biển); (nghĩa bóng) đạt tới một cái gì chắc chắn (sau khi bàn bạc lan man...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nền",
+          "list_en_vn": [
+            {
+              "full_en": "a design of pink roses on a white ground",
+              "full_vn": "mẫu trang trí hoa hồng trên nền trắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) cặn bã"
+        },
+        {
+          "m_full_vn": "lý lẽ, lý do, nguyên cớ",
+          "list_en_vn": [
+            {
+              "full_en": "to have good ground (s) for believing something",
+              "full_vn": "có đủ lý do để tin một điều gì"
+            },
+            {
+              "full_en": "on what grounds do you suspect him ?",
+              "full_vn": "vì cớ gì anh nghi kỵ anh ta?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) sự tiếp đất",
+          "list_one_mean": [
+            {
+              "id_full_en": "common ground",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) common"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cover much ground",
+              "list_im": [
+                {
+                  "im_full_vn": "đi được đường dài"
+                },
+                {
+                  "im_full_vn": "đề cập nhiều vấn đề (bản báo cáo, bài tường thuật...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut the ground from under somebody's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm trước ý đồ của ai mà làm cho tâng hẫng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "down to the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) down"
+                }
+              ]
+            },
+            {
+              "id_full_en": "forbidden ground",
+              "list_im": [
+                {
+                  "im_full_vn": "khu vực cấm vào"
+                },
+                {
+                  "im_full_vn": "vấn đề không được nói đến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have both feet on the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "nhạy bén, tinh tế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stand one's ground",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ vững lập trường"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "trong dân chúng, trong nội bộ dân chúng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to gain ground on sb",
+              "list_im": [
+                {
+                  "im_full_vn": "đuổi theo ai sát nút"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get off the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "đạt kết quả tốt đẹp lúc khởi đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "plan falls to the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "kế hoạch thất bại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run to ground",
+              "list_im": [
+                {
+                  "im_full_vn": "độn thổ, ẩn mình để khỏi bị tóm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to run sb into the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai kiệt sức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to suit sb down to the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn thích hợp với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn, toàn bộ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "thin on the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "hiếm có, hiếm thấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shift one's ground",
+              "list_im": [
+                {
+                  "im_full_vn": "thay đổi lập trường, đổi ý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on firm ground",
+              "list_im": [
+                {
+                  "im_full_vn": "vững tin vào lý lẽ của mình"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + on ) dựa vào, căn cứ vào, đặt vào",
+          "list_en_vn": [
+            {
+              "full_en": "to ground one's hopes on",
+              "full_vn": "đặt hy vọng vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + in ) truyền thụ (cho ai) những kiến thức vững vàng",
+          "list_en_vn": [
+            {
+              "full_en": "the teacher grounded his pupils in arithmetic",
+              "full_vn": "thầy giáo truyền đạt cho học sinh những kiến thức vững vàng về số học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đặt nền (cho một bức hoạ, bức thêu...)"
+        },
+        {
+          "m_full_vn": "đặt xuống đất",
+          "list_en_vn": [
+            {
+              "full_en": "ground arms !",
+              "full_vn": "(quân sự) đặt súng xuống!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) làm cho (tàu) mắc cạn"
+        },
+        {
+          "m_full_vn": "(hàng không) làm cho (máy bay) không cất cánh được",
+          "list_en_vn": [
+            {
+              "full_en": "fog grounds all aeroplanes at N",
+              "full_vn": "sương mù làm cho tất cả máy bay ở sân N không cất cánh được"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(điện học) tiếp đất"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hàng hải) mắc cạn"
+        },
+        {
+          "m_full_vn": "(hàng không) hạ cánh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365177_a8a4d7470a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365177_2a46ace437_o.png",
+      "id_image": "ground_1772516"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365127_3a3b0c026b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365127_5300b9e45a_o.png",
+      "id_image": "ground_2526762"
+    }
+  ]
+}

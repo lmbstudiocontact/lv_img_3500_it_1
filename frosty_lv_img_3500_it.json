@@ -1,0 +1,35 @@
+{
+  "english": "frosty",
+  "phat_am": "['frɔsti]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "băng giá, giá rét; phủ đầy sương giá"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) lạnh nhạt, lãnh đạm",
+          "list_en_vn": [
+            {
+              "full_en": "a frosty nature",
+              "full_vn": "tính lãnh đạm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080940_626a375fb5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080940_597056d4fc_o.png",
+      "id_image": "frosty_2279948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343526_c3e2a09096_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343526_a49207c42b_o.png",
+      "id_image": "frosty_699695"
+    }
+  ]
+}

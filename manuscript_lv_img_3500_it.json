@@ -1,0 +1,62 @@
+{
+  "english": "manuscript",
+  "phat_am": "['mænjuskript]",
+  "list_type": [
+    {
+      "type": "danh từ, viết tắt là MS",
+      "list_m": [
+        {
+          "m_full_vn": "bản viết bằng tay, chứ không đánh máy hoặc in; bản viết tay",
+          "list_en_vn": [
+            {
+              "full_en": "a manuscript copy of a typed letter",
+              "full_vn": "bản sao chép tay của một lá thư đánh máy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tác phẩm viết tay hoặc đánh máy của tác giả (chưa phải là sách in); bản thảo",
+          "list_one_mean": [
+            {
+              "id_full_en": "in manuscript",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa in; đang ở dạng bản thảo",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "her poems are still in manuscript",
+                      "full_vn": "những bài thơ của cô ta đang còn ở dạng bản thảo"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to submit a manuscript to an editor",
+              "full_vn": "nộp bản thảo cho biên tập viên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369147_59b9452352_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369147_b3f921b33f_o.png",
+      "id_image": "manuscript_1017975"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679504_6f0325a0ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679504_96d92578ee_o.png",
+      "id_image": "manuscript_349014"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439323_b90fbc13ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439323_7f6cf163e2_o.png",
+      "id_image": "manuscript_5146366"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "english": "glamour",
+  "phat_am": "['glæmə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sức quyến rũ huyền bí, sức mê hoặc"
+        },
+        {
+          "m_full_vn": "vẻ đẹp quyến rũ, vẻ đẹp say đắm, vẻ đẹp huyền ảo",
+          "list_one_mean": [
+            {
+              "id_full_en": "to cast a glamour over somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ai say đắm; bỏ bùa cho ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the glamour of moonlight",
+              "full_vn": "vẻ đẹp huyền ảo của đêm trăng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quyến rũ, làm say đắm, mê hoặc"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808376762_11d714e45b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808376762_f5671e451e_o.png",
+      "id_image": "glamour_351838"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331956_e7dd10bae5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331956_2cfaa96b5b_o.png",
+      "id_image": "glamour_422105"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068615_6d07394562_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068615_d06f3ee2c5_o.png",
+      "id_image": "glamour_988447"
+    }
+  ]
+}

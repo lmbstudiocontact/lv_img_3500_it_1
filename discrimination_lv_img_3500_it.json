@@ -1,0 +1,64 @@
+{
+  "english": "discrimination",
+  "phat_am": "[dis,krimi'nei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự suy xét và nhận thức đúng đắn",
+          "list_en_vn": [
+            {
+              "full_en": "to show discrimination in one's choice of friends , clothes , hobbies",
+              "full_vn": "sáng suốt trong việc chọn bạn, quần áo, thú tiêu khiển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( discrimination against / in favour of somebody ) sự phân biệt đối xử",
+          "list_en_vn": [
+            {
+              "full_en": "racial discrimination",
+              "full_vn": "sự phân biệt chủng tộc"
+            },
+            {
+              "full_en": "sexual /political /religious discrimination",
+              "full_vn": "sự phân biệt đối xử về giới tính/chính trị/tôn giáo"
+            },
+            {
+              "full_en": "this is a clear case of discrimination against foreign customers",
+              "full_vn": "rõ ràng đây là trường hợp phân biệt đối xử đối với khách hàng nước ngoài"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432358_4b539b30ef_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432358_51563eb148_o.png",
+      "id_image": "discrimination_3115612"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432328_8b4076ec8b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432328_ffc00712e9_o.png",
+      "id_image": "discrimination_4177172"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671914_6a26e975b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671914_398d2e7423_o.png",
+      "id_image": "discrimination_4484345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053590_62ca7fd6b5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053590_dd67889fc6_o.png",
+      "id_image": "discrimination_5308197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432238_5660c4883c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432238_c01023aef2_o.png",
+      "id_image": "discrimination_6009782"
+    }
+  ]
+}

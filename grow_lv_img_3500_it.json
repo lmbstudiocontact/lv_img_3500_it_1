@@ -1,0 +1,154 @@
+{
+  "english": "grow",
+  "phat_am": "[grou]",
+  "list_type": [
+    {
+      "type": "nội động từ grew ; grown",
+      "list_m": [
+        {
+          "m_full_vn": "gia tăng về cỡ hoặc lượng; trở thànhto lớn hơn",
+          "list_en_vn": [
+            {
+              "full_en": "How tall you've grown !",
+              "full_vn": "Em đã lớn lên nhiều quá!"
+            },
+            {
+              "full_en": "A growing child needs plenty of sleep",
+              "full_vn": "Trẻ đang lớn cần phải ngủ nhiều"
+            },
+            {
+              "full_en": "She wants to let her hair grow",
+              "full_vn": "Cô ấy muốn để tóc dài"
+            },
+            {
+              "full_en": "You must invest if you want your business to grow",
+              "full_vn": "Nếu muốn doanh nghiệp của anh phát triển thì anh phải đầu tư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to grow from something into something ) phát triển (đặc biệt là thành một dạng trưởng thành hoặc lớn lên)",
+          "list_en_vn": [
+            {
+              "full_en": "rice does not grow in a cold climate",
+              "full_vn": "cây lúa không thể phát triển trong khí hậu rét"
+            },
+            {
+              "full_en": "to grow into a beautiful girl",
+              "full_vn": "lớn lên thành một cô gái đẹp"
+            },
+            {
+              "full_en": "plants grow from seeds",
+              "full_vn": "cây mọc lên từ hạt giống"
+            },
+            {
+              "full_en": "tadpoles grow into frogs",
+              "full_vn": "nòng nọc lớn lên thành ếch"
+            },
+            {
+              "full_en": "to grow in stature /wisdom",
+              "full_vn": "trưởng thành về vóc người/trí lực"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dần dần) trở thành",
+          "list_en_vn": [
+            {
+              "full_en": "to grow old (er ), rich (er )",
+              "full_vn": "già đi, giàu lên"
+            },
+            {
+              "full_en": "to grow small (er ), weak (er )",
+              "full_vn": "bé lại, yếu đi"
+            },
+            {
+              "full_en": "to grow worse",
+              "full_vn": "xấu đi"
+            },
+            {
+              "full_en": "It began to grow dark",
+              "full_vn": "Trời bắt đầu tối dần"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm hoặc cho phép cái gì phát triển",
+          "list_en_vn": [
+            {
+              "full_en": "to grow roses",
+              "full_vn": "trồng hoa hồng"
+            },
+            {
+              "full_en": "to grow a beard",
+              "full_vn": "để râu"
+            },
+            {
+              "full_en": "to grow onions from seed",
+              "full_vn": "trồng hành bằng củ giống"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đạt tới điểm hoặc giai đoạn để ta làm việc gì đó cụ thể",
+          "list_one_mean": [
+            {
+              "id_full_en": "big oaks from little acorns grow",
+              "list_im": [
+                {
+                  "im_full_vn": "cái sẩy nẩy cái ung"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "he grews increasingly to rely on her",
+              "full_vn": "anh ấy ngày càng tin tưởng cô ta"
+            },
+            {
+              "full_en": "she has a hot temper , but you will soon grow to like her",
+              "full_vn": "cô ta nóng tính, nhưng chẳng mấy chốc anh sẽ đâm ra thích cô ấy"
+            },
+            {
+              "full_en": "he grows to like painting",
+              "full_vn": "hắn đâm ra thích vẽ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056275_468172a857_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056275_2422e85c08_o.png",
+      "id_image": "grow_2597685"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364407_6624e91cb2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364407_e378ac4d27_o.png",
+      "id_image": "grow_428789"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434793_21b4360150_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434793_f6855eafab_o.png",
+      "id_image": "grow_4760755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434738_57ef426924_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434738_d0331f43bf_o.png",
+      "id_image": "grow_6332166"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674504_452cde5d67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674504_827173dd81_o.png",
+      "id_image": "grow_6344208"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "magnetic",
+  "phat_am": "[mæg'netik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) nam châm, có tính từ, (thuộc) từ",
+          "list_en_vn": [
+            {
+              "full_en": "magnetic force",
+              "full_vn": "lực từ"
+            },
+            {
+              "full_en": "magnetic pole",
+              "full_vn": "cực từ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) có sức hấp dẫn mạnh, có sức lôi cuốn mạnh, có sức quyến rũ",
+          "list_en_vn": [
+            {
+              "full_en": "a magnetic smile",
+              "full_vn": "nụ cười quyến rũ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chất có từ tính"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809444543_07e04227d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809444543_29db72b310_o.png",
+      "id_image": "magnetic_1088146"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329541_e2cc41f611_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329541_d5cafd14d2_o.png",
+      "id_image": "magnetic_2472670"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066415_fbb8abf4bf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066415_5c0dabf01b_o.png",
+      "id_image": "magnetic_473170"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684579_8793cf8f63_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684579_6f03a5d82e_o.png",
+      "id_image": "magnetic_992276"
+    }
+  ]
+}

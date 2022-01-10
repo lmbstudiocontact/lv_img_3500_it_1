@@ -1,0 +1,48 @@
+{
+  "english": "intelligent",
+  "phat_am": "[in'telidʒənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thông minh, sáng dạ"
+        },
+        {
+          "m_full_vn": "nhanh trí"
+        },
+        {
+          "m_full_vn": "biết",
+          "list_en_vn": [
+            {
+              "full_en": "to be intelligent of something",
+              "full_vn": "biết cái gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387757_4a2fed99a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387757_d2be1cab7d_o.png",
+      "id_image": "intelligent_1106384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342706_4cfa6888e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342706_bcf90f7a65_o.png",
+      "id_image": "intelligent_1508888"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080160_1452b3e6b0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080160_bbe065edeb_o.png",
+      "id_image": "intelligent_4694622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387677_d74331d173_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387677_581c7296f4_o.png",
+      "id_image": "intelligent_4953493"
+    }
+  ]
+}

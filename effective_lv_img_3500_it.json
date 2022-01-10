@@ -1,0 +1,93 @@
+{
+  "english": "effective",
+  "phat_am": "[i'fektiv]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có hiệu quả; có hiệu lực; mang lại kết quả đúng như dự kiến",
+          "list_en_vn": [
+            {
+              "full_en": "effective measures to reduce hooliganism",
+              "full_vn": "những biện pháp có hiệu quả hạn chế nạn côn đồ"
+            },
+            {
+              "full_en": "to become effective",
+              "full_vn": "bắt đầu có hiệu lực"
+            },
+            {
+              "full_en": "the law is no longer effective",
+              "full_vn": "luật đó không còn hiệu lực nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có ảnh hưởng; gây ấn tượng sâu sắc",
+          "list_en_vn": [
+            {
+              "full_en": "a very effective colour scheme",
+              "full_vn": "cách phối hợp màu sắc gây ấn tượng mạnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có thật hoặc đang tồn tại",
+          "list_en_vn": [
+            {
+              "full_en": "effective membership of a society",
+              "full_vn": "số lượng hội viên thực tế của một hội; sĩ số hội viên của một hội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phù hợp cho công việc",
+          "list_en_vn": [
+            {
+              "full_en": "the effective strength of the army",
+              "full_vn": "sức mạnh cần thiềt của đạo quân"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người đủ sức khoẻ (để tòng quân, để chiến đấu...)"
+        },
+        {
+          "m_full_vn": "tiền kim loại (trái với tiền giấy)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065260_9920833732_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065260_ecb74ec5b8_o.png",
+      "id_image": "effective_1006625"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328421_39abd3d823_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328421_dcb9dfded0_o.png",
+      "id_image": "effective_1402125"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809328346_f12e3a1391_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809328346_6413512e1b_o.png",
+      "id_image": "effective_1402156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683419_2f0c681d29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683419_4ecd398fc0_o.png",
+      "id_image": "effective_1728411"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065110_5425feb0e8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065110_4c68b074e5_o.png",
+      "id_image": "effective_5138853"
+    }
+  ]
+}

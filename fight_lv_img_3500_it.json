@@ -1,0 +1,255 @@
+{
+  "english": "fight",
+  "phat_am": "[fait]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động đấu tranh hoặc chiến đấu",
+          "list_en_vn": [
+            {
+              "full_en": "the fight against poverty /crime /disease",
+              "full_vn": "cuộc đấu tranh chống nghèo khổ/tội ác/bệnh tật"
+            },
+            {
+              "full_en": "a sham fight",
+              "full_vn": "trận giả"
+            },
+            {
+              "full_en": "a fight to the finish",
+              "full_vn": "cuộc tử chiến, cuộc quyết chiến một mất một còn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý chí quyết tâm",
+          "list_one_mean": [
+            {
+              "id_full_en": "to put up a good /poor fight",
+              "list_im": [
+                {
+                  "im_full_vn": "có tinh thần chiến đấu cao/thiếu tinh thần chiến đấu"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "in spite of many defeats , they still had plenty of fight left in them",
+              "full_vn": "dù nhiều lần bị thất bại, họ vẫn còn nhiều ý chí chiến đấu"
+            },
+            {
+              "full_en": "loosing their leader took all the fight out of them",
+              "full_vn": "mất người lãnh đạo làm cho họ mất hết quyết tâm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ, thì quá khứ và động tính từ quá khứ là fought",
+      "list_m": [
+        {
+          "m_full_vn": "( to fight with / against somebody / something ) đấu tranh, chiến đấu, đánh nhau",
+          "list_en_vn": [
+            {
+              "full_en": "to fight against imperialism",
+              "full_vn": "đấu tranh chống chủ nghĩa đế quốc"
+            },
+            {
+              "full_en": "to fight against poverty , oppression , ignorance",
+              "full_vn": "đấu tranh chống sự nghèo khổ, áp bức, dốt nát"
+            },
+            {
+              "full_en": "to fight for independence",
+              "full_vn": "đấu tranh để giành độc lập"
+            },
+            {
+              "full_en": "do stop fighting , children !",
+              "full_vn": "các con đừng đánh nhau nữa!"
+            },
+            {
+              "full_en": "the two dogs were fighting over a bone",
+              "full_vn": "hai con chó cắn nhau để tranh nhau một khúc xương"
+            },
+            {
+              "full_en": "Britain fought with France against Germany in the last war",
+              "full_vn": "Anh và Pháp cùng chiến đấu chống Đức trong cuộc chiến vừa qua"
+            },
+            {
+              "full_en": "have you been fighting with your brother again ?",
+              "full_vn": "con vừa đánh nhau với anh con nữa phải không?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to fight about / over something ) cãi cọ hoặc tranh luận về điều gì"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đấu tranh chống ai",
+          "list_en_vn": [
+            {
+              "full_en": "to fight the enemy",
+              "full_vn": "chiến đấu chống kẻ địch; đánh địch"
+            },
+            {
+              "full_en": "the boxer has fought many opponents",
+              "full_vn": "võ sĩ đã đấu với nhiều đối thủ"
+            },
+            {
+              "full_en": "to fight a fire",
+              "full_vn": "dập tắt hoả hoạn"
+            },
+            {
+              "full_en": "to fight an eviction notice",
+              "full_vn": "đấu tranh đòi hủy bỏ một thông cáo đuổi việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lao vào, tham gia hoặc tiếp tục (một trận chiến......)",
+          "list_en_vn": [
+            {
+              "full_en": "to fight a battle",
+              "full_vn": "đánh một trận"
+            },
+            {
+              "full_en": "to fight a war , duel",
+              "full_vn": "lao vào cuộc chiến tranh, cuộc đấu kiếm"
+            },
+            {
+              "full_en": "the government has to fight several by-elections in the coming months",
+              "full_vn": "chính phủ phải tiến hành một số cuộc bầu cử phụ trong những tháng tới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mở đường hoặc hoàn thành cái gì bắng cách nỗ lực hoặc đấu tranh",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fight back",
+              "list_im": [
+                {
+                  "im_full_vn": "phản công, trả đũa",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "after a disastrous first half , the team fought back to level the match",
+                      "full_vn": "sau hiệp một thảm hại, đội bóng đã phản công lại để cân bằng trận đấu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight something back /down",
+              "list_im": [
+                {
+                  "im_full_vn": "gạt bỏ (những cảm giác......)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "fighting back tears",
+                      "full_vn": "gạt nước mắt"
+                    },
+                    {
+                      "full_en": "fighting down a sense of disgust",
+                      "full_vn": "nén cảm giác ghê tởm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight to the finish",
+              "list_im": [
+                {
+                  "im_full_vn": "đấu tranh một mất một còn; đấu tranh đến cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight somebody /something off",
+              "list_im": [
+                {
+                  "im_full_vn": "đẩy lùi; đánh bại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight something out",
+              "list_im": [
+                {
+                  "im_full_vn": "đấu tranh để giải quyết một vấn đề gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight shy of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "tránh xa ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight one's way in life",
+              "list_im": [
+                {
+                  "im_full_vn": "đấu tranh để vươn lên trong cuộc sống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight like a tiger",
+              "list_im": [
+                {
+                  "im_full_vn": "đấu tranh quyết liệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight a losing battle",
+              "list_im": [
+                {
+                  "im_full_vn": "đấu tranh một cách uổng công"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "we had to fight (our way ) through the crowded streets",
+              "full_vn": "chúng tôi phải len lỏi qua các đường phố đông người"
+            },
+            {
+              "full_en": "they fought the bill through Parliament",
+              "full_vn": "họ đấu tranh để dự luật được Nghị viện thông qua"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445283_5c770a3084_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445283_6346055707_o.png",
+      "id_image": "fight_1256796"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375117_42f67f7fbe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375117_6b6982f747_o.png",
+      "id_image": "fight_188982"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330361_ef7157533e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330361_419f3eef00_o.png",
+      "id_image": "fight_649628"
+    }
+  ]
+}

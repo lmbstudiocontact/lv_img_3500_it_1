@@ -1,0 +1,155 @@
+{
+  "english": "hurry",
+  "phat_am": "['hʌri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự vội vàng; sự hấp tấp; sự hối hả; sự gấp rút",
+          "list_one_mean": [
+            {
+              "id_full_en": "in a hurry",
+              "list_im": [
+                {
+                  "im_full_vn": "vội vàng; hối hả; gấp rút"
+                },
+                {
+                  "im_full_vn": "hăm hở; sốt ruột"
+                },
+                {
+                  "im_full_vn": "(thông tục) dễ dàng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "you won't find anything better in a hurry",
+                      "full_vn": "anh chẳng thể tìm được cái tốt hơn một cách dễ dàng đâu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(thông tục) vui lòng, sẵn lòng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I shall not ask again in a hurry",
+                      "full_vn": "tôi chẳng tội gì mà hỏi lại"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "why all this hurry ?",
+              "full_vn": "việc gì phải vội vàng thế?"
+            },
+            {
+              "full_en": "is there any hurry ?",
+              "full_vn": "có cần phải làm gấp không?"
+            },
+            {
+              "full_en": "in her hurry to write , she had several misspellings in the translation",
+              "full_vn": "trong lúc vội vã viết, cô ấy đã sai chính tả vài chỗ trong bản dịch"
+            },
+            {
+              "full_en": "there is no hurry , so read these instructions carefully",
+              "full_vn": "chẳng có gì gấp cả, nên hãy đọc kỹ những lời hướng dẫn này"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thúc giục, giục làm gấp; bắt làm gấp",
+          "list_en_vn": [
+            {
+              "full_en": "don't hurry me",
+              "full_vn": "đừng giục tôi"
+            },
+            {
+              "full_en": "to hurry someone into doing something",
+              "full_vn": "giục ai làm gấp việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm gấp, làm mau, làm vội vàng, xúc tiến nhanh (một công việc gì...)"
+        },
+        {
+          "m_full_vn": "( (thường) + away , along , out , into ...) mang gấp đi, kéo vội đi, đưa vội đi, đẩy vội",
+          "list_en_vn": [
+            {
+              "full_en": "to hurry someone out of the fire",
+              "full_vn": "kéo vội ai ra khỏi đám lửa"
+            },
+            {
+              "full_en": "to hurry the soldiers along to the front",
+              "full_vn": "đưa vội quân ra mặt trận"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hành động vội vàng, hành động hấp tấp, làm gấp; đi gấp, đi vội vàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hurry off",
+              "list_im": [
+                {
+                  "im_full_vn": "đi vội vàng, hấp tấp ra đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hurry through",
+              "list_im": [
+                {
+                  "im_full_vn": "làm vội làm vàng cho xong việc (việc gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hurry up",
+              "list_im": [
+                {
+                  "im_full_vn": "làm gấp, tiến hành gấp rút",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "hurry up",
+                      "full_vn": "mau lên!, nhanh lên"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "don't hurry , there is plenty of time",
+              "full_vn": "đừng vội, còn nhiều thì giờ lắm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063690_781ac50cb4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063690_19dec984e8_o.png",
+      "id_image": "hurry_392768"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681819_d8e55fd97b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681819_e54e15d0fc_o.png",
+      "id_image": "hurry_6066638"
+    }
+  ]
+}

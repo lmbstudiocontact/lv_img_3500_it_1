@@ -1,0 +1,50 @@
+{
+  "english": "incumbent",
+  "phat_am": "[in'kʌmbənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) người giữ một chức vụ",
+          "list_en_vn": [
+            {
+              "full_en": "the present incumbent of the White House",
+              "full_vn": "người đang giữ chức ở Nhà Trắng; tổng thống Mỹ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( incumbent on / upon somebody ) là phận sự của ai",
+          "list_en_vn": [
+            {
+              "full_en": "it's incumbent on /upon you to warn them",
+              "full_vn": "phận sự của anh là phải báo cho họ biết trước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữ một chức vụ chính thức cụ thể; hiện thời; đương nhiệm; đương kim",
+          "list_en_vn": [
+            {
+              "full_en": "the incumbent president",
+              "full_vn": "tổng thống đương nhiệm; đương kim tổng thống"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363032_d782fe5614_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363032_373df8bd68_o.png",
+      "id_image": "incumbent_2473093"
+    }
+  ]
+}

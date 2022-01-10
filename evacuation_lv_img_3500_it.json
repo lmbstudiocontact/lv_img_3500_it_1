@@ -1,0 +1,42 @@
+{
+  "english": "evacuation",
+  "phat_am": "[i,vækju'ei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự di tản; sự tản cư",
+          "list_en_vn": [
+            {
+              "full_en": "The evacuation of thousands of people after an air raid",
+              "full_vn": "Việc di tản hàng nghìn dân sau một trận không kích"
+            },
+            {
+              "full_en": "The evacuation of a mountainous village",
+              "full_vn": "Việc di tản một làng miền núi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) sự bài tiết; sự thụt rửa"
+        },
+        {
+          "m_full_vn": "(vật lý) sự làm chân không"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050655_a54bb3d737_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050655_755393b56d_o.png",
+      "id_image": "evacuation_2400142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668739_f4ebb631cd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668739_23642b116d_o.png",
+      "id_image": "evacuation_3436785"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "english": "flower",
+  "phat_am": "['flauə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hoa, bông hoa, đoá hoa"
+        },
+        {
+          "m_full_vn": "cây hoa"
+        },
+        {
+          "m_full_vn": "( số nhiều) lời lẽ văn hoa",
+          "list_en_vn": [
+            {
+              "full_en": "flowers of speech",
+              "full_vn": "những câu văn hoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tinh hoa, tinh tuý",
+          "list_en_vn": [
+            {
+              "full_en": "the flower of the country's youth",
+              "full_vn": "tinh hoa của thanh niên đất nước, những phần tử ưu tú của thanh niên đất nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thời kỳ nở hoa",
+          "list_en_vn": [
+            {
+              "full_en": "the trees are in flower",
+              "full_vn": "cây cối nở hoa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuổi thanh xuân",
+          "list_en_vn": [
+            {
+              "full_en": "to give the flower of one's age to the country",
+              "full_vn": "hiến tuổi thanh xuân cho đất nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) (hoá học) hoa",
+          "list_en_vn": [
+            {
+              "full_en": "flowers of sulphur",
+              "full_vn": "hoa lưu huỳnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "váng men; cái giấm",
+          "list_one_mean": [
+            {
+              "id_full_en": "no flowers",
+              "list_im": [
+                {
+                  "im_full_vn": "xin miễn đem vòng hoa phúng (đám ma)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm nở hoa, cho ra hoa"
+        },
+        {
+          "m_full_vn": "tô điểm bằng hoa, trang trí bằng hoa"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nở hoa, khai hoa, ra hoa"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) nở rộ, đạt tới thời kỳ rực rỡ nhất",
+          "list_en_vn": [
+            {
+              "full_en": "his genius flowered early",
+              "full_vn": "tài năng của anh ta sớm nở rộ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056565_84b4d08446_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056565_ac765821c0_o.png",
+      "id_image": "flower_209197"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809435028_b70a2ee99c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809435028_5abfb7cac3_o.png",
+      "id_image": "flower_256870"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674829_a89d6c2d25_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674829_22bd262186_o.png",
+      "id_image": "flower_326334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674784_209ea16241_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674784_dff1c60c26_o.png",
+      "id_image": "flower_350958"
+    }
+  ]
+}

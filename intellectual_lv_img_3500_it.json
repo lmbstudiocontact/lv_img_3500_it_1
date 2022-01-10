@@ -1,0 +1,65 @@
+{
+  "english": "intellectual",
+  "phat_am": "[,inti'lektjuəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) trí óc; (thuộc) trí tuệ",
+          "list_en_vn": [
+            {
+              "full_en": "intellectual faculties",
+              "full_vn": "năng lực trí tuệ; trí năng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuộc về, quan tâm đến hoặc có khả năng giải quyết các vấn đề của trí tuệ (chứ không phải những vấn đề thực tiễn)",
+          "list_en_vn": [
+            {
+              "full_en": "intellectual people",
+              "full_vn": "những người trí thức"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người trí thức",
+          "list_en_vn": [
+            {
+              "full_en": "a play , book for intellectuals",
+              "full_vn": "vở kịch, quyển sách dành cho người trí thức"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457748_f1d42885da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457748_117e1bff0c_o.png",
+      "id_image": "intellectual_1354755"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808387927_48ba63f5fa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808387927_f025d853f6_o.png",
+      "id_image": "intellectual_2329248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457703_de64e0526f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457703_b59c89c09e_o.png",
+      "id_image": "intellectual_2361675"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080485_cd6f2cb45e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080485_a6c703977b_o.png",
+      "id_image": "intellectual_992632"
+    }
+  ]
+}

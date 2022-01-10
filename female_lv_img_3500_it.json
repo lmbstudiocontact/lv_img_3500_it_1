@@ -1,0 +1,74 @@
+{
+  "english": "female",
+  "phat_am": "['fi:meil]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái, mái",
+          "list_en_vn": [
+            {
+              "full_en": "a female dog",
+              "full_vn": "con chó cái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) đàn bà con gái, nữ",
+          "list_en_vn": [
+            {
+              "full_en": "female candidate",
+              "full_vn": "thí sinh nữ"
+            },
+            {
+              "full_en": "female weakness",
+              "full_vn": "sự mềm yếu của đàn bà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yếu, nhạt, mờ",
+          "list_en_vn": [
+            {
+              "full_en": "female sapphire",
+              "full_vn": "xafia mờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) có lỗ để lắp, có lỗ để tra"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(động vật học) con cái, con mái"
+        },
+        {
+          "m_full_vn": "(thực vật học) gốc cái; cây cái"
+        },
+        {
+          "m_full_vn": "(từ hiếm,nghĩa hiếm) người đàn bà, người phụ nữ"
+        },
+        {
+          "m_full_vn": "(thông tục) con mụ, con mẹ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687429_8ecc59b3b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687429_bbb7665f63_o.png",
+      "id_image": "female_1552298"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687364_45a882dc51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687364_2e4af47a41_o.png",
+      "id_image": "female_2680973"
+    }
+  ]
+}

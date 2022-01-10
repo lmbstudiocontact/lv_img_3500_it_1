@@ -1,0 +1,37 @@
+{
+  "english": "grenade",
+  "phat_am": "[gri'neid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(quân sự) lựu đạn",
+          "list_en_vn": [
+            {
+              "full_en": "the police threw lachrymatory grenades towards the crowd of frenetic demonstrators",
+              "full_vn": "cảnh sát ném lựu đạn cay về phía những người biểu tình cuồng nhiệt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367207_a2ce3b803d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367207_a10a08e905_o.png",
+      "id_image": "grenade_2090007"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677379_fbf1236397_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677379_e2d407e7f3_o.png",
+      "id_image": "grenade_2208290"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808367227_1503bc1679_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808367227_d0cd72d9d6_o.png",
+      "id_image": "grenade_942366"
+    }
+  ]
+}

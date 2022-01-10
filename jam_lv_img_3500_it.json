@@ -1,0 +1,126 @@
+{
+  "english": "jam",
+  "phat_am": "[dʒæm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mứt",
+          "list_one_mean": [
+            {
+              "id_full_en": "real jam",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) điều khoái trá, điều hết sức thú vị"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự kẹp chặt, sự ép chặt"
+        },
+        {
+          "m_full_vn": "sự ấn vào, sự tọng vào, sự nhồi nhét"
+        },
+        {
+          "m_full_vn": "đám đông chen chúc, đám đông tắc nghẽn",
+          "list_en_vn": [
+            {
+              "full_en": "traffic jam",
+              "full_vn": "đường tắc nghẽn; giao thông tắc nghẽn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự mắc kẹt, sự kẹt (máy...)"
+        },
+        {
+          "m_full_vn": "(thông tục) tình hình khó khăn, tình thế khó xử, hoàn cảnh bế tắc"
+        },
+        {
+          "m_full_vn": "(rađiô) nhiễu (lúc thu)",
+          "list_one_mean": [
+            {
+              "id_full_en": "money for jam",
+              "list_im": [
+                {
+                  "im_full_vn": "lợi nhuận sinh ra từ một công việc mà mình không ngờ là sẽ sinh lợi, làm chơi ăn thật"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ép chặt, kẹp chặt",
+          "list_en_vn": [
+            {
+              "full_en": "to jam one's finger in the door",
+              "full_vn": "kẹp ngón tay ở cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thường) + into ) ấn vào, tọng vào, nhồi nhét, nhồi chặt"
+        },
+        {
+          "m_full_vn": "làm tắc nghẽn (đường xá...)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) làm mắc kẹt, kẹt chặt, hãm kẹt lại; chêm, chèn",
+          "list_en_vn": [
+            {
+              "full_en": "to jam the brake",
+              "full_vn": "hãm kẹt phanh lại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(rađiô) phá, làm nhiễu (một chương trình phát thanh, làn sóng...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị chêm chặt, mắc kẹt, kẹt chặt (bộ phận máy...)"
+        },
+        {
+          "m_full_vn": "bị ép chặt, bị xếp chật ních, bị nhồi chặt"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) ứng tác, ứng tấu (nhạc ja)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335846_c26fedf3f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335846_4f9a023f61_o.png",
+      "id_image": "jam_1547923"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380912_b036f41283_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380912_c6fc1669ff_o.png",
+      "id_image": "jam_1682257"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072840_3d61b797ff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072840_5fc8b0f7d4_o.png",
+      "id_image": "jam_790635"
+    }
+  ]
+}

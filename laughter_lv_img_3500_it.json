@@ -1,0 +1,69 @@
+{
+  "english": "laughter",
+  "phat_am": "['lɑ:ftə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cười, tiếng cười",
+          "list_one_mean": [
+            {
+              "id_full_en": "peals of laughter",
+              "list_im": [
+                {
+                  "im_full_vn": "tràng cười rền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be convulsed with laughter",
+              "list_im": [
+                {
+                  "im_full_vn": "cười thắt ruột"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to burst (break ) into laughter",
+              "full_vn": "cười phá lên"
+            },
+            {
+              "full_en": "to split one's sides with laughter",
+              "full_vn": "cười vỡ bụng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319436_05b705e257_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319436_7dea2b765c_o.png",
+      "id_image": "laughter_3387067"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434523_98cbfabd0e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434523_ff3c4c4d78_o.png",
+      "id_image": "laughter_3387079"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319356_82d72d021a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319356_874437ea50_o.png",
+      "id_image": "laughter_3508401"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364027_b2144d19c2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364027_af934107f9_o.png",
+      "id_image": "laughter_6171958"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674199_4f553a2b54_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674199_5f96246791_o.png",
+      "id_image": "laughter_6394281"
+    }
+  ]
+}

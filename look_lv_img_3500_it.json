@@ -1,0 +1,769 @@
+{
+  "english": "look",
+  "phat_am": "[luk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái nhìn, cái dòm",
+          "list_en_vn": [
+            {
+              "full_en": "to have a look at",
+              "full_vn": "nhìn đến, ngó đến"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vẻ mặt, nét mặt",
+          "list_en_vn": [
+            {
+              "full_en": "a look of indignation",
+              "full_vn": "vẻ phẫn nộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngoại hình, nhan sắc",
+          "list_en_vn": [
+            {
+              "full_en": "good looks",
+              "full_vn": "vẻ đẹp, sắc đẹp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phong cách, mốt",
+          "list_one_mean": [
+            {
+              "id_full_en": "by the look of sb /sth",
+              "list_im": [
+                {
+                  "im_full_vn": "cứ theo bề ngoài của ai/cái gì mà xét"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give sb a dirty look",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn ai một cách ghê tởm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a long look at sth",
+              "list_im": [
+                {
+                  "im_full_vn": "xem long"
+                }
+              ]
+            },
+            {
+              "id_full_en": "do not judge a man by his looks",
+              "list_im": [
+                {
+                  "im_full_vn": "không nên trông mặt mà bắt hình dong"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhìn; xem; ngó; để ý; chú ý",
+          "list_en_vn": [
+            {
+              "full_en": "look ! the sun is rising",
+              "full_vn": "nhìn kìa! mặt trời đang lên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mở to mắt nhìn, giương mắt nhìn",
+          "list_en_vn": [
+            {
+              "full_en": "don't look like that",
+              "full_vn": "đừng giương mắt ra như thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngó đến, để ý đến, đoái đến, lưu ý",
+          "list_en_vn": [
+            {
+              "full_en": "look that the door be not left open",
+              "full_vn": "lưu ý đừng để cửa bỏ ngỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mong đợi, tính đến, toan tính",
+          "list_en_vn": [
+            {
+              "full_en": "do not look to hear from him for some time",
+              "full_vn": "đừng có mong đợi tin gì của nó trong một thời gian nữa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hướng về, xoay về, quay về, ngoảnh về",
+          "list_en_vn": [
+            {
+              "full_en": "the room looks west",
+              "full_vn": "gian buồng hướng tây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "có vẻ; tỏ ra",
+          "list_one_mean": [
+            {
+              "id_full_en": "to look like somebody /something (to somebody ); to look (to somebody ) as if .../as though ...",
+              "list_im": [
+                {
+                  "im_full_vn": "có vẻ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it looks sand and it is sand",
+                      "full_vn": "trông giống như cát mà là cát thật"
+                    },
+                    {
+                      "full_en": "this self-portrait doesn't look like him at all",
+                      "full_vn": "chân dung tự hoạ này chẳng giống ông ta tí nào"
+                    },
+                    {
+                      "full_en": "it looks like rain ; it looks as if it's going to rain",
+                      "full_vn": "trời có vẻ muốn mưa; trời trông như sắp mưa"
+                    },
+                    {
+                      "full_en": "you look as if you returned from a long trip",
+                      "full_vn": "trông anh có vẻ như đi xa về"
+                    },
+                    {
+                      "full_en": "it doesn't look to me as if she likes this book",
+                      "full_vn": "tôi thấy có vẻ như cô ấy không thích quyển sách này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look about",
+              "list_im": [
+                {
+                  "im_full_vn": "đợi chờ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look about one",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn quanh"
+                },
+                {
+                  "im_full_vn": "đắn đo, nghĩ kỹ trước khi có kế hoạch làm gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look after",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn theo"
+                },
+                {
+                  "im_full_vn": "trông nom, chăm sóc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look after patients",
+                      "full_vn": "chăm sóc người bệnh"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "để ý, tìm kiếm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look at",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn, ngắm, xem"
+                },
+                {
+                  "im_full_vn": "xét, xem xét",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that is not the way to look at our proposal",
+                      "full_vn": "đó không phải là cách xem xét lời đề nghị của chúng tôi"
+                    },
+                    {
+                      "full_en": "he will not look at it",
+                      "full_vn": "nó không thèm nhìn đến cái đó, nó bác bỏ cái đó"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look away",
+              "list_im": [
+                {
+                  "im_full_vn": "quay đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look back",
+              "list_im": [
+                {
+                  "im_full_vn": "quay lại nhìn, ngoái cổ lại nhìn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look back upon",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn lại (cái gì đã qua)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look back upon the past",
+                      "full_vn": "nhìn lại quá khứ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look down",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn xuống"
+                },
+                {
+                  "im_full_vn": "hạ giá"
+                },
+                {
+                  "im_full_vn": "( + upon , on ) ra vẻ kẻ cả"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look for",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm kiếm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look for trouble",
+                      "full_vn": "chuốc lấy phiền luỵ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "đợi, chờ, mong",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look for news from home",
+                      "full_vn": "chờ tin nhà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look forward to",
+              "list_im": [
+                {
+                  "im_full_vn": "mong đợi một cách hân hoan; chờ đợi một cách vui thích",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I am looking forward to your visit",
+                      "full_vn": "tôi mong chờ anh đến thăm"
+                    },
+                    {
+                      "full_en": "we look forward to hearing from you",
+                      "full_vn": "chúng tôi rất mong nhận được tin ông"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look in",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn vào"
+                },
+                {
+                  "im_full_vn": "ghé qua thăm, tạt qua, tạt vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look into",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn vào bên trong; xem xét kỹ, nghiên cứu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look into a question",
+                      "full_vn": "nghiên cứu một vấn đề"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhìn ra, quay về, hướng về",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the window of his room looks into the street",
+                      "full_vn": "cửa sổ buồng nó nhìn ra đường"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look on",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng xem, đứng nhìn"
+                },
+                {
+                  "im_full_vn": "nhìn kỹ, ngắm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look on something with distrust",
+                      "full_vn": "nhìn cái gì với vẻ nghi ngờ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(như) to look upon"
+                }
+              ]
+            },
+            {
+              "id_full_en": "look out !",
+              "list_im": [
+                {
+                  "im_full_vn": "hãy cẩn thận; hãy coi chừng!",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "look out ! there is a step",
+                      "full_vn": "cẩn thận nhé! có một cái bực cầu thang đấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look something out (for somebody /something )",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm thấy cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look out someone's address in one's notebook",
+                      "full_vn": "tìm ra địa chỉ ai trong cuốn sổ tay của mình"
+                    },
+                    {
+                      "full_en": "You must look out those invoices for the chief accountant",
+                      "full_vn": "Anh phải tìm cho ra mấy tờ hoá đơn đó để đưa cho kế toán trưởng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look out for somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "để ý hoặc canh chừng để thấy, tìm ra hoặc biết ai/cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look out for squalls",
+                      "full_vn": "đề phòng nguy hiểm"
+                    },
+                    {
+                      "full_en": "will you go to the post office and look out for your wife ?",
+                      "full_vn": "anh sẽ ra bưu điện để tìm vợ anh chứ?"
+                    },
+                    {
+                      "full_en": "look out for housebreakers !",
+                      "full_vn": "hãy đề phòng bọn trộm!"
+                    },
+                    {
+                      "full_en": "do look out for spelling mistakes in the translation",
+                      "full_vn": "hãy đề phòng lỗi chính tả trong bản dịch"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look over",
+              "list_im": [
+                {
+                  "im_full_vn": "xem xét, kiểm tra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look over accounts",
+                      "full_vn": "kiểm tra các khoản chi thu"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "tha thứ, quên đi, bỏ qua",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look over the faults of somebody",
+                      "full_vn": "bỏ qua những lỗi lầm của ai"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhìn bao quát, bao quát, ở cao nhìn xuống",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the high mountain peak looks over the green fields",
+                      "full_vn": "đỉnh núi cao bao quát cả cánh đồng xanh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look round",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn quanh"
+                },
+                {
+                  "im_full_vn": "suy nghĩ, cân nhắc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "don't make a hurried decision , look round well first",
+                      "full_vn": "đừng nên quyết định vội vàng, hãy suy nghĩ kỹ đã"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look through",
+              "list_im": [
+                {
+                  "im_full_vn": "không thèm nhìn, lờ đi",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look through one's old friend",
+                      "full_vn": "không thèm nhìn bạn cũ"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "nhìn kỹ từ đầu đến chân, xem lần lượt, xem kỹ, đọc kỹ; nhìn thấu",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look a translation through",
+                      "full_vn": "đọc kỹ một bản dịch"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "xem lướt qua, đọc lướt qua",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look through a translation",
+                      "full_vn": "đọc lướt qua một bản dịch"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "biểu lộ, lộ ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "his greed looked through his eyes",
+                      "full_vn": "lòng tham của nó lộ ra trong đôi mắt"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look to",
+              "list_im": [
+                {
+                  "im_full_vn": "lưu ý, cẩn thận về",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look to one's manners",
+                      "full_vn": "cẩn thận trong lời ăn tiếng nói"
+                    },
+                    {
+                      "full_en": "look to it that this will not happen again",
+                      "full_vn": "hãy lưu ý đừng để cho điều đó tái diễn"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "mong đợi, đợi chờ (ở ai); tin vào, trông cậy vào, chắc vào (ai)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look to someone for something",
+                      "full_vn": "trông cậy vào ai về một cái gì"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "quan tâm chu đáo đến điều gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "every government must look to maintaining the public order",
+                      "full_vn": "chính phủ nào cũng phải quan tâm đến việc duy trì trật tự trị an"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look toward",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) to look to"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look towards",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) nâng cốc, chúc sức khoẻ (ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look up",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn lên, ngước lên"
+                },
+                {
+                  "im_full_vn": "tìm kiếm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look a word up in the dictionary",
+                      "full_vn": "tìm (tra) một từ trong từ điển"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(thương nghiệp) lên giá, tăng giá",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the price of cotton is looking up",
+                      "full_vn": "giá bông tăng lên"
+                    }
+                  ]
+                },
+                {
+                  "im_full_vn": "(thương nghiệp) phát đạt"
+                },
+                {
+                  "im_full_vn": "đến thăm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look up to",
+              "list_im": [
+                {
+                  "im_full_vn": "tôn kính, kính trọng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "every Vietnamese looks up to President HoChiMinh",
+                      "full_vn": "mọi người Viêt Nam đều tôn kính Chủ tịch Hồ Chí Minh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look upon",
+              "list_im": [
+                {
+                  "im_full_vn": "xem như, coi như",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to look upon somebody as ...",
+                      "full_vn": "coi ai như là..."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look alive",
+              "list_im": [
+                {
+                  "im_full_vn": "nhanh lên, khẩn trương lên"
+                },
+                {
+                  "im_full_vn": "hành động kịp thời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look black",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn giận dữ; trông vẻ giận dữ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look blue",
+              "list_im": [
+                {
+                  "im_full_vn": "có vẻ đang chán; có vẻ buồn bực thất vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look daggers at",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) dagger"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look down one's nose at",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn với vẻ coi khinh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look in the face",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn thẳng vào mặt; nhìn thẳng vào sự việc không chùn bước e ngại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "don't look a gift-horse in the mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) gift-horse"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look for a needle in a haystack",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) needle"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look sharp",
+              "list_im": [
+                {
+                  "im_full_vn": "đề cao cảnh giác"
+                },
+                {
+                  "im_full_vn": "hành động kịp thời"
+                },
+                {
+                  "im_full_vn": "khẩn trương lên, hoạt động lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look through colour of spectacles",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn sự việc không đúng với thực tế; nhìn sự việc qua cặp kính màu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look oneself again",
+              "list_im": [
+                {
+                  "im_full_vn": "trông có vẻ đã lại người, trông có vẻ đã lại hồn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look small",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) small"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look someone up and down",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn ai từ đầu đến chân (một cách kỹ càng hay khinh bỉ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "look before you leap",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) leap"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look one's age",
+              "list_im": [
+                {
+                  "im_full_vn": "trông đúng như tuổi thật của mình (chẳng già chẳng trẻ hơn tuổi thật)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to look healthy /ill /sad /tired",
+              "full_vn": "trông có vẻ khoẻ/ốm/buồn/mệt"
+            },
+            {
+              "full_en": "this coffee looks strong",
+              "full_vn": "cà phê này có vẻ đậm"
+            },
+            {
+              "full_en": "you made me look a complete fool !",
+              "full_vn": "anh làm tôi có vẻ như một thằng ngốc thật ngốc!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072845_0f2f540f3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072845_898a4a9d6a_o.png",
+      "id_image": "look_6401059"
+    }
+  ]
+}

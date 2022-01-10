@@ -1,0 +1,64 @@
+{
+  "english": "epidemic",
+  "phat_am": "[,epi'demik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "lan truyền như bệnh dịch",
+          "list_en_vn": [
+            {
+              "full_en": "epidemic disease",
+              "full_vn": "bệnh dịch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bệnh dịch ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "an influenza epidemic",
+              "full_vn": "dịch cúm"
+            },
+            {
+              "full_en": "an epidemic of crime in our major cities",
+              "full_vn": "nạn dịch tội ác trong các thành phố lớn của chúng ta"
+            },
+            {
+              "full_en": "football hooliganism is now reaching epidemic proportions",
+              "full_vn": "tình trạng côn đồ trong bóng đá hiện đã đạt đến quy mô của một nạn dịch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053460_4e36544c21_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053460_c37b5f6c54_o.png",
+      "id_image": "epidemic_2720285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432078_893dedd86d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432078_54904bd644_o.png",
+      "id_image": "epidemic_2720373"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053430_c1284b60e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053430_8df9d46bb2_o.png",
+      "id_image": "epidemic_2843762"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671674_42c72dcb18_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671674_57a97bb572_o.png",
+      "id_image": "epidemic_6182976"
+    }
+  ]
+}

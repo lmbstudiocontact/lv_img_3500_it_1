@@ -1,0 +1,95 @@
+{
+  "english": "habit",
+  "phat_am": "['hæbit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thói quen, tập quán",
+          "list_en_vn": [
+            {
+              "full_en": "to be in the habit of ...",
+              "full_vn": "có thói quen..."
+            },
+            {
+              "full_en": "to fall into a habit",
+              "full_vn": "nhiễm một thói quen"
+            },
+            {
+              "full_en": "to break someone / oneself off a habit",
+              "full_vn": "làm cho ai/ mình bỏ được thói quen"
+            },
+            {
+              "full_en": "a creature of habit",
+              "full_vn": "người có khuynh hướng để cho thói quen chi phối bản thân mình"
+            },
+            {
+              "full_en": "to kick a habit",
+              "full_vn": "vứt bỏ thói nghiện ngập"
+            },
+            {
+              "full_en": "to make a habit of doing sth",
+              "full_vn": "có thói quen làm điều gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thể chất, tạng người; vóc người",
+          "list_en_vn": [
+            {
+              "full_en": "a man of corpulent habit",
+              "full_vn": "người vóc đẫy đà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính khí, tính tình",
+          "list_en_vn": [
+            {
+              "full_en": "a habit of mind",
+              "full_vn": "tính tình, tính khí"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(sinh vật học) cách mọc; cách phát triển"
+        },
+        {
+          "m_full_vn": "bộ quần áo đi ngựa (của đàn bà) ( (cũng) riding habit )"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) áo (chủ yếu là của thầy tu)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặc quần áo cho"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) ở, cư trú tại (một nơi nào)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809671824_fd92c88b7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809671824_84d3081be8_o.png",
+      "id_image": "habit_5778561"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810053525_cc8be86804_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810053525_177027807e_o.png",
+      "id_image": "habit_5998948"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432138_463f95f403_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432138_bb053e855e_o.png",
+      "id_image": "habit_6193291"
+    }
+  ]
+}

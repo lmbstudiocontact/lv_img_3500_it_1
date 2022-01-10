@@ -1,0 +1,56 @@
+{
+  "english": "manufacture",
+  "phat_am": "[mænju'fækt∫ə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chế tạo, sự sản xuất",
+          "list_en_vn": [
+            {
+              "full_en": "goods of foreign manufacture",
+              "full_vn": "hàng hoá do nước ngoài sản xuất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( manufactures ) hàng hoá sản xuất hàng loạt theo phương thức công nghiệp"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sản xuất; chế tạo"
+        },
+        {
+          "m_full_vn": "bịa đặt; phịa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369862_5b2ab17aa9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369862_0f76237f10_o.png",
+      "id_image": "manufacture_1600147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369802_43b0a7df29_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369802_35fe0614aa_o.png",
+      "id_image": "manufacture_1857110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808369737_450a34406d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808369737_a91aa45f2d_o.png",
+      "id_image": "manufacture_4072835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809439938_578b0bde49_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809439938_676fd38038_o.png",
+      "id_image": "manufacture_6041273"
+    }
+  ]
+}

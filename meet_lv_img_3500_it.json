@@ -1,0 +1,214 @@
+{
+  "english": "meet",
+  "phat_am": "[mi:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nơi những người đi săn tụ họp với nhau"
+        },
+        {
+          "m_full_vn": "cuộc thi đấu",
+          "list_en_vn": [
+            {
+              "full_en": "an athletics meet",
+              "full_vn": "cuộc thi điền kinh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "phù hợp; thích đáng"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ; động tính từ quá khứ là met",
+      "list_m": [
+        {
+          "m_full_vn": "gặp, gặp gỡ",
+          "list_en_vn": [
+            {
+              "full_en": "to meet someone in the street",
+              "full_vn": "gặp ai ở ngoài phố"
+            },
+            {
+              "full_en": "to meet somebody half-way",
+              "full_vn": "gặp ai giữa đường; (nghĩa bóng) thoả hiệp với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đi đón",
+          "list_en_vn": [
+            {
+              "full_en": "to meet someone at the station",
+              "full_vn": "đi đón ai ở ga"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) xin giới thiệu, làm quen (với người nào)",
+          "list_en_vn": [
+            {
+              "full_en": "meet Mr John Brown",
+              "full_vn": "xin giới thiệu ông Giôn-Brao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gặp, vấp phải, đương đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to meet danger",
+              "full_vn": "gặp nguy hiểm"
+            },
+            {
+              "full_en": "to meet difficulties",
+              "full_vn": "vấp phải khó khăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đáp ứng, thoả mãn, làm vừa lòng",
+          "list_en_vn": [
+            {
+              "full_en": "to meet a demand",
+              "full_vn": "thoả mãn một yêu cầu"
+            },
+            {
+              "full_en": "to meet the case",
+              "full_vn": "được thoả mãn; được đáp ứng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhận, tiếp nhận; chịu đựng, cam chịu",
+          "list_en_vn": [
+            {
+              "full_en": "he met his reward",
+              "full_vn": "anh ấy nhận phần thưởng"
+            },
+            {
+              "full_en": "to meet one's end (death )",
+              "full_vn": "chết, nhận lấy cái chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thanh toán (hoá đơn...)",
+          "list_en_vn": [
+            {
+              "full_en": "to meet the transport charges",
+              "full_vn": "thanh toán tiền công vận chuyển"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gặp nhau",
+          "list_en_vn": [
+            {
+              "full_en": "when shall we meet again ?",
+              "full_vn": "khi nào chúng ta lại gặp nhau?"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gặp gỡ, tụ họp, họp",
+          "list_en_vn": [
+            {
+              "full_en": "the Committee will meet tomorrow",
+              "full_vn": "ngày mai uỷ ban sẽ họp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gặp nhau, nối nhau, tiếp vào nhau, gắn vào nhau",
+          "list_one_mean": [
+            {
+              "id_full_en": "to meet with something",
+              "list_im": [
+                {
+                  "im_full_vn": "gặp phải, vấp phải (khó khăn...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to meet with someone",
+              "list_im": [
+                {
+                  "im_full_vn": "tình cờ gặp ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to meet the ear",
+              "list_im": [
+                {
+                  "im_full_vn": "được nghe thấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to meet the eye",
+              "list_im": [
+                {
+                  "im_full_vn": "được trông thấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to meet someone's eye",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn vào mắt ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make both ends meet",
+              "list_im": [
+                {
+                  "im_full_vn": "thu vén tằn tiện để cuối tháng khỏi thiếu tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to meet one's Maker",
+              "list_im": [
+                {
+                  "im_full_vn": "chầu trời; chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to meet one's Waterloo",
+              "list_im": [
+                {
+                  "im_full_vn": "thất bại ê chề"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809463388_2e05d902ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809463388_ed6254dae4_o.png",
+      "id_image": "meet_4458775"
+    }
+  ]
+}

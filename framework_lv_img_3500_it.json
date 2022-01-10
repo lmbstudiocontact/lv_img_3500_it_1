@@ -1,0 +1,70 @@
+{
+  "english": "framework",
+  "phat_am": "['freimwə:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sườn (nhà, tàu...); khung (máy)"
+        },
+        {
+          "m_full_vn": "khung ảnh, khung tranh (nói chung)"
+        },
+        {
+          "m_full_vn": "cốt truyện",
+          "list_en_vn": [
+            {
+              "full_en": "framework of a novel",
+              "full_vn": "cốt truyện của một cuốn tiểu thuyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớp đá lát thành giếng, sườn đê"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) cơ cấu tổ chức, khuôn khổ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to return into the framework",
+              "list_im": [
+                {
+                  "im_full_vn": "hợp nhất, thống nhất"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the framework of society",
+              "full_vn": "cơ cấu xã hội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313176_f90e93d95a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313176_c4876abc9e_o.png",
+      "id_image": "framework_2519420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427978_ffc7cfa436_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427978_75b850f7ce_o.png",
+      "id_image": "framework_2535512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313146_4f058c7a4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313146_ac28091867_o.png",
+      "id_image": "framework_2621174"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313136_c775a42dde_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313136_88bb8f8a3a_o.png",
+      "id_image": "framework_3097919"
+    }
+  ]
+}

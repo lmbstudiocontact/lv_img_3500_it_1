@@ -1,0 +1,70 @@
+{
+  "english": "lobby",
+  "phat_am": "['lɔbi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phòng ngoài; tiền sảnh; hành lang",
+          "list_en_vn": [
+            {
+              "full_en": "the lobby of a hotel /theatre",
+              "full_vn": "tiền sảnh của khách sạn/rạp hát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phòng lớn mở cho công chúng vào và dùng cho các cuộc tiếp xúc với nghị sĩ quốc hội; hành lang ở nghị viện",
+          "list_en_vn": [
+            {
+              "full_en": "a lobby politician",
+              "full_vn": "kẻ hoạt động chính trị ở hành lang, kẻ hoạt động chính trị ở hậu trường"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nhóm người cố gắng tác động đến các nhà chính trị, nhất là để ủng hộ hoặc phản đối một dự luật; nhóm người vận động"
+        },
+        {
+          "m_full_vn": "như division lobby"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to lobby somebody for something ) (từ Mỹ,nghĩa Mỹ) cố gắng thuyết phục (một chính khách...) để ủng hộ hoặc phản đối dự luật; vận động ở hành lang",
+          "list_en_vn": [
+            {
+              "full_en": "to lobby (MPs ) for higher farm subsidies",
+              "full_vn": "vận động (các nghị sĩ quốc hội) để tăng trợ cấp cho trang trại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to lobby something through something ) thông qua hoặc bác bỏ (một dự luật...) bằng cách vận động ở hành lang",
+          "list_en_vn": [
+            {
+              "full_en": "to lobby a bill through Parliament /the Senate",
+              "full_vn": "vận động (ở hành lang) cho một dự luật được Quốc hội/Thượng nghị viện thông qua"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075370_b412110999_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075370_7a2ae9309f_o.png",
+      "id_image": "lobby_2473110"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383227_04a39feedf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383227_bc3a251855_o.png",
+      "id_image": "lobby_5569268"
+    }
+  ]
+}

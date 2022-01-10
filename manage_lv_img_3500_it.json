@@ -1,0 +1,114 @@
+{
+  "english": "manage",
+  "phat_am": "['mænidʒ]",
+  "list_type": [
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quản lý, trông nom",
+          "list_en_vn": [
+            {
+              "full_en": "to manage a bank",
+              "full_vn": "quản lý một ngân hàng"
+            },
+            {
+              "full_en": "to manage a household",
+              "full_vn": "trông nom công việc gia đình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chế ngự, kiềm chế; điều khiển, sai khiến, dạy dỗ, dạy bảo",
+          "list_en_vn": [
+            {
+              "full_en": "I cannot manage that horse",
+              "full_vn": "tôi không thể nào chế ngự nổi con ngựa kia"
+            },
+            {
+              "full_en": "a child very difficult to manage",
+              "full_vn": "một đứa trẻ khó dạy (bảo)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to manage on something ) ( to manage without somebody / something ) giải quyết, xoay xở được",
+          "list_en_vn": [
+            {
+              "full_en": "I just can't manage on 50 dollars a week",
+              "full_vn": "đúng là tôi không tài nào xoay xở được với 50 đô la một tuần"
+            },
+            {
+              "full_en": "I can't borrow money , so I'll have to manage without",
+              "full_vn": "tôi không thể vay được tiền, nên phải tự xoay xở lấy"
+            },
+            {
+              "full_en": "I shan't be able to manage (the job ) (without help )",
+              "full_vn": "tôi không có khả năng giải quyết được (công việc) (mà không có sự trợ giúp)"
+            },
+            {
+              "full_en": "in spite of these insults , she managed not to get angry",
+              "full_vn": "dù bị xúc phạm như vậy, cô ấy vẫn tự kiềm chế để không nổi giận"
+            },
+            {
+              "full_en": "I just about managed to get up the stairs",
+              "full_vn": "tôi chỉ vừa mới tìm được cách leo lên cầu thang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(dùng với can , could ) thành công trong việc đưa ra, đạt được hoặc làm cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "I haven't been learning French for long , so I can only manage a few words",
+              "full_vn": "tôi không học tiếng Pháp lâu rồi, nên tôi chỉ dùng được (nói được) một vài từ"
+            },
+            {
+              "full_en": "even a schoolboy could manage a better story than that",
+              "full_vn": "thậm chí nmột đứa học trò cũng viết được một câu chuyện hay hơn thế"
+            },
+            {
+              "full_en": "I couldn't manage another thing , I'm afraid",
+              "full_vn": "tôi e rằng tôi không thể dùng thêm (ăn thêm) món gì khác nữa"
+            },
+            {
+              "full_en": "despite his disappointment , he managed a smile",
+              "full_vn": "mặc dù thất vọng, anh ấy vẫn nở một nụ cười"
+            },
+            {
+              "full_en": "can you manage lunch on Tuesday ?",
+              "full_vn": "anh có thể đến dùng bữa trưa vào thứ ba được chứ?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371732_873792f688_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371732_d95af64b05_o.png",
+      "id_image": "manage_1768879"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371712_eff14b33d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371712_e2a55a5484_o.png",
+      "id_image": "manage_1768889"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442008_a147e2ca76_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442008_e4b4eeed71_o.png",
+      "id_image": "manage_1768897"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371652_b95d8df91a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371652_e4e63df6d0_o.png",
+      "id_image": "manage_4751891"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808371612_5c8e89ab05_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808371612_4949dff168_o.png",
+      "id_image": "manage_5132697"
+    }
+  ]
+}

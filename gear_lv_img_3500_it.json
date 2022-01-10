@@ -1,0 +1,97 @@
+{
+  "english": "gear",
+  "phat_am": "[giə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cơ cấu, thiết bị, dụng cụ; đồ gá lắp, phụ tùng"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) bánh răng; sự truyền động bánh răng; số (ô tô...)",
+          "list_en_vn": [
+            {
+              "full_en": "to go into first gear",
+              "full_vn": "mở số một"
+            },
+            {
+              "full_en": "to change gear",
+              "full_vn": "sang số (ô tô...)"
+            },
+            {
+              "full_en": "in gear",
+              "full_vn": "khớp bánh răng; gài số"
+            },
+            {
+              "full_en": "out of gear",
+              "full_vn": "không khớp bánh răng; không gài số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) thiết bị tàu thuỷ"
+        },
+        {
+          "m_full_vn": "bộ yên cương ngựa"
+        },
+        {
+          "m_full_vn": "đồ dùng, đồ đạc",
+          "list_en_vn": [
+            {
+              "full_en": "all one's worldly gear",
+              "full_vn": "tất cả những cái mà người ta có; tất cả của cải"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sang số (ô tô...)",
+          "list_en_vn": [
+            {
+              "full_en": "to gear up",
+              "full_vn": "lên số"
+            },
+            {
+              "full_en": "to gear down",
+              "full_vn": "xuống số"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hướng cái gì phục vụ cho cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to gear agriculture to socialist construction",
+              "full_vn": "hướng công nghiệp phục vụ công cuộc xây dựng xã hội chủ nghĩa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ăn khớp vào nhau (bánh răng)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809337256_9c874cd78d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809337256_6403840263_o.png",
+      "id_image": "gear_1473251"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452053_0ef7838d17_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452053_c43d04a5ee_o.png",
+      "id_image": "gear_2137990"
+    }
+  ]
+}

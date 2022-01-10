@@ -1,0 +1,53 @@
+{
+  "english": "guilt",
+  "phat_am": "[gilt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "điều sai quấy, tội lỗi",
+          "list_en_vn": [
+            {
+              "full_en": "the police established his guilt beyond all doubt",
+              "full_vn": "cảnh sát chứng minh rằng không có gì phải nghi ngờ về tội lỗi của hắn"
+            },
+            {
+              "full_en": "to find out where the guilt lies",
+              "full_vn": "tìm xem lỗi lầm nằm ở đâu; tìm hiểu xem ai chịu trách nhiệm về lỗi lầm đó"
+            },
+            {
+              "full_en": "guilt was written all over her face",
+              "full_vn": "lỗi lầm hiện rành rành trên nét mặt của cô ấy"
+            },
+            {
+              "full_en": "to be racked by feelings of guilt /a guilt complex",
+              "full_vn": "bị giày vò bởi mặc cảm tội lỗi"
+            },
+            {
+              "full_en": "a guilt complex",
+              "full_vn": "mặc cảm tội lỗi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362417_2e570bec5d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362417_d061cec6df_o.png",
+      "id_image": "guilt_1354775"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672749_424d4b8cf1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672749_59cffac73a_o.png",
+      "id_image": "guilt_5705339"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433168_ba14fdddd8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433168_3288ac8745_o.png",
+      "id_image": "guilt_708643"
+    }
+  ]
+}

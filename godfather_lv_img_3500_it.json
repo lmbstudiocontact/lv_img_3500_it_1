@@ -1,0 +1,51 @@
+{
+  "english": "godfather",
+  "phat_am": "['gɔd,fɑ:ðə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cha đỡ đầu",
+          "list_en_vn": [
+            {
+              "full_en": "to stand godfather to a child",
+              "full_vn": "đỡ đầu cho một đứa trẻ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) người được lấy tên để đặt cho (ai, vật gì...)"
+        },
+        {
+          "m_full_vn": "thủ lĩnh của một băng nhóm tội phạm; trùm tội phạm; bố già"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đỡ đầu (cho một đứa trẻ), đặt tên mình cho một đứa trẻ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329711_6104a073af_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329711_afc6bc05ca_o.png",
+      "id_image": "godfather_1427405"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329671_5071912504_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329671_53de7b4086_o.png",
+      "id_image": "godfather_1427422"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684584_e89947cf55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684584_2f853c3af9_o.png",
+      "id_image": "godfather_1427434"
+    }
+  ]
+}

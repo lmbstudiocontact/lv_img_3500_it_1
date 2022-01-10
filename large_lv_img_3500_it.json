@@ -1,0 +1,133 @@
+{
+  "english": "large",
+  "phat_am": "[lɑ:dʒ]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "có quy mô, phạm vi hoặc dung lượng lớn; to; rộng lớn",
+          "list_en_vn": [
+            {
+              "full_en": "a large town",
+              "full_vn": "một thành phố lớn"
+            },
+            {
+              "full_en": "a large family needs a large house",
+              "full_vn": "gia đình đông người cần phải có nhà cửa rộng rãi"
+            },
+            {
+              "full_en": "she inherited a large fortune",
+              "full_vn": "cô ta thừa kế một tài sản lớn"
+            },
+            {
+              "full_en": "he has a large appetite",
+              "full_vn": "anh ta có sức ăn khoẻ"
+            },
+            {
+              "full_en": "a large lady",
+              "full_vn": "một bà to béo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rộng về tầm cỡ, quy mô hoặc phạm vi; bao quát",
+          "list_en_vn": [
+            {
+              "full_en": "an official with large powers",
+              "full_vn": "một quan chức có quyền hạn rộng lớn"
+            },
+            {
+              "full_en": "to give someone large powers",
+              "full_vn": "cho ai quyền hành rộng rãi"
+            },
+            {
+              "full_en": "the book dealing with large themes",
+              "full_vn": "quyển sách đề cập nhiều đề tài"
+            },
+            {
+              "full_en": "large and small farmers",
+              "full_vn": "các chủ trại lớn và nhỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) rộng lượng, hào phóng",
+          "list_one_mean": [
+            {
+              "id_full_en": "as large as life",
+              "list_im": [
+                {
+                  "im_full_vn": "được thấy hoặc xuất hiện bằng xương bằng thịt, không thể nhầm lẫn hoặc nghi ngờ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "and there she was as large as life",
+                      "full_vn": "va cô ta đã xuất hiện, đích thực là cô ta"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "larger-than-life",
+              "list_im": [
+                {
+                  "im_full_vn": "huênh hoang, khoác lác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a larger-than-life driver",
+                      "full_vn": "anh tài xế khoác lác"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "writ large",
+              "list_im": [
+                {
+                  "im_full_vn": "rõ ràng, rành rành, sờ sờ, hiển nhiên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by and large",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn chung, nói chung",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "by and large , the company's been pretty good to me",
+                      "full_vn": "nhìn chung, công ty đối với tôi khá tốt"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a large heart",
+              "full_vn": "một tấm lòng rộng lượng, một tấm lòng hào phóng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320366_b899a9416b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320366_093e96f42b_o.png",
+      "id_image": "large_2036393"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365207_cc6becaef9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365207_bdcb7c0d73_o.png",
+      "id_image": "large_2103636"
+    }
+  ]
+}

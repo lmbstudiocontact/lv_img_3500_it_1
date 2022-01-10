@@ -1,0 +1,43 @@
+{
+  "english": "inhale",
+  "phat_am": "[in'heil]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hít vào"
+        },
+        {
+          "m_full_vn": "nuốt (khói thuốc lá...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nuốt (khói thuốc lá...)",
+          "list_en_vn": [
+            {
+              "full_en": "do you inhale when smoking ?",
+              "full_vn": "anh có nuốt khói khi hút không?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084775_2cd2b95013_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084775_1153efb0fc_o.png",
+      "id_image": "inhale_1685868"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702189_3f6ed265b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702189_a8ae74c2bb_o.png",
+      "id_image": "inhale_4694769"
+    }
+  ]
+}

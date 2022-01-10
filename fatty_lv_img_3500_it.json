@@ -1,0 +1,47 @@
+{
+  "english": "fatty",
+  "phat_am": "['fæti]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "béo; như mỡ; có nhiều mỡ",
+          "list_en_vn": [
+            {
+              "full_en": "fatty acids",
+              "full_vn": "(hoá học) axit béo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phát phì"
+        },
+        {
+          "m_full_vn": "có đọng mỡ",
+          "list_en_vn": [
+            {
+              "full_en": "fatty degeneration of heart",
+              "full_vn": "bệnh thoái hoá mỡ của tim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chú béo, chú bệu, anh phệ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379347_44b9e0e88a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379347_c72a58d086_o.png",
+      "id_image": "fatty_3411775"
+    }
+  ]
+}

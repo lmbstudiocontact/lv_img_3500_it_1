@@ -1,0 +1,245 @@
+{
+  "english": "find",
+  "phat_am": "[faind]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tìm thấy (chồn, cáo, mỏ, vàng...)",
+          "list_en_vn": [
+            {
+              "full_en": "a sure find",
+              "full_vn": "nơi chắc tìm thấy vật gì; nơi chắc có cáo, có chồn..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật tìm thấy"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thấy, tìm thấy, tìm ra, bắt được"
+        },
+        {
+          "m_full_vn": "nhận, nhận được, được",
+          "list_en_vn": [
+            {
+              "full_en": "to find favour",
+              "full_vn": "được chiếu cố"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhận thấy, xét thấy, thấy",
+          "list_en_vn": [
+            {
+              "full_en": "how do you find yourself this morning ?",
+              "full_vn": "sáng nay anh thấy người thế nào?"
+            },
+            {
+              "full_en": "to find it necessary to do something",
+              "full_vn": "thấy cần thiết phải làm việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thấy có (thời gian, can đảm...)",
+          "list_en_vn": [
+            {
+              "full_en": "I can't find time to read",
+              "full_vn": "tôi không thấy có thời gian để đọc"
+            },
+            {
+              "full_en": "to find courage to do something",
+              "full_vn": "thấy có can đảm để làm việc gì"
+            },
+            {
+              "full_en": "nobody can find it in his heart to do that",
+              "full_vn": "không ai nỡ lòng nào mà làm việc đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) tới, đạt tới, trúng",
+          "list_en_vn": [
+            {
+              "full_en": "the blow found his chin",
+              "full_vn": "quả đấm trúng cằm hắn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cung cấp",
+          "list_en_vn": [
+            {
+              "full_en": "to find someone in clothes",
+              "full_vn": "cung cấp cho ai quần áo"
+            },
+            {
+              "full_en": "to be well found in food",
+              "full_vn": "được cung cấp đầy đủ về thức ăn"
+            },
+            {
+              "full_en": "all found",
+              "full_vn": "được cấp đầy đủ cả ăn, ở, quần áo, ngoài lương ra (người ở)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) xác minh và tuyên bố là có tội",
+          "list_one_mean": [
+            {
+              "id_full_en": "to find out",
+              "list_im": [
+                {
+                  "im_full_vn": "khám phá ra, tìm ra"
+                },
+                {
+                  "im_full_vn": "phát minh ra"
+                },
+                {
+                  "im_full_vn": "giải (một vấn đề)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find out about",
+              "list_im": [
+                {
+                  "im_full_vn": "hỏi về, tìm hiểu về"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find one's account in",
+              "list_im": [
+                {
+                  "im_full_vn": "lợi dụng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find one's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "đi đứng được"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) tự lực được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find a true bill",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) bill"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "thấy được sở trường năng khiếu của mình"
+                },
+                {
+                  "im_full_vn": "tự cung cấp cho mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find one's way to ..",
+              "list_im": [
+                {
+                  "im_full_vn": "tìm được con đường đi tới..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be found wanting",
+              "list_im": [
+                {
+                  "im_full_vn": "tỏ ra yếu kém"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find fault with sb",
+              "list_im": [
+                {
+                  "im_full_vn": "phê phán ai một cách gay gắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find one's voice / one's tongue",
+              "list_im": [
+                {
+                  "im_full_vn": "diễn đạt trôi chảy ý kiến của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find one's match",
+              "list_im": [
+                {
+                  "im_full_vn": "gặp phải đối thủ lợi hại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take sb as one finds",
+              "list_im": [
+                {
+                  "im_full_vn": "thừa nhận thực trạng của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find one's own level",
+              "list_im": [
+                {
+                  "im_full_vn": "liên kết với người cùng giới, cùng trình độ với mình"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to find somebody guilty",
+              "full_vn": "xác minh và tuyên bố ai có tội"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682974_869aaa1c02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682974_d08b11b899_o.png",
+      "id_image": "find_1397164"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442883_2ca99bf0f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442883_b7307feb28_o.png",
+      "id_image": "find_2247930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372547_00b32de864_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372547_334ebf703a_o.png",
+      "id_image": "find_5059364"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809327791_03565df75c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809327791_ebb225683e_o.png",
+      "id_image": "find_5059378"
+    }
+  ]
+}

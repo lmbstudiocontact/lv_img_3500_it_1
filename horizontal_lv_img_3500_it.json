@@ -1,0 +1,57 @@
+{
+  "english": "horizontal",
+  "phat_am": "[,hɔri'zɔntl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) chân trời; ở chân trời",
+          "list_en_vn": [
+            {
+              "full_en": "horizontal line",
+              "full_vn": "đường chân trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngang, nằm ngang",
+          "list_en_vn": [
+            {
+              "full_en": "horizontal plane",
+              "full_vn": "mặt phẳng nằm ngang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đường nằm ngang"
+        },
+        {
+          "m_full_vn": "thanh ngang"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332196_9b3b7fbb15_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332196_75135abdd8_o.png",
+      "id_image": "horizontal_1484599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332166_1a90f4e813_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332166_e1907de091_o.png",
+      "id_image": "horizontal_2280396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068820_eee8f9eaa4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068820_1a929af93c_o.png",
+      "id_image": "horizontal_4598313"
+    }
+  ]
+}

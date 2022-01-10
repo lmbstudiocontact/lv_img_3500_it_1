@@ -1,0 +1,47 @@
+{
+  "english": "humanity",
+  "phat_am": "[hju:'mæniti]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "loài người, nhân loại",
+          "list_en_vn": [
+            {
+              "full_en": "a crime against humanity",
+              "full_vn": "một tội ác đối với toàn thể loài người"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lòng nhân đạo"
+        },
+        {
+          "m_full_vn": "bản chất của loài người, nhân tính"
+        },
+        {
+          "m_full_vn": "( số nhiều) hành động nhân đạo"
+        },
+        {
+          "m_full_vn": "( số nhiều) những đặc tính của con người"
+        },
+        {
+          "m_full_vn": "( the humanity ) khoa học nhân văn; cổ điển học Hy lạp"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372792_84aaa14bfd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372792_f10d25a18b_o.png",
+      "id_image": "humanitarian_5102260"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372932_8d314a702b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372932_f959cfdd32_o.png",
+      "id_image": "human_2640779"
+    }
+  ]
+}

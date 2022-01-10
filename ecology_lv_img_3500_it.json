@@ -1,0 +1,57 @@
+{
+  "english": "ecology",
+  "phat_am": "[i'kɔlədʒi]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoa nghiên cứu mối quan hệ của thực vật và các sinh vấtsông với nhau với môi trường xung quanh; sinh thái học",
+          "list_one_mean": [
+            {
+              "id_full_en": "The Ecology Party (cũng The Green Party )",
+              "list_im": [
+                {
+                  "im_full_vn": "Đảng chính trị ở Anh, chủ trương bảo vệ nông thôn, bầu khí quyển... khỏi ô nhiễm hoặc các nguy cơ khác"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "chemicals in the factory's sewage system have changed the ecology of the whole area",
+              "full_vn": "các hoá chất trong hệ thống thải của nhà máy đã làm thay đổi sinh thái toàn bộ khu vực"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067920_43e2072a46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067920_2e19664074_o.png",
+      "id_image": "ecology_1974306"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331196_84dda12cdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331196_4ac7e2dfc5_o.png",
+      "id_image": "ecology_2666713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331161_c9aac07d55_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331161_a1042b57c0_o.png",
+      "id_image": "ecology_3381168"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067855_8a8c767c80_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067855_767eb98d0e_o.png",
+      "id_image": "ecology_4178784"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331091_865221ef78_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331091_444ae3c67c_o.png",
+      "id_image": "ecology_5928108"
+    }
+  ]
+}

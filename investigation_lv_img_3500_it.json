@@ -1,0 +1,68 @@
+{
+  "english": "investigation",
+  "phat_am": "[in,vesti'gei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự điều tra hoặc bị điều tra",
+          "list_en_vn": [
+            {
+              "full_en": "criminal investigation",
+              "full_vn": "công tác điều tra hình sự"
+            },
+            {
+              "full_en": "The matter is under investigation",
+              "full_vn": "Nội vụ đang được điều tra"
+            },
+            {
+              "full_en": "It's subject to investigation",
+              "full_vn": "Việc đó còn phải điều tra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( investigation into something ) trường hợp điều tra, nghiên cứu",
+          "list_en_vn": [
+            {
+              "full_en": "Scientists are conducting an investigation into the causes of the accident",
+              "full_vn": "Các nhà khoa học đang tiến hành điều tra nguyên nhân của vụ tai nạn"
+            },
+            {
+              "full_en": "To carry out fresh investigations",
+              "full_vn": "Tiến hành các cuộc điều tra nghiên cứu mới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076180_bd77756e7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076180_eb5349cbbd_o.png",
+      "id_image": "investigation_1284694"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809339051_17349f02d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809339051_40d83a8390_o.png",
+      "id_image": "investigation_2861736"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076105_c5073ce225_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076105_e407b5402e_o.png",
+      "id_image": "investigation_3426705"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694104_ef84431a6b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694104_47f7ea508a_o.png",
+      "id_image": "investigation_3798689"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338911_3e3a5bf40c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338911_85774c9051_o.png",
+      "id_image": "investigation_4620327"
+    }
+  ]
+}

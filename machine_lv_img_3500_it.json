@@ -1,0 +1,104 @@
+{
+  "english": "machine",
+  "phat_am": "[mə'∫i:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thiết bị có nhiều bộ phận chuyển động, được thiết kế để thực hiện một nhiệm vụ nào đó và chạy bằng điện, hơi nước, khí đốt.... hoặc bằng sức người; cỗ máy",
+          "list_en_vn": [
+            {
+              "full_en": "washing-machine",
+              "full_vn": "máy giặt"
+            },
+            {
+              "full_en": "the scrap merchant has a machine which crushes cars",
+              "full_vn": "người buôn sắt vụn có một cái máy đập bẹp xe ô tô"
+            },
+            {
+              "full_en": "office machines",
+              "full_vn": "các loại máy văn phòng (máy đánh chữ, máy vi tính, máy sao chụp...)"
+            },
+            {
+              "full_en": "machines have replaced human labour in many industries",
+              "full_vn": "máy móc đã thay thế lao động của con người trong nhiều ngành công nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhóm người kiểm soát (một phần của) một tổ chức; guồng máy; bộ máy",
+          "list_en_vn": [
+            {
+              "full_en": "the (political ) party machine",
+              "full_vn": "bộ máy của đảng (chính trị)"
+            },
+            {
+              "full_en": "the public relations machine covered up the firm's heavy losses",
+              "full_vn": "bộ máy tuyên truyền quảng cáo đã che giấu những khoản lỗ nặng của công ty"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người hành động một cách vô ý thức, không suy nghĩ; người làm việc như cái máy"
+        },
+        {
+          "m_full_vn": "máy thay cảnh (ở (sân khấu))"
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) máy móc, (thuộc) cơ giới, (thuộc) cơ khí",
+          "list_en_vn": [
+            {
+              "full_en": "machine age",
+              "full_vn": "thời đại máy móc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bằng máy",
+          "list_en_vn": [
+            {
+              "full_en": "machine winding",
+              "full_vn": "sự cuốn chỉ (vào ống) bằng máy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bằng máy, gia công trên máy"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809446293_01413e4d66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809446293_33ec321903_o.png",
+      "id_image": "machine_297355"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067990_1c7172af85_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067990_6742e29b1b_o.png",
+      "id_image": "machine_416209"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067955_891114f3d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067955_a6affbd5b9_o.png",
+      "id_image": "machine_416232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809331216_5cb32b0687_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809331216_30d33fd993_o.png",
+      "id_image": "machine_830018"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "english": "hate",
+  "phat_am": "[heit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thơ ca) lòng căm thù; sự căm hờn, sự căm ghét"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "căm thù, căm hờn, căm ghét"
+        },
+        {
+          "m_full_vn": "(thông tục) không muốn, không thích",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hate sb's guts",
+              "list_im": [
+                {
+                  "im_full_vn": "ghét cay ghét đắng ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "I hate troubling you",
+              "full_vn": "tôi không hề muốn làm phiền anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343356_ffef6fb612_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343356_dc1942b9cf_o.png",
+      "id_image": "hate_6433521"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698614_da50ff31da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698614_453a24efd9_o.png",
+      "id_image": "hate_708631"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "english": "knife",
+  "phat_am": "[naif]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều knives",
+      "list_m": [
+        {
+          "m_full_vn": "con dao"
+        },
+        {
+          "m_full_vn": "(y học) dao mổ",
+          "list_en_vn": [
+            {
+              "full_en": "the knife",
+              "full_vn": "phẫu thuật; cuộc mổ"
+            },
+            {
+              "full_en": "to go under the knife",
+              "full_vn": "bị mổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) dao cắt gọt, dao nạo",
+          "list_one_mean": [
+            {
+              "id_full_en": "before you can say knife",
+              "list_im": [
+                {
+                  "im_full_vn": "đột ngột, rất nhanh không kịp kêu lên một tiếng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get (have ) one's knife into somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "tấn công ai mãnh liệt, đả kích ai kịch kiệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "knife and fork",
+              "list_im": [
+                {
+                  "im_full_vn": "sự ăn"
+                },
+                {
+                  "im_full_vn": "người ăn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to be a good (poor ) knife and fork",
+                      "full_vn": "là một người ăn khoẻ (yếu)"
+                    },
+                    {
+                      "full_en": "to lay a good knife and fork",
+                      "full_vn": "ăn uống ngon lành; ăn khoẻ"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "war to the knife",
+              "list_im": [
+                {
+                  "im_full_vn": "chiến tranh ác liệt, chiến tranh một mất một còn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "you could cut it with a knife",
+              "list_im": [
+                {
+                  "im_full_vn": "đó là một cái có thực, đó là một cái cụ thể có thể sờ mó được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a knife through butter",
+              "list_im": [
+                {
+                  "im_full_vn": "dễ như bỡn, dễ như lấy đồ trong túi ra, dễ như trở bàn tay"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đâm bằng dao; chém bằng dao; cắt bằng dao"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) dùng thủ đoạn ám muội để làm thất bại ( (thường) là về mặt (chính trị))"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440693_f8428469ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440693_fb3ae84225_o.png",
+      "id_image": "knife_297832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440673_7d0396a57d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440673_522d8d1981_o.png",
+      "id_image": "knife_333549"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370422_571ec1dcc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370422_f4569a4727_o.png",
+      "id_image": "knife_535039"
+    }
+  ]
+}

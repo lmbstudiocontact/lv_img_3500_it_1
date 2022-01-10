@@ -1,0 +1,74 @@
+{
+  "english": "inspiration",
+  "phat_am": "[,inspə'rei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( inspiration to do something ) sự kích thích trí tuệ, cảm xúc... để làm cái gì vượt xa khả năng thông thường của con người, nhất là khả năng sáng tạo nghệ thuật, văn học, âm nhạc..., trạng thái hoặc tính chất cảm hứng; sự cảm hứng; nguồn cảm hứng",
+          "list_en_vn": [
+            {
+              "full_en": "Woodsworth found (his ) inspiration in /drew (his ) inspiration from the Lake District scenery . It was a great source of inspiration to him",
+              "full_vn": "Woodsworth tìm cảm hứng/lấy cảm hứng từ cảnh vật vùng Hồ. Đó là một nguồn cảm hứng lớn đối với ông ta"
+            },
+            {
+              "full_en": "her work shows real inspiration",
+              "full_vn": "tác phẩm của bà ấy biểu lộ cảm hứng thực sự"
+            },
+            {
+              "full_en": "I sat down to write my essay , but found I was completely without inspiration",
+              "full_vn": "tôi ngồi xuống định viết bài tiểu luận, nhưng tôi cảm thấy là không có hứng tí nào"
+            },
+            {
+              "full_en": "genius is 10% inspiration and 90 % perspiration",
+              "full_vn": "thiên tài là 10 % cảm hứng và 90 % mồ hôi"
+            },
+            {
+              "full_en": "this woman's an inspiration to all of us",
+              "full_vn": "người phụ nữ là nguồn cảm hứng cho tất cả chúng ta"
+            },
+            {
+              "full_en": "poetic inspiration",
+              "full_vn": "hứng thơ, thi hứng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hít vào, sự thở vào"
+        },
+        {
+          "m_full_vn": "cảm nghĩ, ý nghĩ hay chợt có",
+          "list_en_vn": [
+            {
+              "full_en": "I've just had an inspiration : Why don't we try turning it the other way ?",
+              "full_vn": "Mình vừa chợt nghĩ ra thế này : Sao chúng ta không thử lật ngược nó sang chiều kia?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344591_22db6cec43_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344591_1c6b169b73_o.png",
+      "id_image": "inspiration_1935485"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809459358_5a54915355_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809459358_ba5b782db9_o.png",
+      "id_image": "inspiration_4214085"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699734_36928b75ab_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699734_558cf49d1e_o.png",
+      "id_image": "inspiration_552420"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344541_73d96682e0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344541_f14522d766_o.png",
+      "id_image": "inspiration_6193379"
+    }
+  ]
+}

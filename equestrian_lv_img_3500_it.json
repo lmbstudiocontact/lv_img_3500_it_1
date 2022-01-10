@@ -1,0 +1,43 @@
+{
+  "english": "equestrian",
+  "phat_am": "[i'kwestriən]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) sự cưỡi ngựa",
+          "list_en_vn": [
+            {
+              "full_en": "an equestrian statue",
+              "full_vn": "tượng người cưỡi ngựa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cưỡi ngựa"
+        },
+        {
+          "m_full_vn": "người làm xiếc trên ngựa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810052965_c675306bd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810052965_66160af253_o.png",
+      "id_image": "equestrian_2072599"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808360752_547e3d0841_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808360752_c41bdd6d2f_o.png",
+      "id_image": "equestrian_3965983"
+    }
+  ]
+}

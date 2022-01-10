@@ -1,0 +1,49 @@
+{
+  "english": "leech",
+  "phat_am": "[li:t∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cạnh buồm, mép buồm"
+        },
+        {
+          "m_full_vn": "con đỉa",
+          "list_en_vn": [
+            {
+              "full_en": "to stick like a leech",
+              "full_vn": "dai như đỉa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) kẻ bóc lột, kẻ hút máu"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) thầy thuốc, thầy lang"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho đỉa hút máu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346941_eb44516b4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346941_00ec53cf71_o.png",
+      "id_image": "leech_1328676"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346906_a7a84917f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346906_014c65df0a_o.png",
+      "id_image": "leech_2233621"
+    }
+  ]
+}

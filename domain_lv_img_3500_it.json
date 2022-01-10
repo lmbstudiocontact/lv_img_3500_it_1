@@ -1,0 +1,54 @@
+{
+  "english": "domain",
+  "phat_am": "[dou'mein]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "đất đai thuộc quyền sở hữu hoặc được cai trị bởi một nhà quý tộc, chính phủ....; lãnh địa; lãnh thổ",
+          "list_en_vn": [
+            {
+              "full_en": "to trespass on the King's domain",
+              "full_vn": "xâm phạm vào đất đai của nhà vua"
+            },
+            {
+              "full_en": "the kitchen is my wife's domain ; she doesn't like me going into it",
+              "full_vn": "nhà bếp là lãnh địa của vợ tôi; bà ấy không thích tôi vào đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phạm vi; lĩnh vực",
+          "list_en_vn": [
+            {
+              "full_en": "in the domain of financial management",
+              "full_vn": "trong lĩnh vực quản lý tài chính"
+            },
+            {
+              "full_en": "business administration is really outside his domain",
+              "full_vn": "đúng là quản trị kinh doanh nằm ngoài phạm vi hiểu biết của ông ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666034_4629f19def_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666034_9d2edea775_o.png",
+      "id_image": "domain_287492"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425858_b02e4610e6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425858_a70475f0de_o.png",
+      "id_image": "domain_4496196"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047650_a7d229122a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047650_e656f0c138_o.png",
+      "id_image": "domain_5030933"
+    }
+  ]
+}

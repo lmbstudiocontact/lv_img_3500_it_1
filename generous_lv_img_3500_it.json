@@ -1,0 +1,55 @@
+{
+  "english": "generous",
+  "phat_am": "['dʒenərəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "rộng lượng, khoan hồng"
+        },
+        {
+          "m_full_vn": "rộng rãi, hào phóng"
+        },
+        {
+          "m_full_vn": "thịnh soạn",
+          "list_en_vn": [
+            {
+              "full_en": "a generous meal",
+              "full_vn": "bữa ăn thịnh soạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "màu mỡ, phong phú",
+          "list_en_vn": [
+            {
+              "full_en": "generous soil",
+              "full_vn": "đất màu mỡ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thắm tươi (màu sắc)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335936_b88b02bb46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335936_21b12369af_o.png",
+      "id_image": "generous_2871610"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691154_08ea26495e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691154_7ed397f88d_o.png",
+      "id_image": "generous_5778381"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810072825_ebe385d192_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810072825_282bd4ef1b_o.png",
+      "id_image": "generous_5778726"
+    }
+  ]
+}

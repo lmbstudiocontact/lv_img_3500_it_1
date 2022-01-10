@@ -1,0 +1,72 @@
+{
+  "english": "increase",
+  "phat_am": "['inkri:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự tăng, sự tăng thêm",
+          "list_en_vn": [
+            {
+              "full_en": "an increase in population",
+              "full_vn": "sự tăng số dân"
+            },
+            {
+              "full_en": "on the increase",
+              "full_vn": "đang tăng lên, ngày càng tăng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "số lượng tăng thêm"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tăng lên, tăng thêm, lớn thêm",
+          "list_en_vn": [
+            {
+              "full_en": "to increase speed",
+              "full_vn": "tăng tốc độ"
+            },
+            {
+              "full_en": "the population increases",
+              "full_vn": "số dân tăng lên"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318686_b1a4898715_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318686_afbf10fcc3_o.png",
+      "id_image": "increase_1011586"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673519_fd31d41305_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673519_28f2544314_o.png",
+      "id_image": "increase_1190358"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673444_150a667d4a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673444_a189b61c8b_o.png",
+      "id_image": "increase_2350508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318596_75865b8a09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318596_0648e71d8d_o.png",
+      "id_image": "increase_2586022"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363157_376632007b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363157_78af4cca92_o.png",
+      "id_image": "increase_4328843"
+    }
+  ]
+}

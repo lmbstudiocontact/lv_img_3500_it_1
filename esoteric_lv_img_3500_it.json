@@ -1,0 +1,32 @@
+{
+  "english": "esoteric",
+  "phat_am": "[,esou'terik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "chỉ những người đặc biệt quan tâm mới hiểu được; bí truyền",
+          "list_en_vn": [
+            {
+              "full_en": "esoteric language",
+              "full_vn": "ngôn ngữ bí truyền"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809670114_a376da986b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809670114_81dcc87d5d_o.png",
+      "id_image": "esoteric_1679082"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051915_afcecf61b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051915_f11a005096_o.png",
+      "id_image": "esoteric_5318693"
+    }
+  ]
+}

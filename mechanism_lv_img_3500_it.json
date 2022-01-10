@@ -1,0 +1,54 @@
+{
+  "english": "mechanism",
+  "phat_am": "['mekənizm]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "máy móc, cơ cấu, cơ chế (nghĩa đen) & (nghĩa bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "the mechanism of government",
+              "full_vn": "cơ cấu chính quyền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kỹ thuật, kỹ xảo",
+          "list_en_vn": [
+            {
+              "full_en": "the mechanism of a pianist",
+              "full_vn": "kỹ xảo của một người chơi pianô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(triết học) thuyết cơ giới"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318436_99f7dbdebf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318436_0925064952_o.png",
+      "id_image": "mechanism_1610493"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433633_7197cc3610_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433633_a324289a8f_o.png",
+      "id_image": "mechanism_2259701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433648_131deae017_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433648_8116e35721_o.png",
+      "id_image": "mechanism_416214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673219_bff1c1c6a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673219_a1d1e9dc8e_o.png",
+      "id_image": "mechanism_5541887"
+    }
+  ]
+}

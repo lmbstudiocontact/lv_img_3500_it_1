@@ -1,0 +1,27 @@
+{
+  "english": "gourmet",
+  "phat_am": "['guəmei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người sành ăn, người sành rượu",
+          "list_en_vn": [
+            {
+              "full_en": "a gourmet restaurant",
+              "full_vn": "nhà hàng chuyên phục vụ những kẻ sành điệu về ăn uống"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442813_ab7a6b2d11_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442813_9c91201076_o.png",
+      "id_image": "gourmet_2934089"
+    }
+  ]
+}

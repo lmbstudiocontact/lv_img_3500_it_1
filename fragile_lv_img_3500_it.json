@@ -1,0 +1,51 @@
+{
+  "english": "fragile",
+  "phat_am": "['frædʒail]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "dễ vỡ, dễ gãy, dễ hỏng; mỏng mảnh, mỏng manh ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "fragile happiness",
+              "full_vn": "hạnh phúc mỏng manh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "yếu ớt, mảnh dẻ",
+          "list_en_vn": [
+            {
+              "full_en": "fragile health",
+              "full_vn": "sức khoẻ yếu ớt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808357387_0143094d5b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808357387_f626c78b10_o.png",
+      "id_image": "fragile_1949474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313411_447d7f6f2f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313411_63d5dd2a31_o.png",
+      "id_image": "fragile_316621"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313381_14155f473b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313381_aab749b5dd_o.png",
+      "id_image": "fragile_423317"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668159_b164cbc040_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668159_7cdd99743f_o.png",
+      "id_image": "fragile_4830657"
+    }
+  ]
+}

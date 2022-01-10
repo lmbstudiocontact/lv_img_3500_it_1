@@ -1,0 +1,271 @@
+{
+  "english": "dry",
+  "phat_am": "[drai]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "khô, cạn, ráo",
+          "list_en_vn": [
+            {
+              "full_en": "a spell of dry cold",
+              "full_vn": "đợt rét khô"
+            },
+            {
+              "full_en": "dry eyes",
+              "full_vn": "mắt ráo hoảnh"
+            },
+            {
+              "full_en": "a dry leaf",
+              "full_vn": "lá khô"
+            },
+            {
+              "full_en": "a dry well",
+              "full_vn": "giếng cạn"
+            },
+            {
+              "full_en": "to die a dry death",
+              "full_vn": "chết khô ráo (không chết đuối, không đổ máu)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khô nứt; (thông tục) khô cổ, khát khô cả cổ",
+          "list_en_vn": [
+            {
+              "full_en": "to feel dry",
+              "full_vn": "khát khô cổ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cạn sữa, hết sữa (bò cái...)"
+        },
+        {
+          "m_full_vn": "khan (ho)",
+          "list_en_vn": [
+            {
+              "full_en": "dry cough",
+              "full_vn": "ho khan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhạt, không bơ",
+          "list_en_vn": [
+            {
+              "full_en": "dry bread",
+              "full_vn": "bánh nhạt, bánh không bơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguyên chất, không pha, không thêm nước ngọt (rượu)"
+        },
+        {
+          "m_full_vn": "khô khan, vô vị, không thú vị",
+          "list_en_vn": [
+            {
+              "full_en": "a dry subject",
+              "full_vn": "một vấn đề khô khan"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vô tình, lãnh đạm, lạnh nhạt, lạnh lùng; cứng nhắc, cụt lủn, cộc lốc; tỉnh khô, phớt lạnh",
+          "list_en_vn": [
+            {
+              "full_en": "a dry reception",
+              "full_vn": "cuộc đón tiếp lạnh nhạt"
+            },
+            {
+              "full_en": "a dry jest",
+              "full_vn": "lời nói đùa tỉnh khô"
+            },
+            {
+              "full_en": "dry thanks",
+              "full_vn": "lời cảm ơn cụt lủn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không thêm bớt; rành rành",
+          "list_en_vn": [
+            {
+              "full_en": "dry facts",
+              "full_vn": "sự việc không thêm bớt; sự việc rành rành"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khô cứng, sắc cạnh, sắc nét (nét vẽ...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) cấm rượu",
+          "list_en_vn": [
+            {
+              "full_en": "a dry country",
+              "full_vn": "xứ cấm rượu"
+            },
+            {
+              "full_en": "to go dry",
+              "full_vn": "chấp nhận (tán thành) luật cấm rượu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khách quan, không thành kiến, vô tư",
+          "list_one_mean": [
+            {
+              "id_full_en": "not dry behind the ears",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) non nớt, chưa ráo máu đầu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to boil dry",
+              "list_im": [
+                {
+                  "im_full_vn": "sôi đến nỗi cạn luôn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "as dry as a bone",
+              "list_im": [
+                {
+                  "im_full_vn": "khô thật khô, khô như ngói"
+                }
+              ]
+            },
+            {
+              "id_full_en": "home and dry",
+              "list_im": [
+                {
+                  "im_full_vn": "êm xuôi, xuôi chèo mát mái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "high and dry",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về tàu bè) bị mắc cạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's powder dry",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng ứng phó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not a dry eye in the house",
+              "list_im": [
+                {
+                  "im_full_vn": "ai cũng xúc động, không ai bình thản được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to suck /milk somebody dry",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy được của ai tất cả số tiền, sự giúp đỡ, thông tin... mà người đó phải đưa ra; moi sạch nhẵn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "dry light",
+              "full_vn": "quan niệm khách quan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, số nhiều drys , (từ Mỹ,nghĩa Mỹ)",
+      "list_m": [
+        {
+          "m_full_vn": "vật khô; nơi khô"
+        },
+        {
+          "m_full_vn": "người tán thành cấm rượu"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm khô, phơi khô, sấy khô, lau khô; làm cạn, làm khô cạn",
+          "list_en_vn": [
+            {
+              "full_en": "to dry one's tears",
+              "full_vn": "lau khô nước mắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm cho (bò cái...) hết sữa"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "khô đi, cạn đi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to dry up",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cạn ráo, làm khô cạn; khô cạn đi, cạn ráo (giếng nước...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "dry up !",
+              "list_im": [
+                {
+                  "im_full_vn": "thôi đi! im đi!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336141_256773c2ec_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336141_42129a5356_o.png",
+      "id_image": "dry_3690258"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381097_ec95c8c991_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381097_881f98ab66_o.png",
+      "id_image": "dry_3762151"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691374_c9782ecc04_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691374_5eccb17175_o.png",
+      "id_image": "dry_4636691"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691534_25bf5a80b9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691534_6f486e5a87_o.png",
+      "id_image": "dry_577963"
+    }
+  ]
+}

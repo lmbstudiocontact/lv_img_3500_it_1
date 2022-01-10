@@ -1,0 +1,69 @@
+{
+  "english": "intersect",
+  "phat_am": "[,intə'sekt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phân cắt",
+          "list_en_vn": [
+            {
+              "full_en": "the garden is intersected by several gravelly alleys",
+              "full_vn": "khu vườn được phân cắt bởi nhiều lối đi rải sỏi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "(về các đường thẳng, đường bộ...) gặp và cắt ngang (một đường khác hoặc cắt nhau) tạo nên hình chữ thập",
+          "list_en_vn": [
+            {
+              "full_en": "the line AB intersects the line CD at E",
+              "full_vn": "đường AB cắt đường CD tại điểm E"
+            },
+            {
+              "full_en": "those two curves intersect at I",
+              "full_vn": "hai đường cong ấy cắt nhau (giao nhau) tại I"
+            },
+            {
+              "full_en": "how many times do the road and railway intersect (with one another ) on this map ?",
+              "full_vn": "đường bộ và đường xe lửa cắt nhau bao nhiêu lần trên bản đồ này?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078430_0d239bd6f8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078430_da9eeb5836_o.png",
+      "id_image": "intersection_3058436"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455823_c1d3e93cf5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455823_495cb91fc0_o.png",
+      "id_image": "intersection_3393544"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809455803_c17c170656_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809455803_974258aa74_o.png",
+      "id_image": "intersection_3680632"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078535_011c9ecb6f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078535_c4c9e953a0_o.png",
+      "id_image": "intersect_1850055"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078510_3d93e1ca92_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078510_89e226a8ef_o.png",
+      "id_image": "intersect_5488461"
+    }
+  ]
+}

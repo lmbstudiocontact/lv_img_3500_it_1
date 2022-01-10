@@ -1,0 +1,539 @@
+{
+  "english": "heart",
+  "phat_am": "[hɑ:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(giải phẫu) tim"
+        },
+        {
+          "m_full_vn": "lồng ngực",
+          "list_en_vn": [
+            {
+              "full_en": "to draw somebody to one's heart",
+              "full_vn": "kéo ai vào lòng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trái tim, lòng, tấm lòng, tâm can, tâm hồn",
+          "list_en_vn": [
+            {
+              "full_en": "a kind heart",
+              "full_vn": "lòng tốt"
+            },
+            {
+              "full_en": "a hard heart",
+              "full_vn": "lòng nhẫn tâm sắt đá"
+            },
+            {
+              "full_en": "a heavy heart",
+              "full_vn": "lòng nặng trĩu đau buồn"
+            },
+            {
+              "full_en": "a false heart",
+              "full_vn": "lòng giả dối, lòng phản trắc"
+            },
+            {
+              "full_en": "a heart of gold",
+              "full_vn": "tấm lòng vàng"
+            },
+            {
+              "full_en": "a heart of stone",
+              "full_vn": "trái tim sắt đá"
+            },
+            {
+              "full_en": "to touch (move ) someone's heart",
+              "full_vn": "làm mủi lòng ai"
+            },
+            {
+              "full_en": "after one's own heart",
+              "full_vn": "hợp với lòng mình, hợp ý mình"
+            },
+            {
+              "full_en": "at heart",
+              "full_vn": "tận đáy lòng"
+            },
+            {
+              "full_en": "from the bottom of one's heart",
+              "full_vn": "tự đáy lòng"
+            },
+            {
+              "full_en": "in one's heart",
+              "full_vn": "trong thâm tâm"
+            },
+            {
+              "full_en": "with all one's heart",
+              "full_vn": "hết lòng, với tất cả tâm hồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình cảm, tình thương",
+          "list_en_vn": [
+            {
+              "full_en": "to have no heart",
+              "full_vn": "không có tình cảm, sắt đá, nhẫn tâm"
+            },
+            {
+              "full_en": "to win (gain ) someone's heart",
+              "full_vn": "tranh thủ được cảm tình của ai, chiếm được tình yêu của ai"
+            },
+            {
+              "full_en": "to give (lose ) one's heart to somebody",
+              "full_vn": "yêu ai, phải lòng ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lòng can đảm, dũng khí; sự nhiệt tâm, sự hăng hái phấn khởi",
+          "list_en_vn": [
+            {
+              "full_en": "to take heart",
+              "full_vn": "can đảm, hăng hái lên"
+            },
+            {
+              "full_en": "to lose heart",
+              "full_vn": "mất hết can đảm, mất hết hăng hái"
+            },
+            {
+              "full_en": "to be out of heart",
+              "full_vn": "chán nản, thất vọng"
+            },
+            {
+              "full_en": "to be in good heart",
+              "full_vn": "hăng hái, phấn khởi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người yêu quí, người thân yêu (tiếng xưng hô âu yếm)",
+          "list_en_vn": [
+            {
+              "full_en": "dear heart",
+              "full_vn": "em (anh) yêu quý"
+            },
+            {
+              "full_en": "my hearts",
+              "full_vn": "(hàng hải) những anh bạn dũng cảm của tôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giữa, trung tâm",
+          "list_en_vn": [
+            {
+              "full_en": "in the heart of summer",
+              "full_vn": "vào giữa mùa hè"
+            },
+            {
+              "full_en": "in the heart of Africa",
+              "full_vn": "ở giữa Châu phi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ruột, lõi, tâm",
+          "list_en_vn": [
+            {
+              "full_en": "heart of a head of cabbage",
+              "full_vn": "ruột bắp cải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điểm chính, điểm chủ yếu, điểm mấu chốt; phần tinh tuý; thực chất",
+          "list_en_vn": [
+            {
+              "full_en": "the heart of the matter",
+              "full_vn": "điểm mấu chốt của vấn đề; thực chất của vấn đề"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự màu mỡ (đất)",
+          "list_en_vn": [
+            {
+              "full_en": "to keep land in good heart",
+              "full_vn": "giữ cho đất màu mỡ"
+            },
+            {
+              "full_en": "out of heart",
+              "full_vn": "hết màu mỡ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài), ( số nhiều) \"cơ\" , ( số ít) lá bài \"cơ\"",
+          "list_en_vn": [
+            {
+              "full_en": "queen of hearts",
+              "full_vn": "Q \"cơ\""
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật hình tim",
+          "list_one_mean": [
+            {
+              "id_full_en": "a change of heart",
+              "list_im": [
+                {
+                  "im_full_vn": "sự thay đổi thái độ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "close to sb's heart",
+              "list_im": [
+                {
+                  "im_full_vn": "gắn bó, gần gũi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "cross my heart (and hope to die )",
+              "list_im": [
+                {
+                  "im_full_vn": "xin thề thật lòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's heart goes out to sb",
+              "list_im": [
+                {
+                  "im_full_vn": "đau buồn thương xót ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's heart sinks",
+              "list_im": [
+                {
+                  "im_full_vn": "chán chường, ngán ngẫm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take heart at sth",
+              "list_im": [
+                {
+                  "im_full_vn": "hăng hái hơn, tin tưởng hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take sth to heart",
+              "list_im": [
+                {
+                  "im_full_vn": "suy nghĩ nhiều về điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to one's heart's content",
+              "list_im": [
+                {
+                  "im_full_vn": "tùy thích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wear one's heart on one's sleeve",
+              "list_im": [
+                {
+                  "im_full_vn": "không dấu diếm tình cảm, ruột để ngoài da"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be sick at heart",
+              "list_im": [
+                {
+                  "im_full_vn": "đau buồn, buồn phiền; não lòng, ngao ngán"
+                },
+                {
+                  "im_full_vn": "(nói trại) buồn nôn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be the heart and soul of",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) là linh hồn của (một tổ chức...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break someone's heart",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) break"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by heart",
+              "list_im": [
+                {
+                  "im_full_vn": "thuộc lòng, nhập tâm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to learn by heart",
+                      "full_vn": "học thuộc lòng"
+                    },
+                    {
+                      "full_en": "to have something by heart",
+                      "full_vn": "nhớ nhập tâm cái gì"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cheer (delight , gladden , rejoice , warm ) the cockles of someone's heart",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai vui sướng, làm cho ai phấn khởi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to somebody's heart",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ai mũi lòng, làm ai thấm thía đến tận tâm can"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cry (sob , weep ) one's heart out",
+              "list_im": [
+                {
+                  "im_full_vn": "khóc lóc thảm thiết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut (touch ) somebody to the heart",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ai đau lòng, chạm đến tâm can ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do someone's heart good",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ai vui sướng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat one's heart out",
+              "list_im": [
+                {
+                  "im_full_vn": "đau đớn âm thầm, héo hon mòn mỏi đi vì sầu khổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to find in one's heart to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "cảm thấy, thích làm gì; tự bắt mình phải làm gì, quyết tâm làm gì ( (thường) phủ định)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a soft (warm ) spot in one's heart for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "có cảm tình với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's heart in (leaped into ) one's mouth (throat )",
+              "list_im": [
+                {
+                  "im_full_vn": "sợ hết hồn, sợ chết khiếp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's heart in one's work",
+              "list_im": [
+                {
+                  "im_full_vn": "làm việc hăng hái hết lòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have something at heart",
+              "list_im": [
+                {
+                  "im_full_vn": "thiết tha với cái gì, hết sức quan tâm tới cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the heart to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "có đủ can đảm làm gì"
+                },
+                {
+                  "im_full_vn": "có đủ nhẫn tâm làm gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to have a heart to do something",
+              "list_im": [
+                {
+                  "im_full_vn": "không nỡ lòng nào làm cái gì"
+                },
+                {
+                  "im_full_vn": "không đủ can đảm (không dám) làm cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "have a heart !",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) hãy rủ lòng thương!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's heart is (lies ) in the right place",
+              "list_im": [
+                {
+                  "im_full_vn": "tốt bụng, có ý tốt, có thiện ý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with heart and hand",
+              "list_im": [
+                {
+                  "im_full_vn": "hết sức nhiệt tình, với tất cả nhiệt tâm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with all one's heart and soul",
+              "list_im": [
+                {
+                  "im_full_vn": "với tất cả tâm hồn, hết lòng, hết sức thiết tha"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep up heart",
+              "list_im": [
+                {
+                  "im_full_vn": "giữ vững tinh thần, không chán nản, không thất vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay one's heart bare to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "thổ lộ nỗi lòng với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay something to heart",
+              "list_im": [
+                {
+                  "im_full_vn": "để tâm suy nghĩ kỹ cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to weigh upon somebody's heart",
+              "list_im": [
+                {
+                  "im_full_vn": "đè nặng lên lòng ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to open (uncover , pour out ) one's heart to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "thổ lộ tâm tình với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "searching of heart",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) searching"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take heart of grace",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy can đảm, can đảm lên, hăng lên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put somebody out of heart",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai chán nản thất vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "close /near /dear to somebody's heart",
+              "list_im": [
+                {
+                  "im_full_vn": "có quan tâm thích thú sâu sắc đến cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "this subject is very close to my heart",
+                      "full_vn": "đề tài này rất gắn bó với tôi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340886_0772af201b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340886_83407b2721_o.png",
+      "id_image": "heart_170843"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078175_e83c00772d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078175_2cac8e8ed2_o.png",
+      "id_image": "heart_241833"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808385777_45fccdc0c0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808385777_a0c9c69e05_o.png",
+      "id_image": "heart_286504"
+    }
+  ]
+}

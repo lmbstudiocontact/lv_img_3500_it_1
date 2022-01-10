@@ -1,0 +1,318 @@
+{
+  "english": "free",
+  "phat_am": "[fri:]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "tự do",
+          "list_en_vn": [
+            {
+              "full_en": "a free country",
+              "full_vn": "một nước tự do"
+            },
+            {
+              "full_en": "free hydrogen",
+              "full_vn": "(hoá học), hyđro tự do"
+            },
+            {
+              "full_en": "a free translation",
+              "full_vn": "bản dịch tự do, bản dịch thoát ý"
+            },
+            {
+              "full_en": "free verse",
+              "full_vn": "thơ tự do (không theo luật)"
+            },
+            {
+              "full_en": "free love",
+              "full_vn": "quan hệ tình dục tự nguyện mà không cần cưới xin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không mất tiền, không phải trả tiền; được miễn",
+          "list_en_vn": [
+            {
+              "full_en": "free admission",
+              "full_vn": "vào cửa không mất tiền"
+            },
+            {
+              "full_en": "free of duty",
+              "full_vn": "được miễn thuế"
+            },
+            {
+              "full_en": "free imports",
+              "full_vn": "các loại hàng nhập được miễn thuế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + from ) không bị, khỏi phải, thoát được",
+          "list_en_vn": [
+            {
+              "full_en": "free from care",
+              "full_vn": "không phải lo lắng"
+            },
+            {
+              "full_en": "free from pain",
+              "full_vn": "không bị đau đớn"
+            },
+            {
+              "full_en": "free from dampness",
+              "full_vn": "không bị ẩm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rảnh, không có người ở, không có người giữ chỗ",
+          "list_en_vn": [
+            {
+              "full_en": "to have very little free time",
+              "full_vn": "có rất ít thì giờ rảnh"
+            },
+            {
+              "full_en": "there are three rooms free at this hotel",
+              "full_vn": "ở khách sạn có ba phòng chưa có ai ở"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lỏng, không bị ràng buộc",
+          "list_en_vn": [
+            {
+              "full_en": "to leave one end of the rope free",
+              "full_vn": "thả lỏng một dây thừng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "suồng sã; xấc láo; tục",
+          "list_en_vn": [
+            {
+              "full_en": "to be too free in one's behaviour",
+              "full_vn": "có thái độ suồng sã"
+            },
+            {
+              "full_en": "a free story",
+              "full_vn": "một chuyện tục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thanh thoát, uyển chuyển, mềm mại; dễ dàng",
+          "list_en_vn": [
+            {
+              "full_en": "a free style of writing",
+              "full_vn": "văn phong thanh thoát; văn phong uyển chuyển"
+            },
+            {
+              "full_en": "free lines and curves",
+              "full_vn": "những đường thẳng và nét cong thanh thoát uyển chuyển"
+            },
+            {
+              "full_en": "free gestures",
+              "full_vn": "những cử chỉ mềm mại uyển chuyển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rộng rãi, hào phóng; phong phú, nhiều",
+          "list_en_vn": [
+            {
+              "full_en": "to spend money with a free hand",
+              "full_vn": "tiêu tiền hào phóng"
+            },
+            {
+              "full_en": "to be free with one's praises",
+              "full_vn": "khen ngợi không tiếc lời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thông, thông suốt (không bị ngăn cản)",
+          "list_en_vn": [
+            {
+              "full_en": "a free road",
+              "full_vn": "con đường thông suốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tự nguyện, tự ý",
+          "list_en_vn": [
+            {
+              "full_en": "to be free to confess",
+              "full_vn": "tự nguyện thú nhận"
+            },
+            {
+              "full_en": "of one's own free will",
+              "full_vn": "tự nguyện, không hề do cưỡng ép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "được đặc quyền (ở một thành phố); được quyền sử dụng và ra vào (một toà nhà...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "free motion",
+              "list_im": [
+                {
+                  "im_full_vn": "xọc xạch; rơ (máy)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody a free hand",
+              "list_im": [
+                {
+                  "im_full_vn": "để cho ai toàn quyền hành động"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a free hand",
+              "list_im": [
+                {
+                  "im_full_vn": "có toàn quyền hành động"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to allow free rein /play to someone /something",
+              "list_im": [
+                {
+                  "im_full_vn": "thả lỏng, buông lỏng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "of one's own free will",
+              "list_im": [
+                {
+                  "im_full_vn": "tự nguyện, do ý chí cá nhân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get something for free",
+              "list_im": [
+                {
+                  "im_full_vn": "không phải trả tiền; không phải tốn kém gì cả",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I got this ticket for free from somebody who didn't want it",
+                      "full_vn": "tôi đã có chiếc vé này không mất tiền do một người không muốn dùng nó (đem cho)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's hands free",
+              "list_im": [
+                {
+                  "im_full_vn": "rảnh tay, không phải lo lắng điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make free with sb",
+              "list_im": [
+                {
+                  "im_full_vn": "xử sự khiếm nhã đối với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make free use of something",
+              "list_im": [
+                {
+                  "im_full_vn": "tuỳ thích sử dụng cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "feel free !",
+              "list_im": [
+                {
+                  "im_full_vn": "xin cứ tự nhiên!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "free and easy",
+              "list_im": [
+                {
+                  "im_full_vn": "không chấp nê hình thức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make somebody free of something",
+              "list_im": [
+                {
+                  "im_full_vn": "cho phép ai sử dụng hoặc hưởng thụ trọn vẹn cái gì",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he kindly made me free of his library for my research",
+                      "full_vn": "ông ta có lòng tốt cho phép tôi toàn quyền sử dụng thư viện của ông ta cho công cuộc nghiên cứu của tôi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "tự do"
+        },
+        {
+          "m_full_vn": "không phải trả tiền",
+          "list_en_vn": [
+            {
+              "full_en": "children under five usually travel free on trains",
+              "full_vn": "trẻ em dưới năm tuổi thường đi xe lửa không phải trả tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) xiên gió"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thả, phóng thích, giải phóng, trả tự do"
+        },
+        {
+          "m_full_vn": "gỡ ra khỏi; giải thoát; mở thông (một con đường)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049450_33a0f4f8f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049450_d61c8c7b30_o.png",
+      "id_image": "free_2297662"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312961_d13e32c552_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312961_f2ccf8f289_o.png",
+      "id_image": "free_2332191"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809344881_1471bc379e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809344881_b10124aa43_o.png",
+      "id_image": "free_4524894"
+    }
+  ]
+}

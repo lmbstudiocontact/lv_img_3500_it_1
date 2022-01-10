@@ -1,0 +1,260 @@
+{
+  "english": "job",
+  "phat_am": "[dʒɔb]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "việc, việc làm, công việc; việc làm thuê, việc làm khoán",
+          "list_en_vn": [
+            {
+              "full_en": "to make a good job of it",
+              "full_vn": "làm tốt một công việc gì"
+            },
+            {
+              "full_en": "to make a bad job of it",
+              "full_vn": "làm hỏng một công việc gì"
+            },
+            {
+              "full_en": "to work by the job",
+              "full_vn": "làm khoán"
+            },
+            {
+              "full_en": "odd jobs",
+              "full_vn": "công việc vặt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) công ăn việc làm",
+          "list_en_vn": [
+            {
+              "full_en": "in search of a job",
+              "full_vn": "đi tìm công ăn việc làm"
+            },
+            {
+              "full_en": "out of job",
+              "full_vn": "thất nghiệp"
+            },
+            {
+              "full_en": "to lose one's job",
+              "full_vn": "mất công ăn việc làm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "việc làm ăn gian lận để kiếm chác"
+        },
+        {
+          "m_full_vn": "việc, sự việc, sự thể; tình hình công việc",
+          "list_en_vn": [
+            {
+              "full_en": "bad job",
+              "full_vn": "việc hỏng toi, việc mất công toi; tình hình công việc xấu"
+            },
+            {
+              "full_en": "good job",
+              "full_vn": "tình hình công việc làm ăn tốt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cú thúc nhẹ, cú đâm nhẹ (bằng cái gì nhọn)"
+        },
+        {
+          "m_full_vn": "cú ghì giật hàm thiếc (làm đau mồn ngựa)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to do somebody's job ; to do the job for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "làm hại ai, gây tai hại cho ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give something up as a bad job",
+              "list_im": [
+                {
+                  "im_full_vn": "từ chối không làm việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lie down on the job",
+              "list_im": [
+                {
+                  "im_full_vn": "làm đại khái, làm qua loa, làm ăn chểnh mảng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the job",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) đang làm việc, đang hoạt động; (thông tục) đang giao cấu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on-the-job training",
+              "list_im": [
+                {
+                  "im_full_vn": "sự huấn luyện công nhân ngay tại nơi họ làm việc; sự đào tạo tại chỗ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of a job",
+              "list_im": [
+                {
+                  "im_full_vn": "không có việc làm, thất nghiệp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put up a job on somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) chơi xỏ ai một vố"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm những việc lặt vặt, làm những việc linh tinh; (thông tục) sửa chữa lặt vặt"
+        },
+        {
+          "m_full_vn": "xoay sở kiếm chác; giở ngón gian lận để kiếm chác"
+        },
+        {
+          "m_full_vn": "buôn bán cổ phần (chứng khoán)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thuê (ngựa, xe...); cho thuê (ngựa, xe...)"
+        },
+        {
+          "m_full_vn": "cho làm khoán; nhận làm khoán (một công việc)"
+        },
+        {
+          "m_full_vn": "mua bán đầu cơ (hàng)"
+        },
+        {
+          "m_full_vn": "lợi dụng (chức vụ...) để xoay sở kiếm chác"
+        },
+        {
+          "m_full_vn": "thúc nhẹ, đâm nhẹ (bằng cái gì nhọn)"
+        },
+        {
+          "m_full_vn": "ghì giật hàm thiếc làm đau mồm (ngựa)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + at ) đâm, thúc"
+        }
+      ]
+    },
+    {
+      "type": "danh từ ( Job )",
+      "list_m": [
+        {
+          "m_full_vn": "(kinh thánh) Giốp"
+        },
+        {
+          "m_full_vn": "người chịu đựng đau khổ nhiều; người kiên nhẫn chịu đựng",
+          "list_one_mean": [
+            {
+              "id_full_en": "Job's comforter",
+              "list_im": [
+                {
+                  "im_full_vn": "người làm ra bộ an ủi nhưng chỉ cốt gây thêm đau khổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "Job's news",
+              "list_im": [
+                {
+                  "im_full_vn": "tin buồn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "this would try the patience of Job",
+              "list_im": [
+                {
+                  "im_full_vn": "làm thế thì không ai có thể chịu đựng được; làm thế thì đến bụt cũng phải tức"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the devil of a job doing sth",
+              "list_im": [
+                {
+                  "im_full_vn": "thấy điều gì rắc rối quá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "jobs for the boy",
+              "list_im": [
+                {
+                  "im_full_vn": "công việc ưu đãi cho người quen"
+                }
+              ]
+            },
+            {
+              "id_full_en": "just the job",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng là thứ cần thiết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make the best of a bad job",
+              "list_im": [
+                {
+                  "im_full_vn": "còn nước còn tát"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810070575_77601cf1fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810070575_dc99199822_o.png",
+      "id_image": "job_1418575"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809688709_f68a1588a4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809688709_96333d4a26_o.png",
+      "id_image": "job_5928334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809448683_17c0817d73_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809448683_6f3b33b42c_o.png",
+      "id_image": "job_5928348"
+    }
+  ]
+}

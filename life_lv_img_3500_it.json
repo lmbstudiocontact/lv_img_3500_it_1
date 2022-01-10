@@ -1,0 +1,471 @@
+{
+  "english": "life",
+  "phat_am": "[laivz]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều lives",
+      "list_m": [
+        {
+          "m_full_vn": "sự sống"
+        },
+        {
+          "m_full_vn": "đời sống, sinh mệnh, tính mệnh",
+          "list_en_vn": [
+            {
+              "full_en": "to lay down one's life for the country",
+              "full_vn": "hy sinh tính mệnh cho tổ quốc"
+            },
+            {
+              "full_en": "a matter of life and death",
+              "full_vn": "một vấn đề sống còn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đời, người đời",
+          "list_en_vn": [
+            {
+              "full_en": "to have lived in a place all one's life",
+              "full_vn": "đã sống ở đâu suốt cả đời"
+            },
+            {
+              "full_en": "for life",
+              "full_vn": "suốt đời"
+            },
+            {
+              "full_en": "hard labour for life",
+              "full_vn": "tội khổ sai chung thân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cuộc sống, sự sinh sống, sự sinh tồn",
+          "list_en_vn": [
+            {
+              "full_en": "we are building a new life",
+              "full_vn": "chúng ta đang xây dựng một cuộc sống mới"
+            },
+            {
+              "full_en": "the struggle for life",
+              "full_vn": "cuộc đấu tranh sinh tồn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách sống, đời sống, cách sinh hoạt",
+          "list_en_vn": [
+            {
+              "full_en": "the country life",
+              "full_vn": "đời sống ở nông thôn, cách sinh hoạt ở nông thôn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sinh khí, sinh lực, sự hoạt động",
+          "list_en_vn": [
+            {
+              "full_en": "to be full of life",
+              "full_vn": "dồi dào sinh lực, hoạt bát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiểu sử, thân thế",
+          "list_en_vn": [
+            {
+              "full_en": "the life of Lenin",
+              "full_vn": "tiểu sử Lê-nin"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuổi thọ, thời gian tồn tại",
+          "list_en_vn": [
+            {
+              "full_en": "the life of a machine",
+              "full_vn": "tuổi thọ của một cái máy"
+            },
+            {
+              "full_en": "a good life",
+              "full_vn": "người có thể sống trên tuổi thọ trung bình"
+            },
+            {
+              "full_en": "a bad life",
+              "full_vn": "người có thể không đạt tuổi thọ trung bình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nhân sinh",
+          "list_en_vn": [
+            {
+              "full_en": "the philosophy of life",
+              "full_vn": "triết học nhân sinh"
+            },
+            {
+              "full_en": "the problem of life",
+              "full_vn": "vấn đề nhân sinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật sống; biểu hiện của sự sống",
+          "list_one_mean": [
+            {
+              "id_full_en": "to escape with life and limb",
+              "list_im": [
+                {
+                  "im_full_vn": "thoát được an toàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for dear life",
+              "list_im": [
+                {
+                  "im_full_vn": "để thoát chết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to run for dear life",
+                      "full_vn": "chạy để thoát chết"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "upon my life",
+              "list_im": [
+                {
+                  "im_full_vn": "dù chết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I can't for the life of me",
+                      "full_vn": "dù chết tôi cũng không thể nào"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring to life",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho hồi tỉnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to life",
+              "list_im": [
+                {
+                  "im_full_vn": "hồi tỉnh, hồi sinh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the time of one's life",
+              "list_im": [
+                {
+                  "im_full_vn": "chưa bao giờ vui thích thoải mái như thế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "high life",
+              "list_im": [
+                {
+                  "im_full_vn": "xã hội thượng lưu, xã hội tầng lớp trên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in one's life",
+              "list_im": [
+                {
+                  "im_full_vn": "lúc sinh thời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the prime of life",
+              "list_im": [
+                {
+                  "im_full_vn": "lúc tuổi thanh xuân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see life",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) see"
+                }
+              ]
+            },
+            {
+              "id_full_en": "single life",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) single"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take someone's life",
+              "list_im": [
+                {
+                  "im_full_vn": "giết ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take one's own life",
+              "list_im": [
+                {
+                  "im_full_vn": "tự tử, tự sát, tự vẫn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to the life",
+              "list_im": [
+                {
+                  "im_full_vn": "truyền thần, như thật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "true to life",
+              "list_im": [
+                {
+                  "im_full_vn": "rất gần gũi với cuộc sống thực tế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the bane of sb's life",
+              "list_im": [
+                {
+                  "im_full_vn": "nguyên nhân làm cho ai đau khổ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the breath of life",
+              "list_im": [
+                {
+                  "im_full_vn": "điều cần thiết, vật cần thiết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a cat-and-dog life",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc sống khổ như chó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the change of life",
+              "list_im": [
+                {
+                  "im_full_vn": "thời kỳ mãn kinh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to depart (from ) this life",
+              "list_im": [
+                {
+                  "im_full_vn": "chết, từ trần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to end one's life",
+              "list_im": [
+                {
+                  "im_full_vn": "tự sát, tự tử"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to frighten the life out of sb",
+              "list_im": [
+                {
+                  "im_full_vn": "gây kinh hoàng cho ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in fear of one's life",
+              "list_im": [
+                {
+                  "im_full_vn": "lo sợ cho mạng sống của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in peril of one's life",
+              "list_im": [
+                {
+                  "im_full_vn": "liều lỉnh, liều mạng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "large as life",
+              "list_im": [
+                {
+                  "im_full_vn": "đích thực, không sao nhầm được"
+                }
+              ]
+            },
+            {
+              "id_full_en": "larger than life",
+              "list_im": [
+                {
+                  "im_full_vn": "huênh hoang, khoác lác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead a dog's life",
+              "list_im": [
+                {
+                  "im_full_vn": "sống khổ như chó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lead sb a dog's life",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt ai sống khổ như chó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be the life and soul of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "là linh hồn của cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make sb's life a misery",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai phải quằn quại khổ sở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "way of life",
+              "list_im": [
+                {
+                  "im_full_vn": "lối sống"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not on your life",
+              "list_im": [
+                {
+                  "im_full_vn": "đương nhiên là không!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sell one's life dearly",
+              "list_im": [
+                {
+                  "im_full_vn": "đổi mạng mình để giết nhiều quân địch, rồi mới chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the staff of life",
+              "list_im": [
+                {
+                  "im_full_vn": "bánh mì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take one's life in one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "có nguy cơ bị giết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "walk of life",
+              "list_im": [
+                {
+                  "im_full_vn": "tầng lớp xã hội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the love of sb's life",
+              "list_im": [
+                {
+                  "im_full_vn": "người yêu quý nhất của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make sb's life a misery",
+              "list_im": [
+                {
+                  "im_full_vn": "bắt ai phải chịu khổ sở"
+                }
+              ]
+            },
+            {
+              "id_full_en": "for the life of one",
+              "list_im": [
+                {
+                  "im_full_vn": "dù cố gắng cách mấy chăng nữa"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "no life to be seen",
+              "full_vn": "không một biểu hiện của sự sống; không có một bóng người (vật)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457918_61e1e2a401_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457918_eddacaff86_o.png",
+      "id_image": "life_1973145"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808388082_eb0d4605f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808388082_9ba13c7f80_o.png",
+      "id_image": "life_2732377"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810080550_b73d3ca61b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810080550_e291f4f344_o.png",
+      "id_image": "life_2927823"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809457803_ed6a591109_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809457803_8c53216a38_o.png",
+      "id_image": "life_4099888"
+    }
+  ]
+}

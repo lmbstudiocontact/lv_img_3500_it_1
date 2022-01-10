@@ -1,0 +1,32 @@
+{
+  "english": "enthusiast",
+  "phat_am": "[in'θju:ziæst]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hăng hái, người có nhiệt tình; người say mê",
+          "list_en_vn": [
+            {
+              "full_en": "a music enthusiast",
+              "full_vn": "người say mê âm nhạc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318006_ca93d82ccb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318006_74c6b3f0a4_o.png",
+      "id_image": "enthusiast_2464142"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433173_145699a516_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433173_af9558655f_o.png",
+      "id_image": "enthusiast_4729319"
+    }
+  ]
+}

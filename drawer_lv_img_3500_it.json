@@ -1,0 +1,54 @@
+{
+  "english": "drawer",
+  "phat_am": "['drɔ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người kéo; người nhổ"
+        },
+        {
+          "m_full_vn": "người ký phát hối phiếu, người chủ tạo"
+        },
+        {
+          "m_full_vn": "người vẽ"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) người trích rượu (chuyên lấy rượu, bia ở thùng ra)"
+        },
+        {
+          "m_full_vn": "ngăn kéo",
+          "list_en_vn": [
+            {
+              "full_en": "chest of drawers",
+              "full_vn": "tủ com mốt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808350827_a3ff6047e7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808350827_a30ae73c3d_o.png",
+      "id_image": "drawer_1494701"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306646_ab9fd76be1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306646_dd9a264808_o.png",
+      "id_image": "drawer_1691556"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809662044_1a68634765_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809662044_b51e3ab763_o.png",
+      "id_image": "drawer_5243350"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809421853_ef32472871_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809421853_fea5f37453_o.png",
+      "id_image": "drawer_699334"
+    }
+  ]
+}

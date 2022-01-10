@@ -1,0 +1,148 @@
+{
+  "english": "gap",
+  "phat_am": "[gæp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lỗ hổng, kẽ hở",
+          "list_en_vn": [
+            {
+              "full_en": "a gap in the hedge /fence /wall",
+              "full_vn": "lỗ hổng ở bờ giậu/hàng rào/bức tường"
+            },
+            {
+              "full_en": "the road goes through a gap in /between the hills",
+              "full_vn": "con đường chạy qua khe hở giữa hai quả đồi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng trống ngắt quãng",
+          "list_en_vn": [
+            {
+              "full_en": "a gap of five miles between towns",
+              "full_vn": "khoảng trống năm dặm giữa hai thị trấn"
+            },
+            {
+              "full_en": "there were some unaccountable gaps in his story",
+              "full_vn": "có một số chỗ sót không lý giải được trong câu chuyện của anhta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khoảng thời gian ngắt quãng bị trống; khoảng trống",
+          "list_en_vn": [
+            {
+              "full_en": "a gap in the conversation",
+              "full_vn": "chỗ gián đoạn trong buổi nói chuyện"
+            },
+            {
+              "full_en": "after a gap of thirty years , the custom was reintroduced",
+              "full_vn": "sau ba mươi năm gián đoạn, phong tục ấy được lập lại"
+            },
+            {
+              "full_en": "a temporary job to fill the gap between school and university",
+              "full_vn": "một nghề tạm thời để lấp khoảng thời gian chờ vào đại học"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thiếu hụt cần được bù đắp",
+          "list_en_vn": [
+            {
+              "full_en": "a gap in one's knowledge",
+              "full_vn": "chỗ thiếu sót trong kiến thức, lỗ hổng trong kiến thức"
+            },
+            {
+              "full_en": "a gap in the market",
+              "full_vn": "một khoảng trống trên thị trường"
+            },
+            {
+              "full_en": "there was a terrible gap in her life after her husband died",
+              "full_vn": "có một hụt hẫng lớn trong cuộc sống của cô ấy sau khi chồng cô ấy qua đời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đèo (núi)"
+        },
+        {
+          "m_full_vn": "(quân sự) chỗ bị chọc thủng (trên trận tuyến)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) khe hở, độ hở"
+        },
+        {
+          "m_full_vn": "(hàng không) khoảng cách giữa hai tầng cánh (máy bay)"
+        },
+        {
+          "m_full_vn": "sự cách biệt, sự khác nhau",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fill (stop ) a gap",
+              "list_im": [
+                {
+                  "im_full_vn": "lấp chỗ trống, lấp chỗ thiếu sót"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bridge a gap",
+              "list_im": [
+                {
+                  "im_full_vn": "xem bridge"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a credibility gap",
+              "list_im": [
+                {
+                  "im_full_vn": "sự khủng hoảng lòng tin"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the generation gap",
+              "list_im": [
+                {
+                  "im_full_vn": "sự khác nhau về tư tưởng giữa thế hệ đi trước và thế hệ tiếp nối"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a wide gap between the opinions of two people",
+              "full_vn": "ý kiến của hai người còn rất xa nhau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454368_414bc9e637_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454368_f394166035_o.png",
+      "id_image": "gap_3053732"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809694534_a16b6bee9c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809694534_9fc95297c0_o.png",
+      "id_image": "gap_3814242"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384307_ece44d6b8e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384307_ca07c6a1d3_o.png",
+      "id_image": "gap_4995006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384362_7cf37e9bd2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384362_559ee54c6c_o.png",
+      "id_image": "gap_994634"
+    }
+  ]
+}

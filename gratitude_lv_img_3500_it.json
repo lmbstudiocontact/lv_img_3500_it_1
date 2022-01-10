@@ -1,0 +1,32 @@
+{
+  "english": "gratitude",
+  "phat_am": "['grætitju:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lòng biết ơn, sự nhớ ơn",
+          "list_en_vn": [
+            {
+              "full_en": "to express one's deep gratitude to somebody",
+              "full_vn": "tỏ lòng biết ơn sâu sắc đối với ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368512_39b1dd258f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368512_26354a1bb4_o.png",
+      "id_image": "gratitude_2965032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678844_ce438155f6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678844_8774fbd103_o.png",
+      "id_image": "gratitude_708683"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "english": "dot",
+  "phat_am": "[dɔt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "của hồi môn"
+        },
+        {
+          "m_full_vn": "chấm nhỏ, điểm"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) dấu chấm (trên chữ i, j...); dấu chấm câu"
+        },
+        {
+          "m_full_vn": "(âm nhạc) chấm"
+        },
+        {
+          "m_full_vn": "đứa bé tí hon; vật nhỏ xíu",
+          "list_one_mean": [
+            {
+              "id_full_en": "off one's dot",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) ngu; tàng tàng, điên điên"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the dot",
+              "list_im": [
+                {
+                  "im_full_vn": "đúng giờ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a dot of a child",
+              "full_vn": "thằng bé tí hon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chấm, đánh dấu chấm (trên chữ i, j...)",
+          "list_en_vn": [
+            {
+              "full_en": "dotted line",
+              "full_vn": "dòng chấm chấm"
+            },
+            {
+              "full_en": "dotted quaver",
+              "full_vn": "(âm nhạc) móc chấm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "rải rác, lấm chấm",
+          "list_en_vn": [
+            {
+              "full_en": "to dot all over",
+              "full_vn": "rải rác lấm chấm khắp cả"
+            },
+            {
+              "full_en": "sea dotted with ships",
+              "full_vn": "mặt biển rải rác lấm chấm những con tàu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) đánh, nện",
+          "list_one_mean": [
+            {
+              "id_full_en": "to dot the i's and cross the t's",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh dấu chấm những chữ i và đánh dấu ngang những chữ t; tỉ mỉ từng li từng tí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "dot and carry",
+              "list_im": [
+                {
+                  "im_full_vn": "viết... và nhớ... (câu nói của các em nhỏ khi làm tính cộng)"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to dot someone in the eye",
+              "full_vn": "đánh vào mắt ai"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352687_6f02cf2e97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352687_21924b5698_o.png",
+      "id_image": "dots_2620278"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045435_42462a9b66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045435_2e0aaec2dd_o.png",
+      "id_image": "dots_4456810"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045615_5c77a517d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045615_1ff61dd671_o.png",
+      "id_image": "dot_1088797"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352772_96a42e052b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352772_e37ebf4e38_o.png",
+      "id_image": "dot_2785319"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808352752_f51dd976d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808352752_7346f7c641_o.png",
+      "id_image": "dot_5982583"
+    }
+  ]
+}

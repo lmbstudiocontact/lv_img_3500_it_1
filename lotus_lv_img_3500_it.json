@@ -1,0 +1,45 @@
+{
+  "english": "lotus",
+  "phat_am": "['loutəs]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) sen",
+          "list_en_vn": [
+            {
+              "full_en": "lotus flowers /blooms",
+              "full_vn": "hoa sen nở rộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quả hưởng lạc (ăn vào đâm ra thích hưởng lạc đến nỗi quên cả tổ quốc) (thần thoại Hy-lạp)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071545_7a518f01e4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071545_96a34cc1dc_o.png",
+      "id_image": "lotus_1019363"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449523_816a88094f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449523_e5b9c6e1d3_o.png",
+      "id_image": "lotus_2647635"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449488_299e0bcfa3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449488_8588d67678_o.png",
+      "id_image": "lotus_2917463"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808379527_2091a5d98d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808379527_d7e9c5bc8f_o.png",
+      "id_image": "lotus_909139"
+    }
+  ]
+}

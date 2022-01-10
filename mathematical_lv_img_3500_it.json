@@ -1,0 +1,30 @@
+{
+  "english": "mathematical",
+  "phat_am": "[,mæθə'mætikl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) toán học",
+          "list_en_vn": [
+            {
+              "full_en": "mathematical logic",
+              "full_vn": "lô-gic toán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng, chính xác (bằng chứng...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810056605_236b68024f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810056605_f1e59ee70b_o.png",
+      "id_image": "mathematical_329786"
+    }
+  ]
+}

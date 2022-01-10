@@ -1,0 +1,57 @@
+{
+  "english": "freak",
+  "phat_am": "[fri:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tính đồng bóng, tính hay thay đổi",
+          "list_en_vn": [
+            {
+              "full_en": "out of mere freak",
+              "full_vn": "chỉ vì tính đồng bóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người mến mộ",
+          "list_en_vn": [
+            {
+              "full_en": "health-food freak",
+              "full_vn": "người chỉ lo chăm bón sức khoẻ"
+            },
+            {
+              "full_en": "jazz freak",
+              "full_vn": "người mê nhạc jazz"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quái vật; điều kỳ dị",
+          "list_en_vn": [
+            {
+              "full_en": "a freak of nature",
+              "full_vn": "một quái vật"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm lốm đốm, làm có vệt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810049480_f268f8050f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810049480_31706f97ba_o.png",
+      "id_image": "freak_2777003"
+    }
+  ]
+}

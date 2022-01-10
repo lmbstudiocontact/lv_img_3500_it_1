@@ -1,0 +1,35 @@
+{
+  "english": "endocrine",
+  "phat_am": "['endoukrain]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(sinh vật học) nội tiết",
+          "list_en_vn": [
+            {
+              "full_en": "endocrine glands",
+              "full_vn": "những tuyến nội tiết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(sinh vật học) tuyến nội tiết"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320051_f5a990e223_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320051_b672ab49d3_o.png",
+      "id_image": "endocrine_4939394"
+    }
+  ]
+}

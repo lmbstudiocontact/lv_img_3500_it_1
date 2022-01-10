@@ -1,0 +1,30 @@
+{
+  "english": "incubation",
+  "phat_am": "[,inkju'bei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự ấp trứng",
+          "list_en_vn": [
+            {
+              "full_en": "artificial incubation",
+              "full_vn": "sự ấp trứng nhân tạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(y học) thời kỳ ủ bệnh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318506_7d08662c31_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318506_15225598d7_o.png",
+      "id_image": "incubation_4171475"
+    }
+  ]
+}

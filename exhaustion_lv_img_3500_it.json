@@ -1,0 +1,45 @@
+{
+  "english": "exhaustion",
+  "phat_am": "[ig'zɔ:st∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(kỹ thuật) sự hút, sự hút hết; sự làm chân không, sự rút khí"
+        },
+        {
+          "m_full_vn": "tình trạng mệt lử, tình trạng kiệt sức",
+          "list_en_vn": [
+            {
+              "full_en": "they were in a state of exhaustion after climbing the mountain",
+              "full_vn": "họ bị kiệt sức sau khi leo núi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sử dụng hết hoàn toàn; tình trạng kiệt quệ",
+          "list_en_vn": [
+            {
+              "full_en": "the rapid exhaustion of the earth's natural resources",
+              "full_vn": "tình trạng tài nguyên thiên nhiên của trái đất bị cạn kiệt nhanh chóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học) phép vét kiệt; phép khử liên tiếp"
+        },
+        {
+          "m_full_vn": "sự bàn hết khía cạnh, sự nghiên cứu hết mọi mặt (một vấn đề)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666189_e9c41180be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666189_35da41a052_o.png",
+      "id_image": "exhaustion_3654834"
+    }
+  ]
+}

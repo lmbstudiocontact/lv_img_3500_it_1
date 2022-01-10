@@ -1,0 +1,75 @@
+{
+  "english": "exhibit",
+  "phat_am": "[ig'zibit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật trưng bày; vật triển lãm",
+          "list_en_vn": [
+            {
+              "full_en": "a priceless exhibit",
+              "full_vn": "vật trưng bày vô giá"
+            },
+            {
+              "full_en": "do not touch the exhibits",
+              "full_vn": "đừng sờ vào vật trưng bày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) tang vật",
+          "list_en_vn": [
+            {
+              "full_en": "the first exhibit was a knife which the prosecution claimed was the murder weapon",
+              "full_vn": "tang vật thứ nhất là một con dao mà bên nguyên nhận là vũ khí của kẻ sát nhân"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phô bày, trưng bày, triển lãm",
+          "list_en_vn": [
+            {
+              "full_en": "to exhibit flowers at a flower show",
+              "full_vn": "trưng bày hoa trong một cuộc triển lãm hoa"
+            },
+            {
+              "full_en": "documents exhibited in a lawcourt",
+              "full_vn": "các tài liệu đưa ra trình toà"
+            },
+            {
+              "full_en": "to exhibit a piece of evidence",
+              "full_vn": "đưa ra một chứng cớ"
+            },
+            {
+              "full_en": "the young painter has exhibited (his work ) in several galleries",
+              "full_vn": "nhà hoạ sĩ trẻ đã triển lãm (tác phẩm của mình) tại một số phòng tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bày tỏ, tỏ ra, biểu lộ",
+          "list_en_vn": [
+            {
+              "full_en": "to exhibit patience",
+              "full_vn": "biểu lộ sự kiên nhẫn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809426078_61dc59728a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809426078_6223dc1e33_o.png",
+      "id_image": "exhibit_223257"
+    }
+  ]
+}

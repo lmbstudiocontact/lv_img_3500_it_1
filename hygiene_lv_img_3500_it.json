@@ -1,0 +1,46 @@
+{
+  "english": "hygiene",
+  "phat_am": "['haidʒi:n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vệ sinh",
+          "list_en_vn": [
+            {
+              "full_en": "Wash regularly to ensure personal hygiene",
+              "full_vn": "hãy thường xuyên tắm rửa để bảo đảm vệ sinh cá nhân"
+            },
+            {
+              "full_en": "In the interest of hygiene , please do not smoke in this shop",
+              "full_vn": "Để giữ vệ sinh, xin đừng hút thuốc trong cửa hàng này"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325816_0bc1b3a5de_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325816_0f83b8c22c_o.png",
+      "id_image": "hygiene_2720295"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062585_54d481acac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062585_8d6a17e149_o.png",
+      "id_image": "hygiene_2927564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809680849_40992fa524_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809680849_7c98557ab7_o.png",
+      "id_image": "hygiene_2949990"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325711_01deb08b7a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325711_e55b19f69c_o.png",
+      "id_image": "hygiene_3035083"
+    }
+  ]
+}

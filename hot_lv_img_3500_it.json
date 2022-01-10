@@ -1,0 +1,299 @@
+{
+  "english": "hot",
+  "phat_am": "[hɔt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "nóng, nóng bức",
+          "list_en_vn": [
+            {
+              "full_en": "hot weather /climate",
+              "full_vn": "thời tiết/khí hậu nóng bức"
+            },
+            {
+              "full_en": "a hot meal",
+              "full_vn": "một bữa ăn nóng"
+            },
+            {
+              "full_en": "this coffee is too hot to drink",
+              "full_vn": "cà phê này nóng quá uống không được"
+            },
+            {
+              "full_en": "I feel /am hot",
+              "full_vn": "tôi cảm thấy nóng bức nực nội"
+            },
+            {
+              "full_en": "to be in a hot sweat",
+              "full_vn": "nóng toát mồ hôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cay nồng, cay bỏng (ớt, tiêu...)",
+          "list_en_vn": [
+            {
+              "full_en": "a hot curry",
+              "full_vn": "món cà ri cay"
+            },
+            {
+              "full_en": "pepper and mustard are hot",
+              "full_vn": "hạt tiêu và mù tạt đều cay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nồng nặc, còn ngửi thấy rõ (hơi thú săn)"
+        },
+        {
+          "m_full_vn": "sôi nổi, hăng hái; gay gắt, kịch liệt",
+          "list_en_vn": [
+            {
+              "full_en": "to have a hot temper",
+              "full_vn": "có tính khí nóng nảy"
+            },
+            {
+              "full_en": "hot dispute",
+              "full_vn": "cuộc tranh cãi sôi nổi"
+            },
+            {
+              "full_en": "in the hottest part of the election campaign",
+              "full_vn": "ở giai đoạn sôi nổi nhất của chiến dịch vận động bầu cử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nóng hổi, sốt dẻo (tin tức)",
+          "list_en_vn": [
+            {
+              "full_en": "hot tip",
+              "full_vn": "tin giờ chót"
+            },
+            {
+              "full_en": "a story that is hot off the press",
+              "full_vn": "một câu chuyện sốt dẻo trên báo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mới phát hành (giấy bạc)"
+        },
+        {
+          "m_full_vn": "(âm nhạc) giật gân",
+          "list_en_vn": [
+            {
+              "full_en": "hot music",
+              "full_vn": "nhạc giật gân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) được mọi người hy vọng, thắng hơn cả (vận động viên chạy...); rất có kỹ xảo và gây ấn tượng mạnh, điêu luyện"
+        },
+        {
+          "m_full_vn": "(trong trò chơi của trẻ em) rất gần mục tiêu tìm kiếm; gần đoán đúng"
+        },
+        {
+          "m_full_vn": "(điện học) thế hiệu cao"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (vật lý) phóng xạ"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) dâm đãng, dê (người)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) vừa mới kiếm được một cách bất chính; vừa mới ăn cắp được"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) (về hàng hoá) bị ăn cắp và khó tiêu thụ vì công an truy nã gắt gao",
+          "list_en_vn": [
+            {
+              "full_en": "this painting is hot to handle",
+              "full_vn": "bức hoạ này bị công an ráo riết truy tìm (nên khó tiêu thụ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) không an toàn cho kẻ trốn tránh",
+          "list_one_mean": [
+            {
+              "id_full_en": "hot and hot",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn nóng (thức ăn)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hot and strong",
+              "list_im": [
+                {
+                  "im_full_vn": "sôi nổi, kịch liệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make it (the place ) too hot for somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "gây khó khăn rắc rối, làm cho ai khó chịu phải bỏ chỗ nào mà đi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be hot at /in /on sth",
+              "list_im": [
+                {
+                  "im_full_vn": "có hiểu biết, có năng khiếu về cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be hot on sb",
+              "list_im": [
+                {
+                  "im_full_vn": "ngưỡng mộ ai, xem ai là thần tượng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go /sell like hot cakes",
+              "list_im": [
+                {
+                  "im_full_vn": "bán đắt như tôm tươi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hot and bothered",
+              "list_im": [
+                {
+                  "im_full_vn": "bồn chồn lo lắng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "too hot for sb",
+              "list_im": [
+                {
+                  "im_full_vn": "quá phức tạp đối với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be hot on the trail of sth , on sb's trail",
+              "list_im": [
+                {
+                  "im_full_vn": "bám sát, theo sát nút"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a hot potato",
+              "list_im": [
+                {
+                  "im_full_vn": "vấn đề khó giải quyết, vấn đề nan giải"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a hot spot",
+              "list_im": [
+                {
+                  "im_full_vn": "tình huống hoặc nơi nguy hiểm, điểm nóng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hot stuff",
+              "list_im": [
+                {
+                  "im_full_vn": "người hoặc vật ở thứ hạng cao nhất (về tài năng, chất lượng); người có sức quyến rũ về tình dục",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she's really hot stuff at tennis",
+                      "full_vn": "cô ta quả là cây vợt hàng đầu"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be hot under the collar",
+              "list_im": [
+                {
+                  "im_full_vn": "điên tiết, cáu tiết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a cat on hot bricks",
+              "list_im": [
+                {
+                  "im_full_vn": "bồn chồn lo lắng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not so hot",
+              "list_im": [
+                {
+                  "im_full_vn": "không được khoẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "piping hot",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về chất lỏng) rất nóng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "strike while the iron is hot",
+              "list_im": [
+                {
+                  "im_full_vn": "không để lỡ cơ hội"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "trở nên sôi động hoặc nguy kịch hơn",
+          "list_en_vn": [
+            {
+              "full_en": "with only a week to go before the election , things are really hotting (up )",
+              "full_vn": "chỉ một tuần trước ngày bầu cử, mọi thứ đang thực sự sôi động hơn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809685009_e4dd25141e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809685009_6fd6c1ea24_o.png",
+      "id_image": "hot_1553034"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374687_296103e006_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374687_89cc6e39e0_o.png",
+      "id_image": "hot_2188140"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809330071_d1c3a91b46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809330071_44f5806648_o.png",
+      "id_image": "hot_645711"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "english": "hop",
+  "phat_am": "[hɔp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thực vật học) cây hoa bia, cây hu-blông"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "ướp hu-blông (rượu bia)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hái hu-blông"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bước nhảy ngắn; bước nhảy lò cò; sự nhảy lò cò"
+        },
+        {
+          "m_full_vn": "(thông tục) cuộc khiêu vũ (tự nhiên, không có nghi thức gì)"
+        },
+        {
+          "m_full_vn": "(hàng không) chặng đường bay",
+          "list_en_vn": [
+            {
+              "full_en": "to fly from Hanoi to Moscow in three hops",
+              "full_vn": "bay từ Hà-nội đến Mát-xcơ-va qua ba chặng đường"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy lò cò (người); nhảy nhót (chim); nhảy cẫng, nhảy bốn vó (súc vật)"
+        },
+        {
+          "m_full_vn": "(từ lóng) chết, chết bất thình lình"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) làm một chuyến đi nhanh bằng máy bay"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy qua (hố...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) nhảy lên (xe buýt...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hop off",
+              "list_im": [
+                {
+                  "im_full_vn": "(hàng không) cất cánh (máy bay)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hop it",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ đi, chuồn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hop the twig (stick )",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) chết, chết bất thình lình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hopping mad",
+              "list_im": [
+                {
+                  "im_full_vn": "giận sôi gan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808377232_2840763129_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808377232_a6d2b519d5_o.png",
+      "id_image": "hop_1112945"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687424_9b7a7b7e3e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687424_55f9c09d76_o.png",
+      "id_image": "hop_2298778"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810069175_4e6fbc389c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810069175_bc1de030f7_o.png",
+      "id_image": "hop_5499118"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809687504_45ccdb77a6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809687504_c86fe51425_o.png",
+      "id_image": "hop_993170"
+    }
+  ]
+}

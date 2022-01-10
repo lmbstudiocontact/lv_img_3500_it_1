@@ -1,0 +1,36 @@
+{
+  "english": "indigenous",
+  "phat_am": "[in'didʒinəs]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( indigenous to something ) vốn thuộc về mộtnơi nào đó; bản xứ; bản địa",
+          "list_en_vn": [
+            {
+              "full_en": "Kangaroos are indigenous to Australia",
+              "full_vn": "Chuột túi là loài bản địa ở Ôxtrâylia"
+            },
+            {
+              "full_en": "indigenous language /culture",
+              "full_vn": "ngôn ngữ/văn hoá bản xứ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808362317_d56f42f47a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808362317_dc3135fe66_o.png",
+      "id_image": "indigenous_6043639"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809433018_8b6d7e5416_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809433018_f28f7a2caa_o.png",
+      "id_image": "indigenous_6043655"
+    }
+  ]
+}

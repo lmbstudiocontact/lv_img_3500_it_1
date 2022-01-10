@@ -1,0 +1,43 @@
+{
+  "english": "encounter",
+  "phat_am": "[in'kauntə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chạm trán, sự đọ sức; cuộc chạm trán, cuộc đọ sức; cuộc chạm trán, cuộc đấu (trí...)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "gặp thình lình, bắt gặp"
+        },
+        {
+          "m_full_vn": "chạm trán, đụng độ, đọ sức",
+          "list_en_vn": [
+            {
+              "full_en": "our platoon encountered an enemy battalion",
+              "full_vn": "trung đội chúng tôi chạm trán với một tiểu đoàn địch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320361_8b3d0984d1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320361_6923e40fa4_o.png",
+      "id_image": "encounter_3035316"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365217_c670c7668d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365217_c4ab902858_o.png",
+      "id_image": "encounter_3232944"
+    }
+  ]
+}

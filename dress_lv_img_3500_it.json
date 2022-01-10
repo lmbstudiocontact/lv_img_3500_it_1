@@ -1,0 +1,198 @@
+{
+  "english": "dress",
+  "phat_am": "[dres]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "y phục phụ nữ (thân trên và váy liền một mảnh); áo đầm; áo váy",
+          "list_en_vn": [
+            {
+              "full_en": "she made all her own dresses",
+              "full_vn": "cô ấy tự may lấy tất cả áo váy của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quần áo (nhất là quần áo mặc bên ngoài)",
+          "list_en_vn": [
+            {
+              "full_en": "in full dress",
+              "full_vn": "mặc lễ phục"
+            },
+            {
+              "full_en": "in evening dress",
+              "full_vn": "mặc quần áo dạ hội (đàn bà); mặc lễ phục (đàn ông)"
+            },
+            {
+              "full_en": "casual /formal dress",
+              "full_vn": "quần áo thường/quần áo trang trọng (nghi lễ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vỏ ngoài, cái bọc ngoài, vẻ ngoài"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặc (quần áo...), ăn mặc",
+          "list_en_vn": [
+            {
+              "full_en": "to be dressed in black",
+              "full_vn": "mặc đồ đen"
+            },
+            {
+              "full_en": "to be well dressed",
+              "full_vn": "ăn mặc sang trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "băng bó, đắp thuốc (người bị thương, vết thương)"
+        },
+        {
+          "m_full_vn": "(quân sự) sửa lại hàng ngũ cho thẳng hàng, treo cờ xí (tàu thuỷ); bày biện (mặt hàng)"
+        },
+        {
+          "m_full_vn": "sắm quần áo (cho một vở kịch)"
+        },
+        {
+          "m_full_vn": "đẽo gọt (gỗ, đá), mài giũa (đồ thép...), mài nhẵn (mặt đá...)"
+        },
+        {
+          "m_full_vn": "hồ (vải); thuộc (da)"
+        },
+        {
+          "m_full_vn": "chải, vấn (tóc, đầu); chải (lông ngựa)"
+        },
+        {
+          "m_full_vn": "sửa (vườn), tỉa xén (cây)"
+        },
+        {
+          "m_full_vn": "sửa soạn, nêm đồ gia vị, nấu (thức ăn)"
+        },
+        {
+          "m_full_vn": "xới, làm (đất); bón phân (ruộng)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặc quần áo, ăn mặc",
+          "list_en_vn": [
+            {
+              "full_en": "to dress well",
+              "full_vn": "ăn mặc sang trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mặc lễ phục (dự dạ hội...)",
+          "list_en_vn": [
+            {
+              "full_en": "to dress for dinner",
+              "full_vn": "mặc lễ phục để ăn cơm tối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) xếp thẳng hàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to dress down",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) chỉnh, mắng mỏ; đánh đập"
+                },
+                {
+                  "im_full_vn": "đẽo, gọt, mài giũa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dress out",
+              "list_im": [
+                {
+                  "im_full_vn": "diện ngất, \"lên khung\""
+                }
+              ]
+            },
+            {
+              "id_full_en": "to dress up",
+              "list_im": [
+                {
+                  "im_full_vn": "diện bảnh; ăn mặc chải chuốt tề chỉnh"
+                },
+                {
+                  "im_full_vn": "mặc quần áo hội nhảy giả trang"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be dressed up to the nines (to the knocker )",
+              "list_im": [
+                {
+                  "im_full_vn": "\"lên khung\" , diện ngất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "mutton dressed as lamb",
+              "list_im": [
+                {
+                  "im_full_vn": "lớn tuổi mà cứ ra vẻ như mình còn trẻ, cưa sừng làm nghé"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be dressed like a dog's dinner",
+              "list_im": [
+                {
+                  "im_full_vn": "diện thật bảnh"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "right dress !",
+              "full_vn": "bên phải thẳng hàng!"
+            },
+            {
+              "full_en": "dress up !",
+              "full_vn": "tiến lên thẳng hàng!"
+            },
+            {
+              "full_en": "dress back !",
+              "full_vn": "lùi thẳng hàng!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810043435_85184f7d39_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810043435_182384c8da_o.png",
+      "id_image": "dress_272630"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809306421_7cbfb54587_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809306421_4ece84c4ff_o.png",
+      "id_image": "dress_394466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809661759_ae13fde8d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809661759_e92ffda05c_o.png",
+      "id_image": "dress_669284"
+    }
+  ]
+}

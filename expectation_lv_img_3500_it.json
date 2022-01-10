@@ -1,0 +1,94 @@
+{
+  "english": "expectation",
+  "phat_am": "[,ekspek'tei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( expectation of something ) sự mong chờ; sự trông mong",
+          "list_en_vn": [
+            {
+              "full_en": "there's no expectation of snow tonight",
+              "full_vn": "đêm nay chắc sẽ không có tuyết"
+            },
+            {
+              "full_en": "the children waited patiently in expectation of the magician",
+              "full_vn": "trẻ em kiên nhẫn chờ đợi nhà ảo thuật"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( expectations ) tình cảm trông cậy ở cái gì",
+          "list_one_mean": [
+            {
+              "id_full_en": "expectation of life",
+              "list_im": [
+                {
+                  "im_full_vn": "những năm mà một người hy vọng sống, tuổi thọ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "against /contrary to (all ) expectation (s )",
+              "list_im": [
+                {
+                  "im_full_vn": "hoàn toàn khác với những gì ta mong đợi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "To fall short of somebody's /Not to come up to somebody's expectation",
+              "list_im": [
+                {
+                  "im_full_vn": "không được tốt đẹp như ai mong đợi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "his parents have great expectations for his future",
+              "full_vn": "bố mẹ anh ta rất kỳ vọng vào tương lai của anh ta"
+            },
+            {
+              "full_en": "she had high expectations of what university had to offer",
+              "full_vn": "cô ta trông chờ nhiều ở những gì trường đại học mang lại"
+            },
+            {
+              "full_en": "the holiday was beyond all expectations",
+              "full_vn": "chuyến đi nghỉ vượt quá mọi sự mong đợi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810047195_73798d760d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810047195_36232ccd94_o.png",
+      "id_image": "expectation_4776046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425353_179caf2304_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425353_d6fcdbe5ee_o.png",
+      "id_image": "expectation_4797092"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310281_83d5980231_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310281_785b78ec20_o.png",
+      "id_image": "expectation_5778472"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809425313_137850cea7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809425313_65e77e16d9_o.png",
+      "id_image": "expectation_5998832"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310236_7bff6f3d02_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310236_cf4485d48e_o.png",
+      "id_image": "expectation_6193213"
+    }
+  ]
+}

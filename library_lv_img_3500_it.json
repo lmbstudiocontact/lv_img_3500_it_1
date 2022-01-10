@@ -1,0 +1,56 @@
+{
+  "english": "library",
+  "phat_am": "['laibrəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thư viện, phòng đọc sách",
+          "list_en_vn": [
+            {
+              "full_en": "circulating library",
+              "full_vn": "thư viện lưu động"
+            },
+            {
+              "full_en": "free library , public library",
+              "full_vn": "thư viện công cộng"
+            },
+            {
+              "full_en": "reference library",
+              "full_vn": "thư viện tra cứu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tủ sách"
+        },
+        {
+          "m_full_vn": "loại sách (có liên quan về nội dung, đóng bìa giống nhau)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343626_93372a0e64_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343626_0f20614160_o.png",
+      "id_image": "library_1138099"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698784_3140a530d7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698784_56503b2fa0_o.png",
+      "id_image": "library_2446986"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809698744_22d49de47a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809698744_a18d9ccc53_o.png",
+      "id_image": "library_4344971"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809343641_2cab2316fe_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809343641_be176fc4f4_o.png",
+      "id_image": "library_831484"
+    }
+  ]
+}

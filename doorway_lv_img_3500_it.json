@@ -1,0 +1,46 @@
+{
+  "english": "doorway",
+  "phat_am": "['dɔ:wei]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ô cửa (khoảng trống của khung cửa)",
+          "list_en_vn": [
+            {
+              "full_en": "in the doorway",
+              "full_vn": "trong ô cửa, ở cửa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "con đường (nghĩa bóng)",
+          "list_en_vn": [
+            {
+              "full_en": "doorway to heroin addiction",
+              "full_vn": "con đường dẫn tới sự nghiện ngập ma túy"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046085_ddc43923d3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046085_1416753be7_o.png",
+      "id_image": "doorway_422102"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353257_3dfb77682b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353257_255425699d_o.png",
+      "id_image": "doorway_470147"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809424188_07d9d06a3a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809424188_8fee672588_o.png",
+      "id_image": "doorway_988478"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "english": "marine",
+  "phat_am": "[mə'ri:n]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) biển; gần biển; do biển sinh ra",
+          "list_en_vn": [
+            {
+              "full_en": "marine plant",
+              "full_vn": "cây ở biển; thực vật biển"
+            },
+            {
+              "full_en": "marine creature",
+              "full_vn": "sinh vật biển"
+            },
+            {
+              "full_en": "marine bird",
+              "full_vn": "chim biển"
+            },
+            {
+              "full_en": "a marine painter",
+              "full_vn": "hoạ sĩ vẽ cảnh biển"
+            },
+            {
+              "full_en": "marine biologist",
+              "full_vn": "nhà sinh vật học biển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thuộc) ngành hàng hải; (thuộc) đường biển; (thuộc) công việc buôn bán trên mặt biển",
+          "list_en_vn": [
+            {
+              "full_en": "marine bureau",
+              "full_vn": "cục hàng hải"
+            },
+            {
+              "full_en": "marine insurance",
+              "full_vn": "bảo hiểm cho tàu bè và hàng hoá đi biển; bảo hiểm đường biển; bảo hiểm hàng hải"
+            },
+            {
+              "full_en": "marine stores",
+              "full_vn": "vật liệu và vật tư cho tàu bè"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "như merchant marine"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) lính thuỷ đánh bộ"
+        },
+        {
+          "m_full_vn": "( Marines ) binh chủng lính thủy đánh bộ"
+        },
+        {
+          "m_full_vn": "tranh vẽ cảnh biển",
+          "list_one_mean": [
+            {
+              "id_full_en": "tell it to the marines",
+              "list_im": [
+                {
+                  "im_full_vn": "đem nói cái đó cho ma nó nghe"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678529_d6ce00a9b1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678529_c65a4529ba_o.png",
+      "id_image": "marine_2614598"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368202_58c6cfdc90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368202_c5388f1829_o.png",
+      "id_image": "marine_4695130"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323261_5175a62c66_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323261_48b0835074_o.png",
+      "id_image": "marine_5426840"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368122_88c1ea5440_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368122_f80c10c648_o.png",
+      "id_image": "marine_5969101"
+    }
+  ]
+}

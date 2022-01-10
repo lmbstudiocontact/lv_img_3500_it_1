@@ -1,0 +1,516 @@
+{
+  "english": "last",
+  "phat_am": "[lɑ:st]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lát (đơn vị đo trọng tải của tàu thủy, bằng 2000 kg)"
+        },
+        {
+          "m_full_vn": "khuôn giày, cốt giày",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stick to one's last",
+              "list_im": [
+                {
+                  "im_full_vn": "không cố gắng làm những điều mà mình không thể làm tốt; bỏ cuộc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người cuối cùng, vật sau cùng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be near one's last",
+              "list_im": [
+                {
+                  "im_full_vn": "sắp chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at (long ) last",
+              "list_im": [
+                {
+                  "im_full_vn": "rốt cuộc; sau hết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from first to last",
+              "list_im": [
+                {
+                  "im_full_vn": "xem first"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hear /see the last of somebody /something",
+              "list_im": [
+                {
+                  "im_full_vn": "nghe thấy/gặp ai/cái gì lần cuối cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to /till the last",
+              "list_im": [
+                {
+                  "im_full_vn": "đến hơi thở cuối cùng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to fight to the last",
+                      "full_vn": "chiến đấu đến hơi thở cuối cùng"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to breathe one's last",
+              "list_im": [
+                {
+                  "im_full_vn": "trút hơi thở cuối cùng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "these are the last of our apples",
+              "full_vn": "đây là những quả táo cuối cùng của chúng tôi"
+            },
+            {
+              "full_en": "we invited Bill, Tom and Sue - the last being Bill's sister",
+              "full_vn": "chúng tôi mới Bill, Tom và Sue - người cuối cùng là em gái Bill"
+            },
+            {
+              "full_en": "to be the last to come",
+              "full_vn": "là người đến sau cùng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuối cùng, sau chót, sau rốt",
+          "list_en_vn": [
+            {
+              "full_en": "December is the last month of the year",
+              "full_vn": "Tháng mười hai là tháng cuối cùng trong năm"
+            },
+            {
+              "full_en": "the last time I saw her",
+              "full_vn": "lần cuối cùng tôi gặp cô ta"
+            },
+            {
+              "full_en": "the last two /the two last people to arrive",
+              "full_vn": "hai người đến sau cùng"
+            },
+            {
+              "full_en": "the last page of a book",
+              "full_vn": "trang cuối cùng của quyển sách"
+            },
+            {
+              "full_en": "this is our last bottle",
+              "full_vn": "đây là chai rượu cuối cùng còn lại của chúng tôi"
+            },
+            {
+              "full_en": "I wouldn't marry you if you were the last person on earth",
+              "full_vn": "cho dù anh là người cuối cùng còn lại trên quả đất này, tôi vẫn không lấy anh"
+            },
+            {
+              "full_en": "he knew this was his last hope of winning",
+              "full_vn": "nó biết rằng đây là hy vọng cuối cùng để chiến thắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mới nhất; gần đây nhất; vừa qua; trước",
+          "list_en_vn": [
+            {
+              "full_en": "last night /week /month /summer /year",
+              "full_vn": "đêm qua/tuần qua/tháng trước/mùa hè vừa qua/năm ngoái"
+            },
+            {
+              "full_en": "last Tuesday /on Tuesday last",
+              "full_vn": "thứ ba vừa qua"
+            },
+            {
+              "full_en": "in /for /during the last fortnight , few weeks , two decades",
+              "full_vn": "trong mười lăm ngày, vài tuần, hai thập niên vừa qua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không thích hợp nhất, ít chắc chắn nhất",
+          "list_en_vn": [
+            {
+              "full_en": "the last thing I'd expect him to do",
+              "full_vn": "cái điều tôi không thể tin nó sẽ làm"
+            },
+            {
+              "full_en": "she's the last person to trust with a secret",
+              "full_vn": "cô ta là người không bao giờ đáng tin cậy để tiết lộ một bí mật nào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vô cùng, cực kỳ, rất mực, tột bực",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be at one's last gasp",
+              "list_im": [
+                {
+                  "im_full_vn": "giãy chết, vùng vẫy lần cuối trước khi chết (nghĩa bóng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be on one's last legs",
+              "list_im": [
+                {
+                  "im_full_vn": "suy yếu cùng cực"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the day before last",
+              "list_im": [
+                {
+                  "im_full_vn": "cách đây hai ngày"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to draw one's first / last breath",
+              "list_im": [
+                {
+                  "im_full_vn": "chào đời/qua đời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "every last /single one",
+              "list_im": [
+                {
+                  "im_full_vn": "bao gọi mọi người hoặc mọi vật trong một nhóm",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "we spent every last penny we had on the house",
+                      "full_vn": "chúng tôi đã tiêu đến xu cuối cùng vào cái nhà này"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "famous last words",
+              "list_im": [
+                {
+                  "im_full_vn": "những lời lẽ mà người phát ra cảm thấy hối tiếc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "first /last /next but one , two , three",
+              "list_im": [
+                {
+                  "im_full_vn": "xem first"
+                }
+              ]
+            },
+            {
+              "id_full_en": "first /last thing",
+              "list_im": [
+                {
+                  "im_full_vn": "xem thing"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the last laugh",
+              "list_im": [
+                {
+                  "im_full_vn": "cuối cùng vẫn thắng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the last word",
+              "list_im": [
+                {
+                  "im_full_vn": "có đóng góp cuối cùng và quyết định vào một lập luận, một cuộc tranh cãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the last /final analysis",
+              "list_im": [
+                {
+                  "im_full_vn": "suy cho cùng, nghĩ cho cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the last resort ; (as ) a / one's last resort",
+              "list_im": [
+                {
+                  "im_full_vn": "như là phương kế sau cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one's last /dying breath",
+              "list_im": [
+                {
+                  "im_full_vn": "xem breath"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the last ditch",
+              "list_im": [
+                {
+                  "im_full_vn": "nỗ lực cuối cùng có thể làm được để đảm bảo sự an toàn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the last lap",
+              "list_im": [
+                {
+                  "im_full_vn": "giai đoạn cuối cùng của cuộc hành trình hoặc cuộc thi..."
+                }
+              ]
+            },
+            {
+              "id_full_en": "the last minute /moment",
+              "list_im": [
+                {
+                  "im_full_vn": "thời điểm cuối cùng trước một sự kiện quan trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the last /final straw",
+              "list_im": [
+                {
+                  "im_full_vn": "sự kiện làm cho tình hình chung càng thêm tồi tệ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the last word in something",
+              "list_im": [
+                {
+                  "im_full_vn": "cái mới nhất, tiên tiến nhất",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "ten years ago , this dress was considered the last word in elegance",
+                      "full_vn": "cách đây mười năm, cái áo này được coi là thanh lịch nhất"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "the last word on something",
+              "list_im": [
+                {
+                  "im_full_vn": "lời tuyên bố/giải thích dứt khoát về vấn đề gì đó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to say /be one's last word on something",
+              "list_im": [
+                {
+                  "im_full_vn": "đưa ra/là ý kiến cuối cùng hoặc quyết định cuối cùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to a man /to the last man",
+              "list_im": [
+                {
+                  "im_full_vn": "xem man"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a week last Monday",
+              "list_im": [
+                {
+                  "im_full_vn": "cách đây tám hôm, cách đây tám ngày"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a question of the last importance",
+              "full_vn": "một vấn đề cực kỳ quan trọng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "sau tất cả những người khác; cuối cùng; sau cùng",
+          "list_en_vn": [
+            {
+              "full_en": "he came last in the race",
+              "full_vn": "hắn về cuối trong cuộc đua"
+            },
+            {
+              "full_en": "this country ranks last in industrial output",
+              "full_vn": "nước này đứng hàng cuối cùng về sản lượng công nghiệp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lần gầnđây nhất; lần cuối cùng",
+          "list_one_mean": [
+            {
+              "id_full_en": "first and last",
+              "list_im": [
+                {
+                  "im_full_vn": "từ đầu đến cuối"
+                }
+              ]
+            },
+            {
+              "id_full_en": "he who laughs last laughs longest",
+              "list_im": [
+                {
+                  "im_full_vn": "cười người hôm trước hôm sau người cười"
+                }
+              ]
+            },
+            {
+              "id_full_en": "last in , first out",
+              "list_im": [
+                {
+                  "im_full_vn": "vào sau cùng thì ra trước hết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the firm will apply the principle of 'last in , first out'",
+                      "full_vn": "công ty sẽ áp dụng nguyên tắc ai mới được nhận vào làm sẽ bị sa thải đầu tiên"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "last but not least",
+              "list_im": [
+                {
+                  "im_full_vn": "cuối cùng nhưng không phải kém quan trọng những cái khác",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "and last but not least there is the question of adequate funding",
+                      "full_vn": "cuối cùng nhưng không kém quan trọng là vấn đề tài trợ thích đáng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "when did you see him last ?",
+              "full_vn": "anh gặp hắn lần sau cùng là lúc nào?"
+            },
+            {
+              "full_en": "I saw him last /last saw him in New York two years ago",
+              "full_vn": "tôi gặp nó lần sau cùng ở New York cách đây hai năm"
+            },
+            {
+              "full_en": "they last defeated England in 1972",
+              "full_vn": "họ đánh bại đội Anh lần cuối cùng năm 1972"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếp tục một thời gian; kéo dài",
+          "list_en_vn": [
+            {
+              "full_en": "the trip will last three months",
+              "full_vn": "chuyến đi sẽ kéo dài ba tháng"
+            },
+            {
+              "full_en": "the pyramids were really built to last",
+              "full_vn": "các kim tự tháp thực sự được xây dựng để tồn tại lâu dài"
+            },
+            {
+              "full_en": "how long do you think this fine weather will last ?",
+              "full_vn": "anh cho rằng thời tiết tốt này còn sẽ kéo dài bao lâu?"
+            },
+            {
+              "full_en": "she won't last long in that job - it's too tough",
+              "full_vn": "cô ta sẽ không làm việc này lâu bền - hắc búa quá"
+            },
+            {
+              "full_en": "the war lasted (for ) five years",
+              "full_vn": "chiến tranh đã kéo dài năm năm"
+            },
+            {
+              "full_en": "I am sure that his teacher will not last out the night",
+              "full_vn": "tôi chắc chắn rằng thầy của anh ta không qua khỏi đêm nay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đủ, còn đủ",
+          "list_en_vn": [
+            {
+              "full_en": "will rice last till tomorrow evening ?",
+              "full_vn": "liệu có đủ gạo ăn đến tối mai hay không?"
+            },
+            {
+              "full_en": "enough food to last (us ) three days",
+              "full_vn": "đủ thức ăn (cho chúng ta) trong ba ngày"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to last something out ) đủ mạnh để sống lâu hoặc kéo dài cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "He's very ill and probably won't last (out ) the night",
+              "full_vn": "Ông ta ốm nặng và có thể sẽ không sống được qua đêm nay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364722_f351c071dc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364722_b58bc4b452_o.png",
+      "id_image": "last_5375438"
+    }
+  ]
+}

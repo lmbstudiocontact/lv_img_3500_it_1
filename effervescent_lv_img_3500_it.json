@@ -1,0 +1,50 @@
+{
+  "english": "effervescent",
+  "phat_am": "[,efə'vesnt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "sủi, sủi bong bóng, sủi bọt",
+          "list_en_vn": [
+            {
+              "full_en": "effervescent tablet",
+              "full_vn": "viên thuốc sủi bọt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sôi sục, sôi nổi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683284_b48cf619f1_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683284_850a5b65be_o.png",
+      "id_image": "effervescent_2937408"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443203_94d68bb3dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443203_f86e25062f_o.png",
+      "id_image": "effervescent_4003921"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809443148_a1f7cde9ca_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809443148_f21c028186_o.png",
+      "id_image": "effervescent_4892048"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683164_ee27f89321_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683164_92103b0c46_o.png",
+      "id_image": "effervescent_5180486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372967_cdfc2ef312_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372967_564c25c651_o.png",
+      "id_image": "effervescent_843179"
+    }
+  ]
+}

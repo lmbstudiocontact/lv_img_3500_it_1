@@ -1,0 +1,104 @@
+{
+  "english": "doctor",
+  "phat_am": "['dɔktə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bác sĩ y khoa",
+          "list_en_vn": [
+            {
+              "full_en": "You'd better see a doctor about your headache",
+              "full_vn": "Anh nên đi bác sĩ khám về bệnh nhức đầu của anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiến sĩ",
+          "list_en_vn": [
+            {
+              "full_en": "Doctor of Science , Philosophy , Letters",
+              "full_vn": "Tiến sĩ khoa học, triết học, văn chương"
+            },
+            {
+              "full_en": "Doctor of Laws",
+              "full_vn": "tiến sĩ luật khoa ( LL D )"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải), (từ lóng) người đầu bếp, anh nuôi (trên tàu)"
+        },
+        {
+          "m_full_vn": "bộ phận điều chỉnh (ở máy)"
+        },
+        {
+          "m_full_vn": "ruồi già (để câu cá)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chữa bệnh cho (ai); trị (bệnh)",
+          "list_en_vn": [
+            {
+              "full_en": "he is always doctoring himself",
+              "full_vn": "hắn ta cứ uống thuốc suốt"
+            },
+            {
+              "full_en": "to doctor a cold",
+              "full_vn": "trị bệnh cảm"
+            },
+            {
+              "full_en": "to doctor a child",
+              "full_vn": "chữa bệnh cho một đứa bé"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thiến, hoạn (đối với súc vật)"
+        },
+        {
+          "m_full_vn": "làm giả; giả mạo",
+          "list_en_vn": [
+            {
+              "full_en": "to doctor the evidence , the accounts , a report",
+              "full_vn": "sửa bằng chứng, sổ sách kế toán, bản báo cáo (để đánh lừa)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to doctor something with something ) thêm cái gì có hại vào đồ ăn thức uống"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm bác sĩ y khoa"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809312071_e1c373c9c5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809312071_f51af48471_o.png",
+      "id_image": "doctor_307942"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810048645_2a6495e015_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810048645_068e5e6fa3_o.png",
+      "id_image": "doctor_771338"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809666879_986263e315_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809666879_7cdc69b554_o.png",
+      "id_image": "doctor_773383"
+    }
+  ]
+}

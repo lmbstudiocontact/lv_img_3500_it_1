@@ -1,0 +1,41 @@
+{
+  "english": "fame",
+  "phat_am": "[feim]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "tiếng tăm, danh tiếng, tên tuổi",
+          "list_one_mean": [
+            {
+              "id_full_en": "house of ill fame",
+              "list_im": [
+                {
+                  "im_full_vn": "nhà chứa, nhà thổ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to achieve fame and fortune",
+              "full_vn": "được cả danh lẫn lợi"
+            },
+            {
+              "full_en": "the young musician rose quickly to fame",
+              "full_vn": "người nhạc sĩ trẻ đã nhanh chóng nổi tiếng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381742_52cc4c147b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381742_fc98f55eab_o.png",
+      "id_image": "fame_1787424"
+    }
+  ]
+}

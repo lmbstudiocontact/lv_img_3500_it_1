@@ -1,0 +1,86 @@
+{
+  "english": "holy",
+  "phat_am": "['houli]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "liên quan đến thần thánh hoặc tôn giáo; linh thiêng",
+          "list_en_vn": [
+            {
+              "full_en": "the Holy Bible /Scriptures",
+              "full_vn": "kinh thánh"
+            },
+            {
+              "full_en": "holy water",
+              "full_vn": "nước thánh"
+            },
+            {
+              "full_en": "holy ground",
+              "full_vn": "đất thánh"
+            },
+            {
+              "full_en": "a holy war",
+              "full_vn": "chiến tranh thần thánh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sùng đạo, mộ đạo",
+          "list_en_vn": [
+            {
+              "full_en": "a holy man",
+              "full_vn": "một người sùng đạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thánh; trong sạch",
+          "list_one_mean": [
+            {
+              "id_full_en": "a holy terror",
+              "list_im": [
+                {
+                  "im_full_vn": "người đáng sợ"
+                },
+                {
+                  "im_full_vn": "đứa bé quấy rầy"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to live a holy life",
+              "full_vn": "sống trong sạch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ, (từ Mỹ,nghĩa Mỹ)",
+      "list_m": [
+        {
+          "m_full_vn": "cái linh thiêng, vật linh thiêng"
+        },
+        {
+          "m_full_vn": "nơi linh thiêng; đất thánh"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449578_1fb2c1a271_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449578_48a9b93275_o.png",
+      "id_image": "holy_3426096"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071540_3312882711_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071540_2693f25887_o.png",
+      "id_image": "holy_4977212"
+    }
+  ]
+}

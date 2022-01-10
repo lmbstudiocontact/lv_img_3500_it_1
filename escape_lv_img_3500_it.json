@@ -1,0 +1,175 @@
+{
+  "english": "escape",
+  "phat_am": "[is'keip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( escape from something ) sự/trường hợp trốn thoát; phương tiện để trốn thoát; lối thoát",
+          "list_en_vn": [
+            {
+              "full_en": "Escape from Dartmoor prison is difficult",
+              "full_vn": "Thật là khó trốn khỏi nhà tù Dartmoor"
+            },
+            {
+              "full_en": "There have been few successful escapes from this concentration camp",
+              "full_vn": "Ít có trường hợp nào trốn khỏi trại tập trung này mà thành công"
+            },
+            {
+              "full_en": "When the guard's back was turned , he made his escape",
+              "full_vn": "Khi người lính gác quay lưng đi, anh ta liền trốn thoát"
+            },
+            {
+              "full_en": "The fire escape is at the back of the building",
+              "full_vn": "Lối thoát hoả hoạn nằm ở phía sau toà nhà"
+            },
+            {
+              "full_en": "The chieftain showed us the escape route on the map",
+              "full_vn": "Vị tù trưởng chỉ cho chúng tôi con đường tẩu thoát trên bản đồ"
+            },
+            {
+              "full_en": "escape pipe /valve",
+              "full_vn": "ống/van thoát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật đem lại) sự giải trí tạm thời khỏi thực tại hoặc những công việc tẻ nhạt",
+          "list_en_vn": [
+            {
+              "full_en": "He listens to music as an escape from the pressures of work",
+              "full_vn": "Anh ta nghe nhạc là để thoát khỏi sự căng thẳng của công việc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự rò rỉ (hơi...)"
+        },
+        {
+          "m_full_vn": "cây trồng mọc tự nhiên (không do gieo trồng...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have a narrow (hairbreadth ) escape",
+              "list_im": [
+                {
+                  "im_full_vn": "suýt nữa thì bị tóm, may mà thoát được",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he had a narrow escape from death",
+                      "full_vn": "nó suýt toi mạng; suýt nữa là nó toi mạng; nó thoát chết trong đường tơ kẽ tóc"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make good one's escape",
+              "list_im": [
+                {
+                  "im_full_vn": "xoay xở để thoát một cách bình an vô sự"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thoát được; tránh được",
+          "list_en_vn": [
+            {
+              "full_en": "to escape death",
+              "full_vn": "thoát chết"
+            },
+            {
+              "full_en": "to escape punishment /being punished",
+              "full_vn": "thoát khỏi sự trừng phạt"
+            },
+            {
+              "full_en": "How can we escape the curious crowds ?",
+              "full_vn": "Làm sao chúng ta tránh được đám đông hiếu kỳ?"
+            },
+            {
+              "full_en": "nothing escapes your attention",
+              "full_vn": "chẳng có cái gì thoát khỏi sự chú ý của anh (cái gì anh (cũng) chú ý đến)"
+            },
+            {
+              "full_en": "the fault escaped observation for months",
+              "full_vn": "cả mấy tháng trời mà lỗi lầm không được để ý đến"
+            },
+            {
+              "full_en": "his father's name escapes me",
+              "full_vn": "tôi quên bẵng tên của bố anh ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vô tình buột ra khỏi, thốt ra khỏi (cửa miệng...) (lời nói...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to escape (somebody's ) notice",
+              "list_im": [
+                {
+                  "im_full_vn": "bị bỏ sót, không được lưu ý"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a scream escaped his lips",
+              "full_vn": "một tiếng thét buột ra khỏi cửa miệng anh ta, anh ta buột thét lên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to escape from somebody / something ) trốn thoát; thoát khỏi",
+          "list_en_vn": [
+            {
+              "full_en": "many prisoners of war have escaped",
+              "full_vn": "đã có nhiều tù binh trốn thoát"
+            },
+            {
+              "full_en": "the lion has escape from its cage",
+              "full_vn": "con sư tử đã sổng chuồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to escape from something ) (nói về chất khí, chất lỏng...) rò rỉ; thoát ra",
+          "list_en_vn": [
+            {
+              "full_en": "Make a hole to let water escape",
+              "full_vn": "Hãy khoét một cái lỗ cho nước thoát ra"
+            },
+            {
+              "full_en": "There's gas escaping somewhere - can you smell it ?",
+              "full_vn": "Có khí ga rò rỉ đâu đây - anh có ngửi thấy không?"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808359702_360b59396e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808359702_40c87bdef2_o.png",
+      "id_image": "escape_2456285"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315571_e76ee4e9d9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315571_0a931054db_o.png",
+      "id_image": "escape_2456288"
+    }
+  ]
+}

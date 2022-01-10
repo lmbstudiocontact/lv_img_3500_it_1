@@ -1,0 +1,99 @@
+{
+  "english": "drunk",
+  "phat_am": "[drʌηk]",
+  "list_type": [
+    {
+      "type": "động tính từ quá khứ của drink"
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "say rượu",
+          "list_en_vn": [
+            {
+              "full_en": "to get drunk",
+              "full_vn": "say rượu"
+            },
+            {
+              "full_en": "as drunk as a lord",
+              "full_vn": "say tuý luý"
+            },
+            {
+              "full_en": "blind drunk ; dead drunk",
+              "full_vn": "say bí tỉ, say hết biết trời đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) say sưa, mê mẩn, cuồng lên",
+          "list_one_mean": [
+            {
+              "id_full_en": "drunk and disorderly , drunk and incapable",
+              "list_im": [
+                {
+                  "im_full_vn": "say rượu và càn quấy"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "drunk with success",
+              "full_vn": "say sưa với thắng lợi"
+            },
+            {
+              "full_en": "drunk with joy",
+              "full_vn": "vui cuồng lên"
+            },
+            {
+              "full_en": "drunk with rage",
+              "full_vn": "giận cuồng lên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "chầu say bí tỉ"
+        },
+        {
+          "m_full_vn": "người say rượu"
+        },
+        {
+          "m_full_vn": "vụ say rượu, người bị phạt vì say rượu"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336351_0a4dcbddc2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336351_5eaaf3b2d7_o.png",
+      "id_image": "drunk_1917681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451223_c8b4a1999e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451223_e7020ccd1c_o.png",
+      "id_image": "drunk_2132396"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451203_b30b587dd6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451203_b6af3c86cb_o.png",
+      "id_image": "drunk_2688626"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451173_20fcabc197_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451173_d72b403c55_o.png",
+      "id_image": "drunk_5020390"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809451143_91d8944e90_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809451143_a505b21faf_o.png",
+      "id_image": "drunk_6333490"
+    }
+  ]
+}

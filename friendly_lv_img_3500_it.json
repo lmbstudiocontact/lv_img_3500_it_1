@@ -1,0 +1,66 @@
+{
+  "english": "friendly",
+  "phat_am": "['frendli]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thân mật, thân thiết, thân thiện",
+          "list_en_vn": [
+            {
+              "full_en": "a friendly smile",
+              "full_vn": "một nụ cười thân mật"
+            },
+            {
+              "full_en": "to have friendly relations with one's neighbours",
+              "full_vn": "có quan hệ thân mật với láng giềng của mình"
+            },
+            {
+              "full_en": "Friendly Society",
+              "full_vn": "hội ái hữu"
+            },
+            {
+              "full_en": "a friendly match",
+              "full_vn": "cuộc đấu giao hữu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "thuận lợi, tiện lợi",
+          "list_en_vn": [
+            {
+              "full_en": "a user-friendly computer system",
+              "full_vn": "hệ thống máy điện toán tiện lợi cho người dùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(tôn giáo) ( Friend ) thuộc phái Quây-cơ",
+          "list_one_mean": [
+            {
+              "id_full_en": "friendly lead",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc giải trí có quyên tiền (để giúp người nghèo ở Luân-đôn)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081670_083f0a80d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081670_52ed70018b_o.png",
+      "id_image": "friendly_2058239"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081615_2081642e33_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081615_e9fd191f7e_o.png",
+      "id_image": "friendly_6331995"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "english": "justification",
+  "phat_am": "[,dʒʌstifi'kei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự bào chữa, sự biện hộ, sự chứng minh là đúng; lý lẽ bào chữa",
+          "list_en_vn": [
+            {
+              "full_en": "I can see no justification for dividing the company into smaller units",
+              "full_vn": "tôi không thấy có lý do nào biện minh cho việc chia công ty thành nhiều đơn vị nhỏ hơn"
+            },
+            {
+              "full_en": "he was getting angry - and with some justification",
+              "full_vn": "anh ta nổi nóng - cũng có lý do đấy"
+            },
+            {
+              "full_en": "I suppose that , in justification , he could always claim he had a family to support",
+              "full_vn": "để bào chữa, tôi cho rằng anh ấy bao giờ cũng tự cho mình có một gia đình phải nuôi dưỡng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(ngành in) sự sắp chữ cho đúng hàng đúng chỗ"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809445068_18e0785a51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809445068_b598c73995_o.png",
+      "id_image": "justice_1750503"
+    }
+  ]
+}

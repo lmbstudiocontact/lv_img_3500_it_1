@@ -1,0 +1,103 @@
+{
+  "english": "film",
+  "phat_am": "[film]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "màng; mảng thuốc (trên phim ảnh, trên giấy ảnh...)"
+        },
+        {
+          "m_full_vn": "phim, phim ảnh, phim xi nê",
+          "list_en_vn": [
+            {
+              "full_en": "to be in films",
+              "full_vn": "đóng phim"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the films ) buổi chiếu bóng"
+        },
+        {
+          "m_full_vn": "vảy cá (mắt)"
+        },
+        {
+          "m_full_vn": "màn sương mỏng"
+        },
+        {
+          "m_full_vn": "sợi nhỏ, tơ nhỏ (của mạng nhện)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phủ một lớp màng, che bằng một lớp màng"
+        },
+        {
+          "m_full_vn": "che đi, làm mờ đi"
+        },
+        {
+          "m_full_vn": "quay thành phim",
+          "list_en_vn": [
+            {
+              "full_en": "to film one of Shakespeare's plays",
+              "full_vn": "quay một trong những vở kịch của Sếch-xpia thành phim"
+            },
+            {
+              "full_en": "he filmed the students performing a chemistry experiment",
+              "full_vn": "ông ấy quay phim các sinh viên đang làm thí nghiệm hoá học"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bị che đi, bị mờ đi"
+        },
+        {
+          "m_full_vn": "quay thành phim",
+          "list_en_vn": [
+            {
+              "full_en": "this play films well",
+              "full_vn": "kịch này quay thành phim rất hay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066140_c69dce7e58_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066140_a97d2d5347_o.png",
+      "id_image": "film_1974759"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329341_6944f1f601_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329341_7b025a2fb9_o.png",
+      "id_image": "film_2231875"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809329301_5d903a3e37_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809329301_4e625c1a42_o.png",
+      "id_image": "film_2368409"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810065990_c3795f9118_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810065990_875d4f3111_o.png",
+      "id_image": "film_2468713"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808373852_aae96192f7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808373852_db1df52705_o.png",
+      "id_image": "film_5064600"
+    }
+  ]
+}

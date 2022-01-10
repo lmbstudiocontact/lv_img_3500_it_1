@@ -1,0 +1,139 @@
+{
+  "english": "inside",
+  "phat_am": "[in'said]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mặt trong, phía trong, phần trong, bên trong"
+        },
+        {
+          "m_full_vn": "phần giữa",
+          "list_en_vn": [
+            {
+              "full_en": "the inside of a week",
+              "full_vn": "phần giữa tuần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) lòng, ruột",
+          "list_one_mean": [
+            {
+              "id_full_en": "to turn inside out",
+              "list_im": [
+                {
+                  "im_full_vn": "lộn trong ra ngoài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to understand sth inside out",
+              "list_im": [
+                {
+                  "im_full_vn": "hiểu tường tận điều gì"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ở trong, trong nội bộ",
+          "list_en_vn": [
+            {
+              "full_en": "inside information",
+              "full_vn": "tin tức nội bộ"
+            },
+            {
+              "full_en": "an inside job",
+              "full_vn": "một công việc làm ở trong; (thông tục) một vụ trộm nội bộ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "giới từ",
+      "list_m": [
+        {
+          "m_full_vn": "vào trong, bên trong",
+          "list_en_vn": [
+            {
+              "full_en": "to put food inside the refrigerator",
+              "full_vn": "để thức ăn vào trong tủ lạnh"
+            },
+            {
+              "full_en": "to hide a grenade inside a suitcase",
+              "full_vn": "giấu một quả lựu đạn trong chiếc vali"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trong vòng",
+          "list_en_vn": [
+            {
+              "full_en": "inside of a week",
+              "full_vn": "trong vòng một tuần"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "bên trong, ở trong",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be inside",
+              "list_im": [
+                {
+                  "im_full_vn": "ở tù"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "come in , there is nothing inside",
+              "full_vn": "vào đi, chẳng có gì bên trong cả"
+            },
+            {
+              "full_en": "this wallet has no money inside",
+              "full_vn": "cái ví này không có tiền bên trong"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345421_35682cee1c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345421_9413172baf_o.png",
+      "id_image": "inside_1827202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390357_0c22e4b3fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390357_863bdc656b_o.png",
+      "id_image": "inside_1827206"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390312_9cfcaa5f34_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390312_86c2d2b261_o.png",
+      "id_image": "inside_1827214"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809460128_c6f505b853_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809460128_749509da7e_o.png",
+      "id_image": "inside_1828560"
+    }
+  ]
+}

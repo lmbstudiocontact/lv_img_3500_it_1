@@ -1,0 +1,207 @@
+{
+  "english": "file",
+  "phat_am": "[fail]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái giũa",
+          "list_en_vn": [
+            {
+              "full_en": "a nail file",
+              "full_vn": "dụng cụ giũa móng tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) thằng cha láu cá, thằng cha quay quắt",
+          "list_en_vn": [
+            {
+              "full_en": "a deep (old ) file",
+              "full_vn": "thằng cha quay quắt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giũa",
+          "list_en_vn": [
+            {
+              "full_en": "to file one's finger nails",
+              "full_vn": "giũa móng tay"
+            },
+            {
+              "full_en": "to file something",
+              "full_vn": "giũa nhẵn vật gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gọt giũa",
+          "list_en_vn": [
+            {
+              "full_en": "to file a sentence",
+              "full_vn": "gọt giũa một câu văn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ô đựng tài liệu, hồ sơ; dây thép móc hồ sơ",
+          "list_en_vn": [
+            {
+              "full_en": "a bill file ; a spike file",
+              "full_vn": "cái móc giấy"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hồ sơ, tài liệu",
+          "list_en_vn": [
+            {
+              "full_en": "last night's accident has been on file",
+              "full_vn": "vụ tai nạn đêm qua đã được đưa vào hồ sơ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tập báo (xếp theo thứ tự)"
+        },
+        {
+          "m_full_vn": "(vi tính) tập tin"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắp xếp, sắp đặt (giấy má, thư từ...)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) đệ trình, đưa ra (một văn kiện...)"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "hàng, dãy (người, vật)"
+        },
+        {
+          "m_full_vn": "(quân sự) hàng quân",
+          "list_one_mean": [
+            {
+              "id_full_en": "a file of men",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) nhóm công tác hai người"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the rank and file",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) rank"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to march in file",
+              "full_vn": "đi hàng đôi"
+            },
+            {
+              "full_en": "in single (Indian ) file",
+              "full_vn": "theo hàng một"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cho đi thành hàng"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đi thành hàng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to file away",
+              "list_im": [
+                {
+                  "im_full_vn": "(như) to file off"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to file in",
+              "list_im": [
+                {
+                  "im_full_vn": "đi vào từng người một, đi vào thành hàng một, nối đuôi nhau đi vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to file off",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo đi thành hàng nối đuôi nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to file out",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ra từng người một, đi ra thành hàng một, nối đuôi nhau đi ra"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374532_1fc7f8281e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374532_9baa43a972_o.png",
+      "id_image": "file_124837"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809684804_6ded40f32c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809684804_b0c3633188_o.png",
+      "id_image": "file_182138"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810066535_ae43e0ff4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810066535_54e035e113_o.png",
+      "id_image": "file_194334"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808374402_75eae028aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808374402_a6494e63a3_o.png",
+      "id_image": "file_283607"
+    }
+  ]
+}

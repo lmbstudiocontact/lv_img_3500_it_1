@@ -1,0 +1,35 @@
+{
+  "english": "hemisphere",
+  "phat_am": "['hemisfiə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bán cầu",
+          "list_en_vn": [
+            {
+              "full_en": "the Northern hemisphere",
+              "full_vn": "bán cầu bắc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(giải phẫu) bán cầu não"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453878_dd0b9fde3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453878_fc13df7500_o.png",
+      "id_image": "hemisphere_6080907"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809693999_efba5d51ac_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809693999_f24a8a0e48_o.png",
+      "id_image": "hemisphere_6181758"
+    }
+  ]
+}

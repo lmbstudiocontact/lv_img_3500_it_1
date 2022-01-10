@@ -1,0 +1,481 @@
+{
+  "english": "eye",
+  "phat_am": "[ai]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mắt, con mắt"
+        },
+        {
+          "m_full_vn": "(thực vật học) mắt (trên củ khoai tây)"
+        },
+        {
+          "m_full_vn": "lỗ (kim, xâu dây ở giày...)"
+        },
+        {
+          "m_full_vn": "vòng, thòng lọng (dây); vòng mắt (ở đuôi công); điểm giữa (đích tập bắn)"
+        },
+        {
+          "m_full_vn": "sự nhìn, thị giác"
+        },
+        {
+          "m_full_vn": "cách nhìn, con mắt",
+          "list_en_vn": [
+            {
+              "full_en": "to view with a jaundiced eye",
+              "full_vn": "nhìn bằng con mắt ghen tức"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cách nhìn, sự đánh giá",
+          "list_en_vn": [
+            {
+              "full_en": "to have a good eye for",
+              "full_vn": "đánh giá cao, coi trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chú ý, sự theo dõi",
+          "list_en_vn": [
+            {
+              "full_en": "to have one's eye on ; to keep an eye on",
+              "full_vn": "để ý, theo dõi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự sáng suốt",
+          "list_one_mean": [
+            {
+              "id_full_en": "an eye for an eye",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn miếng trả miếng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be all eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn chằm chằm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be up to the eyes in",
+              "list_im": [
+                {
+                  "im_full_vn": "ngập đầu (công việc, nợ nần)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cast sheep's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) sheep"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to catch the speaker's eye",
+              "list_im": [
+                {
+                  "im_full_vn": "được chủ tịch (nghị viện) trông thấy mình giơ tay và cho phát biểu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to clap (set ) one's eyes on",
+              "list_im": [
+                {
+                  "im_full_vn": "nhìn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "eyes front !",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) front"
+                }
+              ]
+            },
+            {
+              "id_full_en": "eyes left !",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) nhìn bên trái!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "eyes right !",
+              "list_im": [
+                {
+                  "im_full_vn": "(quân sự) nhìn bên phải!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the eye of day",
+              "list_im": [
+                {
+                  "im_full_vn": "mặt trời"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give an eye to someone",
+              "list_im": [
+                {
+                  "im_full_vn": "theo dõi ai; trông nom ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give the glad eye to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) glad"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have an eye for",
+              "list_im": [
+                {
+                  "im_full_vn": "có con mắt tinh đời về, rất tinh tế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have an eye to something",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy cái gì làm mục đích"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have an eye to everything",
+              "list_im": [
+                {
+                  "im_full_vn": "chú ý từng li từng tí"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have eyes in the back of one's head",
+              "list_im": [
+                {
+                  "im_full_vn": "có mắt rất tinh, cái gì cũng nhìn thấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's eyes well in at shooting",
+              "list_im": [
+                {
+                  "im_full_vn": "mắt tinh bắn giỏi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "his eyes are bigger than his belly",
+              "list_im": [
+                {
+                  "im_full_vn": "no bụng đói con mắt, tham lam"
+                }
+              ]
+            },
+            {
+              "id_full_en": "if you had half an eye",
+              "list_im": [
+                {
+                  "im_full_vn": "nếu anh không mù, nếu anh không đần độn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the eyes of",
+              "list_im": [
+                {
+                  "im_full_vn": "theo sự đánh giá của, theo con mắt của"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the eye of the law",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng về mặt pháp lý, đứng về mặt luật pháp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the eye of the wind",
+              "list_im": [
+                {
+                  "im_full_vn": "ngược gió"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the mind's eye",
+              "list_im": [
+                {
+                  "im_full_vn": "trong trí tưởng tượng; trong sự nhìn trước"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lose an eye",
+              "list_im": [
+                {
+                  "im_full_vn": "mù một mắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "liếc mắt đưa tình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make someone open his eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "làm ai trố mắt nhìn (vì ngạc nhiên)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "my eye (s)!",
+              "list_im": [
+                {
+                  "im_full_vn": "ồ lạ nhỉ!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "naked eye",
+              "list_im": [
+                {
+                  "im_full_vn": "mắt thường (không cần đeo kính)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see eye to eye with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "đồng ý với aii"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to see with half an eye",
+              "list_im": [
+                {
+                  "im_full_vn": "trông thấy ngay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw dust in somebody's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) dust"
+                }
+              ]
+            },
+            {
+              "id_full_en": "under the eye of somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "dưới sự giám sát của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "where are your eyes ?",
+              "list_im": [
+                {
+                  "im_full_vn": "thong manh à?, mắt để ở đâu?"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wipe someone's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) phỗng tay trên ai, đi nước trước ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with an eye to something",
+              "list_im": [
+                {
+                  "im_full_vn": "nhằm vào cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hit sb in the eye",
+              "list_im": [
+                {
+                  "im_full_vn": "quá rõ ràng hiển nhiên đối với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get one's eyes in",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục thể thao) đánh bóng chính xác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a gleam in sb's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "niềm hy vọng trong suy nghĩ của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the twinkling of an eye",
+              "list_im": [
+                {
+                  "im_full_vn": "trong nháy mắt, trong chớp mắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep one's eyes peeled /skinned for sth",
+              "list_im": [
+                {
+                  "im_full_vn": "xem xét tường tận"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep a weather eye open",
+              "list_im": [
+                {
+                  "im_full_vn": "nâng cao cảnh giác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "never take one's eyes off sb /sth",
+              "list_im": [
+                {
+                  "im_full_vn": "dõi mắt trông theo, nhìn không chớp mắt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "one in the eye for sb",
+              "list_im": [
+                {
+                  "im_full_vn": "thất bại ê chề đối với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "only have eyes for sb",
+              "list_im": [
+                {
+                  "im_full_vn": "chỉ yêu ai mà thôi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of the corner of one's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "liếc nhìn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the scales fall from sb's eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "sáng mắt ra, tỉnh ngộ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to close one's eyes to sth",
+              "list_im": [
+                {
+                  "im_full_vn": "vờ không quan tâm đến, nhắm mắt làm ngơ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "before one's very eyes",
+              "list_im": [
+                {
+                  "im_full_vn": "trước mắt ai, trước sự chứng kiến của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with one's eyes closed",
+              "list_im": [
+                {
+                  "im_full_vn": "nhắm mắt cũng làm được, không cần cố gắng nhiều"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to open one's eyes",
+              "full_vn": "đã mở mắt ra, đã sáng mắt, đã tỉnh ngộ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhìn quan sát, nhìn trừng trừng"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809454608_7f673d5fd5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809454608_e5274b7290_o.png",
+      "id_image": "eye_1024562"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076955_833a16ce47_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076955_a2380111be_o.png",
+      "id_image": "eye_655294"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808384627_4278cd737a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808384627_9b55882770_o.png",
+      "id_image": "eye_734911"
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "english": "finish",
+  "phat_am": "['fini∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phần cuối; phần kết thúc; đoạn kết thúc; đích",
+          "list_en_vn": [
+            {
+              "full_en": "the finish of a race",
+              "full_vn": "đích của cuộc đua"
+            },
+            {
+              "full_en": "there were several close finishes during the competition",
+              "full_vn": "có mấy chặng về đích bám sát nhau trong cuộc đua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tình trạng được hoàn tất hoặc hoàn thiện",
+          "list_one_mean": [
+            {
+              "id_full_en": "a fight to the finish",
+              "list_im": [
+                {
+                  "im_full_vn": "xem fight"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight to the finish",
+              "list_im": [
+                {
+                  "im_full_vn": "xem fight"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "furniture with a fine finish",
+              "full_vn": "đồ đạc được hoàn thiện trao chuốt"
+            },
+            {
+              "full_en": "his manners lack finish",
+              "full_vn": "tính cách của nó thiếu tinh tế"
+            },
+            {
+              "full_en": "to be in at the finish",
+              "full_vn": "có mặt lúc hạ con cáo; có mặt lúc kết thúc"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "kết thúc hoặc đưa cái gì đến kết thúc",
+          "list_en_vn": [
+            {
+              "full_en": "to finish one's work",
+              "full_vn": "làm xong công việc của mình"
+            },
+            {
+              "full_en": "term finishes next week",
+              "full_vn": "tuần sau là hết hạn"
+            },
+            {
+              "full_en": "to finish (reading ) a book",
+              "full_vn": "đọc xong quyển sách"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hoàn thành một công việc hoặc hoạt động; làm xong; về đích",
+          "list_en_vn": [
+            {
+              "full_en": "Wait - I haven't finished yet",
+              "full_vn": "Đợi đấy - tôi chưa làm xong"
+            },
+            {
+              "full_en": "two of the runners failed to finish",
+              "full_vn": "hai trong số những người chạy đã không về tới đích"
+            },
+            {
+              "full_en": "she was leading for part of the race but finally finished fourth",
+              "full_vn": "có lúc chị ấy dẫn đua cuộc đua, nhưng cuối cùng lại về đích thứ tư"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to finish something off / up ) ăn, uống hoặc dùng phần còn lại của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "we might as well finish (up ) the cake ; there isn't much left",
+              "full_vn": "chúng tôi ăn nốt cái bánh cũng được vì cũng chẳng còn bao nhiêu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to finish something off ) hoàn thiện; hoàn chỉnh",
+          "list_en_vn": [
+            {
+              "full_en": "a beautifully finished wooden bowl",
+              "full_vn": "một cái bát bằng gỗ hoàn chỉnh đẹp đẽ"
+            },
+            {
+              "full_en": "to put the finishing touches to a work of art",
+              "full_vn": "trau chuốt để hoàn thiện một tác phẩm nghệ thuật"
+            },
+            {
+              "full_en": "this blouse needs to be finished off before I can wear it",
+              "full_vn": "chiếc áo khoác này phải hoàn chỉnh thì tôi mới mặc vào"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to finish somebody off ) làm ai kiệt sức",
+          "list_en_vn": [
+            {
+              "full_en": "that bike ride absolutely finished me (off )",
+              "full_vn": "cuộc đạp xe này khiến tôi kiệt sức hẳn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to finish somebody / something off ) phá hoại ai/cái gì; kết liễu",
+          "list_en_vn": [
+            {
+              "full_en": "that fever nearly finished him off",
+              "full_vn": "anh ta súyt chết vì cơn sốt đó"
+            },
+            {
+              "full_en": "the last bullet finished off the wounded animal",
+              "full_vn": "viên đạn cuối cùng đã kết liễu mạng sống của con thú bị thương"
+            },
+            {
+              "full_en": "it would finish me off to see her with him",
+              "full_vn": "nhìn cô ta đi với hắn, tôi muốn chết lặng đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to finish with somebody / something ) không còn bận rộn với ai, không dùng cái gì nữa, giải quyết xong; chấm dứt quan hệ với ai, đoạn tuyệt",
+          "list_en_vn": [
+            {
+              "full_en": "Can you wait a minute ? I haven't finished with Ann yet",
+              "full_vn": "Anh đợi tôi một tí được không? Tôi chưa giải quyết xong công việc với Ann"
+            },
+            {
+              "full_en": "you'll be sorry by the time I've finished with you",
+              "full_vn": "anh sẽ lấy làm tiếc khi tôi hết chơi với anh"
+            },
+            {
+              "full_en": "please put the saucepan away if you've finished with it",
+              "full_vn": "làm ơn bỏ cái xoong ra ngoài nếu anh đã dùng xong"
+            },
+            {
+              "full_en": "she should finish with him - he treats her very badly",
+              "full_vn": "cô ta nên chấm dứt quan hệ với hắn - hắn đối xử với cô ta quá tệ"
+            },
+            {
+              "full_en": "I've finished with gambling - it's a waste of money !",
+              "full_vn": "Tôi đã đoạn tuyệt với \"bác thằng bần\" - chỉ tổ phí tiền thôi!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( to finish up with something ) có cái gì khi kết thúc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to finish up (theo sau là tính từ hoặc danh từ)",
+              "list_im": [
+                {
+                  "im_full_vn": "cuối cùng là, kết thúc",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "he could finish up dead or badly injured",
+                      "full_vn": "cuối cùng là nó có thể toi mạng hoặc bị thương nặng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "we had a quick lunch and finished up with a cup of coffee /and a cup of coffee to finish up with",
+              "full_vn": "chúng tôi dùng nhanh bữa trưa và kết thúc bằng một tách cà phê"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441923_c30fce847c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441923_9fe812a061_o.png",
+      "id_image": "finish_1929097"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441978_641e546cff_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441978_71762d5299_o.png",
+      "id_image": "finish_495469"
+    }
+  ]
+}

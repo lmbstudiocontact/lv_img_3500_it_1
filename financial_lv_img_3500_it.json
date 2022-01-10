@@ -1,0 +1,59 @@
+{
+  "english": "financial",
+  "phat_am": "[fai'næn∫l; fi'næn∫l]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) tài chính, (về) tài chính",
+          "list_en_vn": [
+            {
+              "full_en": "a financial institute",
+              "full_vn": "trường tài chính"
+            },
+            {
+              "full_en": "financial world",
+              "full_vn": "giới tài chính"
+            },
+            {
+              "full_en": "financial year",
+              "full_vn": "năm tài chính, niên khoá tài chính"
+            },
+            {
+              "full_en": "to be in financial difficulties",
+              "full_vn": "gặp khó khăn về tài chính"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683209_ae171aafdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683209_09c55f3f8e_o.png",
+      "id_image": "financial_2111182"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683154_9bb23ff41a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683154_9294c2e05e_o.png",
+      "id_image": "financial_3029232"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064740_b172d0a039_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064740_d911a5c4cc_o.png",
+      "id_image": "financial_3043461"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064715_dc2ea55f60_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064715_2d55d3589b_o.png",
+      "id_image": "financial_3449384"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809683024_e91336cbf3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809683024_8823a41f8b_o.png",
+      "id_image": "financial_4669231"
+    }
+  ]
+}

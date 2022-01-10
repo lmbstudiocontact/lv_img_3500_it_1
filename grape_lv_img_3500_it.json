@@ -1,0 +1,54 @@
+{
+  "english": "grape",
+  "phat_am": "[greip]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả nho",
+          "list_en_vn": [
+            {
+              "full_en": "a bunch of grapes",
+              "full_vn": "chùm nho"
+            },
+            {
+              "full_en": "grape juice",
+              "full_vn": "nước nho"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thú y học) bệnh sưng chùm nho",
+          "list_one_mean": [
+            {
+              "id_full_en": "sour grapes ; the grapes are sour",
+              "list_im": [
+                {
+                  "im_full_vn": "nho xanh chẳng đáng miệng người phong lưu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809325226_ec7da59da7_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809325226_b88999d1e6_o.png",
+      "id_image": "grape_4057308"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062015_16c479135f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062015_d355d3fee0_o.png",
+      "id_image": "grape_5848341"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440163_c64160e489_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440163_107f6ee30b_o.png",
+      "id_image": "grape_6321938"
+    }
+  ]
+}

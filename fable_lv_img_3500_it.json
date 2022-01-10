@@ -1,0 +1,44 @@
+{
+  "english": "fable",
+  "phat_am": "['feibl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "truyện ngắn dùng các con vật làm nhân vật để truyền đạt một lời răn dạy; truyện ngụ ngôn"
+        },
+        {
+          "m_full_vn": "truyền thuyết",
+          "list_en_vn": [
+            {
+              "full_en": "a land famous in fable",
+              "full_vn": "một vùng đất nổi tiếng về truyền thuyết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bản trình bày sai sự thật; việc bịa đặt; chuyện bịa đặt"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nói bịa"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ); (thơ ca) kể truyện hoang đường, hư cấu, thêu dệt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810076060_5347e4e512_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810076060_e90bd492be_o.png",
+      "id_image": "fable_2178191"
+    }
+  ]
+}

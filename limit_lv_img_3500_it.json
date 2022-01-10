@@ -1,0 +1,95 @@
+{
+  "english": "limit",
+  "phat_am": "['limit]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "giới hạn, ranh giới, hạn định",
+          "list_en_vn": [
+            {
+              "full_en": "there is no limit to his impudence",
+              "full_vn": "sự hỗn xược của nó thật không còn giới hạn nào"
+            },
+            {
+              "full_en": "speed limit",
+              "full_vn": "tốc độ tối đa quy định cho xe cộ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) ( the limit ) người quá quắc; điều quá quắc",
+          "list_one_mean": [
+            {
+              "id_full_en": "off limits",
+              "list_im": [
+                {
+                  "im_full_vn": "ngoài giới hạn, ngoài phạm vi đã được quy định"
+                }
+              ]
+            },
+            {
+              "id_full_en": "without limit",
+              "list_im": [
+                {
+                  "im_full_vn": "tha hồ, bao nhiêu cũng được, không có giới hạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "within limit",
+              "list_im": [
+                {
+                  "im_full_vn": "trong hạn định, trong phạm vi quy định"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "You really are the (absolute ) limit",
+              "full_vn": "Anh (chị) thật là quá quắt!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giới hạn, hạn chế",
+          "list_en_vn": [
+            {
+              "full_en": "to limit the number of winners",
+              "full_vn": "hạn chế số người thắng cuộc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808386712_88cb5bab88_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808386712_1f43695198_o.png",
+      "id_image": "limit_2867806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079035_d91f8f32dd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079035_789cfc601f_o.png",
+      "id_image": "limit_3590347"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078995_265c92fb84_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078995_25519d8ca8_o.png",
+      "id_image": "limit_3898120"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696764_32f56ee697_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696764_434cd0136b_o.png",
+      "id_image": "limit_6306394"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "english": "dive",
+  "phat_am": "[daiv]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự nhảy lao đầu xuống (nước...); sự lặn"
+        },
+        {
+          "m_full_vn": "(hàng không) sự đâm bổ xuống, sự bổ nhào xuống (máy bay)"
+        },
+        {
+          "m_full_vn": "(hàng hải) sự lặn (tàu ngầm)"
+        },
+        {
+          "m_full_vn": "sự vụt biến mất, sự vụt lao biến đi"
+        },
+        {
+          "m_full_vn": "sự thọc tay vào túi"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) quán rượu chui (nơi lui tới của bọn vô lại...)"
+        },
+        {
+          "m_full_vn": "chỗ ẩn náu (của bọn lưu manh)"
+        },
+        {
+          "m_full_vn": "cửa hàng ở tầng hầm (thường) bán một số hàng đặc biệt",
+          "list_en_vn": [
+            {
+              "full_en": "an oyster dive",
+              "full_vn": "cửa hàng bán sò ở tầng hầm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "nhảy lao đầu xuống (nước...); lặn"
+        },
+        {
+          "m_full_vn": "(hàng không) đâm bổ xuống, bổ nhào xuống (máy bay)"
+        },
+        {
+          "m_full_vn": "(hàng hải) lặn (tàu ngầm)"
+        },
+        {
+          "m_full_vn": "lặn xuống thình lình, chìm xuống thình lình; vụt lao biến đi, vụt biến mất",
+          "list_en_vn": [
+            {
+              "full_en": "to dive into the bushes",
+              "full_vn": "thình lình biến mất trong bụi rậm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + into ) thọc tay vào (túi, nước...)",
+          "list_en_vn": [
+            {
+              "full_en": "to dive into one's pocket",
+              "full_vn": "thọc tay vào túi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + into ) chìm đắm vào, mải mê vào, đi sâu vào (công việc nghiên cứu cái gì...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809313576_332451f94e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809313576_046f76caa0_o.png",
+      "id_image": "dive_499407"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810050120_ace0a020d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810050120_cc24ddde4c_o.png",
+      "id_image": "dive_6213544"
+    }
+  ]
+}

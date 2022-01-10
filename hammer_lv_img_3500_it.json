@@ -1,0 +1,197 @@
+{
+  "english": "hammer",
+  "phat_am": "['hæmə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "búa",
+          "list_en_vn": [
+            {
+              "full_en": "pneumatic hammer",
+              "full_vn": "búa hơi, búa gió"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "búa gỗ (cho người bán đấu giá)",
+          "list_en_vn": [
+            {
+              "full_en": "to bring to the hammer",
+              "full_vn": "đem bán đấu giá"
+            },
+            {
+              "full_en": "to come to the hammer",
+              "full_vn": "bị đem bán đấu giá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đầu cần (đàn pianô)"
+        },
+        {
+          "m_full_vn": "cò (súng)",
+          "list_one_mean": [
+            {
+              "id_full_en": "between hammer and anvil",
+              "list_im": [
+                {
+                  "im_full_vn": "trên đe dưới búa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hammer and sickle",
+              "list_im": [
+                {
+                  "im_full_vn": "búa liềm (cờ Liên-xô, cờ đảng)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hammer and tongs",
+              "list_im": [
+                {
+                  "im_full_vn": "dốc hết sức lực, với tất cả sức mạnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go at each other hammer and tongs",
+              "list_im": [
+                {
+                  "im_full_vn": "đánh nhau kịch liệt, cãi nhau kịch liệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "knight of the hammer",
+              "list_im": [
+                {
+                  "im_full_vn": "thợ rèn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "throwing the hammer",
+              "list_im": [
+                {
+                  "im_full_vn": "(thể dục,thể thao) môn ném búa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "up to the hammer",
+              "list_im": [
+                {
+                  "im_full_vn": "(thông tục) đặc sắc, cừ khôi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quai, búa, nện, đóng, đập mạnh bằng búa",
+          "list_en_vn": [
+            {
+              "full_en": "to hammer a nail in",
+              "full_vn": "đóng đinh"
+            },
+            {
+              "full_en": "to hammer a piece of metal flat",
+              "full_vn": "đập bẹp mảnh kim loại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thông tục) đánh bại, giáng cho những thất bại nặng nề (trong chiến tranh, trong thi đấu thể thao...)"
+        },
+        {
+          "m_full_vn": "nhồi nhét, tọng",
+          "list_en_vn": [
+            {
+              "full_en": "to hammer an idea into someone's head",
+              "full_vn": "nhồi nhét một ý kiền vào đầu ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) phê bình kịch liệt; chỉ trích kịch liệt"
+        },
+        {
+          "m_full_vn": "gõ ba lần búa tuyên bố (ai) vỡ nợ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ ( (thường) + at )",
+      "list_m": [
+        {
+          "m_full_vn": "làm bền bỉ; cố sức làm, gắng công làm (việc gì)"
+        },
+        {
+          "m_full_vn": "quấy rầy, quấy nhiễu (ai)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hammer away",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp tục làm (việc gì...); gắng công gắng sức làm (việc gì...)"
+                },
+                {
+                  "im_full_vn": "nã liên hồi, nã dồn dập (súng lớn)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to hammer away at the enemy positions",
+                      "full_vn": "nã liên hồi vào vị trí địch (súng lớn)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hammer out",
+              "list_im": [
+                {
+                  "im_full_vn": "(kỹ thuật) đập bẹt, đập mỏng"
+                },
+                {
+                  "im_full_vn": "nghĩ ra, tìm ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to hammer out a new scheme",
+                      "full_vn": "nghĩ ra một kế hoạch mới"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315901_c26b6f2ca8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315901_eb7bf53634_o.png",
+      "id_image": "hammer_313069"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809430753_0b88c5e93d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809430753_e9227e011d_o.png",
+      "id_image": "hammer_939512"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315871_6db2eb8173_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315871_fa881868ab_o.png",
+      "id_image": "hammer_942385"
+    }
+  ]
+}

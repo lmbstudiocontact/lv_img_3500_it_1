@@ -1,0 +1,49 @@
+{
+  "english": "gymnastic",
+  "phat_am": "[dʒim'næstik]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) thể dục"
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( số nhiều) thể dục",
+          "list_en_vn": [
+            {
+              "full_en": "to do gymnastics ; to go in for gymnastics",
+              "full_vn": "tập thể dục"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự rèn luyện, sự tập luyện (về một môn gì)",
+          "list_en_vn": [
+            {
+              "full_en": "chessplaying is good mental gymnastics",
+              "full_vn": "đánh cờ là một môn rèn luyện trí óc tốt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361507_c2776b9167_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361507_4369d24ece_o.png",
+      "id_image": "gymnastic_4205498"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809317181_00f1355e26_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809317181_712ef4fd56_o.png",
+      "id_image": "gymnastic_5252833"
+    }
+  ]
+}

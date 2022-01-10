@@ -1,0 +1,96 @@
+{
+  "english": "dump",
+  "phat_am": "['dʌmp]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật ngắn bè bè, người lùn bè bè"
+        },
+        {
+          "m_full_vn": "thẻ chì (dùng trong một số trò chơi)"
+        },
+        {
+          "m_full_vn": "đồng đum (tiền Uc xưa); (từ lóng) đồng xu",
+          "list_en_vn": [
+            {
+              "full_en": "not worth a dump",
+              "full_vn": "không đáng giá một xu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bu lông (đóng tàu)"
+        },
+        {
+          "m_full_vn": "ky (chơi ky)"
+        },
+        {
+          "m_full_vn": "kẹo đum"
+        },
+        {
+          "m_full_vn": "đống rác, nơi đổ rác; nơi rác rưởi bừa bãi"
+        },
+        {
+          "m_full_vn": "tiếng rơi bịch, tiếng đổ ầm, tiếng ném phịch xuống; cú đấm bịch"
+        },
+        {
+          "m_full_vn": "(quân sự) kho đạn tạm thời"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đổ thành đống (rác); vứt bỏ, gạt bỏ (ai...)",
+          "list_en_vn": [
+            {
+              "full_en": "to dump the rubbish",
+              "full_vn": "đổ rác"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đổ ầm xuống, ném phịch xuống"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (từ lóng) đánh gục, đánh ngã"
+        },
+        {
+          "m_full_vn": "(thương nghiệp) bán hạ giá (những hàng thừa ế) ra thị trường nước ngoài (để tránh việc phải hạ giá hàng trong nước và đồng thời tranh thủ được thị trường mới)"
+        },
+        {
+          "m_full_vn": "đưa (dân di trú thừa) ra nước ngoài"
+        },
+        {
+          "m_full_vn": "(vi tính) kết xuất"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đổ rác"
+        },
+        {
+          "m_full_vn": "ngã phịch xuống, rơi phịch xuống"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450418_f185a818b6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450418_fd0ac355a5_o.png",
+      "id_image": "dump_3022156"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335421_4f476b8b7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335421_a83e486ae8_o.png",
+      "id_image": "dump_3937403"
+    }
+  ]
+}

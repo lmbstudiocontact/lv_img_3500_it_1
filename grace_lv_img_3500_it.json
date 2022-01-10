@@ -1,0 +1,179 @@
+{
+  "english": "grace",
+  "phat_am": "[greis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vẻ duyên dáng, vẻ yêu kiều; vẻ uyển chuyển",
+          "list_en_vn": [
+            {
+              "full_en": "to speak with grace",
+              "full_vn": "ăn nói có duyên"
+            },
+            {
+              "full_en": "to dance with grace",
+              "full_vn": "nhảy múa uyển chuyển"
+            },
+            {
+              "full_en": "to walk with grace",
+              "full_vn": "đi đứng uyển chuyển"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) vẻ phong nhã, vẻ thanh nhã"
+        },
+        {
+          "m_full_vn": "thái độ (trong khi làm việc gì)",
+          "list_en_vn": [
+            {
+              "full_en": "to do something with a good grace",
+              "full_vn": "vui lòng làm việc gì"
+            },
+            {
+              "full_en": "with a bad grace",
+              "full_vn": "miễn cưỡng"
+            },
+            {
+              "full_en": "he had the grace to say that ...",
+              "full_vn": "anh ta cũng biết điều mà nói rằng..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ơn huệ; sự trọng đãi, sự chiếu cố",
+          "list_en_vn": [
+            {
+              "full_en": "to be in somebody's good graces",
+              "full_vn": "được ai trọng đãi, được ai chiếu cố"
+            },
+            {
+              "full_en": "an act of grace",
+              "full_vn": "hành động chiếu cố, đặc ân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự gia hạn, sự cho hoãn (có tính chất gia ơn)",
+          "list_en_vn": [
+            {
+              "full_en": "to give somebody a week's grace",
+              "full_vn": "cho hạn bảy ngày (phải trả tiền hoặc làm xong việc gì)"
+            },
+            {
+              "full_en": "last day of grace",
+              "full_vn": "thời hạn cuối cùng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự miễn xá, sự khoan hồng, sự khoan dung",
+          "list_en_vn": [
+            {
+              "full_en": "a measure of grace",
+              "full_vn": "biện pháp khoan dung"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ơn trời, ơn Chúa",
+          "list_en_vn": [
+            {
+              "full_en": "by God's grace",
+              "full_vn": "nhờ ơn trời, nhờ trời"
+            },
+            {
+              "full_en": "in the year of grace 1966",
+              "full_vn": "năm 1966 sau công nguyên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lời cầu nguyện (trước hay sau bữa ăn cơm)"
+        },
+        {
+          "m_full_vn": "ngài (tiếng xưng hô với những người thuộc dòng quý tộc, với các giám mục...)",
+          "list_en_vn": [
+            {
+              "full_en": "His (Her , Yours ) Grace the Duke",
+              "full_vn": "ngài công tước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(âm nhạc) nét hoa mỹ (trong bản nhạc, bài ca)",
+          "list_en_vn": [
+            {
+              "full_en": "a grace note",
+              "full_vn": "nốt nhạc làm cho bản nhạc thêm hay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự cho phép dự thi vào trường đại học"
+        },
+        {
+          "m_full_vn": "( số nhiều) ( The Graces ) (thần thoại,thần học) thần Mỹ nữ",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take dinner without grace",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn nằm với nhau trước khi cưới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "airs and graces",
+              "list_im": [
+                {
+                  "im_full_vn": "điệu bộ ra vẻ mình là người nho nhã"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a saving grace",
+              "list_im": [
+                {
+                  "im_full_vn": "điều bù đắp cho chỗ khiếm khuyết",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "she is ugly and ungraceful , but her saving grace is her parents' enormous heritage",
+                      "full_vn": "cô ta xấu và vô duyên, nhưng bù lại là cái di sản kếch xù của bố mẹ cô ta"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho duyên dáng thêm"
+        },
+        {
+          "m_full_vn": "làm vinh dự, làm vẻ vang, ban vinh dự cho",
+          "list_en_vn": [
+            {
+              "full_en": "the ceremony was graced by the presence of ...",
+              "full_vn": "buổi lễ được vinh dự đón tiếp..., sự có mặt của... là một vinh dự cho buổi lễ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682329_74e1806fdc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682329_965078796a_o.png",
+      "id_image": "grace_340048"
+    }
+  ]
+}

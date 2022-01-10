@@ -1,0 +1,180 @@
+{
+  "english": "eat",
+  "phat_am": "[i:t]",
+  "list_type": [
+    {
+      "type": "động từ ate , eaten",
+      "list_m": [
+        {
+          "m_full_vn": "ăn",
+          "list_en_vn": [
+            {
+              "full_en": "he cannot eat , because of his serious toothache",
+              "full_vn": "vì quá đau răng, anh ta không thể ăn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ăn mòn, ăn thủng, làm hỏng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to eat away",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn dần ăn mòn ( (nghĩa đen) & (nghĩa bóng))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat up",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn sạch, ăn hết; ngốn ( (nghĩa đen) & (nghĩa bóng))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat humble pie",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) humble"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat one's dinners (terms )",
+              "list_im": [
+                {
+                  "im_full_vn": "học để làm luật sư"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat one's heart out",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) heart"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat one's words",
+              "list_im": [
+                {
+                  "im_full_vn": "thừa nhận sai lầm của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat someone out of house and home",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn đến nỗi ai phải sạt nghiệp vì mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be eaten up with pride",
+              "list_im": [
+                {
+                  "im_full_vn": "bị tính kiêu căng hoàn toàn khống chế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "horse eats its head off",
+              "list_im": [
+                {
+                  "im_full_vn": "ngựa ăn hại chẳng được tích sự gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "well , don't eat me !",
+              "list_im": [
+                {
+                  "im_full_vn": "(đùa cợt) này, định ăn thịt tôi à!"
+                }
+              ]
+            },
+            {
+              "id_full_en": "dog eat dog",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc tranh đua tàn nhẫn, cuộc sát phạt lẫn nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat sb alive / eat sb for breakfast",
+              "list_im": [
+                {
+                  "im_full_vn": "chinh phục, lợi dụng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat like a horse",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn rất khoẻ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat out of sb's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "quy phục và phục tùng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to eat oneself sick on sth",
+              "list_im": [
+                {
+                  "im_full_vn": "ăn cái gì nhiều đến phát bệnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the proof of the pudding is in the eating",
+              "list_im": [
+                {
+                  "im_full_vn": "lửa thử vàng, gian nan thử sức"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "acids eat (into ) metals",
+              "full_vn": "axit ăn mòn kim loại"
+            },
+            {
+              "full_en": "the moths have eaten holes in my coat",
+              "full_vn": "nhậy ăn thủng cái áo choàng của tôi"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447233_59615e0f67_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447233_37ac10e7a4_o.png",
+      "id_image": "eat_5722032"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810068890_42cfed0a68_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810068890_cb404ea1e6_o.png",
+      "id_image": "eat_5970922"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809447133_47c8acb92f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809447133_39d34d84a5_o.png",
+      "id_image": "eat_6334870"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "english": "fan",
+  "phat_am": "[fæn]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người hâm mộ, người say mê",
+          "list_en_vn": [
+            {
+              "full_en": "film fans",
+              "full_vn": "những người mê chiếu bóng"
+            },
+            {
+              "full_en": "football fans",
+              "full_vn": "những người hâm mộ bóng đá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái quạt",
+          "list_en_vn": [
+            {
+              "full_en": "an electric fan",
+              "full_vn": "quạt máy, quạt điện"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cái quạt lúa"
+        },
+        {
+          "m_full_vn": "đuôi chim, cánh chim (xoè ra (như) cái quạt)"
+        },
+        {
+          "m_full_vn": "(hàng hải) chân vịt"
+        },
+        {
+          "m_full_vn": "bản hướng gió (ở cối xay gió)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "quạt (thóc...)"
+        },
+        {
+          "m_full_vn": "thổi bùng, xúi giục",
+          "list_en_vn": [
+            {
+              "full_en": "to fan the flame of war",
+              "full_vn": "thổi bùng ngọn lửa chiến tranh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "trải rộng theo hình quạt"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thổi hiu hiu (gió)"
+        },
+        {
+          "m_full_vn": "xoè ra như hình quạt",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fan the air",
+              "list_im": [
+                {
+                  "im_full_vn": "đấm gió"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336431_246f303c50_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336431_5c51d8a706_o.png",
+      "id_image": "fan_166578"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810073380_823a07d1b4_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810073380_5c3d5c10d0_o.png",
+      "id_image": "fan_517776"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336386_096897c977_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336386_241353ebcc_o.png",
+      "id_image": "fan_689332"
+    }
+  ]
+}

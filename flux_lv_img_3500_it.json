@@ -1,0 +1,100 @@
+{
+  "english": "flux",
+  "phat_am": "[flʌks]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự chảy mạnh, sự tuôn ra",
+          "list_en_vn": [
+            {
+              "full_en": "a flux of talk",
+              "full_vn": "chuyện thao thao bất tuyệt, chuyện nổ như ngô rang"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thay đổi liên tục",
+          "list_en_vn": [
+            {
+              "full_en": "in a state of flux",
+              "full_vn": "ở tình trạng thay đổi liên tục (không ổn định)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) dòng, luồng",
+          "list_en_vn": [
+            {
+              "full_en": "axial flux",
+              "full_vn": "dòng hướng trục"
+            },
+            {
+              "full_en": "neutron flux",
+              "full_vn": "luồng nơtron"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(toán học), (vật lý) thông lượng",
+          "list_en_vn": [
+            {
+              "full_en": "vector flux",
+              "full_vn": "thông lượng vectơ"
+            },
+            {
+              "full_en": "radiation flux",
+              "full_vn": "thông lượng bức xạ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) chất gây cháy (luyện kim)"
+        },
+        {
+          "m_full_vn": "(y học) sự băng huyết"
+        },
+        {
+          "m_full_vn": "(từ cổ,nghĩa cổ) bệnh kiết lỵ"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chảy ra, đổ ra, tuôn ra"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm chảy (kim loại) bằng chất gây chảy"
+        },
+        {
+          "m_full_vn": "(y học) tấy"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319026_529efc205f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319026_df1fd0b1b2_o.png",
+      "id_image": "flux_6090866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319006_edfe360d4e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319006_9cefdf7b65_o.png",
+      "id_image": "flux_6091330"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809318971_b7abfa52d5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809318971_133ba8bc5d_o.png",
+      "id_image": "flux_6134438"
+    }
+  ]
+}

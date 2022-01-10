@@ -1,0 +1,36 @@
+{
+  "english": "gender",
+  "phat_am": "['dʒendə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(ngôn ngữ học) giống",
+          "list_en_vn": [
+            {
+              "full_en": "masculine gender",
+              "full_vn": "giống đực"
+            },
+            {
+              "full_en": "feminine gender",
+              "full_vn": "giống cái"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808381617_30ab793bdd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808381617_2ed392e688_o.png",
+      "id_image": "gender_3939800"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809336566_fce9eaf736_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809336566_98bc864afe_o.png",
+      "id_image": "gender_5759827"
+    }
+  ]
+}

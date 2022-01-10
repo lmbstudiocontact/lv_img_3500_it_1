@@ -1,0 +1,104 @@
+{
+  "english": "dose",
+  "phat_am": "[dous]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "lượng thuốc cần dùng mỗi lần; liều",
+          "list_en_vn": [
+            {
+              "full_en": "a dose of quinine",
+              "full_vn": "một liều ki-nin"
+            },
+            {
+              "full_en": "to give /administer the correct dose",
+              "full_vn": "cho uống đúng liều lượng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lượng phóng xạ mà ai/cái gì nhận được mỗi lần",
+          "list_en_vn": [
+            {
+              "full_en": "lethal dose",
+              "full_vn": "một lượng phóng xạ gây tử vong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự trải qua một cái gì khó chịu hoặc thú vị",
+          "list_en_vn": [
+            {
+              "full_en": "a dose of flu , boring conversation , bad weather",
+              "full_vn": "một trận cúm, cuộc trò chuyện tẻ nhạt, đợt thời tiết xấu"
+            },
+            {
+              "full_en": "I can only stand her in small doses",
+              "full_vn": "Tôi chỉ chịu được cô ta với liều lượng nhỏ thôi (trong thời gian chút ít thôi)"
+            },
+            {
+              "full_en": "what I need is a good dose of laughter",
+              "full_vn": "cái mà tôi cần là một trận cười sảng khoái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "bệnh hoa liễu",
+          "list_one_mean": [
+            {
+              "id_full_en": "like a dose of salts",
+              "list_im": [
+                {
+                  "im_full_vn": "rất nhanh; nhanh đến nỗi không ngờ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to give somebody a dose",
+              "full_vn": "lây bệnh hoa liễu cho ai"
+            },
+            {
+              "full_en": "to catch a dose",
+              "full_vn": "mắc bệnh hoa liễu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to dose somebody / oneself with something ) cho ai/tự cho một liều gì",
+          "list_en_vn": [
+            {
+              "full_en": "heavily dosed with pain-killing drugs",
+              "full_vn": "đã được cho một liều mạnh thuốc giảm đau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808353007_9c5c81e7ee_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808353007_7d13038e1e_o.png",
+      "id_image": "dose_1488157"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809664049_19263f6cd3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809664049_2d125b95d9_o.png",
+      "id_image": "dose_2688622"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810045775_b7f3b441ba_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810045775_596c5650a9_o.png",
+      "id_image": "dose_5671548"
+    }
+  ]
+}

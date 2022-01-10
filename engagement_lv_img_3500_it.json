@@ -1,0 +1,89 @@
+{
+  "english": "engagement",
+  "phat_am": "[in'geidʒmənt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hứa hẹn, sự ước hẹn, sự cam kết, sự ràng buộc, sự hứa hôn",
+          "list_en_vn": [
+            {
+              "full_en": "their engagement was announced in the local paper",
+              "full_vn": "việc họ đính hôn đã được công bố trên báo địa phương"
+            },
+            {
+              "full_en": "to keep one's engagements",
+              "full_vn": "tôn trọng những lời cam kết của mình"
+            },
+            {
+              "full_en": "he doesn't have enough money to meet all his engagements",
+              "full_vn": "ông ta không đủ tiền để trả hết các khoản đã hứa hẹn (sẽ trả)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hứa gặp; cuộc hẹn",
+          "list_en_vn": [
+            {
+              "full_en": "I have several engagements for next week",
+              "full_vn": "tuần tới tôi có vài cuộc hẹn"
+            },
+            {
+              "full_en": "the orchestra has several concert engagements",
+              "full_vn": "dàn nhạc đã có kế hoạch biểu diễn vài buổi hoà nhạc"
+            },
+            {
+              "full_en": "social engagements",
+              "full_vn": "sự được mời mọc ở các cuộc chiêu đãi..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thuê mướn (người làm...), sự tuyển dụng",
+          "list_en_vn": [
+            {
+              "full_en": "the engagement of three new assistants",
+              "full_vn": "việc tuyển dụng ba người trợ lý mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự gài (số...)",
+          "list_en_vn": [
+            {
+              "full_en": "after engagement of the clutch",
+              "full_vn": "sau khi gài khớp ly hợp"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) sự giao chiến; trận đánh",
+          "list_en_vn": [
+            {
+              "full_en": "to avoid an engagement with the guerilla",
+              "full_vn": "tránh một cuộc giao chiến với quân du kích"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434658_98b95d82be_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434658_2cb0afa1c8_o.png",
+      "id_image": "engagement_4446318"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319571_a3816e3cdb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319571_7bbd8387b6_o.png",
+      "id_image": "engagement_5526176"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809434698_701de17b7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809434698_e94350cfb6_o.png",
+      "id_image": "engagement_980211"
+    }
+  ]
+}

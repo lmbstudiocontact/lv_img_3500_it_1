@@ -1,0 +1,105 @@
+{
+  "english": "dispute",
+  "phat_am": "[dis'pju:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc bàn cãi, cuộc tranh luận",
+          "list_en_vn": [
+            {
+              "full_en": "there has been much dispute over the question of legalized abortion",
+              "full_vn": "người ta đã tranh luận nhiều về vấn đề phá thai hợp pháp"
+            },
+            {
+              "full_en": "it's a matter of dispute (whether they did the right thing )",
+              "full_vn": "đó là vấn đề cần bàn cãi (xem) họ có làm đúng không"
+            },
+            {
+              "full_en": "their conclusions are open to dispute",
+              "full_vn": "kết luận của họ còn phải bàn cãi thêm"
+            },
+            {
+              "full_en": "her courage is beyond /past /without dispute ; her courage is not in dispute",
+              "full_vn": "ai cũng biết là cô ta can đảm (không bàn cãi gì nữa)"
+            },
+            {
+              "full_en": "we're in dispute (with the management ) about overtime rates",
+              "full_vn": "chúng tôi bất đồng ý kiến (với ban giám đốc) về mức lương làm thêm giờ"
+            },
+            {
+              "full_en": "the exact cause of the accident is still in dispute",
+              "full_vn": "nguyên nhân chính xác của tai nạn vẫn đang được bàn cãi"
+            },
+            {
+              "full_en": "to settle a dispute",
+              "full_vn": "dàn xếp một mối bất hoà"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "bàn cãi, tranh luận",
+          "list_en_vn": [
+            {
+              "full_en": "to dispute with someone",
+              "full_vn": "tranh luận với ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lý sự",
+          "list_en_vn": [
+            {
+              "full_en": "they disputed at great length what they should do",
+              "full_vn": "họ lý sự dài dòng về điều họ nên làm gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghi ngờ sự thật hoặc giá trị của cái gì",
+          "list_en_vn": [
+            {
+              "full_en": "to dispute a statement /claim /decision",
+              "full_vn": "bàn cãi về giá trị của lời tuyên bố/yêu sách/quyết định"
+            },
+            {
+              "full_en": "the election result was disputed",
+              "full_vn": "kết quả bầu cử bị nghi ngờ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cố gắng ngăn chận ai thắng mình (cái gì); kháng cự",
+          "list_en_vn": [
+            {
+              "full_en": "our soldiers disputed every inch of ground",
+              "full_vn": "các chiến sĩ ta chiến đấu giành từng tấc đất"
+            },
+            {
+              "full_en": "to dispute the advance of the enemy",
+              "full_vn": "kháng cự lại cuộc tiến quân của quân địch"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669729_7a3cd5b6ce_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669729_955e4d5bcb_o.png",
+      "id_image": "dispute_5110046"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810051535_96b8964774_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810051535_2e3a6f0d29_o.png",
+      "id_image": "dispute_5110050"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "english": "exhibition",
+  "phat_am": "[,eksi'bi∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phô bày, sự trưng bày, cuộc triển lãm",
+          "list_en_vn": [
+            {
+              "full_en": "Have you seen the Picasso exhibition ?",
+              "full_vn": "Bạn đã xem triển lãm tranh của Picasso hay chưa?"
+            },
+            {
+              "full_en": "exhibition hall",
+              "full_vn": "phòng triển lãm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bày tỏ, sự biểu lộ",
+          "list_en_vn": [
+            {
+              "full_en": "an exhibition of bad manners",
+              "full_vn": "sự bộc lộ các thói xấu"
+            },
+            {
+              "full_en": "the quiz was a good opportunity for exhibition of his knowledge",
+              "full_vn": "kỳ thi vấn đáp là dịp tốt cho anh ta biểu lộ kiến thức của mình"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự trình diễn",
+          "list_en_vn": [
+            {
+              "full_en": "there's an exhibition of pottery-making at the fair",
+              "full_vn": "có một cuộc trình diễn làm đồ gốm tại hội chợ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiền trợ cấp lấy trong quỹ nhà trường cho một sinh viên trang trải học phí trong một số năm; học bổng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make an exhibition of oneself",
+              "list_im": [
+                {
+                  "im_full_vn": "ứng xử một cách dại dột và bậy bạ ở nơi công cộng; giở trò bậy bạ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355207_25087ddf7d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355207_39565d4e2b_o.png",
+      "id_image": "exhibition_1373071"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355147_5cf0dfd8f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355147_8eb9edaf3c_o.png",
+      "id_image": "exhibition_2034090"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809310966_53a67ef570_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809310966_0903990ed7_o.png",
+      "id_image": "exhibition_2034131"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355087_ba25284c40_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355087_63c1c9cf9a_o.png",
+      "id_image": "exhibition_2162201"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808355227_8ee78301f3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808355227_fb077aa1d9_o.png",
+      "id_image": "exhibition_827067"
+    }
+  ]
+}

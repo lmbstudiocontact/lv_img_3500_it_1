@@ -1,0 +1,49 @@
+{
+  "english": "facial",
+  "phat_am": "['fei∫əl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(thuộc) mặt",
+          "list_en_vn": [
+            {
+              "full_en": "facial artery",
+              "full_vn": "(giải phẫu) động mạch mặt"
+            },
+            {
+              "full_en": "facial angle",
+              "full_vn": "góc mặt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự xoa bóp mặt"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453173_6d65686016_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453173_cbd78746c0_o.png",
+      "id_image": "facial_3730218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809453108_e4932270da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809453108_4ee62bd6b1_o.png",
+      "id_image": "facial_4200474"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809338151_c93a56819e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809338151_00fb322eb0_o.png",
+      "id_image": "facial_5732044"
+    }
+  ]
+}

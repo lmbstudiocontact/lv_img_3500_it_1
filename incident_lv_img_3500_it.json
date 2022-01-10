@@ -1,0 +1,66 @@
+{
+  "english": "incident",
+  "phat_am": "['insidənt]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "( + to ) vốn có, vốn gắn liền với, vốn liên quan với",
+          "list_en_vn": [
+            {
+              "full_en": "the risks incident to the life of a test pilot",
+              "full_vn": "những nguy hiểm gắn liền với cuộc sống của người lái máy bay thử nghiệm"
+            },
+            {
+              "full_en": "responsibilities incident upon one as a parent",
+              "full_vn": "những trách nhiệm vốn gắn chặt với người làm cha làm mẹ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(vật lý) tới",
+          "list_en_vn": [
+            {
+              "full_en": "incident ray",
+              "full_vn": "tia tới"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "việc xảy ra, việc bất ngờ xảy ra, việc tình cờ xảy ra"
+        },
+        {
+          "m_full_vn": "việc xô xát, việc rắc rối",
+          "list_en_vn": [
+            {
+              "full_en": "frontier incident",
+              "full_vn": "việc rắc rối ở biên giới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đoạn, tình tiết (trong vở kịch, tiểu thuyết)"
+        },
+        {
+          "m_full_vn": "việc phụ, việc có liên quan (tới một việc quan trọng khác...)"
+        },
+        {
+          "m_full_vn": "(quân sự) vụ ném bom thành phố"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674494_7fd7fc4e20_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674494_8062abc14d_o.png",
+      "id_image": "incident_6159885"
+    }
+  ]
+}

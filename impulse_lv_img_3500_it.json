@@ -1,0 +1,42 @@
+{
+  "english": "impulse",
+  "phat_am": "['impʌls]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sức đẩy tới",
+          "list_en_vn": [
+            {
+              "full_en": "to give an impulse to trade",
+              "full_vn": "đẩy mạnh việc buôn bán"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự bốc đồng; cơn bốc đồng",
+          "list_en_vn": [
+            {
+              "full_en": "a man of impulse",
+              "full_vn": "người hay bốc đồng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thúc đẩy, sự thôi thúc"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) xung lực"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809320266_fe08a8f3f0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809320266_426b66f9b9_o.png",
+      "id_image": "impulse_1533981"
+    }
+  ]
+}

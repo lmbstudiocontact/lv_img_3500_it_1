@@ -1,0 +1,221 @@
+{
+  "english": "flash",
+  "phat_am": "[flæ∫]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ánh sáng loé lên; tia",
+          "list_en_vn": [
+            {
+              "full_en": "a flash of lightning",
+              "full_vn": "ánh chớp, tia chớp"
+            },
+            {
+              "full_en": "a flash of hope",
+              "full_vn": "tia hy vọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nhiếp ảnh) đèn nháy"
+        },
+        {
+          "m_full_vn": "giây lát",
+          "list_en_vn": [
+            {
+              "full_en": "in a flash",
+              "full_vn": "trong giây lát"
+            },
+            {
+              "full_en": "a flash of merriment",
+              "full_vn": "cuộc vui trong giây lát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự phơi bày chớp nhoáng bộ phận sinh dục (nhất là ở đàn ông); sự phơi bày khiếm nhã"
+        },
+        {
+          "m_full_vn": "(quân sự) phù hiệu (chỉ đơn vị, sư đoàn...)"
+        },
+        {
+          "m_full_vn": "dòng nước nâng (xả xuống phía dưới đập để nâng mực nước)"
+        },
+        {
+          "m_full_vn": "(tiếng lóng) kẻ cắp"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) như news flash",
+          "list_one_mean": [
+            {
+              "id_full_en": "a flash in the pan",
+              "list_im": [
+                {
+                  "im_full_vn": "chuyện đầu voi đuôi chuột"
+                },
+                {
+                  "im_full_vn": "người nổi tiếng nhất thời"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "loé sáng, vụt sáng, chiếu sáng",
+          "list_en_vn": [
+            {
+              "full_en": "lightning flashes across the sky",
+              "full_vn": "chớp loé sáng trên trời"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chợt hiện ra, chợt nảy ra, vụt hiện lên, loé lên",
+          "list_en_vn": [
+            {
+              "full_en": "an idea flashed upon him",
+              "full_vn": "anh ta chợt nảy ra một ý kiến"
+            },
+            {
+              "full_en": "it flashed upon me that",
+              "full_vn": "tôi chợt nảy ý rằng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chạy vụt",
+          "list_en_vn": [
+            {
+              "full_en": "train flashes past",
+              "full_vn": "chuyến xe lửa chạy vụt qua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chảy ra thành tấm (thuỷ tinh)"
+        },
+        {
+          "m_full_vn": "chảy ào, chảy tràn ra (nước)"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm loé lên, làm rực lên",
+          "list_en_vn": [
+            {
+              "full_en": "eyes flash fire",
+              "full_vn": "mắt rực lửa"
+            },
+            {
+              "full_en": "to flash a smile at someone",
+              "full_vn": "toét miệng cười với ai"
+            },
+            {
+              "full_en": "to flash one's sword",
+              "full_vn": "vung gươm sáng loáng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "truyền đi cấp tốc, phát nhanh (tin)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ), (thông tục) khoe, phô, thò ra khoe",
+          "list_en_vn": [
+            {
+              "full_en": "to flash a roll of money",
+              "full_vn": "- thò ra khoe một tập tiền"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm (thuỷ tinh) chảy thành tấm"
+        },
+        {
+          "m_full_vn": "phủ một lần màu lên (kính)"
+        },
+        {
+          "m_full_vn": "cho nước chảy vào đầy",
+          "list_one_mean": [
+            {
+              "id_full_en": "to flash in the pan",
+              "list_im": [
+                {
+                  "im_full_vn": "làm chuyện đầu voi đuôi chuột"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to flash out (up )",
+              "list_im": [
+                {
+                  "im_full_vn": "nổi giận đùng đùng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "loè loẹt, sặc sỡ",
+          "list_en_vn": [
+            {
+              "full_en": "a flash skirt",
+              "full_vn": "chiếc váy sặc sỡ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không thật; giả",
+          "list_en_vn": [
+            {
+              "full_en": "flash money",
+              "full_vn": "tiền giả"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322701_d2a4eae477_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322701_2436f5e5f6_o.png",
+      "id_image": "flash_1339289"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677829_74cf38af8d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677829_8b90e2a9e9_o.png",
+      "id_image": "flash_1366106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677789_459c218b4d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677789_a56b7b5326_o.png",
+      "id_image": "flash_1901947"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810059540_b8dab83af2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810059540_18c25d9ed5_o.png",
+      "id_image": "flash_488535"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809677909_426eb9e364_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809677909_de6ac8810c_o.png",
+      "id_image": "flash_526861"
+    }
+  ]
+}

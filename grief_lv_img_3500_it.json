@@ -1,0 +1,55 @@
+{
+  "english": "grief",
+  "phat_am": "[gri:f]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "nỗi đau buồn, nỗi sầu khổ, nỗi thương tiếc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to come to grief",
+              "list_im": [
+                {
+                  "im_full_vn": "gặp tai hoạ; thất bại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "good grief",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếng kêu vì hoảng sợ"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to die of grief",
+              "full_vn": "chết vì đau buồn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437168_00ed2dc86f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437168_c56759b484_o.png",
+      "id_image": "grief_4525486"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809437123_a897eda23d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809437123_8ec3bb450a_o.png",
+      "id_image": "grief_6000917"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809322016_662ee46819_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809322016_e62602c3ee_o.png",
+      "id_image": "grief_708614"
+    }
+  ]
+}

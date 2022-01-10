@@ -1,0 +1,40 @@
+{
+  "english": "insignia",
+  "phat_am": "[in'signiə]",
+  "list_type": [
+    {
+      "type": "danh từ số nhiều",
+      "list_m": [
+        {
+          "m_full_vn": "vật tượng trưng cho cấp bậc hoặc quyền lực (vương miện và quyền trượng của vua hoặc hoàng hậu chẳng hạn); biểu hiệu",
+          "list_en_vn": [
+            {
+              "full_en": "the insignia of office",
+              "full_vn": "biểu hiệu của chức vụ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phù hiệu riêng của một trung đoàn, đội kỵ binh..."
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700269_dfe3a63131_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700269_a4bd5c604f_o.png",
+      "id_image": "insignia_189015"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345106_a1ffa7d817_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345106_2c6918779d_o.png",
+      "id_image": "insignia_2614555"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390022_5b82016401_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390022_aa5c3495b9_o.png",
+      "id_image": "insignia_3199398"
+    }
+  ]
+}

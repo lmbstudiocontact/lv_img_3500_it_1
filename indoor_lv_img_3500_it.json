@@ -1,0 +1,37 @@
+{
+  "english": "indoor",
+  "phat_am": "['indɔ:]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trong nhà",
+          "list_en_vn": [
+            {
+              "full_en": "indoor games",
+              "full_vn": "các môn thi đấu trong nhà"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810054210_aa9bf844c9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810054210_aea8ea7574_o.png",
+      "id_image": "indoor_1522193"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672409_2d148b423f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672409_24a4ffa088_o.png",
+      "id_image": "indoor_3965846"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432778_c6aab46835_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432778_bb56e7ec08_o.png",
+      "id_image": "indoor_5578202"
+    }
+  ]
+}

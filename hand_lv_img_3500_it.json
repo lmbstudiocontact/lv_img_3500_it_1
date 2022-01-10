@@ -1,0 +1,880 @@
+{
+  "english": "hand",
+  "phat_am": "[hænd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bàn tay (người); bàn chân trước (loài vật bốn chân)",
+          "list_en_vn": [
+            {
+              "full_en": "to take /lead somebody by the hand",
+              "full_vn": "cầm tay ai/nắm tay dắt ai"
+            },
+            {
+              "full_en": "to have one's hand in one's pocket",
+              "full_vn": "đút tay vào túi"
+            },
+            {
+              "full_en": "hand in hand",
+              "full_vn": "tay nắm tay; gắn bó với nhau"
+            },
+            {
+              "full_en": "war and suffering go hand in hand",
+              "full_vn": "chiến tranh và đau khổ luôn đi liền với nhau"
+            },
+            {
+              "full_en": "to shake somebody's hand ; to shake hands with somebody ; to shake somebody by the hand",
+              "full_vn": "nắm tay ai và lắc lên lắc xuống như một cử chỉ chào hỏi hoặc thể hiện sự đồng ý...; bắt tay"
+            },
+            {
+              "full_en": "hands off !",
+              "full_vn": "bỏ tay ra!; không được đụng vào; không được can thiệp vào!"
+            },
+            {
+              "full_en": "hands off my sandwiches !",
+              "full_vn": "không được đụng vào bánh xănguych của tao!"
+            },
+            {
+              "full_en": "hands up !",
+              "full_vn": "giơ tay lên (đầu hàng hoặc biểu quyết...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyền hành; sự có sẵn (trong tay); sự nắm giữ (trong tay); sự kiểm soát",
+          "list_en_vn": [
+            {
+              "full_en": "I still have some money in hand",
+              "full_vn": "tôi còn một ít tiền trong tay"
+            },
+            {
+              "full_en": "cash in hand",
+              "full_vn": "tiền mặt có trong tay; tiền mặt đang có sẵn"
+            },
+            {
+              "full_en": "I've an empty house on my hands",
+              "full_vn": "tôi có trong tay một cái nhà đang bỏ trống"
+            },
+            {
+              "full_en": "to have the situation well in hand",
+              "full_vn": "nắm chắc được tình hình"
+            },
+            {
+              "full_en": "the affair is no longer in my hands",
+              "full_vn": "việc đó không còn nằm trong tay tôi nữa"
+            },
+            {
+              "full_en": "put the matter in the hands of a solicitor",
+              "full_vn": "hãy giao việc này cho một luật sư"
+            },
+            {
+              "full_en": "to change hands",
+              "full_vn": "sang tay người khác; thay tay đổi chủ (vật)"
+            },
+            {
+              "full_en": "to fall into the hands of",
+              "full_vn": "rơi vào tay (ai)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự tham gia, sự nhúng tay vào; phần tham gia",
+          "list_en_vn": [
+            {
+              "full_en": "to have (bear ) a hand in something",
+              "full_vn": "có tham gia vào việc gì, có nhúng tay vào việc gì"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự hứa hôn",
+          "list_en_vn": [
+            {
+              "full_en": "to give one's hand to",
+              "full_vn": "hứa hôn với, bằng lòng lấy (ai)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) công nhân, nhân công (nhà máy, công trường...); thuỷ thủ",
+          "list_en_vn": [
+            {
+              "full_en": "all hands on deck !",
+              "full_vn": "toàn thể thuỷ thủ lên boong!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người làm (một việc gì), một tay",
+          "list_en_vn": [
+            {
+              "full_en": "a good hand at fencing",
+              "full_vn": "một tay đấu kiếm giỏi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nguồn",
+          "list_en_vn": [
+            {
+              "full_en": "to hear the information from a good hand",
+              "full_vn": "nghe tin tức từ một nguồn đáng tin cậy"
+            },
+            {
+              "full_en": "to hear the news at first hand /at second hand",
+              "full_vn": "nghe tin trực tiếp (không qua một nguồn nào khác) /gián tiếp (nghe đồn hoặc nghe kể lại)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự khéo léo, sự khéo tay",
+          "list_en_vn": [
+            {
+              "full_en": "to have a hand at pastry",
+              "full_vn": "khéo làm bánh ngọt, làm bánh ngọt khéo tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chữ viết tay; chữ ký",
+          "list_en_vn": [
+            {
+              "full_en": "to write a good hand",
+              "full_vn": "viết tốt, viết đẹp"
+            },
+            {
+              "full_en": "a very clear hand",
+              "full_vn": "chữ viết rất rõ"
+            },
+            {
+              "full_en": "under someone's hand and seal",
+              "full_vn": "có chữ ký và đóng dấu của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kim (đồng hồ)",
+          "list_en_vn": [
+            {
+              "full_en": "long hand",
+              "full_vn": "kim dài (kim phút)"
+            },
+            {
+              "full_en": "short hand",
+              "full_vn": "kim ngắn (kim giờ)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nải (chuối)",
+          "list_en_vn": [
+            {
+              "full_en": "a hand of bananas",
+              "full_vn": "nải chuối"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(một) buộc, (một) nắm",
+          "list_en_vn": [
+            {
+              "full_en": "a hand of tobacco leaves",
+              "full_vn": "một nắm lá thuốc lá"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gang tay (đơn vị đo chiều cao của ngựa, bằng 4 insơ)"
+        },
+        {
+          "m_full_vn": "phía, bên, hướng",
+          "list_en_vn": [
+            {
+              "full_en": "on all hands",
+              "full_vn": "tứ phía, khắp nơi; từ khắp nơi"
+            },
+            {
+              "full_en": "on the right hand",
+              "full_vn": "ở phía tay phải"
+            },
+            {
+              "full_en": "on the one hand ..., on the other hand ...",
+              "full_vn": "mặt này..., mặt khác..."
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(đánh bài) xấp bài có trên tay; ván bài; chân đánh bài",
+          "list_en_vn": [
+            {
+              "full_en": "to take a hand at cards",
+              "full_vn": "đánh một ván bài"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) tiếng vỗ tay hoan hô",
+          "list_one_mean": [
+            {
+              "id_full_en": "at hand",
+              "list_im": [
+                {
+                  "im_full_vn": "gần ngay, có thể với tới được, rất tiện tay"
+                },
+                {
+                  "im_full_vn": "sắp đến, sắp tới"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at somebody's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "ở tay ai, từ tay ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to receive something at somebody's hands",
+                      "full_vn": "nhận được cái gì từ tay ai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "all hands to the pump",
+              "list_im": [
+                {
+                  "im_full_vn": "mọi người phải chung vai gánh vác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a bird in the hand is worth two in the bush",
+              "list_im": [
+                {
+                  "im_full_vn": "thà rằng được sẻ trên tay, còn hơn được hứa trên mây hạc vàng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have sb's blood on one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu trách nhiệm về cái chết của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "by one's own fair hand",
+              "list_im": [
+                {
+                  "im_full_vn": "do tự tay mình làm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the dead hand of sth",
+              "list_im": [
+                {
+                  "im_full_vn": "ảnh hưởng nặng nề của cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "from hand to hand",
+              "list_im": [
+                {
+                  "im_full_vn": "từ người này truyền sang người khác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to win sb's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho ai hứa hẹn lấy mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give one's hand on sth",
+              "list_im": [
+                {
+                  "im_full_vn": "xiết chặt tay ai để biểu lộ sự đồng tình về điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold hands",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm tay nhau để biểu lộ sự trìu mến"
+                }
+              ]
+            },
+            {
+              "id_full_en": "an iron hand in a velvet glove",
+              "list_im": [
+                {
+                  "im_full_vn": "quả đấm sắt bọc nhung, sự cay nghiệt được che đậy một cách khéo léo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to know sth like the back of one's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "biết rõ như trên lòng bàn tay của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lift one's hands against sb",
+              "list_im": [
+                {
+                  "im_full_vn": "đe doạ hoặc tấn công ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to live from hand to mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "sống lần hồi, sống cầm hơi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to make money hand over fist",
+              "list_im": [
+                {
+                  "im_full_vn": "vớ bở, thu lợi kếch xù"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to overplay one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "liều lỉnh quá trớn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "many hands make light work",
+              "list_im": [
+                {
+                  "im_full_vn": "nhiều người chung sức chung lòng thì dễ thành công"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to play into sb's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "làm lợi cho đối thủ của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's hands into one's pocket",
+              "list_im": [
+                {
+                  "im_full_vn": "sẵn sàng chi tiền"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to set one's hands to sth",
+              "list_im": [
+                {
+                  "im_full_vn": "đặt bút ký kết cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to show one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "tiết lộ ý định của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take one's courage in both hands",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy hết can đảm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take the law into one's own hands",
+              "list_im": [
+                {
+                  "im_full_vn": "xem thường luật pháp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take one's life in one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "có nguy cơ mất mạng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to win hands down",
+              "list_im": [
+                {
+                  "im_full_vn": "thắng lớn, thắng đậm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear (give , lend ) a hand to someone",
+              "list_im": [
+                {
+                  "im_full_vn": "giúp đỡ ai một tay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be hand in glove with",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) glove"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bite the hand that feeds one",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) ăn cháo đá bát"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bring somebody /something up by hand",
+              "list_im": [
+                {
+                  "im_full_vn": "nuôi (một người hoặc một con vật) bằng cách cho ăn từ một bình sữa; nuôi bộ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with a high hand",
+              "list_im": [
+                {
+                  "im_full_vn": "hống hách; kiêu căng, ngạo mạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to chuck one's hand in",
+              "list_im": [
+                {
+                  "im_full_vn": "đầu hàng, hạ vũ khí, chịu thua (cuộc)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a clean hand wants no washing",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) vô tội thì chẳng việc gì mà phải thanh minh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a clean hand",
+              "list_im": [
+                {
+                  "im_full_vn": "(nghĩa bóng) sự trong trắng, sự vô tội"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to come to hand (s)",
+              "list_im": [
+                {
+                  "im_full_vn": "đến tay đã nhận (thư từ...)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to do a hand's turn",
+              "list_im": [
+                {
+                  "im_full_vn": "làm một cố gắng nhỏ, trở bàn tay ( (thường), phủ định)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fight for one's own hand",
+              "list_im": [
+                {
+                  "im_full_vn": "chiến đấu vì lợi ích của bản thân"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the better hand",
+              "list_im": [
+                {
+                  "im_full_vn": "thắng thế, chiếm ưu thế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to get something off one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "gạt bỏ cái gì, tống khứ cái gì"
+                },
+                {
+                  "im_full_vn": "giũ trách nhiệm về một việc gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have the whip hand of someone",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) whip hand"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give the glad hand to somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) glad"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hand over fist",
+              "list_im": [
+                {
+                  "im_full_vn": "tay này bắt tiếp lên tay kia như lúc leo dây"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) tiến bộ chắc chắn, tiến bộ nhanh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hang heavily on one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "kéo dài chậm chạp, trôi đi chậm chạp"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a free hand",
+              "list_im": [
+                {
+                  "im_full_vn": "được hoàn toàn tự do hành động, được hành động hoàn toàn theo ý mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a hand like a foot",
+              "list_im": [
+                {
+                  "im_full_vn": "lóng ngóng, hậu đậu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have an open hand",
+              "list_im": [
+                {
+                  "im_full_vn": "hào phóng, rộng rãi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "his hand is out",
+              "list_im": [
+                {
+                  "im_full_vn": "anh ta chưa quen tay, anh ta bỏ lâu không luyện tập"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have (hold , keep ) in hand (well in hand )",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm chắc trong tay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's hands full",
+              "list_im": [
+                {
+                  "im_full_vn": "bận việc, không được một lúc nào rảnh rỗi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's hands tied",
+              "list_im": [
+                {
+                  "im_full_vn": "bị trói tay ( (nghĩa đen) & (nghĩa bóng))"
+                }
+              ]
+            },
+            {
+              "id_full_en": "heavy hand",
+              "list_im": [
+                {
+                  "im_full_vn": "bàn tay sắt, sự độc tài chuyên chế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a helping hand",
+              "list_im": [
+                {
+                  "im_full_vn": "sự giúp đỡ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to join hands",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) join"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep a tigh hand on somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "khống chế ai, kiềm chế ai chặt chẽ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to keep (have ) one's hands in",
+              "list_im": [
+                {
+                  "im_full_vn": "vẫn tập luyện đều"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay hands on",
+              "list_im": [
+                {
+                  "im_full_vn": "đặt tay vào, để tay vào, sờ vào"
+                },
+                {
+                  "im_full_vn": "chiếm lấy, nắm lấy (cái gì)"
+                },
+                {
+                  "im_full_vn": "hành hung"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "trong tay, chịu trách nhiệm phải cáng đáng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "out of hand",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay lập tức, không chậm trễ"
+                },
+                {
+                  "im_full_vn": "không chuẩn bị trước; ứng khẩu, tuỳ hứng"
+                },
+                {
+                  "im_full_vn": "không nắm được, không kiểm soát được nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "don't put your hand between the bark and the tree",
+              "list_im": [
+                {
+                  "im_full_vn": "đừng dính vào chuyện riêng của vợ chồng người ta"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's hand to the plough",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) plough"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to serve (wait on ) somebody hand and foot",
+              "list_im": [
+                {
+                  "im_full_vn": "tận tay phục vụ ai, làm mọi việc lặt vặt để phục vụ ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a show of hands",
+              "list_im": [
+                {
+                  "im_full_vn": "sự giơ tay biểu quyết (bầu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sit on one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) được vỗ tay thưa thớt"
+                },
+                {
+                  "im_full_vn": "ngồi khoanh tay không làm gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to stop somebody's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "chặn tay ai lại (không cho làm gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take in hand",
+              "list_im": [
+                {
+                  "im_full_vn": "nhận làm, chịu trách nhiệm làm, chịu cáng đáng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take one's fate into one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "tự mình nắm lấy vận mệnh của mình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to throw up one's hand",
+              "list_im": [
+                {
+                  "im_full_vn": "bỏ cuộc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hand",
+              "list_im": [
+                {
+                  "im_full_vn": "đã nhận được, đã đến tay (thư)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "your letter to hand",
+                      "full_vn": "bức thư của ông mà chúng tôi đã nhận được (trong thư thương mại)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to wash one's hands",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) wash"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "big hand",
+              "full_vn": "tiếng vỗ tay vang lên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đưa, trao tay, chuyển giao; truyền cho",
+          "list_en_vn": [
+            {
+              "full_en": "to hand the plate round",
+              "full_vn": "chuyền tay nhau đưa đĩa đồ ăn đi một vòng"
+            },
+            {
+              "full_en": "to hand something over to someone",
+              "full_vn": "chuyển (trao) cái gì cho ai"
+            },
+            {
+              "full_en": "to hand down (on ) to posterity",
+              "full_vn": "truyền cho hậu thế"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đưa tay đỡ",
+          "list_en_vn": [
+            {
+              "full_en": "to hand someone into (out of ) the carriage",
+              "full_vn": "(đưa tay) đỡ ai lên (ra khỏi) xe"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(hàng hải) cuộn (buồm) lại",
+          "list_one_mean": [
+            {
+              "id_full_en": "to hand in one's check",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) check"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701139_3130e78fe2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701139_04ed61aab3_o.png",
+      "id_image": "hand_1171144"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391147_e715db455b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391147_17194470c3_o.png",
+      "id_image": "hand_1196465"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346211_257d9f459c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346211_b7a977fa61_o.png",
+      "id_image": "hand_673871"
+    }
+  ]
+}

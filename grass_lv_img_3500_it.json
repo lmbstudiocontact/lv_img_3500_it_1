@@ -1,0 +1,178 @@
+{
+  "english": "grass",
+  "phat_am": "[grɑ:s]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cỏ"
+        },
+        {
+          "m_full_vn": "bãi cỏ, đồng cỏ"
+        },
+        {
+          "m_full_vn": "bãi cỏ, thảm cỏ (ở công viên)",
+          "list_en_vn": [
+            {
+              "full_en": "please , keep off the grass ; do not walk on the grass",
+              "full_vn": "xin đừng đi lên cỏ, xin đừng giẫm lên bãi cỏ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) cây thân cỏ"
+        },
+        {
+          "m_full_vn": "(ngành mỏ) mặt đất",
+          "list_en_vn": [
+            {
+              "full_en": "to bring ore to grass",
+              "full_vn": "đưa quặng lên mặt đất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ lóng) măng tây"
+        },
+        {
+          "m_full_vn": "(thông tục) mùa xuân",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be at grass",
+              "list_im": [
+                {
+                  "im_full_vn": "đang gặm cỏ"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) đang nghỉ ngơi; không có việc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the grass is always greener on the other side of the fence",
+              "list_im": [
+                {
+                  "im_full_vn": "đứng núi này trông núi nọ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cut the grass under somebody's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "phỗng tay trên ai, nâng tay trên ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go to grass",
+              "list_im": [
+                {
+                  "im_full_vn": "ra đồng ăn cỏ (súc vật)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) ngã sóng soài (người)"
+                },
+                {
+                  "im_full_vn": "(từ lóng) chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "go to grass",
+              "list_im": [
+                {
+                  "im_full_vn": "chết quách đi cho rồi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put sb out to grass",
+              "list_im": [
+                {
+                  "im_full_vn": "cho ai ra rìa, cho ai về vườn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a snake in the grass",
+              "list_im": [
+                {
+                  "im_full_vn": "kẻ ném đá giấu tay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to bear the grass grow",
+              "list_im": [
+                {
+                  "im_full_vn": "rất thính tai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let grass grow under one's feet",
+              "list_im": [
+                {
+                  "im_full_vn": "để nước tới chân mới nhảy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to send to grass",
+              "list_im": [
+                {
+                  "im_full_vn": "cho (súc vật) ra đồng ăn cỏ"
+                },
+                {
+                  "im_full_vn": "(từ lóng) đánh ngã sóng soài"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "she will be two years old next grass",
+              "full_vn": "mùa xuân sang năm nó sẽ lên hai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "để cỏ mọc; trồng cỏ"
+        },
+        {
+          "m_full_vn": "đánh ngã sóng soài"
+        },
+        {
+          "m_full_vn": "bắn rơi (chim); kéo (cá) về đất liền; đưa (quặng) lên mặt đất"
+        },
+        {
+          "m_full_vn": "căng (vải...) trên cỏ để phơi"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809324271_9054332e7c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809324271_2f4204180d_o.png",
+      "id_image": "grass_4104441"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810061185_6c03b87736_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810061185_92d95775d9_o.png",
+      "id_image": "grass_4123346"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809679394_71a1fc41eb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809679394_6e2acb2907_o.png",
+      "id_image": "grass_4752201"
+    }
+  ]
+}

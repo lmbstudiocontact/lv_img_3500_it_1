@@ -1,0 +1,50 @@
+{
+  "english": "maybe",
+  "phat_am": "['meibi:]",
+  "list_type": [
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "có thể, có lẽ",
+          "list_one_mean": [
+            {
+              "id_full_en": "as soon as maybe",
+              "list_im": [
+                {
+                  "im_full_vn": "xem soon"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "Maybe he'll come , maybe he won't",
+              "full_vn": "Có thể anh ta sẽ đến, có thể không"
+            },
+            {
+              "full_en": "maybe he will repent of his folly",
+              "full_vn": "có lẽ hắn sẽ ân hận về hành vi dại dột của hắn"
+            },
+            {
+              "full_en": "Is that true ? - Maybe , I'm not sure",
+              "full_vn": "Chuyện đó có đúng không? - Có lẽ vậy, tôi cũng không chắc"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809674344_26ff816a87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809674344_371dde3f76_o.png",
+      "id_image": "maybe_5359964"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808364092_82f16fa59a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808364092_9f343a2a08_o.png",
+      "id_image": "maybe_5650824"
+    }
+  ]
+}

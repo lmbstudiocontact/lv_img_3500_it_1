@@ -1,0 +1,50 @@
+{
+  "english": "flirt",
+  "phat_am": "[flə:t]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giật; cái giật"
+        },
+        {
+          "m_full_vn": "người ve vãn, người tán tỉnh"
+        },
+        {
+          "m_full_vn": "người thích được ve vãn, người thích được tán tỉnh"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "tán tỉnh, ve vãn; vờ tán tỉnh, vờ ve vãn",
+          "list_en_vn": [
+            {
+              "full_en": "to flirt with somebody",
+              "full_vn": "tán tỉnh ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đùa, đùa bỡn, đùa cợt",
+          "list_en_vn": [
+            {
+              "full_en": "to flirt with the idea of doing something",
+              "full_vn": "đùa cợt với ý nghĩ làm gì"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436488_853f9c0b46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436488_8504c09b98_o.png",
+      "id_image": "flirt_599656"
+    }
+  ]
+}

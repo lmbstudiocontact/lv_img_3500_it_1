@@ -1,0 +1,45 @@
+{
+  "english": "incognito",
+  "phat_am": "[,iηkɔg'ni:tou]",
+  "list_type": [
+    {
+      "type": "danh từ, số nhiều incognitos",
+      "list_m": [
+        {
+          "m_full_vn": "người giấu tên; người giấu lai lịch của mình"
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "không để lộ tung tích của mình",
+          "list_en_vn": [
+            {
+              "full_en": "to travel incognito",
+              "full_vn": "không để lộ tung tích của mình khi đi đường; vi hành"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363797_a05577883f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363797_574b4b0c97_o.png",
+      "id_image": "incognito_3380363"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810055730_d07450e799_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810055730_503cd72afd_o.png",
+      "id_image": "incognito_4001245"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809673974_a152551c42_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809673974_ce45ea2b20_o.png",
+      "id_image": "incognito_4116611"
+    }
+  ]
+}

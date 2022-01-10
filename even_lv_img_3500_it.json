@@ -1,0 +1,345 @@
+{
+  "english": "even",
+  "phat_am": "['i:vn]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "bằng phẳng; trơn tru",
+          "list_en_vn": [
+            {
+              "full_en": "the most even part of the golf course",
+              "full_vn": "phần phẳng nhất của sân gôn"
+            },
+            {
+              "full_en": "a billiard table must be perfectly even",
+              "full_vn": "bàn bida phải thật là nhẵn phẳng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(về số lượng, khoảng cách, giá trị) bằng nhau",
+          "list_en_vn": [
+            {
+              "full_en": "our scores are now even",
+              "full_vn": "bây giờ tỉ số của chúng ta bằng nhau"
+            },
+            {
+              "full_en": "the two horses were even in the race",
+              "full_vn": "hai con ngựa về ngang nhau trong cuộc đua"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngang sức nhau",
+          "list_en_vn": [
+            {
+              "full_en": "the two players are pretty even",
+              "full_vn": "hai đấu thủ khá là ngang sức nhau"
+            },
+            {
+              "full_en": "an even game",
+              "full_vn": "một trận đấu hoà (không ai thắng ai)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "điềm đạm, bình thản",
+          "list_en_vn": [
+            {
+              "full_en": "an even temper",
+              "full_vn": "tính khí điềm đạm"
+            },
+            {
+              "full_en": "an even-tempered boy",
+              "full_vn": "đứa bé có tính tình ôn hoà"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chẵn",
+          "list_en_vn": [
+            {
+              "full_en": "two , four , six ... are even numbers",
+              "full_vn": "hai, bốn, sáu... là những số chẵn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "không thay đổi về phẩm chất, đều đều, vững chắc",
+          "list_one_mean": [
+            {
+              "id_full_en": "of even date",
+              "list_im": [
+                {
+                  "im_full_vn": "cùng một ngày"
+                }
+              ]
+            },
+            {
+              "id_full_en": "even chances /odds /money (cũng evens )",
+              "list_im": [
+                {
+                  "im_full_vn": "(đánh cược) khả năng có thể thắng cũng bằng khả năng có thể thua của một con ngựa đua; khả năng cái gì có thể xảy ra hoặc không xảy ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it's even money whether the new horse comes first or last",
+                      "full_vn": "dù con ngựa mới này về nhất hay về bét thì cũng hoà"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "It's even odds /The odds are even that he'll be late",
+              "list_im": [
+                {
+                  "im_full_vn": "anh ta đến chậm hay không thì cũng thế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be (get ) even with someone",
+              "list_im": [
+                {
+                  "im_full_vn": "trả thù ai, trả đũa ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to break even",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) không lỗ không lãi; hoà vốn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "honours are even",
+              "list_im": [
+                {
+                  "im_full_vn": "cuộc thi đấu ngang sức ngang tài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on an even keel",
+              "list_im": [
+                {
+                  "im_full_vn": "(về con thuyền) không tròng trành; cân bằng; (nghĩa bóng) thăng bằng",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "it took him a long time to get back on an even keel after his wife died",
+                      "full_vn": "sau khi vợ chết, anh ấy phải mất một thời gian dài mới lấy lại được thăng bằng"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this wine cellar stays at an even temperature all year round",
+              "full_vn": "hầm rượu này quanh năm cứ giữ một ôn độ đều đặn"
+            },
+            {
+              "full_en": "even breathing",
+              "full_vn": "nhịp thở đều đều"
+            },
+            {
+              "full_en": "the child's pulse is now even",
+              "full_vn": "mạch của đứa bé bây giờ đã ổn định"
+            },
+            {
+              "full_en": "an even pace",
+              "full_vn": "bước đi đều đều"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "thậm chí; ngay cả",
+          "list_en_vn": [
+            {
+              "full_en": "to doubt even the truth",
+              "full_vn": "nghi ngờ ngay cả sự thật"
+            },
+            {
+              "full_en": "he never even opened the letter",
+              "full_vn": "thậm chí nó cũng chưa bao giờ bóc lá thư ấy"
+            },
+            {
+              "full_en": "he didn't answer even my letter",
+              "full_vn": "ngay cả thư của tôi mà nó cũng chẳng trả lời"
+            },
+            {
+              "full_en": "even a child can understand the book",
+              "full_vn": "thậm chí một đứa bé cũng hiểu được cuốn sách đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lại còn, còn",
+          "list_one_mean": [
+            {
+              "id_full_en": "even as",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay cùng lúc (ai làm gì, cái gì xảy ra)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "even as he shouted the warning the car skidded",
+                      "full_vn": "ngay khi anh ấy hét lên lời cảnh báo thì chiếc xe đã trượt trên mặt đường"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "even if ; even though",
+              "list_im": [
+                {
+                  "im_full_vn": "ngay cho là, dù là",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "even if I have to walk all the way , I'll get there",
+                      "full_vn": "dù có phải đi bộ suốt thì tôi cũng vẫn đến được nơi ấy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "even now ; even then",
+              "list_im": [
+                {
+                  "im_full_vn": "mặc dù thế",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I've shown him the photographs but even now he won't believe me",
+                      "full_vn": "tôi đưa cho anh ta xem những tấm hình, thế mà anh ấy vẫn không tin tôi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "even now",
+              "list_im": [
+                {
+                  "im_full_vn": "vào đúng lúc đó",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the troops are even now preparing to march into the city",
+                      "full_vn": "đoàn quân lúc này đang chuẩn bị tiến vào thành phố"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "even so",
+              "list_im": [
+                {
+                  "im_full_vn": "tuy nhiên, tuy vậy",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "there may be spelling mistakes in the book , even so it's a good one",
+                      "full_vn": "có thể sách có lỗi chính tả, nhưng dù có đúng như thế thì cũng vẫn là quyển sách tốt"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "this is even better",
+              "full_vn": "cái này lại còn tốt hơn"
+            },
+            {
+              "full_en": "it's an unattractive building , even ugly /ugly even",
+              "full_vn": "đó là một toà nhà không hấp dẫn, thậm chí còn xấu nữa"
+            },
+            {
+              "full_en": "you know even less about it than I do",
+              "full_vn": "anh biết về điều đó còn ít hơn cả tôi nữa"
+            },
+            {
+              "full_en": "Sally drives fast but Olive drives even faster",
+              "full_vn": "Sally lái xe nhanh, nhưng Olive còn lái nhanh hơn nữa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "san bằng, làm phẳng",
+          "list_one_mean": [
+            {
+              "id_full_en": "to even out",
+              "list_im": [
+                {
+                  "im_full_vn": "trở nên ngang bằng hoặc đều đều",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "house prices keep rising and falling but they will eventually even out",
+                      "full_vn": "giá nhà cửa cứ trồi lên sụt xuống, nhưng cuối cùng rồi cũng sẽ ổn định"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to even something out",
+              "list_im": [
+                {
+                  "im_full_vn": "rải đều ra",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "payments can be evened out on a monthly basis over the year",
+                      "full_vn": "việc trả lương có thể rải đều hàng tháng trong suốt năm"
+                    },
+                    {
+                      "full_en": "the manager tried to even out the distribution of work among his employees",
+                      "full_vn": "giám đốc cố gắng phân đều công việc cho nhân viên"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to even something up",
+              "list_im": [
+                {
+                  "im_full_vn": "làm cho cái gì đều hoặc bằng nhau",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "that will even things up a bit",
+                      "full_vn": "điều đó sẽ làm cho mọi thứ đồng đều hơn một chút"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668509_cacb1aff1e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668509_b65d1db1e6_o.png",
+      "id_image": "even_4557989"
+    }
+  ]
+}

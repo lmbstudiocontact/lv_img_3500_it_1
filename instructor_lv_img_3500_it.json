@@ -1,0 +1,40 @@
+{
+  "english": "instructor",
+  "phat_am": "[in'strʌktə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "người dạy; huấn luyện viên",
+          "list_en_vn": [
+            {
+              "full_en": "a swimming instructor",
+              "full_vn": "huấn luyện viên bơi lội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) trợ giáo (đại học)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809699304_4b7c0c8c09_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809699304_c5e4c34f39_o.png",
+      "id_image": "instructor_1236466"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809458923_f51e3f64fb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809458923_8e07d660e7_o.png",
+      "id_image": "instructor_1900237"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810081550_6ebc744ccf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810081550_6ac32b3138_o.png",
+      "id_image": "instructor_3410150"
+    }
+  ]
+}

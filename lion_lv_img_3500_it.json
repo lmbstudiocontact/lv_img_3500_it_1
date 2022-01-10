@@ -1,0 +1,116 @@
+{
+  "english": "lion",
+  "phat_am": "['laiən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "con sư tử"
+        },
+        {
+          "m_full_vn": "(thiên văn học) ( Lion ) cung Sư tử"
+        },
+        {
+          "m_full_vn": "( số nhiều) cảnh lạ; vật lạ, vật quý, vật hiếm",
+          "list_en_vn": [
+            {
+              "full_en": "to see the lions",
+              "full_vn": "đi xem những vật lạ; đi thăm những cảnh lạ (ở một nơi nào)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "người nổi danh, người có tiếng, người được nhiều nơi mời mọc"
+        },
+        {
+          "m_full_vn": "người gan dạ"
+        },
+        {
+          "m_full_vn": "( Lion ) quốc huy nước Anh",
+          "list_one_mean": [
+            {
+              "id_full_en": "lion in the path (way )",
+              "list_im": [
+                {
+                  "im_full_vn": "vật chướng ngại"
+                }
+              ]
+            },
+            {
+              "id_full_en": "lion's share",
+              "list_im": [
+                {
+                  "im_full_vn": "phần lớn nhất, phần của kẻ mạnh"
+                }
+              ]
+            },
+            {
+              "id_full_en": "lion's skin",
+              "list_im": [
+                {
+                  "im_full_vn": "sự can đảm ngoài mặt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "lion of the day",
+              "list_im": [
+                {
+                  "im_full_vn": "người mà thiên hạ đều chú ý"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put (run ) one's head into the lion's mouth",
+              "list_im": [
+                {
+                  "im_full_vn": "lao đầu vào chỗ nguy hiểm, lao đầu vào chỗ chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to twist the lion's tail",
+              "list_im": [
+                {
+                  "im_full_vn": "chửi (chế giễu) nước Anh (nhà báo ngoại quốc, nhất là Mỹ)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to beard the lion in his den",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) vào hang hùm bắt cọp"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the British Lion",
+              "full_vn": "nước Anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078190_3d480b3e36_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078190_5f648a346c_o.png",
+      "id_image": "lion_311525"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809340836_254a0c497a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809340836_b8e498ffc9_o.png",
+      "id_image": "lion_863127"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809696059_f6a426de9a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809696059_837b0a461c_o.png",
+      "id_image": "lion_884090"
+    }
+  ]
+}

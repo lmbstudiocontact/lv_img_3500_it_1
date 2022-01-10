@@ -1,0 +1,188 @@
+{
+  "english": "duck",
+  "phat_am": "[dʌk]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "loại chim nước phổ biến, nuôi trong nhà và sống hoang dã; con vịt",
+          "list_en_vn": [
+            {
+              "full_en": "ducks waddling about the yard",
+              "full_vn": "những con vịt đi lạch bạch trong sân"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "con vịt cái"
+        },
+        {
+          "m_full_vn": "thịt vịt làm thức ăn",
+          "list_en_vn": [
+            {
+              "full_en": "roast duck",
+              "full_vn": "vịt quay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thân mật) người yêu quí; người yêu dấu"
+        },
+        {
+          "m_full_vn": "( crickê) cầu thủ không được điểm nào",
+          "list_one_mean": [
+            {
+              "id_full_en": "a lame duck",
+              "list_im": [
+                {
+                  "im_full_vn": "người, tổ chức hoặc việc gì đang gặp khó khăn và không thể điều hành được nếu không có sự giúp đỡ"
+                },
+                {
+                  "im_full_vn": "(từ Mỹ, nghĩa Mỹ) quan chức được đang ở giai đoạn cuối cùng của nhiệm kỳ",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "the government should not waste money supporting lame ducks",
+                      "full_vn": "chính phủ không nên lãng phí tiền ủng hộ những tổ chức yếu kém"
+                    },
+                    {
+                      "full_en": "a lame duck President",
+                      "full_vn": "Tổng thống sắp mãn nhiệm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a duck in a thunderstorm",
+              "list_im": [
+                {
+                  "im_full_vn": "ngơ ngác thểu não như gà nuốt dây thun"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like water off a duck's back",
+              "list_im": [
+                {
+                  "im_full_vn": "như nước đổ dầu vịt, như nước đổ lá khoai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "it's fine for young ducks",
+              "list_im": [
+                {
+                  "im_full_vn": "trời mưa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "like a duck to water",
+              "list_im": [
+                {
+                  "im_full_vn": "rất thoải mái và tự tin; như cá gặp nước"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to make a /be out for a duck",
+              "full_vn": "không ghi được điểm nào"
+            },
+            {
+              "full_en": "to break one's duck",
+              "full_vn": "ghi điểm đầu tiên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vải bông dày (may buồm, áo ngoài của thuỷ thủ)"
+        },
+        {
+          "m_full_vn": "( số nhiều) quần vải bông dày"
+        },
+        {
+          "m_full_vn": "(quân sự) xe lội nước"
+        },
+        {
+          "m_full_vn": "sự ngụp lặn; động tác ngụp lặn"
+        },
+        {
+          "m_full_vn": "động tác cúi nhanh, động tác cúi thình lình (để né tránh...)"
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cúi đầu xuống thật nhanh để né tránh; cúi xuống",
+          "list_en_vn": [
+            {
+              "full_en": "I saw the gun and ducked under the window",
+              "full_vn": "Tôi trông thấy khẩu súng và chúi nhanh xuốngbên dưới cửa sổ"
+            },
+            {
+              "full_en": "Duck your head down !",
+              "full_vn": "Mau cúi đầu xuống!"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dìm ai xuống nước một thời gian ngắn",
+          "list_one_mean": [
+            {
+              "id_full_en": "to duck (out of ) something",
+              "list_im": [
+                {
+                  "im_full_vn": "tránh né (một nhiệm vụ)",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "It's his turn to wash up but he'll try and duck out of it",
+                      "full_vn": "Đến lượt nó phải giặt quần áo, nhưng thế nào nó cũng tìm cách né tránh"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "his sister ducked him in the river",
+              "full_vn": "chị nó dìm nó xuống sông"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809691029_9e6a7eec7e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809691029_8615c65747_o.png",
+      "id_image": "duck_194955"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380817_2567e85f16_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380817_bb9c318c0f_o.png",
+      "id_image": "duck_4146106"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809335711_022ea31432_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809335711_8c26388607_o.png",
+      "id_image": "duck_4359767"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808380842_c519c2d664_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808380842_7f3e6103ca_o.png",
+      "id_image": "duck_819101"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "english": "drizzle",
+  "phat_am": "['drizl]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mưa phùn, mưa bụi"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "mưa phùn, mưa bụi",
+          "list_en_vn": [
+            {
+              "full_en": "it drizzles",
+              "full_vn": "trời mưa phùn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808383017_d1057b4781_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808383017_990cfc3be0_o.png",
+      "id_image": "drizzle_1458930"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810075030_f5c982ca74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810075030_6e3c9c11bf_o.png",
+      "id_image": "drizzle_1458939"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809452868_81aea88c7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809452868_11d9aee804_o.png",
+      "id_image": "drizzle_1458966"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "english": "handsome",
+  "phat_am": "['hænsəm]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "đẹp",
+          "list_en_vn": [
+            {
+              "full_en": "a handsome man",
+              "full_vn": "người đẹp trai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tốt đẹp, rộng rãi, hào phóng, hậu hĩ",
+          "list_en_vn": [
+            {
+              "full_en": "a handsome treatment",
+              "full_vn": "cách đối xử rộng rãi, hào phóng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớn, đáng kể",
+          "list_one_mean": [
+            {
+              "id_full_en": "handsome is as handsome does",
+              "list_im": [
+                {
+                  "im_full_vn": "xét người bằng việc làm đừng xét qua lời nói; đẹp nết hơn đẹp người; tốt gỗ hơn tốt nước sơn"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "a handsome fortune",
+              "full_vn": "tài sản lớn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808390497_6023090e61_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808390497_dc333b111b_o.png",
+      "id_image": "handsome_2897006"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809700604_ce334daa57_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809700604_37093dfcd1_o.png",
+      "id_image": "handsome_3891309"
+    }
+  ]
+}

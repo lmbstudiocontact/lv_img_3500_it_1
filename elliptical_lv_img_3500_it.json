@@ -1,0 +1,45 @@
+{
+  "english": "elliptical",
+  "phat_am": "[i'liptikəl]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "(toán học) (như) elliptic"
+        },
+        {
+          "m_full_vn": "(ngôn ngữ học) tỉnh lược",
+          "list_en_vn": [
+            {
+              "full_en": "elliptical clauses",
+              "full_vn": "mệnh đề tỉnh lược"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809678864_b735fff257_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809678864_70a94501a8_o.png",
+      "id_image": "elliptical_1079434"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809323556_2350c3570e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809323556_dcdf0345d4_o.png",
+      "id_image": "elliptical_1912681"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809438668_992370aeb0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809438668_7528ec0d99_o.png",
+      "id_image": "elliptical_3899866"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808368432_b63c06c85d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808368432_7018992a8e_o.png",
+      "id_image": "elliptical_4669579"
+    }
+  ]
+}

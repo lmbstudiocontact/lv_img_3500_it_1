@@ -1,0 +1,131 @@
+{
+  "english": "food",
+  "phat_am": "[fu:d]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "bất cứ chất nào mà con người hay động vật ăn hay uống hoặc thực vật hấp thụ để duy trì sự sống và phát triển; lương thực",
+          "list_en_vn": [
+            {
+              "full_en": "a shortage of food in some countries",
+              "full_vn": "sự thiếu lương thực ở một số nước"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chất rắn, đặc thuộc loại này; thức ăn",
+          "list_en_vn": [
+            {
+              "full_en": "we cannot survive without food and drink",
+              "full_vn": "chúng ta không thể sống nếu không có thức ăn và nước uống"
+            },
+            {
+              "full_en": "food and clothing",
+              "full_vn": "ăn và mặc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "loại thức ăn cụ thể",
+          "list_one_mean": [
+            {
+              "id_full_en": "food for thought",
+              "list_im": [
+                {
+                  "im_full_vn": "điều đáng suy nghĩ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to become food for fishes",
+              "list_im": [
+                {
+                  "im_full_vn": "chết đuối, làm mồi cho cá"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to become food for worms",
+              "list_im": [
+                {
+                  "im_full_vn": "đi ngủ với giun; chết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "food for powder",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) powder"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the food there is excellent",
+              "full_vn": "món ăn ở đó thật tuyệt"
+            },
+            {
+              "full_en": "mental (intellectual ) food",
+              "full_vn": "món ăn tinh thần"
+            },
+            {
+              "full_en": "breakfast food",
+              "full_vn": "thức ăn điểm tâm"
+            },
+            {
+              "full_en": "baby food",
+              "full_vn": "thức ăn cho trẻ em"
+            },
+            {
+              "full_en": "health food",
+              "full_vn": "thức ăn bổ"
+            },
+            {
+              "full_en": "frozen foods",
+              "full_vn": "thức ăn đông lạnh"
+            },
+            {
+              "full_en": "processed foods",
+              "full_vn": "thức ăn đã chế biến"
+            },
+            {
+              "full_en": "food value",
+              "full_vn": "giá trị dinh dưỡng"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432418_6ec19fbcdf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432418_8453d48a46_o.png",
+      "id_image": "food_2114315"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809432398_2d10997519_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809432398_7db0e02d1d_o.png",
+      "id_image": "food_2298835"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361712_362f73691d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361712_24d377e571_o.png",
+      "id_image": "food_416202"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808361682_89a5b74376_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808361682_a08c0657a8_o.png",
+      "id_image": "food_571877"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809672054_ea42108b74_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809672054_c89692f2cc_o.png",
+      "id_image": "food_781308"
+    }
+  ]
+}

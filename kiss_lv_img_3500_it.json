@@ -1,0 +1,199 @@
+{
+  "english": "kiss",
+  "phat_am": "[kis]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái hôn; nụ hôn",
+          "list_en_vn": [
+            {
+              "full_en": "to give somebody a kiss",
+              "full_vn": "trao cho ai một nụ hôn; hôn ai một cái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự chạm nhẹ (của hai hòn bi-a đang lăn)"
+        },
+        {
+          "m_full_vn": "kẹo bi đường",
+          "list_one_mean": [
+            {
+              "id_full_en": "to snatch /steal a kiss",
+              "list_im": [
+                {
+                  "im_full_vn": "hôn trộm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "stolen kisses are sweet",
+              "list_im": [
+                {
+                  "im_full_vn": "(tục ngữ) của ăn vụng bao giờ cũng ngon"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to blow somebody a kiss",
+              "list_im": [
+                {
+                  "im_full_vn": "hôn tay mình, rồi làm như gửi cái hôn ấy cho gió (hướng về phía ai)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the kiss of death",
+              "list_im": [
+                {
+                  "im_full_vn": "việc làm bề ngoài có thiện chí mà lại chịu thất bại tất yếu; nụ hôn tử thần",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "One of those polite lukewarm reviews that are the kiss of death for a commercial film",
+                      "full_vn": "Một trong những bài phê bình lịch thiệp thiếu nhiệt tình ấy đã trở thành nụ hôn tử thần đối với một bộ phim thương mại"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hôn",
+          "list_en_vn": [
+            {
+              "full_en": "they kissed passionately when she arrived",
+              "full_vn": "họ hôn nhau say đắm khi cô ta đến"
+            },
+            {
+              "full_en": "to kiss the children good night",
+              "full_vn": "hôn chúc trẻ con ngủ ngon"
+            },
+            {
+              "full_en": "she kissed him on the lips",
+              "full_vn": "nàng hôn lên môi chàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) chạm khẽ, chạm lướt (sóng, gió)",
+          "list_en_vn": [
+            {
+              "full_en": "the waves kiss the sand beach",
+              "full_vn": "sóng khẽ lướt vào bãi cát"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chạm nhẹ (những hòn bi đang lăn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to kiss and be friends",
+              "list_im": [
+                {
+                  "im_full_vn": "làm lành hoà giải với nhau"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kiss the book",
+              "list_im": [
+                {
+                  "im_full_vn": "hôn quyển kinh thánh khi làm lễ tuyên thệ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kiss the dust",
+              "list_im": [
+                {
+                  "im_full_vn": "tự hạ mình, khúm núm quỵ luỵ"
+                },
+                {
+                  "im_full_vn": "bị giết"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kiss good-bye",
+              "list_im": [
+                {
+                  "im_full_vn": "hôn tạm biệt, hôn chia tay"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kiss the ground",
+              "list_im": [
+                {
+                  "im_full_vn": "phủ phục, quỳ mọp xuống (để tạ ơn...)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) bị đánh bại, bị hạ đo ván, bị đánh gục"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kiss one's hand to someone",
+              "list_im": [
+                {
+                  "im_full_vn": "vẫy vẫy gửi với một cái hôn tay với ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kiss the rod",
+              "list_im": [
+                {
+                  "im_full_vn": "nhẫn nhục chịu đựng nhục hình"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kiss something good-bye /to kiss good-bye to something",
+              "list_im": [
+                {
+                  "im_full_vn": "chấp nhận sự thua thiệt hoặc thất bại của cái gì là chắc chắn; từ biệt; chia tay",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "You can kiss good-bye to a holiday this year - we've no money",
+                      "full_vn": "Cậu có thể từ biệt kỳ nghỉ hè năm nay vì chúng ta không có tiền"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kiss something away",
+              "list_im": [
+                {
+                  "im_full_vn": "lấy đi cái gì bằng những cái hôn",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "Let mummy kiss your tears away",
+                      "full_vn": "Hãy để mẹ hôn cho nín đi nào (giúp con nín khóc bằng cách hôn)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809326711_eda3417d97_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809326711_df3383903e_o.png",
+      "id_image": "kiss_1635549"
+    }
+  ]
+}

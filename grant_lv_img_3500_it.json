@@ -1,0 +1,129 @@
+{
+  "english": "grant",
+  "phat_am": "[grɑ:nt]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vật được cho vì một mục đích đặc biệt; tài trợ; trợ cấp",
+          "list_en_vn": [
+            {
+              "full_en": "student grants",
+              "full_vn": "học bổng"
+            },
+            {
+              "full_en": "to award somebody a research grant",
+              "full_vn": "cho ai một khoản trợ cấp nghiên cứu"
+            },
+            {
+              "full_en": "you can get a grant to repair /towards the repair of your house",
+              "full_vn": "anh có thể được một khoản trợ cấp để sửa chữa/cho việc sưa chữa nhà của anh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(pháp lý) sự chuyển nhượng bằng khế ước"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đồng ý cho hoặc cho phép (điều yêu cầu); ban cho; chấp nhận",
+          "list_en_vn": [
+            {
+              "full_en": "to grant a favour",
+              "full_vn": "gia ơn, ban ơn"
+            },
+            {
+              "full_en": "to grant somebody a permission to do something",
+              "full_vn": "cho phép ai làm việc gì"
+            },
+            {
+              "full_en": "to grant a request",
+              "full_vn": "chấp nhận lời thỉnh cầu"
+            },
+            {
+              "full_en": "the minister granted journalists an interview",
+              "full_vn": "bộ trưởng cho phép các nhà báo phỏng vấn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ban cái gì cho ai một cách chính thức hoặc hợp pháp; cấp",
+          "list_en_vn": [
+            {
+              "full_en": "these lands were granted to our family in perpetuity",
+              "full_vn": "những mảnh đất này đã được cấp vĩnh viễn cho gia đình chúng tôi"
+            },
+            {
+              "full_en": "she was granted a pension",
+              "full_vn": "bà ta được cấp một khoản lương hưu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đồng ý hoặc chấp nhận (cái gì là thật); công nhận",
+          "list_one_mean": [
+            {
+              "id_full_en": "to take something for granted",
+              "list_im": [
+                {
+                  "im_full_vn": "cho điều gì là đúng, cho điều gì là hiển nhiên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "I take it for granted you have read this book",
+                      "full_vn": "tôi cứ coi như là anh đọc cuốn sách này rồi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take somebody /something for granted",
+              "list_im": [
+                {
+                  "im_full_vn": "cho là điều dĩ nhiên",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "He never praises his wife : He just takes her for granted",
+                      "full_vn": "Hắn chẳng bao giờ khen vợ : Hắn cho đó là chuyện đương nhiên"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to grant the truth of what somebody says",
+              "full_vn": "công nhận điều ai nói là thật"
+            },
+            {
+              "full_en": "I grant he's been ill , but that doesn't excuse him",
+              "full_vn": "tôi thừa nhận là hắn bị ốm, nhưng điều đó không bào chữa cho hắn được"
+            },
+            {
+              "full_en": "I grant you she's a clever woman , but I wouldn't work for her",
+              "full_vn": "tôi đồng ý với anh rằng cô ta là người đàn bà khôn khéo, song tôi chẳng muốn làm việc cho cô ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808370197_f96c212a46_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808370197_39c62e46b9_o.png",
+      "id_image": "grant_2161348"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062080_ece82428da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062080_f56f178669_o.png",
+      "id_image": "grant_2470720"
+    }
+  ]
+}

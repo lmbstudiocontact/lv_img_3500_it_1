@@ -1,0 +1,45 @@
+{
+  "english": "diverge",
+  "phat_am": "[dai'və:dʒ]",
+  "list_type": [
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to diverge from something ) phân kỳ; rẽ ra",
+          "list_en_vn": [
+            {
+              "full_en": "The M6 diverges from the M1 just north of Rugby",
+              "full_vn": "Đường M 6 rẽ ra khỏi M 1 ở ngay phía bắc Rugby"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khác nhau (về ý kiến, quan điểm...); bất đồng ý kiến",
+          "list_en_vn": [
+            {
+              "full_en": "Their political views diverged so considerably that it was impossible to be of the same mind",
+              "full_vn": "Chính kiến của họ khác nhau đến đỗi khó mà đồng ý với nhau"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) xa rời",
+          "list_en_vn": [
+            {
+              "full_en": "To diverge from truth , ethics",
+              "full_vn": "Xa rời sự thật, đạo đức"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668274_d6ebc1e707_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668274_eb65cf77d6_o.png",
+      "id_image": "diverge_1900215"
+    }
+  ]
+}

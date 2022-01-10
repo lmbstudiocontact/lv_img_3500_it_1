@@ -1,0 +1,40 @@
+{
+  "english": "maze",
+  "phat_am": "[meiz]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "mê lộ; mê cung"
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) trạng thái hỗn độn, trạng thái rối rắm",
+          "list_en_vn": [
+            {
+              "full_en": "to be in a maze",
+              "full_vn": "ở trong một trạng thái rối rắm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319266_4f856d416a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319266_9a94d86c95_o.png",
+      "id_image": "maze_377116"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808363902_90492005f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808363902_8c7ecf79b4_o.png",
+      "id_image": "maze_676310"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809319201_7e981c55b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809319201_08c13032b1_o.png",
+      "id_image": "maze_951781"
+    }
+  ]
+}

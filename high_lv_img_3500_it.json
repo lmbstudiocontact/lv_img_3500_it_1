@@ -1,0 +1,382 @@
+{
+  "english": "high",
+  "phat_am": "[hai]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "cao",
+          "list_en_vn": [
+            {
+              "full_en": "high mountain",
+              "full_vn": "núi cao"
+            },
+            {
+              "full_en": "high flight",
+              "full_vn": "sự bay cao"
+            },
+            {
+              "full_en": "high price",
+              "full_vn": "giá cao"
+            },
+            {
+              "full_en": "high speed",
+              "full_vn": "tốc độ cao"
+            },
+            {
+              "full_en": "high voice",
+              "full_vn": "giọng cao"
+            },
+            {
+              "full_en": "to have a high opinion of",
+              "full_vn": "đánh giá cao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cao giá, đắt",
+          "list_en_vn": [
+            {
+              "full_en": "corn is high",
+              "full_vn": "lúa gạo đắt"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớn, trọng; tối cao, cao cấp; thượng, trên",
+          "list_en_vn": [
+            {
+              "full_en": "high road",
+              "full_vn": "đường cái"
+            },
+            {
+              "full_en": "high crime",
+              "full_vn": "trọng tội, tội lớn"
+            },
+            {
+              "full_en": "High Court",
+              "full_vn": "toà án tối cao"
+            },
+            {
+              "full_en": "high antiquity",
+              "full_vn": "thượng cổ"
+            },
+            {
+              "full_en": "higher mathematics",
+              "full_vn": "toán cao cấp"
+            },
+            {
+              "full_en": "the higher classes",
+              "full_vn": "tầng lớp thượng lưu, tầng lớp trên"
+            },
+            {
+              "full_en": "the higher middle class",
+              "full_vn": "tiểu tư sản lớp trên"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cao quý, cao thượng, cao cả",
+          "list_en_vn": [
+            {
+              "full_en": "high thoughts",
+              "full_vn": "tư tưởng cao cả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mạnh, dữ dội, mãnh liệt, giận dữ",
+          "list_en_vn": [
+            {
+              "full_en": "high wind",
+              "full_vn": "gió mạnh"
+            },
+            {
+              "full_en": "high fever",
+              "full_vn": "sốt dữ dội, sốt cao"
+            },
+            {
+              "full_en": "high words",
+              "full_vn": "lời nói nặng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sang trọng, xa hoa",
+          "list_en_vn": [
+            {
+              "full_en": "high living",
+              "full_vn": "lối sống sang trọng xa hoa"
+            },
+            {
+              "full_en": "high feeding",
+              "full_vn": "sự ăn uống sang trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "kiêu kỳ, kiêu căng, hách dịch",
+          "list_en_vn": [
+            {
+              "full_en": "high look",
+              "full_vn": "vẻ kiêu kỳ"
+            },
+            {
+              "full_en": "high and mighty",
+              "full_vn": "vô cùng kiêu ngạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vui vẻ phấn khởi; hăng hái; dũng cảm",
+          "list_en_vn": [
+            {
+              "full_en": "in high spirits",
+              "full_vn": "vui vẻ phấn khởi, phấn chấn"
+            },
+            {
+              "full_en": "high spirit",
+              "full_vn": "tinh thần dũng cảm"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "cực đoan",
+          "list_en_vn": [
+            {
+              "full_en": "a high Tory",
+              "full_vn": "đảng viên Bảo thủ cực đoan (ở Anh)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hơi có mùi (thối), hơi ôi",
+          "list_en_vn": [
+            {
+              "full_en": "high game",
+              "full_vn": "thịt thú săn đã có hơi có mùi"
+            },
+            {
+              "full_en": "high meat",
+              "full_vn": "thịt hơi ôi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đúng giữa; đến lúc",
+          "list_one_mean": [
+            {
+              "id_full_en": "to mount (be on , get on , ride ) the high horse",
+              "list_im": [
+                {
+                  "im_full_vn": "kiêu căng ngạo mạn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "high and dry",
+              "list_im": [
+                {
+                  "im_full_vn": "bị mắc cạn (tàu thuỷ)"
+                },
+                {
+                  "im_full_vn": "(nghĩa bóng) xa rời thực tế, không biết gì đến việc xung quanh (người)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "on the high ropes",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) rope"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the Most High",
+              "list_im": [
+                {
+                  "im_full_vn": "Thượng đế"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with a high hand",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) hand"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give sb a high old time",
+              "list_im": [
+                {
+                  "im_full_vn": "tiếp đón ân cần"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hell or high water",
+              "list_im": [
+                {
+                  "im_full_vn": "dù trở ngại thế nào chăng nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "high days and holidays",
+              "list_im": [
+                {
+                  "im_full_vn": "những dịp hội hè đình đám"
+                }
+              ]
+            },
+            {
+              "id_full_en": "a high /low profile",
+              "list_im": [
+                {
+                  "im_full_vn": "cách ứng xử bộc lộ/kín đáo"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in high dudgeon",
+              "list_im": [
+                {
+                  "im_full_vn": "phẫn nộ, căm phẫn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in high places",
+              "list_im": [
+                {
+                  "im_full_vn": "trong giới quyền cao chức trọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to smell to high heaven",
+              "list_im": [
+                {
+                  "im_full_vn": "có mùi khó chịu, nặng mùi"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "high noon",
+              "full_vn": "đúng giữa trưa"
+            },
+            {
+              "full_en": "high summer",
+              "full_vn": "đúng giữa mùa hạ"
+            },
+            {
+              "full_en": "it's high time to go",
+              "full_vn": "đã đến lúc phải đi, không thì muộn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "cao, ở mức độ cao",
+          "list_en_vn": [
+            {
+              "full_en": "to soar high in the sky",
+              "full_vn": "bay vút lên cao trong bầu trời"
+            },
+            {
+              "full_en": "to sing high",
+              "full_vn": "hát cao giọng"
+            },
+            {
+              "full_en": "prices run high",
+              "full_vn": "giá cả lên cao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lớn",
+          "list_en_vn": [
+            {
+              "full_en": "to play high",
+              "full_vn": "(đánh bài) đánh lớn; đánh những quân bài cao"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "mạnh mẽ, dữ dội, mãnh liệt; giận dữ",
+          "list_en_vn": [
+            {
+              "full_en": "the wind blows high",
+              "full_vn": "gió thổi mạnh"
+            },
+            {
+              "full_en": "words run high",
+              "full_vn": "lời lẽ trở nên giận dữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sang trọng, xa hoa",
+          "list_one_mean": [
+            {
+              "id_full_en": "to stand high in sb's favour",
+              "list_im": [
+                {
+                  "im_full_vn": "được ai nể trọng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to live high",
+              "full_vn": "sống sang trọng xa hoa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "độ cao; điểm cao"
+        },
+        {
+          "m_full_vn": "quân bài cao nhất (đánh ra hay rút được)"
+        },
+        {
+          "m_full_vn": "nơi cao, trời cao",
+          "list_en_vn": [
+            {
+              "full_en": "on high",
+              "full_vn": "ở trên cao, ở trên trời"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810074470_dc45560344_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810074470_d307fe9c21_o.png",
+      "id_image": "highland_5293869"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809692749_f30fd01acd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809692749_feef9a056f_o.png",
+      "id_image": "high_213304"
+    }
+  ]
+}

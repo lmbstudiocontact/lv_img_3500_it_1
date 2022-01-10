@@ -1,0 +1,119 @@
+{
+  "english": "jar",
+  "phat_am": "[dʒɑ:]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vại, lọ, bình"
+        },
+        {
+          "m_full_vn": "(điện học) chai",
+          "list_en_vn": [
+            {
+              "full_en": "Leyden jar",
+              "full_vn": "chai lêđen"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( (thông tục)) on the jar ; on a jar ; on jar hé mở (cửa)"
+        },
+        {
+          "m_full_vn": "tiếng động chói tai; tiếng ken két làm gai người"
+        },
+        {
+          "m_full_vn": "sự rung chuyển mạnh, sự chao đảo mạnh (làm chói tai)"
+        },
+        {
+          "m_full_vn": "sự choáng người, sự choáng óc; sự gai người; sự bực bội, sự khó chịu (thần kinh, cân não...)",
+          "list_en_vn": [
+            {
+              "full_en": "the news gave me a nasty jar",
+              "full_vn": "tin đó làm tôi bực bội khó chịu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự va chạm (quyền lợi...), sự bất đồng, sự không hoà hợp (ý kiến...)"
+        },
+        {
+          "m_full_vn": "sự bất hoà, sự cãi nhau"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) sự rung, sự chấn động"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phát ra tiếng động chói tai; kêu ken két làm gai người"
+        },
+        {
+          "m_full_vn": "( + upon ) gây cảm giác khó chịu, gây bực bội",
+          "list_en_vn": [
+            {
+              "full_en": "to jar upon ear",
+              "full_vn": "gây chói tai"
+            },
+            {
+              "full_en": "to jar upon nerves",
+              "full_vn": "gây bực bội thất kinh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( + upon , against ) cọ ken két, nghiến ken két"
+        },
+        {
+          "m_full_vn": "( (thường) + with ) va chạm, xung đột, bất đồng, mâu thuẫn, không hoà hợp (quyền lợi, ý kiến...)"
+        },
+        {
+          "m_full_vn": "cãi nhau"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) rung, chấn động"
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm rung động mạnh, làm chấn động mạnh"
+        },
+        {
+          "m_full_vn": "làm kêu chói tai, làm kêu ken két gai người"
+        },
+        {
+          "m_full_vn": "làm choáng (óc), làm gai (người...), làm chói (tai...), làm bực bội, làm khó chịu (thần kinh, cân não...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450648_798f4edafa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450648_c5d406f503_o.png",
+      "id_image": "jar_1355978"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809450638_04cc73b468_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809450638_7035b088a9_o.png",
+      "id_image": "jar_1373369"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809690829_ab60a1171e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809690829_5f5aed1dfc_o.png",
+      "id_image": "jar_1676679"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809706894_5deb5d760e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809706894_2da518caa9_o.png",
+      "id_image": "jar_1676680"
+    }
+  ]
+}

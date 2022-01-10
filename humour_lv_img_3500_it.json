@@ -1,0 +1,79 @@
+{
+  "english": "humour",
+  "phat_am": "['hju:mə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự hài hước, sự hóm hỉnh",
+          "list_en_vn": [
+            {
+              "full_en": "a story full of humour",
+              "full_vn": "một câu chuyện rất hài hước, một câu chuyện rất hóm hỉnh"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "khả năng nhận thức được cái hài hước; khả năng nhận thức được cái hóm hỉnh, sự biết hài hước, sự biết đùa",
+          "list_en_vn": [
+            {
+              "full_en": "to have no sense of humour",
+              "full_vn": "không biết hài hước, không biết đùa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tính khí, tâm trạng",
+          "list_en_vn": [
+            {
+              "full_en": "to be in good humour",
+              "full_vn": "tâm trạng vui vẻ"
+            },
+            {
+              "full_en": "to be in bad humour",
+              "full_vn": "tâm trạng không được vui, bực bội; cáu gắt"
+            },
+            {
+              "full_en": "to be out of humour",
+              "full_vn": "khó chịu, bực bội, gắt gỏng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ý thích, ý thiên về",
+          "list_en_vn": [
+            {
+              "full_en": "not to be in the humour for joking",
+              "full_vn": "không thích đùa"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dịch, thể dịch (trong cơ thể)",
+          "list_en_vn": [
+            {
+              "full_en": "vitreous humour",
+              "full_vn": "dịch thuỷ tinh (trong cầu mắt)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "chiều lòng, làm vừa lòng, chiều theo (ý thích, tính khí của ai)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442943_c19523da48_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442943_481f8b1fa6_o.png",
+      "id_image": "humour_2178177"
+    }
+  ]
+}

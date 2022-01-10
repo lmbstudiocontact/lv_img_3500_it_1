@@ -1,0 +1,78 @@
+{
+  "english": "leisure",
+  "phat_am": "['leʒə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "thời gian không phải làm việc hoặc nhiệm vụ khác; thời gian rỗi",
+          "list_one_mean": [
+            {
+              "id_full_en": "marry in haste , repent at leisure",
+              "list_im": [
+                {
+                  "im_full_vn": "lập gia đình hấp tấp, ắt hối hận dài dài"
+                }
+              ]
+            },
+            {
+              "id_full_en": "at leisure",
+              "list_im": [
+                {
+                  "im_full_vn": "lúc nhàn rỗi; không vội vã; nhàn nhã",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "they're seldom at leisure",
+                      "full_vn": "hiếm khi họ nhàn rỗi"
+                    },
+                    {
+                      "full_en": "I'll take the report home and read it at leisure",
+                      "full_vn": "tôi sẽ đem báo cáo về nhà để đọc cho thong thả"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "we've been working all week without a moment's leisure",
+              "full_vn": "chúng tôi làm việc suốt cả tuần không chút rảnh rỗi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tính từ"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346126_92156c6043_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346126_137bc8da5c_o.png",
+      "id_image": "leisure_2773074"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810083565_ab7d87f383_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810083565_672d75013a_o.png",
+      "id_image": "leisure_5020564"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808391072_aae462aa19_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808391072_3510b1d9d5_o.png",
+      "id_image": "leisure_5778821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809346016_35144a243f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809346016_9eb468fd90_o.png",
+      "id_image": "leisure_6193454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809345991_50be5861f2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809345991_e162a9fb2d_o.png",
+      "id_image": "leisure_6213535"
+    }
+  ]
+}

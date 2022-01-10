@@ -1,0 +1,42 @@
+{
+  "english": "duration",
+  "phat_am": "[djuə'rei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khoảng thời gian mà một sự việc tồn tại",
+          "list_en_vn": [
+            {
+              "full_en": "for the duration of the war",
+              "full_vn": "trong thời gian chiến tranh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449793_c75500f8aa_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449793_447dec98fa_o.png",
+      "id_image": "duration_2689727"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809689804_7532ca7051_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809689804_6bb1aeb577_o.png",
+      "id_image": "duration_5116345"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810071670_6d0224cd22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810071670_3a5af12bbf_o.png",
+      "id_image": "duration_5230529"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449668_b45727e8cc_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449668_d1bfe67ae0_o.png",
+      "id_image": "duration_6182954"
+    }
+  ]
+}

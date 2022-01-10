@@ -1,0 +1,59 @@
+{
+  "english": "landslide",
+  "phat_am": "['lændslaid]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự lở đất"
+        },
+        {
+          "m_full_vn": "(chính trị) sự thắng phiếu lớn (của một đảng phái trong kỳ bầu cử)"
+        },
+        {
+          "m_full_vn": "(từ Mỹ,nghĩa Mỹ) thắng lợi long trời lở đất",
+          "list_en_vn": [
+            {
+              "full_en": "a landslide victory",
+              "full_vn": "thắng lợi long trời lở đất"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lở (như) đá rơi từ trên núi xuống"
+        },
+        {
+          "m_full_vn": "thắng phiếu lớn"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365927_71f425da51_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365927_db82fcd6c6_o.png",
+      "id_image": "landslide_286591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808365847_8976a218e9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808365847_446a625291_o.png",
+      "id_image": "landslide_3436090"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809436198_9dfa5b36da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809436198_158e2301f0_o.png",
+      "id_image": "landslide_491248"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810057730_47412df33a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810057730_28c17dc5be_o.png",
+      "id_image": "landslide_491250"
+    }
+  ]
+}

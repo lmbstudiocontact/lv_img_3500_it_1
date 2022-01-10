@@ -1,0 +1,107 @@
+{
+  "english": "learn",
+  "phat_am": "[lə:nt]",
+  "list_type": [
+    {
+      "type": "ngoại động từ learnt",
+      "list_m": [
+        {
+          "m_full_vn": "học, nghiên cứu",
+          "list_en_vn": [
+            {
+              "full_en": "to learn a foreign language",
+              "full_vn": "học một ngoại ngữ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "nghe thấy, được nghe, được biết",
+          "list_en_vn": [
+            {
+              "full_en": "to learn a piece of news from someone",
+              "full_vn": "biết tin qua ai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "học tập, học hành",
+          "list_one_mean": [
+            {
+              "id_full_en": "to learn by heart",
+              "list_im": [
+                {
+                  "im_full_vn": "học thuộc lòng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to learn by rate",
+              "list_im": [
+                {
+                  "im_full_vn": "học vẹt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to learn one's lesson",
+              "list_im": [
+                {
+                  "im_full_vn": "học được bài học đắt giá, đã hiểu được những gì nên làm hoặc không nên làm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to learn the ropes",
+              "list_im": [
+                {
+                  "im_full_vn": "nắm được mấu chốt vấn đề"
+                }
+              ]
+            },
+            {
+              "id_full_en": "we live and learn",
+              "list_im": [
+                {
+                  "im_full_vn": "quả là có sống qua thì mới biết"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "children should endeavour to learn assiduously",
+              "full_vn": "trẻ con cần phải cố gắng học hành chăm chỉ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462923_8f171e9c56_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462923_f0e3274dcc_o.png",
+      "id_image": "learn_2072720"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702704_8f9bdd7d5f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702704_db7f28af40_o.png",
+      "id_image": "learn_4861806"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809462808_e3b705f5e5_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809462808_f86e50445a_o.png",
+      "id_image": "learn_5020821"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808392847_6fd48ba876_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808392847_6aaefd8fdc_o.png",
+      "id_image": "learn_5387480"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "english": "elbow",
+  "phat_am": "[elbou]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "khuỷu tay; khuỷu tay áo",
+          "list_en_vn": [
+            {
+              "full_en": "he sat with his elbows on the table",
+              "full_vn": "anh ta ngồi chống khuỷu tay lên bàn"
+            },
+            {
+              "full_en": "a jacket patched at the elbows",
+              "full_vn": "cái áo vét tông có vá đệm ở khuỷu tay"
+            },
+            {
+              "full_en": "up to the elbows",
+              "full_vn": "đến tận khuỷu tay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "chỗ gấp khúc của cái ống, ống khói... có dạng như khuỷu tay",
+          "list_one_mean": [
+            {
+              "id_full_en": "out at elbows",
+              "list_im": [
+                {
+                  "im_full_vn": "(nói về quần áo) sờn khuỷu, thủng khuỷu tay"
+                },
+                {
+                  "im_full_vn": "(nói về người) ăn mặc xác xơ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to rub elbows with someone",
+              "list_im": [
+                {
+                  "im_full_vn": "sát cánh với ai",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "to rub elbows with death",
+                      "full_vn": "suýt chết"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give somebody the elbow",
+              "list_im": [
+                {
+                  "im_full_vn": "hất hủi ai; bỏ rơi ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "more power to somebody's elbow",
+              "list_im": [
+                {
+                  "im_full_vn": "xem power"
+                }
+              ]
+            },
+            {
+              "id_full_en": "not to know one's arse from one's elbow",
+              "list_im": [
+                {
+                  "im_full_vn": "xem know"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "thúc (bằng) khuỷu tay; hích",
+          "list_en_vn": [
+            {
+              "full_en": "to elbow someone out of the way /aside",
+              "full_vn": "hích ai sang một bên"
+            },
+            {
+              "full_en": "to elbow one's way through the crowd",
+              "full_vn": "huých khuỷu tay chen qua đám đông"
+            },
+            {
+              "full_en": "she elbowed her way forward",
+              "full_vn": "cô ta thúc khuỷu tay chen lên"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lượn khúc; uốn khúc (đường đi, sông...)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682064_4c4a0718fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682064_c51e7fb546_o.png",
+      "id_image": "elbow_2813314"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809441928_e7c2ed233e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809441928_e9df174062_o.png",
+      "id_image": "elbow_2904454"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681959_3060345540_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681959_953f545794_o.png",
+      "id_image": "elbow_5672141"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810063750_1cb2b7e56d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810063750_2e400efc52_o.png",
+      "id_image": "elbow_5726846"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "english": "kill",
+  "phat_am": "[kil]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giết, giết chết, làm chết, diệt ( (nghĩa đen) & (nghĩa bóng))",
+          "list_en_vn": [
+            {
+              "full_en": "to be killed on the spot",
+              "full_vn": "bị giết ngay tại chỗ"
+            },
+            {
+              "full_en": "to kill time",
+              "full_vn": "giết thì giờ"
+            },
+            {
+              "full_en": "to kill a colour",
+              "full_vn": "làm chết màu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "giết làm thịt (một con bò...)"
+        },
+        {
+          "m_full_vn": "tắt (máy...); làm át, làm lấp (tiếng...)",
+          "list_en_vn": [
+            {
+              "full_en": "the drums kill the string",
+              "full_vn": "tiếng trống làm át tiếng đàn dây"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm tiêu tan, làm hết (hy vọng...)"
+        },
+        {
+          "m_full_vn": "làm khỏi, trừ diệt (bệnh, đau...)"
+        },
+        {
+          "m_full_vn": "làm thất bại, làm hỏng; bác bỏ",
+          "list_en_vn": [
+            {
+              "full_en": "to kill a bill",
+              "full_vn": "bác bỏ một dự luật (ở quốc hội...)"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm phục lăn, làm choáng người, làm thích mê, làm cười vỡ bụng",
+          "list_en_vn": [
+            {
+              "full_en": "got up (dolled up , dressed ) to kill",
+              "full_vn": "diện choáng người làm cho thiên hạ phục lăn"
+            },
+            {
+              "full_en": "the story nearly killed me",
+              "full_vn": "câu chuyện làm cho tôi cười gần chết"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "gây tai hại, làm chết dở",
+          "list_en_vn": [
+            {
+              "full_en": "to kill somebody with kindness",
+              "full_vn": "vì ân cần tử tế quá mà gây tai hại cho ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thể dục,thể thao) bạt một cú quyết định (quần vợt); chận đứng (bóng đá)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) ăn mòn"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "giết thịt được",
+          "list_one_mean": [
+            {
+              "id_full_en": "to kill off",
+              "list_im": [
+                {
+                  "im_full_vn": "giết sạch, tiêu diệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kill by inches",
+              "list_im": [
+                {
+                  "im_full_vn": "giết dần, giết mòn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kill two birds with one stone",
+              "list_im": [
+                {
+                  "im_full_vn": "một công đôi việc, nhất cử lưỡng tiện"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kill the fatted calf",
+              "list_im": [
+                {
+                  "im_full_vn": "mổ lợn ăn mừng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "curiosity killed the cat",
+              "list_im": [
+                {
+                  "im_full_vn": "nói ra để thiên hạ khỏi tò mò nữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to laugh fit to kill",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ Mỹ,nghĩa Mỹ) cười vỡ bụng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to kill the goose that lays the golden eggs",
+              "list_im": [
+                {
+                  "im_full_vn": "tham lợi nhỏ trước mắt mà quên mất lợi lớn lâu dài; tham bát bỏ mâm"
+                }
+              ]
+            },
+            {
+              "id_full_en": "kill or cure",
+              "list_im": [
+                {
+                  "im_full_vn": "nhất chín nhì bù, được ăn cả, ngã về không",
+                  "list_ei_eim": [
+                    {
+                      "full_en": "a kill-or-cure plan",
+                      "full_vn": "một kế hoạch liều lĩnh"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "pigs do not kill well at that age",
+              "full_vn": "lợn vào tuổi này giết thịt chưa được tốt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự giết"
+        },
+        {
+          "m_full_vn": "thú giết được (trong cuộc đi săn)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to be in at the kill",
+              "list_im": [
+                {
+                  "im_full_vn": "có mặt đúng lúc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to go in for the kill",
+              "list_im": [
+                {
+                  "im_full_vn": "chuẩn bị giáng đòn quyết định"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808372407_90b61c8935_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808372407_5783ac5def_o.png",
+      "id_image": "kill_2456591"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809442703_66c422a8d6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809442703_cc4f0b5914_o.png",
+      "id_image": "kill_5773040"
+    }
+  ]
+}

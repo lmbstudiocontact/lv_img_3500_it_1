@@ -1,0 +1,88 @@
+{
+  "english": "fork",
+  "phat_am": "[fɔ:k]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cái nĩa (để xiên thức ăn)"
+        },
+        {
+          "m_full_vn": "cái chĩa (dùng để gảy rơm...)"
+        },
+        {
+          "m_full_vn": "(kỹ thuật) phuộc xe đạp"
+        },
+        {
+          "m_full_vn": "chạc cây"
+        },
+        {
+          "m_full_vn": "chỗ ngã ba (đường, sông)"
+        },
+        {
+          "m_full_vn": "(vật lý) thanh mẫu, âm thoa ( (cũng) tuning fork )",
+          "list_one_mean": [
+            {
+              "id_full_en": "fork of lightning",
+              "list_im": [
+                {
+                  "im_full_vn": "tia chớp chữ chi, tia chớp nhằng nhằng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "đào bằng chĩa, gảy bằng chĩa (rơm, rạ...)"
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "phân nhánh, chia ngả",
+          "list_one_mean": [
+            {
+              "id_full_en": "to fork out (over , upon )",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) trao; trả tiền, xuỳ ra"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "where the road forks",
+              "full_vn": "ở chỗ con đường chia ngã; ở chỗ ngã ba đường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315111_121f127a01_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315111_cd5fc170a6_o.png",
+      "id_image": "fork_3006739"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315086_6dba433ff6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315086_58f3294c06_o.png",
+      "id_image": "fork_4711413"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809315056_44717c9405_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809315056_049db67d0a_o.png",
+      "id_image": "fork_6332067"
+    }
+  ]
+}

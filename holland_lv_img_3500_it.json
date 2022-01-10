@@ -1,0 +1,33 @@
+{
+  "english": "holland",
+  "phat_am": "['hɔlænd]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "vải lanh Hà lan",
+          "list_en_vn": [
+            {
+              "full_en": "brown holland",
+              "full_vn": "vải lanh Hà lan chưa chuội"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) rượu trắng Hà lan"
+        },
+        {
+          "m_full_vn": "viết tắt của hope our love lasts and never dies"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809449608_5df97150b2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809449608_1fbf795955_o.png",
+      "id_image": "holland_2816879"
+    }
+  ]
+}

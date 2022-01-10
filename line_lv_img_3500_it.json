@@ -1,0 +1,478 @@
+{
+  "english": "line",
+  "phat_am": "[lain]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "dây, dây thép",
+          "list_en_vn": [
+            {
+              "full_en": "to hang the clothes on the line",
+              "full_vn": "phơi quần áo ra dây thép"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vạch đường, đường kẻ",
+          "list_en_vn": [
+            {
+              "full_en": "to draw a line",
+              "full_vn": "kẻ một đường"
+            },
+            {
+              "full_en": "a curved line",
+              "full_vn": "đường cong"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đường, tuyến",
+          "list_en_vn": [
+            {
+              "full_en": "line of sight",
+              "full_vn": "đường ngắm (súng)"
+            },
+            {
+              "full_en": "line of communication",
+              "full_vn": "đường giao thông"
+            },
+            {
+              "full_en": "a telephone line",
+              "full_vn": "đường dây điện thoại"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng, dòng (chữ); câu (thơ)",
+          "list_en_vn": [
+            {
+              "full_en": "to begin a new line",
+              "full_vn": "xuống dòng"
+            },
+            {
+              "full_en": "just a line to let someone know that",
+              "full_vn": "mấy chữ để báo cho ai biết là"
+            },
+            {
+              "full_en": "there are some beautiful lines in his poem",
+              "full_vn": "trong bài thơ của anh ta có một vài câu hay"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "hàng, bậc, lối, dãy",
+          "list_en_vn": [
+            {
+              "full_en": "to be on a line with",
+              "full_vn": "ở cùng hàng với, ngang hàng với"
+            },
+            {
+              "full_en": "to stand in a line",
+              "full_vn": "đứng sắp hàng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) đường, nét, khuôn; vết nhăn",
+          "list_en_vn": [
+            {
+              "full_en": "the lines of a ship",
+              "full_vn": "hình nét của một con tàu"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(quân sự) tuyến, phòng tuyến",
+          "list_en_vn": [
+            {
+              "full_en": "the front line",
+              "full_vn": "chiến tuyến, tuyến đầu"
+            },
+            {
+              "full_en": "a defence line",
+              "full_vn": "tuyến phòng thủ"
+            },
+            {
+              "full_en": "line of battle",
+              "full_vn": "hàng ngũ, đội ngũ; thế trận"
+            },
+            {
+              "full_en": "to go up the line",
+              "full_vn": "đi ra mặt trận"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ranh giới, giới hạn",
+          "list_en_vn": [
+            {
+              "full_en": "to draw the line somewhere",
+              "full_vn": "vạch ra một giới hạn nào đó"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "dòng, dòng dõi, dòng giống",
+          "list_en_vn": [
+            {
+              "full_en": "to come of a good line",
+              "full_vn": "con dòng cháu giống"
+            },
+            {
+              "full_en": "a line of scholars",
+              "full_vn": "một dòng học giả"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "phương châm, phương pháp, quy tắc, cách, thói, lối...",
+          "list_en_vn": [
+            {
+              "full_en": "line of conduct",
+              "full_vn": "cách ăn ở, cách cư xử"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ngành, phạm vi; chuyên môn, sở trường",
+          "list_en_vn": [
+            {
+              "full_en": "to be in the banking line",
+              "full_vn": "ở trong ngành ngân hàng"
+            },
+            {
+              "full_en": "history is his particular line",
+              "full_vn": "lịch sử là một môn sở trường của ông ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(thương nghiệp) mặt hàng, vật phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "ground-nuts are one of our export lines",
+              "full_vn": "lạc là một trong những mặt hàng xuất khẩu của ta"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( số nhiều) hoàn cảnh, tình thế; đường lối, cách tiến hành",
+          "list_en_vn": [
+            {
+              "full_en": "on the party's lines",
+              "full_vn": "theo đường lối của đảng"
+            },
+            {
+              "full_en": "I can't go on with the work on such lines",
+              "full_vn": "tôi không thể tiếp tục làm việc trong hoàn cảnh thế này"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( the line ) đường xích đạo",
+          "list_en_vn": [
+            {
+              "full_en": "to cross the Line",
+              "full_vn": "vượt qua đường xích đạo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lai (đơn vị dài bằng một phần mười hai của insơ)"
+        },
+        {
+          "m_full_vn": "(quân sự) ( the line ) quân đội chính quy"
+        },
+        {
+          "m_full_vn": "( số nhiều) giấy giá thú ( (cũng) marriage lines )"
+        },
+        {
+          "m_full_vn": "( số nhiều) (sân khấu) lời của một vai",
+          "list_one_mean": [
+            {
+              "id_full_en": "on the line",
+              "list_im": [
+                {
+                  "im_full_vn": "mập mờ ở giữa"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to fall /come into line with sb /sth",
+              "list_im": [
+                {
+                  "im_full_vn": "làm theo ai/cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to be in the firing line of sb",
+              "list_im": [
+                {
+                  "im_full_vn": "chịu sự điều khiển của ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to draw the line at sth /doing sth",
+              "list_im": [
+                {
+                  "im_full_vn": "từ chối, không chịu"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to drop somebody a line",
+              "list_im": [
+                {
+                  "im_full_vn": "viết một bức thư ngắn cho ai; để vài dòng lại cho ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the end of the line",
+              "list_im": [
+                {
+                  "im_full_vn": "mức độ quá sức chịu đựng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's line crossed",
+              "list_im": [
+                {
+                  "im_full_vn": "không thể nói chuyện bằng điện thoại vì có sự trục trặc về kỹ thuật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a line on sth",
+              "list_im": [
+                {
+                  "im_full_vn": "có thông tin về điều gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to hold the line",
+              "list_im": [
+                {
+                  "im_full_vn": "(điện thoại) cầm máy đợi"
+                }
+              ]
+            },
+            {
+              "id_full_en": "in the line of duty",
+              "list_im": [
+                {
+                  "im_full_vn": "trong khi thi hành nhiệm vụ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "the line of least resistance",
+              "list_im": [
+                {
+                  "im_full_vn": "phương thức đơn giản nhất, cách làm dễ nhất"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to shoot a line",
+              "list_im": [
+                {
+                  "im_full_vn": "nói phét, khoác lác"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to sign on the dotted line",
+              "list_im": [
+                {
+                  "im_full_vn": "ký vào dòng chấm chấm, ký vào văn bản"
+                }
+              ]
+            },
+            {
+              "id_full_en": "somewhere along the line",
+              "list_im": [
+                {
+                  "im_full_vn": "ở một giai đoạn nào đó"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay it on the line",
+              "list_im": [
+                {
+                  "im_full_vn": "nói thẳng nói thật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to step out of line",
+              "list_im": [
+                {
+                  "im_full_vn": "vi phạm nội quy, vi phạm kỷ luật"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to take a firm /hard line",
+              "list_im": [
+                {
+                  "im_full_vn": "kiên quyết, kiên định"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to give someone line enough",
+              "list_im": [
+                {
+                  "im_full_vn": "tạm dong dây cho ai, tạm buông lỏng ai (để sau theo dõi lại hoặc bắt)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to read between the lines",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) read"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to toe the line",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) toe"
+                }
+              ]
+            },
+            {
+              "id_full_en": "hook , line and sinker",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) sinker"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "vạch, kẻ thành dòng",
+          "list_en_vn": [
+            {
+              "full_en": "to line a sheet of paper",
+              "full_vn": "kẻ một tờ giấy"
+            },
+            {
+              "full_en": "to line out a stone (a piece of wood )",
+              "full_vn": "vạch một đường trên phiến đá (trên tấm gỗ) (để cưa)"
+            },
+            {
+              "full_en": "to line through",
+              "full_vn": "gạch đi, xoá đi"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm nhăn, làm cho có ngấn, làm cho có vạch",
+          "list_en_vn": [
+            {
+              "full_en": "face lined with care",
+              "full_vn": "mặt có vết nhăn vì lo lắng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sắp thành hàng dàn hàng",
+          "list_en_vn": [
+            {
+              "full_en": "to line up troops",
+              "full_vn": "sắp quân lính thành hàng ngũ"
+            },
+            {
+              "full_en": "to line out men",
+              "full_vn": "dàn quân ra"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "nội động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sắp hàng, đứng thành hàng ngũ",
+          "list_en_vn": [
+            {
+              "full_en": "to line up",
+              "full_vn": "đứng thành hàng ngũ"
+            },
+            {
+              "full_en": "to line out",
+              "full_vn": "dàn hàng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "lót",
+          "list_en_vn": [
+            {
+              "full_en": "to line a garment",
+              "full_vn": "lót một cái áo"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(nghĩa bóng) làm đầy, nhồi, nhét",
+          "list_one_mean": [
+            {
+              "id_full_en": "to line one's own pocket",
+              "list_im": [
+                {
+                  "im_full_vn": "hốt được nhiều tiền bằng cách bất chính"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "to line one's stomach",
+              "full_vn": "nhồi nhét đầy ruột, ăn no đẫy"
+            },
+            {
+              "full_en": "to line one's purse",
+              "full_vn": "nhét đầy ví"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078770_92d7f6c929_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078770_709925f72b_o.png",
+      "id_image": "line_168653"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810078725_31333847a3_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810078725_6298e26af0_o.png",
+      "id_image": "line_207014"
+    }
+  ]
+}

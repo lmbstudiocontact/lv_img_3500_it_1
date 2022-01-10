@@ -1,0 +1,36 @@
+{
+  "english": "evaluate",
+  "phat_am": "[i'væljueit]",
+  "list_type": [
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "định giá; đánh giá",
+          "list_en_vn": [
+            {
+              "full_en": "to evaluate the chances of success of a candidate",
+              "full_vn": "đánh giá các cơ hội thành công của một ứng cử viên"
+            },
+            {
+              "full_en": "I can't evaluate your ability without reading your articles",
+              "full_vn": "tôi không thể đánh giá khả năng của của anh mà không xem các bài báo của anh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668714_c9da47eae0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668714_f0061da343_o.png",
+      "id_image": "evaluate_4463296"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809668679_1b8f91f637_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809668679_e8d1830ceb_o.png",
+      "id_image": "evaluate_5252596"
+    }
+  ]
+}

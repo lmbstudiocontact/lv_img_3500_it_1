@@ -1,0 +1,35 @@
+{
+  "english": "melon",
+  "phat_am": "['melən]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "quả dưa"
+        },
+        {
+          "m_full_vn": "lời lãi; chiến lợi phẩm",
+          "list_en_vn": [
+            {
+              "full_en": "to cut a melon",
+              "full_vn": "chia lãi; chia chiến lợi phẩm"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809348231_cda5f03d7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809348231_35087cf30e_o.png",
+      "id_image": "melon_3944173"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809702924_9a66f8a755_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809702924_df47e6eabd_o.png",
+      "id_image": "melon_4480823"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "english": "interest",
+  "phat_am": "['intrəst]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "( interest in somebody / something ) sự quan tâm; sự thích thú",
+          "list_en_vn": [
+            {
+              "full_en": "a question of great interest",
+              "full_vn": "một vấn đề đáng chú ý"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sự thích thú; điều thích thú"
+        },
+        {
+          "m_full_vn": "tầm quan trọng",
+          "list_en_vn": [
+            {
+              "full_en": "a matter of great interest",
+              "full_vn": "một việc quan trọng"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "quyền lợi; lợi ích",
+          "list_en_vn": [
+            {
+              "full_en": "to do something in (to ) somebody's interest (s )",
+              "full_vn": "làm gì vì lợi ích của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "lợi tức, tiền lãi",
+          "list_en_vn": [
+            {
+              "full_en": "interest rate",
+              "full_vn": "lãi suất"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tập thể cùng chung một quyền lợi",
+          "list_one_mean": [
+            {
+              "id_full_en": "to make interest with somebody",
+              "list_im": [
+                {
+                  "im_full_vn": "dùng lợi ích cá nhân làm áp lực với ai"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "the steel interest",
+              "full_vn": "nhóm tư bản thép"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "làm cho quan tâm, làm cho chú ý, làm cho thích thú"
+        },
+        {
+          "m_full_vn": "liên quan đến, dính dáng đến",
+          "list_en_vn": [
+            {
+              "full_en": "the fight against aggression interests all peoples",
+              "full_vn": "sự đấu tranh chống xâm lược liên quan đến mọi dân tộc"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "làm tham gia",
+          "list_en_vn": [
+            {
+              "full_en": "to interest a financier in an undertaking",
+              "full_vn": "làm cho một nhà tư bản tài chính tham gia một cuộc kinh doanh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079540_201b938534_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079540_e2b670ea04_o.png",
+      "id_image": "interest_2035882"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079490_d7386c827e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079490_88aef959a6_o.png",
+      "id_image": "interest_3490218"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809456893_26272b3630_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809456893_12b33bda2c_o.png",
+      "id_image": "interest_4072807"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809342051_3e1f83bcb9_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809342051_48efd99fda_o.png",
+      "id_image": "interest_5778730"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810079405_b6bb3d0e7b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810079405_f9fda92f82_o.png",
+      "id_image": "interest_6159685"
+    }
+  ]
+}

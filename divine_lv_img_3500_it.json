@@ -1,0 +1,67 @@
+{
+  "english": "divine",
+  "phat_am": "[di'vain]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "thần thánh, thiêng liêng",
+          "list_en_vn": [
+            {
+              "full_en": "divine worship",
+              "full_vn": "sự thờ cúng thần thánh"
+            },
+            {
+              "full_en": "Divine Service",
+              "full_vn": "sự tế lễ thánh thần"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tuyệt diệu, tuyệt trần, siêu phàm",
+          "list_en_vn": [
+            {
+              "full_en": "divine beauty",
+              "full_vn": "sắc đẹp tuyệt trần"
+            },
+            {
+              "full_en": "you look simply divine , darling !",
+              "full_vn": "em yêu, trông em thật tuyệt trần!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "hiểu biết (cái gì) bằng trực giác; đoán; tiên đoán",
+          "list_en_vn": [
+            {
+              "full_en": "to divine somebody's thoughts /intentions",
+              "full_vn": "đoán biết ý nghĩ/dự định của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "tiết lộ ( điềugi giấu kín, nhất là về tương lai) bằng những cách ma thuật; bói",
+          "list_en_vn": [
+            {
+              "full_en": "astrologers claim to be able to divine what the stars hold in store for us",
+              "full_vn": "các nhà chiêm tinh tự cho là có thể xem sao mà đoán được những gì sẽ xảy ra đối với chúng ta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809427718_78cdb545d8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809427718_530c0282bf_o.png",
+      "id_image": "divine_1806453"
+    }
+  ]
+}

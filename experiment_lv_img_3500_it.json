@@ -1,0 +1,73 @@
+{
+  "english": "experiment",
+  "phat_am": "[iks'periment]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "cuộc thí nghiệm; cuộc thử nghiệm",
+          "list_en_vn": [
+            {
+              "full_en": "to perform , carry out , conduct an experiment",
+              "full_vn": "thực hiện, tiến hành một cuộc thí nghiệm"
+            },
+            {
+              "full_en": "to learn by experiment",
+              "full_vn": "học hỏi qua thử nghiệm"
+            },
+            {
+              "full_en": "the play was staged as an experiment",
+              "full_vn": "vở kịch được đưa lên sân khấu như một thử nghiệm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "động từ",
+      "list_m": [
+        {
+          "m_full_vn": "( to experiment on / upon somebody / something ) ( to experiment with something ) làm thí nghiệm",
+          "list_en_vn": [
+            {
+              "full_en": "to experiment upon animals",
+              "full_vn": "thực nghiệm trên súc vật"
+            },
+            {
+              "full_en": "to experiment with new methods",
+              "full_vn": "thực nghiệm bằng phương pháp mới"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046905_1cbbe9f01c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046905_49c1b29335_o.png",
+      "id_image": "experiment_2854718"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309961_023ba0efe6_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309961_30846838d8_o.png",
+      "id_image": "experiment_3215972"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809309921_30dee2fddb_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809309921_f5ba4e5974_o.png",
+      "id_image": "experiment_3335300"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810046885_5ec424f0d0_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810046885_23c2ff747c_o.png",
+      "id_image": "experiment_3335669"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809665219_37c44c3ef8_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809665219_5b312a0769_o.png",
+      "id_image": "experiment_710506"
+    }
+  ]
+}

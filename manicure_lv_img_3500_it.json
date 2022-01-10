@@ -1,0 +1,55 @@
+{
+  "english": "manicure",
+  "phat_am": "['mænikjuə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự cắt sửa móng tay",
+          "list_en_vn": [
+            {
+              "full_en": "to have a manicure once a week",
+              "full_vn": "mỗi tuần cắt sửa móng tay một lần"
+            },
+            {
+              "full_en": "to take a two-month course in manicure",
+              "full_vn": "học một khoá hai tháng về cách cắt sửa móng tay"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "cắt sửa móng tay cho ai",
+          "list_en_vn": [
+            {
+              "full_en": "beautifully manicured nails",
+              "full_vn": "những móng tay đã được cắt sửa đẹp đẽ"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809681069_c6fe02384d_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809681069_2db8a909db_o.png",
+      "id_image": "manicure_223963"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810062715_96de56db87_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810062715_fd7a7b442f_o.png",
+      "id_image": "manicure_224041"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809440853_eed2da1598_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809440853_241b0d7bcd_o.png",
+      "id_image": "manicure_2377422"
+    }
+  ]
+}

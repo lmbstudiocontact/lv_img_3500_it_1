@@ -1,0 +1,54 @@
+{
+  "english": "distillation",
+  "phat_am": "[,disti'lei∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "(hoá học) sự chưng cất",
+          "list_en_vn": [
+            {
+              "full_en": "vacuum distillation",
+              "full_vn": "sự cất chân không"
+            },
+            {
+              "full_en": "fractional distillation",
+              "full_vn": "sự cất phân đoạn"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "sản phẩm cất"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809314641_4ef5f50df2_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809314641_81a2aed4fe_o.png",
+      "id_image": "distillation_1484382"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808358722_5e0c094521_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808358722_785da4363d_o.png",
+      "id_image": "distillation_1486190"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809669239_c7eb0e86cf_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809669239_896157ccc4_o.png",
+      "id_image": "distillation_2933815"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429423_b74af84c77_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429423_40bbb813de_o.png",
+      "id_image": "distillation_3977864"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809429398_15a5eae92b_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809429398_83e913a0d9_o.png",
+      "id_image": "distillation_6315393"
+    }
+  ]
+}

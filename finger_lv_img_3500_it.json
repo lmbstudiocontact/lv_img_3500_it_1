@@ -1,0 +1,210 @@
+{
+  "english": "finger",
+  "phat_am": "['fiηgə]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngón tay"
+        },
+        {
+          "m_full_vn": "ngón tay bao găng"
+        },
+        {
+          "m_full_vn": "vật hình ngón tay (trong máy...)",
+          "list_one_mean": [
+            {
+              "id_full_en": "to get one's fingers burnt",
+              "list_im": [
+                {
+                  "im_full_vn": "bị thất thế, bị thua thiệt"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to cross one's fingers",
+              "list_im": [
+                {
+                  "im_full_vn": "hy vọng"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to pull one's fingers out",
+              "list_im": [
+                {
+                  "im_full_vn": "làm khẩn trương hơn"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to let something slip through one's fingers",
+              "list_im": [
+                {
+                  "im_full_vn": "buông lỏng cái gì"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lay a finger on",
+              "list_im": [
+                {
+                  "im_full_vn": "sờ vào, mó vào"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to snap one's finger",
+              "list_im": [
+                {
+                  "im_full_vn": "búng ngón tay tách tách"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to lift (stir ) a finger",
+              "list_im": [
+                {
+                  "im_full_vn": "nhích ngón tay (là được)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to look through one's fingers at",
+              "list_im": [
+                {
+                  "im_full_vn": "vờ không trông thấy"
+                }
+              ]
+            },
+            {
+              "id_full_en": "my fingers itch",
+              "list_im": [
+                {
+                  "im_full_vn": "tôi sốt ruột, tôi nóng lòng (muốn làm cái gì)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "his fingers are all thumbs",
+              "list_im": [
+                {
+                  "im_full_vn": "(xem) thumbs"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to put one's finger on",
+              "list_im": [
+                {
+                  "im_full_vn": "vạch đúng (những cái gì sai trái)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to turn (twist ) someone round one's finger",
+              "list_im": [
+                {
+                  "im_full_vn": "mơn trớn ai"
+                }
+              ]
+            },
+            {
+              "id_full_en": "with a wet finger",
+              "list_im": [
+                {
+                  "im_full_vn": "dễ dàng, thoải mái"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have a finger in every pie",
+              "list_im": [
+                {
+                  "im_full_vn": "có liên can (dính líu)"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to have one's fingers in the till",
+              "list_im": [
+                {
+                  "im_full_vn": "thụt két, biển thủ công quỹ"
+                }
+              ]
+            },
+            {
+              "id_full_en": "to work one's fingers to the bone",
+              "list_im": [
+                {
+                  "im_full_vn": "cật lực làm việc"
+                }
+              ]
+            },
+            {
+              "id_full_en": "sticky fingers",
+              "list_im": [
+                {
+                  "im_full_vn": "nhám tay, hay ăn cắp vặt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "ngoại động từ",
+      "list_m": [
+        {
+          "m_full_vn": "sờ mó",
+          "list_en_vn": [
+            {
+              "full_en": "to finger a piece of cloth",
+              "full_vn": "sờ xem một tấm vải"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ăn tiền, ăn hối lộ",
+          "list_en_vn": [
+            {
+              "full_en": "to finger someone's money",
+              "full_vn": "ăn tiền của ai"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "đánh (đàn); búng (dây đàn bằng ngón tay)",
+          "list_en_vn": [
+            {
+              "full_en": "to finger the piano",
+              "full_vn": "đánh pianô"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "ghi cách sử dụng các ngón tay (vào bản nhạc)"
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810064180_3d7a6fc52a_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810064180_4b6dcfe11c_o.png",
+      "id_image": "finger_3858900"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682554_0b4c5a2055_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682554_798c2bb730_o.png",
+      "id_image": "finger_4151508"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809682499_963922fede_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809682499_6ce368c5c8_o.png",
+      "id_image": "finger_4636975"
+    }
+  ]
+}

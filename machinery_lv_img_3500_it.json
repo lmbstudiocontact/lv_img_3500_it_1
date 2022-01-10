@@ -1,0 +1,64 @@
+{
+  "english": "machinery",
+  "phat_am": "[mə'∫i:nəri]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "các bộ phận chuyển động (của một cái máy); cơ cấu; máy móc",
+          "list_en_vn": [
+            {
+              "full_en": "the machinery of a clock",
+              "full_vn": "máy móc của một cái đồng hồ"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "máy móc nói chung",
+          "list_en_vn": [
+            {
+              "full_en": "much new machinery has been installed",
+              "full_vn": "người ta đã lắp đặt nhiều máy mới"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "( machine of something / for doing something ) (nghĩa bóng) tổ chức hoặc cơ cấu (của cái gì/để làm việc gì); bộ máy; thể chế",
+          "list_en_vn": [
+            {
+              "full_en": "the machinery of government",
+              "full_vn": "bộ máy chính quyền; bộ máy nhà nước"
+            },
+            {
+              "full_en": "we've no machinery for dealing with complaints",
+              "full_vn": "chúng ta không có bộ máy để giải quyết đơn khiếu nại"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375807_4a87be524c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375807_6a64f4ce87_o.png",
+      "id_image": "machinery_2761086"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810067850_60b6247a30_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810067850_ae3dab0153_o.png",
+      "id_image": "machinery_4646936"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375722_2c6c7e4e3f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375722_c6166dd3a3_o.png",
+      "id_image": "machinery_4668487"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808375847_25bb36ee3c_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808375847_71c62e9f84_o.png",
+      "id_image": "machinery_566145"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "english": "glace",
+  "phat_am": "['glæsei]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "ngâm đường",
+          "list_en_vn": [
+            {
+              "full_en": "glace lemons",
+              "full_vn": "chanh ngâm đường"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809332076_544d4ed1da_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809332076_86d2038b5f_o.png",
+      "id_image": "glace_6411130"
+    }
+  ]
+}

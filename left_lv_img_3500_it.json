@@ -1,0 +1,116 @@
+{
+  "english": "left",
+  "phat_am": "[left]",
+  "list_type": [
+    {
+      "type": "tính từ",
+      "list_m": [
+        {
+          "m_full_vn": "trái; tả",
+          "list_one_mean": [
+            {
+              "id_full_en": "to have two left feet",
+              "list_im": [
+                {
+                  "im_full_vn": "vụng về quá sức tưởng tượng"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "left wing",
+              "full_vn": "(quân sự) cánh tả"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "phó từ",
+      "list_m": [
+        {
+          "m_full_vn": "về phía trái, về phía tả",
+          "list_one_mean": [
+            {
+              "id_full_en": "right and left",
+              "list_im": [
+                {
+                  "im_full_vn": "bốn phương tám hướng, khắp mọi ngõ ngách"
+                }
+              ]
+            }
+          ],
+          "list_en_vn": [
+            {
+              "full_en": "left face !; left turn !",
+              "full_vn": "(quân sự) quay trái quay"
+            },
+            {
+              "full_en": "to turn left",
+              "full_vn": "quay về về phía trái, rẽ trái"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "phía trái, phía tả",
+          "list_en_vn": [
+            {
+              "full_en": "to turn to the left",
+              "full_vn": "rẽ về phía tay trái"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "(chính trị) ( Left ) phái tả"
+        },
+        {
+          "m_full_vn": "cú đấm bằng tay trái"
+        },
+        {
+          "m_full_vn": "(quân sự) cánh tả",
+          "list_one_mean": [
+            {
+              "id_full_en": "over the left",
+              "list_im": [
+                {
+                  "im_full_vn": "(từ lóng) phải hiểu ngược lại, phải hiểu trái lại"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "thời quá khứ & động tính từ quá khứ của leave"
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084295_8202139b1f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084295_39cc5c3038_o.png",
+      "id_image": "left_1655261"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809701739_007bd251ea_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809701739_388e95bf6d_o.png",
+      "id_image": "left_2456161"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809461643_d8e9de0055_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809461643_558bea97a3_o.png",
+      "id_image": "left_2456898"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51810084215_52defcfd72_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51810084215_8478421dc6_o.png",
+      "id_image": "left_5458283"
+    }
+  ]
+}

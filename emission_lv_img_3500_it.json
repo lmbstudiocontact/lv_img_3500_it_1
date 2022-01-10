@@ -1,0 +1,51 @@
+{
+  "english": "emission",
+  "phat_am": "[i'mi∫n]",
+  "list_type": [
+    {
+      "type": "danh từ",
+      "list_m": [
+        {
+          "m_full_vn": "sự phát ra (ánh sáng, nhiệt...); sự bốc ra/toả ra (mùi vị, hơi...)",
+          "list_en_vn": [
+            {
+              "full_en": "the emission of light from the sun",
+              "full_vn": "ánh sáng từ mặt trời phát ra"
+            }
+          ]
+        },
+        {
+          "m_full_vn": "vật phát ra hoặc bốc ra",
+          "list_en_vn": [
+            {
+              "full_en": "a nocturnal emission",
+              "full_vn": "sự xuất tinh ban đêm (trong khi ngủ); chứng mộng tinh"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_img": [
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51809676814_15db6bc6fd_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51809676814_d8dfe6e715_o.png",
+      "id_image": "emission_1619241"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366627_2a34e8d79e_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366627_e9de1f6265_o.png",
+      "id_image": "emission_1890044"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366592_e87f240d22_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366592_a4f485ff69_o.png",
+      "id_image": "emission_1998706"
+    },
+    {
+      "link_thumb": "https://live.staticflickr.com/65535/51808366542_7c1337389f_n.jpg",
+      "link_img": "https://live.staticflickr.com/65535/51808366542_e82dc795fd_o.png",
+      "id_image": "emission_3211836"
+    }
+  ]
+}
